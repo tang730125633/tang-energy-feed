@@ -12,11 +12,17 @@
 #
 # Called by launchd/cron at 10:30 daily, or manually for testing.
 #
+# DUAL-MODE DELIVERY (Step 6):
+#   - LOCAL mode: uses lark-cli (if installed and LARK_APP_ID not set in env)
+#   - CI mode:    uses scripts/send_lark.py (Python + stdlib, no lark-cli dep)
+#                 Triggered when LARK_APP_ID + LARK_APP_SECRET + FEISHU_CHAT_ID
+#                 are all set in the environment (typically via GitHub secrets).
+#
 # Exit codes:
 #   0 = success (report sent)
 #   1 = user error (bad config, missing API key)
 #   2 = upstream failure (feed empty / LLM down)
-#   3 = downstream failure (lark-cli send failed)
+#   3 = downstream failure (lark send failed)
 
 set -euo pipefail
 
@@ -118,23 +124,41 @@ python3 scripts/ai_remix.py "$CONFIG" "$TMP_DIR/candidates.json" > "$TMP_DIR/inp
 }
 
 # -----------------------------------------------------------------------------
-# Step 6: Build Card + Deliver
+# Step 6: Build Card + Deliver (dual-mode)
 # -----------------------------------------------------------------------------
 echo ""
 echo "▸ Step 6/6: Build card + deliver"
 python3 scripts/build_card.py "$TMP_DIR/input.json" > "$TMP_DIR/card.json"
 
-lark-cli im +messages-send \
-  --chat-id "$CHAT_ID" \
-  --as bot \
-  --msg-type interactive \
-  --content "$(cat "$TMP_DIR/card.json")" > "$TMP_DIR/send_result.json" || {
-  echo "✗ Lark send failed" >&2
-  cat "$TMP_DIR/send_result.json" >&2 2>/dev/null || true
-  exit 3
-}
+# Decide which sender to use:
+#   CI mode:    LARK_APP_ID + LARK_APP_SECRET + FEISHU_CHAT_ID in env
+#               → use scripts/send_lark.py (zero dep, stdlib only)
+#   Local mode: lark-cli is installed and those env vars are NOT set
+#               → use lark-cli (nicer local dev experience)
+if [ -n "${LARK_APP_ID:-}" ] && [ -n "${LARK_APP_SECRET:-}" ] && [ -n "${FEISHU_CHAT_ID:-}" ]; then
+  echo "  → CI mode: sending via scripts/send_lark.py (stdlib, zero dep)"
+  python3 scripts/send_lark.py "$TMP_DIR/card.json" || {
+    echo "✗ send_lark.py failed" >&2
+    exit 3
+  }
+  echo ""
+  echo "┌────────────────────────────────────────────────┐"
+  echo "│  ✅ Daily report delivered (CI mode)            │"
+  echo "│  timestamp:  $(timestamp)"
+  echo "└────────────────────────────────────────────────┘"
+elif command -v lark-cli >/dev/null 2>&1; then
+  echo "  → Local mode: sending via lark-cli"
+  lark-cli im +messages-send \
+    --chat-id "$CHAT_ID" \
+    --as bot \
+    --msg-type interactive \
+    --content "$(cat "$TMP_DIR/card.json")" > "$TMP_DIR/send_result.json" || {
+    echo "✗ lark-cli send failed" >&2
+    cat "$TMP_DIR/send_result.json" >&2 2>/dev/null || true
+    exit 3
+  }
 
-MESSAGE_ID=$(python3 -c "
+  MESSAGE_ID=$(python3 -c "
 import json
 try:
     d = json.load(open('$TMP_DIR/send_result.json'))
@@ -143,9 +167,15 @@ except Exception:
     print('unknown')
 ")
 
-echo ""
-echo "┌────────────────────────────────────────────────┐"
-echo "│  ✅ Daily report delivered                      │"
-echo "│  message_id: $MESSAGE_ID"
-echo "│  timestamp:  $(timestamp)"
-echo "└────────────────────────────────────────────────┘"
+  echo ""
+  echo "┌────────────────────────────────────────────────┐"
+  echo "│  ✅ Daily report delivered (Local mode)         │"
+  echo "│  message_id: $MESSAGE_ID"
+  echo "│  timestamp:  $(timestamp)"
+  echo "└────────────────────────────────────────────────┘"
+else
+  echo "✗ No sender available." >&2
+  echo "  Local mode needs lark-cli installed (npm install -g @larksuite/cli)." >&2
+  echo "  CI mode needs env vars: LARK_APP_ID, LARK_APP_SECRET, FEISHU_CHAT_ID." >&2
+  exit 3
+fi
