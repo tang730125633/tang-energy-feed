@@ -1,0 +1,20 @@
+{
+  "_comment_1": "Copy this file to config.json and fill in your real values.",
+  "_comment_2": "DO NOT commit config.json to git — add it to .gitignore.",
+
+  "feed_url": "https://raw.githubusercontent.com/tang730125633/tang-energy-feed/main/feed/feed-digest.json",
+
+  "_feed_url_offline_note": "For offline testing, use a local path: /path/to/feed-digest.json",
+
+  "feishu": {
+    "chat_id": "oc_REPLACE_WITH_YOUR_GROUP_CHAT_ID",
+    "identity": "bot",
+
+    "_chat_id_howto": "Run: lark-cli im chats list --as bot  — copy the oc_xxx ID of your target group",
+    "_identity_rule": "Must be 'bot'. Never change to 'user'."
+  },
+
+  "lookback_hours": 48,
+
+  "_lookback_note": "How far back to consider articles when classifying. 48h is reasonable for daily reports."
+}

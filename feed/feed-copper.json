@@ -1,0 +1,20 @@
+{
+  "source": "cjys.net",
+  "sourceName": "长江有色金属现货报价",
+  "generatedAt": "2026-04-10T19:25:30+00:00",
+  "copper": {
+    "mean_price": "98,440 元/吨",
+    "change": "+710 元/吨 ↑",
+    "price_range": "98,420-98,460 元/吨",
+    "brand": "贵冶、江铜、鲁方等",
+    "date": "2026-04-10",
+    "raw": {
+      "low": "98420",
+      "high": "98460",
+      "mean": "98440",
+      "change": "↑710",
+      "unit": "元/吨"
+    }
+  },
+  "errors": []
+}

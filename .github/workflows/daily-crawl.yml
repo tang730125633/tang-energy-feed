@@ -1,0 +1,64 @@
+name: Daily Energy Feed
+
+# Run every day at 22:00 UTC = 06:00 Beijing time.
+# Also allow manual trigger from the GitHub Actions UI for testing.
+on:
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+# Grant the workflow write access to the repo so it can commit the feed.
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r crawlers/requirements.txt
+
+      # Each crawler writes to its own feed file. The `|| echo` fallback
+      # guarantees a valid (empty) feed even if the crawler crashes —
+      # the aggregate step depends on every feed-*.json being valid JSON.
+      - name: Crawl cpnn
+        run: python3 crawlers/cpnn.py > feed/feed-cpnn.json
+
+      - name: Crawl nea
+        run: python3 crawlers/nea.py > feed/feed-nea.json
+
+      - name: Crawl copper
+        run: python3 crawlers/copper.py > feed/feed-copper.json
+
+      - name: Crawl bjx (known WAF, outputs empty feed)
+        run: python3 crawlers/bjx.py > feed/feed-bjx.json
+
+      - name: Aggregate into feed-digest.json
+        run: python3 crawlers/aggregate.py feed/ > feed/feed-digest.json
+
+      - name: Show feed sizes
+        run: |
+          ls -la feed/
+          echo "--- digest stats ---"
+          python3 -c "import json; d=json.load(open('feed/feed-digest.json')); print(f\"articles: {d['stats']['totalArticles']}\"); print(f\"by source: {d['stats']['bySource']}\"); print(f\"copper: {'yes' if d.get('copper') else 'no'}\"); print(f\"errors: {len(d.get('errors', []))}\")"
+
+      - name: Commit and push if feed changed
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feed/
+          if git diff --staged --quiet; then
+            echo "No feed changes to commit."
+          else
+            git commit -m "chore(feed): $(date -u +'%Y-%m-%d %H:%M UTC') update"
+            git push
+          fi

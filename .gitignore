@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# -----------------------------------------------------------------------------
+# ⭐ config.json contains your chat_id and AI config — NEVER commit it.
+# The template (config.example.json) IS committed; your filled copy is not.
+# -----------------------------------------------------------------------------
+config.json
+
+# -----------------------------------------------------------------------------
+# Do NOT gitignore feed/ — the whole point is that feed output is committed.
+# If you see the feed-bot overwriting unrelated files, investigate; don't .gitignore.
+# -----------------------------------------------------------------------------
+
+# Local test artifacts
+/tmp_local/
+*.log
+
+# Never commit raw credentials (belt + suspenders — API keys should be in
+# environment variables, NEVER in files, but just in case).
+.env
+.env.*
+*.key
+*.pem
+credentials.json

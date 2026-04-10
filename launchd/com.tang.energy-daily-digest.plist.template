@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  launchd template for energy-daily-digest.
+
+  Usage: do not load this template directly. setup.sh will substitute
+  __REPO_ROOT__ with the actual repo path and install it to
+  ~/Library/LaunchAgents/com.tang.energy-daily-digest.plist
+
+  Schedule: every day at 10:30 local time
+  Logs: /tmp/energy-daily-digest.log
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.tang.energy-daily-digest</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>-l</string>
+        <string>__REPO_ROOT__/scripts/run.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>__REPO_ROOT__</string>
+
+    <!--
+      StartCalendarInterval: 10:30 local time every day.
+      launchd reads this as local time (not UTC), so no TZ conversion needed.
+    -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>10</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/energy-daily-digest.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/tmp/energy-daily-digest.err</string>
+
+    <!--
+      Don't run at load time — only on schedule. If you want to test,
+      run bash scripts/run.sh manually instead.
+    -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!--
+      Inherit a reasonable PATH so python3, lark-cli, etc. are findable.
+      launchd starts with a minimal PATH; we add the common locations.
+      Using /bin/bash -l above also sources login files which helps.
+    -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+
+    <!--
+      If run.sh exits non-zero, don't retry. The log will show the error.
+      A failed run just means no early report today; tomorrow's run is fresh.
+    -->
+    <key>ExitTimeOut</key>
+    <integer>120</integer>
+</dict>
+</plist>
