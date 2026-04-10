@@ -1,20 +1,43 @@
 name: Daily Energy Feed
 
 # Run every day at 22:00 UTC = 06:00 Beijing time.
-# Also allow manual trigger from the GitHub Actions UI for testing.
+#
+# This workflow handles the direct-scrape sources (no JS challenge):
+#   - cpnn.com.cn  (电网头条)
+#   - nea.gov.cn   (国家能源局)
+#   - cjys.net     (long-river copper price)
+#   - iesplaza.com (综合能源服务网 — Day 2 addition)
+#
+# The JS-challenge sources (bjx.com.cn, ne21.com) live in a SEPARATE
+# workflow: .github/workflows/bjx-crawl.yml, which runs 1 hour earlier
+# at 05:00 BJT using Playwright. Its results (feed-bjx.json, feed-ne21.json)
+# are already committed to main by the time this workflow's aggregate
+# step runs, so they'll be picked up automatically.
+#
+# Post-processing chain (Week 2 + Week 3 additions):
+#   1. fetch all sources
+#   2. aggregate into feed-digest.json + feed-central-energy.json
+#   3. enrich summaries (fetch detail pages for top articles)
+#   4. quality check (fail + notify if stats.totalArticles is too low)
+#   5. commit + push
+
 on:
   schedule:
     - cron: '0 22 * * *'
   workflow_dispatch:
 
-# Grant the workflow write access to the repo so it can commit the feed.
 permissions:
   contents: write
+
+# Avoid concurrent runs that would race on feed/*.json commits
+concurrency:
+  group: daily-crawl
+  cancel-in-progress: false
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -27,29 +50,75 @@ jobs:
       - name: Install dependencies
         run: pip install -r crawlers/requirements.txt
 
-      # Each crawler writes to its own feed file. The `|| echo` fallback
-      # guarantees a valid (empty) feed even if the crawler crashes —
-      # the aggregate step depends on every feed-*.json being valid JSON.
-      - name: Crawl cpnn
+      # --- Direct-scrape crawlers (run in parallel conceptually but
+      # serially in a single step for simplicity; each crawler is <2s) ---
+
+      - name: Crawl cpnn (电网头条)
         run: python3 crawlers/cpnn.py > feed/feed-cpnn.json
 
-      - name: Crawl nea
+      - name: Crawl nea (国家能源局)
         run: python3 crawlers/nea.py > feed/feed-nea.json
 
-      - name: Crawl copper
+      - name: Crawl copper (长江铜价)
         run: python3 crawlers/copper.py > feed/feed-copper.json
 
-      - name: Crawl bjx (known WAF, outputs empty feed)
-        run: python3 crawlers/bjx.py > feed/feed-bjx.json
+      - name: Crawl iesplaza (综合能源服务网) [Day 2]
+        run: python3 crawlers/iesplaza.py > feed/feed-iesplaza.json
 
-      - name: Aggregate into feed-digest.json
+      # --- JS-challenge crawlers: write placeholder if bjx-crawl.yml
+      # hasn't created them yet. Normally the Playwright workflow runs
+      # 1 hour before this one and the files already exist. ---
+
+      - name: Ensure feed-bjx.json exists (placeholder if playwright workflow hasn't run)
+        run: |
+          if [ ! -f feed/feed-bjx.json ]; then
+            python3 crawlers/bjx.py > feed/feed-bjx.json
+          fi
+
+      - name: Ensure feed-ne21.json exists (placeholder)
+        run: |
+          if [ ! -f feed/feed-ne21.json ]; then
+            python3 crawlers/ne21.py > feed/feed-ne21.json
+          fi
+
+      # --- Aggregate into feed-digest.json + feed-central-energy.json ---
+
+      - name: "Aggregate (Month 2 — also produces feed-central-energy.json)"
         run: python3 crawlers/aggregate.py feed/ > feed/feed-digest.json
 
-      - name: Show feed sizes
+      # --- Week 2: fetch detail pages to fill in summaries ---
+
+      - name: Enrich summaries [Week 2]
+        run: python3 crawlers/enrich_summaries.py feed/feed-digest.json
+        continue-on-error: true  # Best-effort; never block the pipeline
+
+      # --- Quality check (extracted to separate script to avoid YAML heredoc issues) ---
+
+      - name: Quality check
+        id: quality
+        run: bash scripts/quality_check.sh feed/feed-digest.json
+        continue-on-error: true
+
+      # --- Week 3: notify on quality issues ---
+
+      - name: Notify on low quality [Week 3]
+        if: steps.quality.outcome == 'failure'
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          LARK_WEBHOOK_URL: ${{ secrets.LARK_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          ls -la feed/
-          echo "--- digest stats ---"
-          python3 -c "import json; d=json.load(open('feed/feed-digest.json')); print(f\"articles: {d['stats']['totalArticles']}\"); print(f\"by source: {d['stats']['bySource']}\"); print(f\"copper: {'yes' if d.get('copper') else 'no'}\"); print(f\"errors: {len(d.get('errors', []))}\")"
+          bash scripts/notify.sh \
+            "tang-energy-feed quality warning" \
+            "Today's crawl produced a low-quality feed. Check the workflow log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        continue-on-error: true
+
+      # --- Show final stats (always run, via separate script) ---
+
+      - name: Show final stats
+        run: bash scripts/show_stats.sh
+
+      # --- Commit and push if the feed changed ---
 
       - name: Commit and push if feed changed
         run: |
@@ -59,6 +128,24 @@ jobs:
           if git diff --staged --quiet; then
             echo "No feed changes to commit."
           else
-            git commit -m "chore(feed): $(date -u +'%Y-%m-%d %H:%M UTC') update"
+            git commit -m "chore(feed): daily update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # Rebase-and-push pattern: the bjx-crawl workflow may have
+            # pushed feed-bjx.json / feed-ne21.json between our checkout
+            # and our push, so pull-rebase before pushing.
+            git pull --rebase origin main || true
             git push
           fi
+
+      # --- Notify on total pipeline failure ---
+
+      - name: Notify on pipeline failure
+        if: failure()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          LARK_WEBHOOK_URL: ${{ secrets.LARK_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          bash scripts/notify.sh \
+            "tang-energy-feed CRAWL FAILED" \
+            "Daily crawl workflow failed entirely. Investigate: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        continue-on-error: true

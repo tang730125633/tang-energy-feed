@@ -68,31 +68,42 @@ cd tang-energy-feed
 
 ## 🔗 订阅 URL（消费端用这个）
 
-**聚合 feed（推荐）**：
+**聚合 feed（推荐，所有消费者用这个）**：
 ```
 https://raw.githubusercontent.com/tang730125633/tang-energy-feed/main/feed/feed-digest.json
 ```
 
+**中部能源专题**（只关心湖北/湖南/河南/江西/安徽）：
+```
+https://raw.githubusercontent.com/tang730125633/tang-energy-feed/main/feed/feed-central-energy.json
+```
+
 **单源 feed**（按需）：
 ```
-.../feed/feed-cpnn.json    电网头条
-.../feed/feed-nea.json     国家能源局
-.../feed/feed-copper.json  长江铜价
-.../feed/feed-bjx.json     北极星电力网（目前 WAF 受阻）
+.../feed/feed-cpnn.json      电网头条
+.../feed/feed-nea.json       国家能源局
+.../feed/feed-iesplaza.json  IESPlaza 综合能源  ← Day 2 新增
+.../feed/feed-ne21.json      世纪新能源网       ← Day 2 新增
+.../feed/feed-bjx.json       北极星电力网       ← Day 3 Playwright 产出
+.../feed/feed-copper.json    长江铜价
 ```
 
 **零 API、零认证、全球 CDN**。任何 AI / 脚本 / 程序都可以直接拉。
 
 ---
 
-## 📊 数据源状态
+## 📊 数据源状态（2026-04-11 实测）
 
-| 源 | URL | 状态 | 说明 |
-|---|---|---|---|
-| 电网头条 | cpnn.com.cn | ✅ 主力 | 国家电网官媒，~65 articles/day |
-| 国家能源局 | nea.gov.cn | ✅ 政策 | 官方源，~48 articles/day |
-| 长江铜价 | cjys.net | ✅ 稳定 | 明文 HTML 表格 |
-| 北极星电力网 | bjx.com.cn | ⚠️ 受阻 | Aliyun WAF，Day 2+ 用 playwright 解决 |
+| 源 | URL | 状态 | 爬虫方式 | 说明 |
+|---|---|---|---|---|
+| 电网头条 | cpnn.com.cn | ✅ 主力 | 直爬 | 国家电网官媒，~65 articles/day |
+| 国家能源局 | nea.gov.cn | ✅ 政策 | 直爬 | 官方源，~48 articles/day |
+| IESPlaza 综合能源 | iesplaza.com | ✅ 主力 | 直爬（带重试） | **Day 2 新增**，综合能源/VPP，~112 articles/day |
+| 世纪新能源网 | ne21.com | ✅ 垂直 | 直爬（完整 headers） | **Day 2 新增**，光伏/风电/储能 |
+| 长江铜价 | cjys.net | ✅ 稳定 | 直爬 | 明文 HTML 表格 |
+| 北极星电力网 | bjx.com.cn | ⚠️ Playwright | JS 反爬 | **Day 3**：独立 workflow + Chromium bypass |
+
+**当前 feed 规模**：单日 ~230 篇去重文章 + 铜价 + 中部能源 21 篇
 
 ---
 
@@ -170,12 +181,13 @@ cd tang-energy-feed && ./scripts/setup.sh
 
 - [x] **Day 1**：cpnn + nea + copper 三源直爬跑通；本地端到端测试通过
 - [x] **Day 1**：消费端 Skill 包（scripts + prompts + setup.sh）对齐 follow-builders
-- [ ] **Day 2**：修 bjx WAF（playwright 独立 workflow）
-- [ ] **Day 3**：加定时任务 + 给首个订阅者交付
-- [ ] **Week 2**：补 ne21.com、iesplaza.com 两个垂直源
-- [ ] **Week 3**：详情页抓取，给 feed 加 `summary` 字段
-- [ ] **Month 2**：中部能源专题 feed（湖北/湖南/河南/江西/安徽）
+- [x] **Day 2**：iesplaza + ne21 两个垂直源（单日 feed 从 113 → 230 篇）
+- [x] **Day 3**：Playwright 独立 workflow（bjx-crawl.yml）处理 bjx 的 Aliyun WAF
+- [x] **Week 2**：`enrich_summaries.py` 抓取详情页提取真实 summary（避开站内 boilerplate）
+- [x] **Week 3**：Slack / Discord / 飞书机器人通知 + quality check 阈值告警
+- [x] **Month 2**：`feed-central-energy.json` 中部能源专题 feed（湖北/湖南/河南/江西/安徽/华中）
 - [ ] **Month 3**：英文 README + 国际推广
+- [ ] **Future**：详情页 summary 扩展到所有源（当前只做 top 30 articles/day，runtime budget 5min）
 
 ---
 

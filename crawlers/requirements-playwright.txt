@@ -1,0 +1,5 @@
+# Dependencies for the standalone Playwright crawlers (bjx + ne21).
+# Only installed in .github/workflows/bjx-crawl.yml, not in the main
+# daily-crawl workflow — Playwright is slow and heavy.
+
+playwright==1.48.0

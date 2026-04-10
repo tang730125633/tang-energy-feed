@@ -8,6 +8,8 @@ Design principles (learned from follow-builders):
    when, how many articles, and what errors (if any) happened.
 3. **No credentials** — crawlers only hit public pages. Never put API keys
    or tokens in this repo.
+4. **Retry-friendly** — transient 404/5xx is common for Chinese news sites;
+   fetch_html retries a couple of times before giving up.
 """
 
 from __future__ import annotations
@@ -17,6 +19,7 @@ import html as html_module
 import json
 import re
 import sys
+import time
 from typing import Any
 
 import requests
@@ -39,30 +42,69 @@ def utc_now_iso() -> str:
     return dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
 
 
-def fetch_html(url: str, timeout: int = 20) -> str:
-    """Fetch a URL and return decoded HTML. Raises on HTTP error.
+def fetch_html(url: str, timeout: int = 20, retries: int = 2) -> str:
+    """Fetch a URL and return decoded HTML.
+
+    Retries on transient failures (404, 429, 5xx) up to `retries` times with
+    exponential backoff. Raises requests.HTTPError on final failure.
 
     Most Chinese news sites serve GB2312/GBK — requests' auto-detection
     handles this via apparent_encoding, but we force UTF-8 first and
     fall back only if we see replacement characters.
     """
-    resp = requests.get(url, headers=DEFAULT_HEADERS, timeout=timeout)
-    resp.raise_for_status()
-    # Try UTF-8 first; if that fails, let requests auto-detect
-    resp.encoding = "utf-8"
-    text = resp.text
-    if "\ufffd" in text[:2000]:
-        resp.encoding = resp.apparent_encoding
-        text = resp.text
-    return text
+    last_error: Exception | None = None
+
+    for attempt in range(retries + 1):
+        try:
+            resp = requests.get(
+                url,
+                headers={**DEFAULT_HEADERS, "Referer": url},
+                timeout=timeout,
+            )
+            # Transient statuses worth retrying
+            if resp.status_code in (404, 429, 500, 502, 503, 504):
+                if attempt < retries:
+                    backoff = 2 ** attempt  # 1s, 2s, 4s
+                    print(
+                        f"  ⏳ {url}: HTTP {resp.status_code}, "
+                        f"retrying in {backoff}s (attempt {attempt + 1}/{retries + 1})",
+                        file=sys.stderr,
+                    )
+                    time.sleep(backoff)
+                    continue
+            resp.raise_for_status()
+
+            # Try UTF-8 first; if that fails, let requests auto-detect
+            resp.encoding = "utf-8"
+            text = resp.text
+            if "\ufffd" in text[:2000]:
+                resp.encoding = resp.apparent_encoding
+                text = resp.text
+            return text
+
+        except (requests.ConnectionError, requests.Timeout) as e:
+            last_error = e
+            if attempt < retries:
+                backoff = 2 ** attempt
+                print(
+                    f"  ⏳ {url}: {type(e).__name__}, retrying in {backoff}s",
+                    file=sys.stderr,
+                )
+                time.sleep(backoff)
+                continue
+            raise
+
+    # Shouldn't reach here, but just in case
+    if last_error:
+        raise last_error
+    raise RuntimeError(f"fetch_html exhausted retries for {url}")
 
 
 def detect_waf(html: str) -> str | None:
     """Detect common Chinese CDN WAF challenge pages.
 
     Returns a short reason string if blocked, or None if the HTML looks
-    like real content. bjx.com.cn sits behind Aliyun WAF which returns a
-    JavaScript challenge page; direct GET won't work without a browser.
+    like real content.
     """
     markers = [
         ("aliyunwaf", "Aliyun WAF JS challenge"),
@@ -74,6 +116,11 @@ def detect_waf(html: str) -> str | None:
     for marker, reason in markers:
         if marker in head:
             return reason
+
+    # ne21-style JS redirect shell (tiny HTML with window.location.href)
+    if len(html) < 500 and "window.location.href" in html:
+        return "JS redirect challenge (small shell page)"
+
     return None
 
 
@@ -105,8 +152,6 @@ def within_lookback(iso_date: str | None, lookback_hours: int) -> bool:
         d = dt.date.fromisoformat(iso_date)
     except ValueError:
         return True
-    cutoff = dt.date.today() - dt.timedelta(hours=lookback_hours, days=0)
-    # simple day-level comparison — sufficient for daily feeds
     return d >= (dt.date.today() - dt.timedelta(days=max(1, lookback_hours // 24)))
 
 

@@ -170,16 +170,23 @@ tang-energy-feed/                         ← 根目录
 ├── .gitignore                            ← 注意：排除 config.json（含 chat_id）
 │
 ├── .github/workflows/
-│   └── daily-crawl.yml                   ← GitHub Actions 定时爬取
+│   ├── daily-crawl.yml                   ← 每天 06:00 BJT 直爬源
+│   └── bjx-crawl.yml                     ← 每天 05:00 BJT Playwright 源 (Day 3)
 │
 ├── crawlers/                             ← 上游：采集层（CI 运行）
 │   ├── requirements.txt
-│   ├── common.py                         ← 共享 HTTP/解析工具
+│   ├── requirements-playwright.txt       ← Playwright 独立依赖 (Day 3)
+│   ├── common.py                         ← 共享 HTTP/解析 + 重试 + WAF 检测
 │   ├── cpnn.py                           ← 电网头条
 │   ├── nea.py                            ← 国家能源局
 │   ├── copper.py                         ← 长江铜价
-│   ├── bjx.py                            ← 北极星（WAF placeholder）
-│   └── aggregate.py                      ← 聚合到 feed-digest.json
+│   ├── iesplaza.py                       ← 综合能源服务网 (Day 2)
+│   ├── ne21.py                           ← 世纪新能源网 (Day 2, 真实 parser)
+│   ├── bjx.py                            ← 北极星 (直爬 placeholder)
+│   ├── bjx_playwright.py                 ← 北极星 Chromium WAF bypass (Day 3)
+│   ├── ne21_playwright.py                ← ne21 Playwright 备份方案 (Day 3)
+│   ├── enrich_summaries.py               ← 详情页抓取 + summary 填充 (Week 2)
+│   └── aggregate.py                      ← 聚合 + 中部能源 feed 产出 (Month 2)
 │
 ├── scripts/                              ← 下游：消费层（本地运行）
 │   ├── fetch_feed.py                     ← 拉 feed JSON
@@ -187,7 +194,10 @@ tang-energy-feed/                         ← 根目录
 │   ├── ai_remix.py                       ← LLM remix（默认 Gemini）
 │   ├── build_card.py                     ← 构造飞书卡片 JSON
 │   ├── run.sh                            ← 一键跑完 6 步
-│   └── setup.sh                          ← 9 步交互式安装
+│   ├── setup.sh                          ← 9 步交互式安装
+│   ├── quality_check.sh                  ← feed 质量阈值检查 (Week 3)
+│   ├── show_stats.sh                     ← workflow 统计输出
+│   └── notify.sh                         ← Slack/Discord/飞书通知 (Week 3)
 │
 ├── prompts/
 │   └── remix-instructions.md             ← ai_remix.py 用的 LLM prompt
@@ -208,11 +218,14 @@ tang-energy-feed/                         ← 根目录
 │
 └── feed/                                 ← CI 产出（自动 commit）
     ├── .gitkeep
-    ├── feed-cpnn.json
-    ├── feed-nea.json
-    ├── feed-copper.json
-    ├── feed-bjx.json
-    └── feed-digest.json                  ← ⭐ 消费方拉这个
+    ├── feed-cpnn.json                    ← cpnn 原始
+    ├── feed-nea.json                     ← nea 原始
+    ├── feed-iesplaza.json                ← iesplaza 原始 (Day 2)
+    ├── feed-ne21.json                    ← ne21 原始 (Day 2)
+    ├── feed-copper.json                  ← 铜价
+    ├── feed-bjx.json                     ← bjx 原始（由 bjx-crawl.yml 产出）
+    ├── feed-digest.json                  ← ⭐ 聚合 feed，消费方拉这个
+    └── feed-central-energy.json          ← ⭐ 中部能源专题 (Month 2)
 ```
 
 ## 分发给新用户
