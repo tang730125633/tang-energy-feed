@@ -150,23 +150,35 @@ def load_seen_urls() -> set[str]:
     return seen
 
 
-def classify_all(feed: dict) -> dict:
+def classify_all(feed: dict, skip_dedup: bool = False) -> dict:
     """Walk the feed.articles list and build 4 candidate pools.
 
-    Skips any URL already present in archive/seen-urls.json (rolling 7-day
-    dedup window). This is the core of Q3b: the same news article can
-    never be selected for two different daily digests within a week,
-    even if the upstream feed keeps returning it.
+    In production mode (skip_dedup=False), filters out any URL already
+    present in archive/seen-urls.json (rolling 7-day dedup window).
+    This is the core of Q3b: the same news article can never be selected
+    for two different daily digests within a week, even if the upstream
+    feed keeps returning it.
+
+    In test mode (skip_dedup=True, invoked via --no-dedup), the dedup
+    filter is bypassed. This lets humans run test digests repeatedly
+    without "stealing" content from tomorrow's production run.
     """
     articles = feed.get("articles", [])
 
-    # Q3b: dedup filter — URLs already used in a digest within the TTL window
-    seen_urls = load_seen_urls()
-    if seen_urls:
+    # Q3b: dedup filter (production only)
+    if skip_dedup:
         print(
-            f"  → Dedup filter: excluding {len(seen_urls)} recently-used URLs",
+            "  → Dedup filter: DISABLED (--no-dedup, test mode)",
             file=sys.stderr,
         )
+        seen_urls: set[str] = set()
+    else:
+        seen_urls = load_seen_urls()
+        if seen_urls:
+            print(
+                f"  → Dedup filter: excluding {len(seen_urls)} recently-used URLs",
+                file=sys.stderr,
+            )
 
     candidates: dict[str, list[dict]] = {
         "top3": [],
@@ -227,13 +239,20 @@ def classify_all(feed: dict) -> dict:
 
 
 def main() -> int:
-    if len(sys.argv) != 2:
+    # Simple manual arg parsing — avoids argparse just for one flag.
+    args = sys.argv[1:]
+    no_dedup = False
+    if "--no-dedup" in args:
+        no_dedup = True
+        args.remove("--no-dedup")
+
+    if len(args) != 1:
         print(
-            "Usage: python3 classify_candidates.py <feed.json> > candidates.json",
+            "Usage: python3 classify_candidates.py [--no-dedup] <feed.json> > candidates.json",
             file=sys.stderr,
         )
         return 2
-    feed_path = Path(sys.argv[1])
+    feed_path = Path(args[0])
     if not feed_path.exists():
         print(f"Feed file not found: {feed_path}", file=sys.stderr)
         return 2
@@ -241,13 +260,14 @@ def main() -> int:
     with feed_path.open(encoding="utf-8") as f:
         feed = json.load(f)
 
-    result = classify_all(feed)
+    result = classify_all(feed, skip_dedup=no_dedup)
     sys.stdout.write(json.dumps(result, ensure_ascii=False, indent=2))
     sys.stdout.write("\n")
 
     counts = result["stats"]["candidateCounts"]
+    mode = "test, no dedup" if no_dedup else "production, with dedup"
     print(
-        f"✓ Classified: top3={counts['top3']}, policy={counts['policy']}, "
+        f"✓ Classified ({mode}): top3={counts['top3']}, policy={counts['policy']}, "
         f"hubei={counts['hubei']}, ai_power={counts['ai_power']}",
         file=sys.stderr,
     )

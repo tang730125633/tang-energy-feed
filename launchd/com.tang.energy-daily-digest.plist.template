@@ -25,11 +25,17 @@
     <key>Label</key>
     <string>com.tang.energy-daily-digest</string>
 
+    <!--
+      ProgramArguments runs run.sh with the production flag.
+      Scheduled daily runs must write .last-sent-date, apply dedup,
+      and archive. Human test runs use the test flag (no side effects).
+    -->
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
         <string>-l</string>
         <string>__REPO_ROOT__/scripts/run.sh</string>
+        <string>--production</string>
     </array>
 
     <key>WorkingDirectory</key>
