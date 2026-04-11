@@ -1,20 +1,41 @@
 {
   "_comment_1": "Copy this file to config.json and fill in your real values.",
-  "_comment_2": "DO NOT commit config.json to git — add it to .gitignore.",
+  "_comment_2": "DO NOT commit config.json to git — it's in .gitignore.",
+  "_comment_3": "API keys are NEVER stored here — always via environment variables.",
 
   "feed_url": "https://raw.githubusercontent.com/tang730125633/tang-energy-feed/main/feed/feed-digest.json",
 
-  "_feed_url_offline_note": "For offline testing, use a local path: /path/to/feed-digest.json",
+  "_feed_url_offline_note": "For offline testing, use an absolute path: /Users/you/path/to/feed-digest.json",
 
   "feishu": {
     "chat_id": "oc_REPLACE_WITH_YOUR_GROUP_CHAT_ID",
     "identity": "bot",
 
-    "_chat_id_howto": "Run: lark-cli im chats list --as bot  — copy the oc_xxx ID of your target group",
-    "_identity_rule": "Must be 'bot'. Never change to 'user'."
+    "_chat_id_howto": "Run: lark-cli im chats list --as bot — copy the oc_xxx ID of your target group",
+    "_identity_rule": "Must be 'bot'. Never change to 'user' (auto-pushed daily reports must come from a bot, not a person)"
+  },
+
+  "ai": {
+    "provider": "gemini",
+    "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+    "model": "gemini-3-flash-preview",
+    "api_key_env": "GEMINI_API_KEY",
+    "temperature": 0.3,
+    "response_format_json": true,
+
+    "_provider_howto": "Any OpenAI-compatible endpoint works. See SKILL.md for the full list. Default is Gemini 3 Flash Preview (free, highest quality as of 2026-04-11).",
+    "_model_alternatives": [
+      "gemini-3-flash-preview (default, latest, 2026-04-11 verified)",
+      "gemini-2.5-flash (stable, very generous free quota)",
+      "gemini-2.5-pro (higher quality, stricter quota)",
+      "deepseek-chat (cheap, good Chinese)",
+      "gpt-4o-mini (OpenAI, stable)"
+    ],
+    "_api_key_rule": "NEVER paste the key into this file. Run: export GEMINI_API_KEY=xxx && echo 'export GEMINI_API_KEY=xxx' >> ~/.zshrc",
+    "_api_key_get": "https://aistudio.google.com/apikey (free)"
   },
 
   "lookback_hours": 48,
 
-  "_lookback_note": "How far back to consider articles when classifying. 48h is reasonable for daily reports."
+  "_lookback_note": "How far back to consider articles when classifying. 48h handles weekends."
 }
