@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T20:56:20+00:00",
+  "generatedAt": "2026-04-11T08:22:42+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -127,89 +127,17 @@
       "publishedAt": "2026-03-19",
       "source": "nea.gov.cn",
       "province": "江西"
-    },
-    {
-      "id": "iesplaza-18820",
-      "title": "国网合肥供电公司：新能源车成为电网“充电宝”",
-      "url": "https://www.iesplaza.com/article-18820-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "iesplaza.com",
-      "province": "安徽"
-    },
-    {
-      "id": "iesplaza-18800",
-      "title": "湖南：推进数字园区、绿色园区和零碳园区建设",
-      "url": "https://www.iesplaza.com/article-18800-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "iesplaza.com",
-      "province": "湖南"
-    },
-    {
-      "id": "iesplaza-12295",
-      "title": "武汉南瑞特约协办第三届中国综合能源服务暨能源数字化大会",
-      "url": "https://www.iesplaza.com/article-12295-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "iesplaza.com",
-      "province": "湖北"
-    },
-    {
-      "id": "iesplaza-18783",
-      "title": "江西南昌安义高新技术产业园区省级零碳园区建设实施方案编制服务项目竞价",
-      "url": "https://www.iesplaza.com/article-18783-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "iesplaza.com",
-      "province": "江西"
-    },
-    {
-      "id": "iesplaza-18780",
-      "title": "130万元！湖北十堰市高新区零碳园区建设方案编制咨询服务竞争性磋商",
-      "url": "https://www.iesplaza.com/article-18780-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "iesplaza.com",
-      "province": "湖北"
-    },
-    {
-      "id": "iesplaza-18784",
-      "title": "5个零碳产业园！河南省2026年重点建设项目名单发布",
-      "url": "https://www.iesplaza.com/article-18784-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "iesplaza.com",
-      "province": "河南"
-    },
-    {
-      "id": "iesplaza-18700",
-      "title": "内蒙古鄂尔多斯准格尔智汇虚拟电厂项目平台及终端采购项目（第二次）询比采购公告",
-      "url": "https://www.iesplaza.com/article-18700-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "iesplaza.com",
-      "province": "湖北"
-    },
-    {
-      "id": "iesplaza-18705",
-      "title": "能源费用托管业务实操专项培训在武汉成功举办",
-      "url": "https://www.iesplaza.com/article-18705-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "iesplaza.com",
-      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 21,
+    "totalArticles": 13,
     "byProvince": {
-      "河南": 4,
-      "安徽": 4,
+      "河南": 3,
+      "安徽": 3,
       "华中": 2,
-      "湖南": 4,
-      "湖北": 5,
-      "江西": 2
+      "湖南": 3,
+      "湖北": 1,
+      "江西": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

@@ -1,7 +1,7 @@
 {
   "source": "cpnn.com.cn",
   "sourceName": "电网头条（中国能源传媒集团）",
-  "generatedAt": "2026-04-10T20:56:16+00:00",
+  "generatedAt": "2026-04-11T08:22:31+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -365,6 +365,14 @@
       "source": "cpnn.com.cn"
     },
     {
+      "id": "cpnn-t20260408_1879472",
+      "title": "国网渭源供电：守护电网安全防线 护航民生用电无忧",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202604/t20260408_1879472.html",
+      "summary": "",
+      "publishedAt": "2026-04-08",
+      "source": "cpnn.com.cn"
+    },
+    {
       "id": "cpnn-t20260408_1879456",
       "title": "国家能源集团科环国能智深非安全级核电DCS技术成果获评国际领先",
       "url": "https://www.cpnn.com.cn/qiye/rongyu/202604/t20260408_1879456.html",
@@ -526,7 +534,7 @@
     }
   ],
   "stats": {
-    "articleCount": 65
+    "articleCount": 66
   },
   "errors": []
 }
