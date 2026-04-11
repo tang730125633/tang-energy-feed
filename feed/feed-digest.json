@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-04-11T08:22:42+00:00",
+  "generatedAt": "2026-04-11T22:39:54+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-04-10T20:56:20+00:00",
+      "generatedAt": "2026-04-11T21:41:01+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-04-11T08:22:35+00:00",
+      "generatedAt": "2026-04-11T22:39:48+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-04-11T08:22:31+00:00",
+      "generatedAt": "2026-04-11T22:39:44+00:00",
       "articleCount": 66,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-04-11T08:22:41+00:00",
+      "generatedAt": "2026-04-11T22:39:54+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-04-10T20:56:20+00:00",
-      "articleCount": 5,
+      "generatedAt": "2026-04-11T21:41:09+00:00",
+      "articleCount": 4,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-04-11T08:22:33+00:00",
+      "generatedAt": "2026-04-11T22:39:46+00:00",
       "articleCount": 48,
       "hasErrors": false
     }
@@ -1001,14 +1001,6 @@
       "summary": "",
       "publishedAt": null,
       "source": "ne21.com"
-    },
-    {
-      "id": "ne21-pecial/show-185.html",
-      "title": "世纪光伏大会",
-      "url": "https://www.ne21.com/special/show-185.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
     }
   ],
   "copper": {
@@ -1026,11 +1018,11 @@
     }
   },
   "stats": {
-    "totalArticles": 119,
+    "totalArticles": 118,
     "bySource": {
       "cpnn.com.cn": 66,
       "nea.gov.cn": 48,
-      "ne21.com": 5
+      "ne21.com": 4
     },
     "byProvince": {
       "河南": 3,
@@ -1045,7 +1037,7 @@
     {
       "source": "bjx.com.cn",
       "errors": [
-        "Aliyun WAF JS challenge. Day 1 cannot bypass this. TODO: add playwright-based scraper in crawlers/bjx_playwright.py"
+        "WAF bypassed but parser found 0 articles. The homepage HTML structure may have changed — inspect the HTML."
       ]
     },
     {
