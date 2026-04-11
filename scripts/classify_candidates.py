@@ -27,6 +27,13 @@ import sys
 from pathlib import Path
 
 # ---------------------------------------------------------------------------
+# Seen-URLs dedup (Q3b)
+# ---------------------------------------------------------------------------
+# Path of the rolling dedup cache, resolved relative to this script so it
+# works regardless of the caller's cwd.
+SEEN_URLS_PATH = Path(__file__).resolve().parent.parent / "archive" / "seen-urls.json"
+
+# ---------------------------------------------------------------------------
 # Section classification rules
 # ---------------------------------------------------------------------------
 
@@ -104,9 +111,63 @@ def within_lookback(article: dict, hours: int = 48) -> bool:
     return d >= cutoff
 
 
+def load_seen_urls() -> set[str]:
+    """Load the set of URLs that have already been used in a digest within
+    the TTL window. Returns an empty set if the file doesn't exist (day 1)
+    or cannot be parsed.
+
+    This is called by classify_all() BEFORE building candidate pools, so
+    any URL in this set is silently skipped — the AI never sees it, and
+    tomorrow's digest cannot accidentally re-use a title from this week.
+    """
+    if not SEEN_URLS_PATH.exists():
+        return set()
+    try:
+        with SEEN_URLS_PATH.open(encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        print(
+            f"  ⚠ Could not load seen-urls.json ({e}), skipping dedup filter",
+            file=sys.stderr,
+        )
+        return set()
+
+    # TTL-prune in memory (archive.py prunes on write; this is belt+suspenders)
+    ttl_days = data.get("ttlDays", 7)
+    cutoff = dt.date.today() - dt.timedelta(days=ttl_days)
+
+    seen: set[str] = set()
+    for entry in data.get("entries", []):
+        first_seen_str = entry.get("firstSeen", "")
+        try:
+            first_seen = dt.date.fromisoformat(first_seen_str)
+        except ValueError:
+            continue
+        if first_seen >= cutoff:
+            url = entry.get("url")
+            if url:
+                seen.add(url)
+    return seen
+
+
 def classify_all(feed: dict) -> dict:
-    """Walk the feed.articles list and build 4 candidate pools."""
+    """Walk the feed.articles list and build 4 candidate pools.
+
+    Skips any URL already present in archive/seen-urls.json (rolling 7-day
+    dedup window). This is the core of Q3b: the same news article can
+    never be selected for two different daily digests within a week,
+    even if the upstream feed keeps returning it.
+    """
     articles = feed.get("articles", [])
+
+    # Q3b: dedup filter — URLs already used in a digest within the TTL window
+    seen_urls = load_seen_urls()
+    if seen_urls:
+        print(
+            f"  → Dedup filter: excluding {len(seen_urls)} recently-used URLs",
+            file=sys.stderr,
+        )
+
     candidates: dict[str, list[dict]] = {
         "top3": [],
         "policy": [],
@@ -114,9 +175,14 @@ def classify_all(feed: dict) -> dict:
         "hubei_neighbor": [],
         "ai_power": [],
     }
+    dedup_hits = 0
 
     for article in articles:
         if not within_lookback(article, hours=48):
+            continue
+        # Q3b: skip if this URL was used in a digest within the TTL window
+        if article.get("url") in seen_urls:
+            dedup_hits += 1
             continue
         sections = classify_article(article)
         for sec in sections:
@@ -131,6 +197,12 @@ def classify_all(feed: dict) -> dict:
                 "source": article.get("source", ""),
             }
             candidates[sec].append(slim)
+
+    if dedup_hits:
+        print(
+            f"  → Dedup filter: dropped {dedup_hits} articles already used this week",
+            file=sys.stderr,
+        )
 
     # Merge hubei_neighbor as fallback into hubei if hubei pool is thin
     if len(candidates["hubei"]) < 2:

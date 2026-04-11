@@ -3,12 +3,22 @@
 <!--
   launchd template for energy-daily-digest.
 
-  Usage: do not load this template directly. setup.sh will substitute
-  __REPO_ROOT__ with the actual repo path and install it to
-  ~/Library/LaunchAgents/com.tang.energy-daily-digest.plist
+  Usage: do NOT load this template directly. Run launchd/install.sh to
+  substitute __REPO_ROOT__ with the actual repo path and install the
+  resolved plist to ~/Library/LaunchAgents/com.tang.energy-daily-digest.plist
 
-  Schedule: every day at 10:30 local time
-  Logs: /tmp/energy-daily-digest.log
+  Schedule: fires TWICE daily at local time
+    10:30 — primary trigger
+    11:00 — backup trigger (run.sh's Step 0 detects the already-sent
+            .last-sent-date and exits 0 immediately if 10:30 succeeded)
+
+  This double-fire is a resilience pattern: if 10:30 hits a transient
+  network error, the 11:00 fire gets a second chance. If 10:30 succeeded,
+  11:00 is a no-op (takes <1 second).
+
+  Logs:
+    stdout → /tmp/energy-daily-digest.log
+    stderr → /tmp/energy-daily-digest.err
 -->
 <plist version="1.0">
 <dict>
@@ -26,16 +36,25 @@
     <string>__REPO_ROOT__</string>
 
     <!--
-      StartCalendarInterval: 10:30 local time every day.
-      launchd reads this as local time (not UTC), so no TZ conversion needed.
+      StartCalendarInterval accepts an ARRAY of dicts to specify multiple
+      fire times. launchd will fire the job once for each matching time.
+      All times are local (no UTC conversion needed).
     -->
     <key>StartCalendarInterval</key>
-    <dict>
-        <key>Hour</key>
-        <integer>10</integer>
-        <key>Minute</key>
-        <integer>30</integer>
-    </dict>
+    <array>
+        <dict>
+            <key>Hour</key>
+            <integer>10</integer>
+            <key>Minute</key>
+            <integer>30</integer>
+        </dict>
+        <dict>
+            <key>Hour</key>
+            <integer>11</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+    </array>
 
     <key>StandardOutPath</key>
     <string>/tmp/energy-daily-digest.log</string>
@@ -53,7 +72,8 @@
     <!--
       Inherit a reasonable PATH so python3, lark-cli, etc. are findable.
       launchd starts with a minimal PATH; we add the common locations.
-      Using /bin/bash -l above also sources login files which helps.
+      /bin/bash -l above also sources login files (~/.zshrc isn't read by
+      bash, but /etc/profile and ~/.bash_profile are).
     -->
     <key>EnvironmentVariables</key>
     <dict>
@@ -62,8 +82,28 @@
     </dict>
 
     <!--
-      If run.sh exits non-zero, don't retry. The log will show the error.
-      A failed run just means no early report today; tomorrow's run is fresh.
+      CRITICAL for the GEMINI_API_KEY to be visible to run.sh:
+      launchd does NOT auto-load ~/.zshrc. We use `/bin/bash -l` above so
+      bash sources /etc/profile and ~/.bash_profile, but ~/.zshrc is a
+      zsh-only file. The safest pattern is:
+        1. Ensure the key is also exported in a file that bash reads:
+             echo 'export GEMINI_API_KEY="…"' >> ~/.bash_profile
+           Or use a neutral file:
+             echo 'export GEMINI_API_KEY="…"' >> ~/.profile
+        2. Alternatively, add it directly to this plist's EnvironmentVariables
+           dict above. But that puts the key in a file, which is less safe
+           than keeping it in ~/.bash_profile (which at least requires
+           login-shell execution context to be read).
+
+      Tang's current setup: key is in ~/.zshrc → bash -l WON'T pick it up.
+      install.sh will ALSO copy the export line to ~/.bash_profile so that
+      launchd's bash -l picks it up at fire time.
+    -->
+
+    <!--
+      If run.sh exits non-zero, don't retry automatically. The log will
+      show the error. The 11:00 backup fire will retry once, and after
+      that a failed day just means no report. Tomorrow starts fresh.
     -->
     <key>ExitTimeOut</key>
     <integer>120</integer>
