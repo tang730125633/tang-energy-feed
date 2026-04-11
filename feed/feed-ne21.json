@@ -1,8 +1,8 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-04-10T20:56:20+00:00",
-  "lookbackHours": 72,
+  "generatedAt": "2026-04-11T08:23:19+00:00",
+  "lookbackHours": 48,
   "articles": [
     {
       "id": "ne21-226329",
@@ -35,18 +35,10 @@
       "summary": "",
       "publishedAt": null,
       "source": "ne21.com"
-    },
-    {
-      "id": "ne21-pecial/show-185.html",
-      "title": "世纪光伏大会",
-      "url": "https://www.ne21.com/special/show-185.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 4
   },
   "errors": []
 }
