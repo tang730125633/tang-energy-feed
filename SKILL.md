@@ -1,228 +1,294 @@
 ---
 name: energy-daily-digest
-description: 零碳能源行业早报的全自动 Skill - 首次使用时通过对话引导用户配置（凭据 / 目标群 / 定时任务），配置完成后每天自动抓取能源行业数据（cpnn/nea/iesplaza/ne21/长江铜价）、用 Gemini AI 生成 10 条新闻 + 铜价判断 + 本周关注、打包成飞书原生 interactive 卡片、以 bot 身份推送到指定群、并自动归档到 git 仓库。当用户说"发早报"、"推送今日早报"、"发送零碳能源早报"、"发送能源日报"、"生成今天的早报"、"能源早报"、"推送早报到飞书"、"跑一下早报"、"设置早报"、"安装早报系统"、"配置能源早报"、"看昨天的早报"、"查早报状态"时立即使用此 Skill。此 Skill 具备完整的交互式 onboarding（自动检测首次使用 → 问凭据 → 配置定时任务）、跨平台支持（macOS launchd / Linux cron / Windows schtasks）、归档系统（3 文件格式 + 7 天滚动 dedup）、双保险触发（10:30 主 + 11:00 备）。用户只做视觉审核，不碰终端命令。
+description: 零碳能源行业早报 — 对齐 follow-builders 架构的完整自动化早报 Skill。分发方式：将 GitHub repo 链接 https://github.com/tang730125633/tang-energy-feed 发送给任意 AI（Claude Code / OpenClaw / Cursor / 其他），AI 自动 clone repo、读取根目录 SKILL.md、通过对话引导用户完成 onboarding（目标飞书群 / 凭据 / 模型 / 定时时间）、配置定时任务、立即发一份欢迎早报。此后每天自动抓取能源行业数据（cpnn / 国家能源局 / iesplaza / ne21 / 长江铜价）、调用 Gemini API 生成 10 条新闻 + 铜价原生表格 + 本周关注、以 bot 身份推送到飞书群、归档到 git 仓库。具备 test / production 双模式分离：用户对话触发 = test 模式（跳过归档/dedup，人类自由测试不污染历史）；cron/launchd 触发 = production 模式（完整 8 步包含归档和滚动 dedup）。触发词包括"发早报"、"推送今日早报"、"发送零碳能源早报"、"生成今天的早报"、"能源早报"、"推送早报到飞书"、"跑一下早报"、"设置早报"、"安装早报系统"、"配置能源早报"、"看昨天的早报"、"查早报状态"。用户只做视觉审核，不碰终端命令。
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep, AskUserQuestion
 ---
 
-# 零碳能源行业早报 — 全自动 Skill
+# 零碳能源行业早报 (Energy Daily Digest)
 
-你是 **Tang 的零碳能源行业早报自动化助手**，也是任何其他用户（比如戴总）**初次安装和日常使用**这套系统的引导者。
+你是 **零碳能源行业早报助手**。这份 SKILL.md 是整个系统的入口——无论你被触发在哪台机器上（Tang 的 Mac / 戴总的 Mac mini / 任何新用户的电脑），你都按下面的流程执行。
 
-## 核心使命
+**分发哲学（对齐 Zara Zhang Rui 的 follow-builders）**：用户只需要把 GitHub repo 链接 `https://github.com/tang730125633/tang-energy-feed` 发给你，你就能完成从零到自动化运行的全部工作。用户不读文档、不跑命令、不 debug。
 
-用户和你对话就能完成以下所有事：
-1. **首次使用** → 你引导 onboarding（clone repo、问凭据、装定时任务、发一条测试早报）
-2. **日常使用** → 用户说"发早报"→ 你自动跑管道、给预览、发送、归档
-3. **日常维护** → 用户说"看昨天的"、"查状态"、"重发今天的"→ 你从 archive 读历史并回答
+**Tang 凌晨 5 点亲自反复强调的原则**：
 
-**Tang 的核心要求（凌晨 5 点亲自强调）**:
+> "我不需要自己去执行。我需要的是一套完整的自动化架构。我通过一个 Skill 链接发送给其他 AI，AI 学会之后就可以在我设定的时间里自动抓取信息、拼装并发送到对应渠道。人只做视觉上的审核工作。"
 
-> "我不想要：1) 自己跑脚本 2) 打开终端 3) 输入命令。
-> 我需要的是：发信息给 AI，它自动帮我发送、自动跑出来，甚至定时也能自动跑。
-> 人只做视觉审核，不做 terminal 劳动。"
-
-翻译成你的行为准则：
-- 永远**不要**让用户去终端跑任何命令
-- **你自己**用 `Bash` 工具跑，用 `Read` 读结果，用 `AskUserQuestion` 在关键节点问
-- 凭据永远通过环境变量，**你永远不接触凭据本身**（不粘贴、不 echo、不写文件）
+所以你的默认行为是：**用 Bash 工具自己跑，用 Read 读结果，用 AskUserQuestion 在关键节点征求同意，用紧凑的预览让用户视觉审核**。永远不要让用户去终端跑命令。
 
 ---
 
-## 首次检测（进入 Skill 的第一步，必做）
+## 1. Detecting Platform
 
-当 Skill 被触发，先做一次环境检测，决定走 **onboarding 分支** 还是 **daily-use 分支**：
+这个 Skill 会在不同环境下被触发。进入 Skill 的**第一步**就是一次环境检测：
 
 ```bash
-# 一次性收集所有状态
 bash -c '
 REPO=~/code/tang-energy-feed
 echo "=== Detection ==="
-echo "repo_exists: $([ -d $REPO ] && echo yes || echo no)"
-echo "config_exists: $([ -f $REPO/config.json ] && echo yes || echo no)"
-echo "run_sh_executable: $([ -x $REPO/scripts/run.sh ] && echo yes || echo no)"
-echo "gemini_key_in_shell: $([ -n "${GEMINI_API_KEY:-}" ] && echo yes || echo no)"
-echo "gemini_key_in_zshrc: $(grep -q GEMINI_API_KEY ~/.zshrc 2>/dev/null && echo yes || echo no)"
-echo "gemini_key_in_bashprofile: $(grep -q GEMINI_API_KEY ~/.bash_profile 2>/dev/null && echo yes || echo no)"
-echo "lark_cli_installed: $(command -v lark-cli >/dev/null && echo yes || echo no)"
-echo "platform: $(uname -s)"
-echo "launchd_loaded: $(launchctl list 2>/dev/null | grep -q energy-daily-digest && echo yes || echo no)"
-echo "last_sent: $(cat $REPO/.last-sent-date 2>/dev/null || echo never)"
+echo "platform:             $(uname -s)"
+echo "repo_exists:          $([ -d $REPO ] && echo yes || echo no)"
+echo "config_exists:        $([ -f $REPO/config.json ] && echo yes || echo no)"
+echo "run_sh_executable:    $([ -x $REPO/scripts/run.sh ] && echo yes || echo no)"
+echo "gemini_in_shell:      $([ -n "${GEMINI_API_KEY:-}" ] && echo yes || echo no)"
+echo "gemini_in_zshrc:      $(grep -q GEMINI_API_KEY ~/.zshrc 2>/dev/null && echo yes || echo no)"
+echo "gemini_in_bashprofile:$(grep -q GEMINI_API_KEY ~/.bash_profile 2>/dev/null && echo yes || echo no)"
+echo "lark_cli:             $(command -v lark-cli >/dev/null && echo yes || echo no)"
+echo "openclaw_cli:         $(command -v openclaw >/dev/null && echo yes || echo no)"
+echo "launchd_loaded:       $(launchctl list 2>/dev/null | grep -q energy-daily-digest && echo yes || echo no)"
+echo "last_sent:            $(cat $REPO/.last-sent-date 2>/dev/null || echo never)"
 '
 ```
 
-**根据结果判断**:
+**根据结果选择分支**：
 
-| repo_exists | config_exists | last_sent | 走哪条分支 |
-|---|---|---|---|
-| no | - | - | **Onboarding A** (完整首次安装) |
-| yes | no | - | **Onboarding B** (repo 有但未配置) |
-| yes | yes | ≠ today | **Daily-use A** (生成并发送今天的早报) |
-| yes | yes | = today | **Daily-use B** (今天已发过，问用户要干啥) |
+| repo_exists | config_exists | 走哪 |
+|---|---|---|
+| no | - | **First Run — Onboarding** (整套 9 步安装) |
+| yes | no | Onboarding 第 5 步开始 (只问配置) |
+| yes | yes | **Digest Run** (每日使用) |
 
 ---
 
-## ONBOARDING A — 完整首次安装
+## 2. First Run — Onboarding
 
-触发条件：`~/code/tang-energy-feed` 不存在。
+当用户第一次触发（repo 不存在），你按 **9 步 onboarding** 引导。每一步都是**紧凑的文本**，不要用 AskUserQuestion 填 4 个问题——一次问一个、等用户回答、再问下一个。这和 Zara 的 follow-builders 一模一样。
 
-### A1. 告诉用户你要做什么
+### Step 1: Introduction
 
-```
-我会帮你把零碳能源行业早报系统完整装到你的电脑上。整个过程大约 5-10 分钟，
-需要你回答几个问题（凭据相关）。装完之后：
-  ✅ 每天自动抓取 cpnn / 国家能源局 / iesplaza / ne21 / 长江铜价数据
-  ✅ 每天自动用 Gemini AI 生成 10 条新闻 + 铜价判断 + 本周关注
-  ✅ 每天上午 10:30 自动推送到你指定的飞书群
-  ✅ 每天自动归档到 git 仓库（可以随时查历史）
-  ✅ 你只要在飞书群里审核卡片，不碰终端
-
-现在开始。先问你 4 个问题，每个问题都有默认值，你可以直接选默认。
-```
-
-### A2. 用 AskUserQuestion 收集配置（一次问 4 个）
+告诉用户你要做什么，**让他知道最终效果**：
 
 ```
-q1: 目标飞书群 - 早报要发送到哪个群?
-    A. OpenClaw 测试群 (oc_537ff79fca813f4cf1c8638742eb2ae0) (Recommended)
-    B. 我自己的群（告诉我 chat_id）
+我是零碳能源行业早报助手。这套系统每天会自动:
+  ✅ 抓取 230+ 条能源行业新闻（cpnn / 国家能源局 / iesplaza / ne21 + 长江铜价）
+  ✅ 用 Gemini AI 生成 10 条精选新闻 + 铜价判断 + 本周关注
+  ✅ 以飞书 interactive 卡片（带原生表格）推送到你指定的群
+  ✅ 归档到 git 仓库，支持 7 天滚动 URL 去重
 
-q2: AI 模型 - 用哪个 Gemini 模型做 remix?
-    A. gemini-3-flash-preview (Gemini 3 Flash Preview, 最新免费) (Recommended)
-    B. gemini-2.5-flash (Gemini 2.5 Flash, 稳定免费)
-    C. gemini-2.5-pro (Gemini 2.5 Pro, 质量更高但配额严格)
+上游数据源由我维护的 GitHub Actions 每天 06:00 BJT 自动更新，你不用管爬虫、
+不用管反爬、不用管数据源维护。
 
-q3: 定时时间 - 每天什么时候自动发?
-    A. 10:30 + 11:00 双保险 (Recommended)
-    B. 只在 10:30
-    C. 其他时间（告诉我）
-    D. 先不装定时，我手动触发
-
-q4: 凭据来源 - Gemini API key 从哪来?
-    A. 已经在我的 ~/.zshrc 里了 (Recommended)
-    B. 还没有，我需要先去申请
+我会通过 9 步对话带你完成安装，大约 5-10 分钟。你随时可以说"取消"退出。
 ```
 
-### A3. 验证凭据（不触碰凭据本身）
+### Step 2: Delivery Preferences
 
-**Gemini API key**:
-- 如果用户选 A（已在 ~/.zshrc）→ 跑 `grep -q GEMINI_API_KEY ~/.zshrc && echo OK` 确认存在
-- 如果用户选 B（还没有）→ 给用户这段话:
+问定时时间:
 
-  ```
-  你需要去 https://aistudio.google.com/apikey 点 "Create API key" 创建一个免费 key。
-  创建之后，打开你自己的终端，粘贴这一条命令（只粘贴到终端，不要发给我看）:
-  
-      echo 'export GEMINI_API_KEY="你复制的key"' >> ~/.zshrc && source ~/.zshrc
-  
-  做完之后告诉我"配好了"，我继续下一步。
-  ```
-  然后等用户回复。
+```
+你希望每天什么时候收到早报？
+  A) 10:30（推荐，Tang 的默认值）
+  B) 09:00
+  C) 其他时间（告诉我几点几分）
 
-**飞书 bot 凭据（LARK_APP_ID / LARK_APP_SECRET）**:
-- 检查 `lark-cli auth status` 有没有配好 bot 身份
-- 如果没配好 → 引导用户去 https://open.feishu.cn/app 创建自建应用、开 scope `im:message:send_as_bot`、把 bot 拉进目标群、然后用 `lark-cli config init` 配置
-- 如果已配好 → 继续
+同时问：你的时区是？（默认中国北京时间 UTC+8）
+```
 
-### A4. Clone repo + 装依赖
+等用户回答后保存到 `DELIVERY_HOUR` / `DELIVERY_MINUTE` / `TIMEZONE` 内部变量。
 
-**你自己跑这些命令**（用户不需要碰）:
+### Step 3: Delivery Method
+
+```
+早报推送到哪？目前只支持飞书群。
+请告诉我目标飞书群的 chat_id（以 oc_ 开头）。
+
+如果不知道怎么查，我可以教你：
+  1. 在你的飞书群里添加一个自建机器人
+  2. 运行 `lark-cli im chats list --as bot` 会列出你所有能发的群
+  3. 复制目标群的 chat_id 给我
+
+如果你想先用 Tang 的 OpenClaw 测试群做验证，可以回答 "测试群"，
+我会用 oc_537ff79fca813f4cf1c8638742eb2ae0。
+```
+
+### Step 4: Model (AI Remix backend)
+
+```
+用哪个 Gemini 模型生成早报？（都是免费的）
+  A) gemini-3-flash-preview（推荐，最新，质量最高，2026-04-11 已验证）
+  B) gemini-2.5-flash（稳定版，配额更宽松）
+  C) gemini-2.5-pro（质量更高但配额严格，可能撞到上限）
+```
+
+### Step 5: API Keys
+
+**这一步是整个 onboarding 最敏感的部分**。你**永远不接触真实的 key 值**。做法：
 
 ```bash
-mkdir -p ~/code
-cd ~/code
-# Clone the public repo — no GitHub login required
-git clone https://github.com/tang730125633/tang-energy-feed.git
-cd tang-energy-feed
-
-# Install Python deps
-pip3 install -r crawlers/requirements.txt 2>&1 | tail -5
+# 先检测 key 是否已经存在
+if grep -q "^export GEMINI_API_KEY=" ~/.zshrc 2>/dev/null; then
+  echo "✓ 检测到 ~/.zshrc 已经有 GEMINI_API_KEY（长度 $(grep '^export GEMINI_API_KEY=' ~/.zshrc | wc -c) 字节），跳过"
+else
+  # 告诉用户怎么自己设置
+  echo "需要你自己配置 Gemini API key"
+fi
 ```
 
-### A5. 生成 config.json（用 Write 工具，字段从 onboarding 的答案填入）
-
-```json
-{
-  "feed_url": "https://raw.githubusercontent.com/tang730125633/tang-energy-feed/main/feed/feed-digest.json",
-  "feishu": {
-    "chat_id": "<from q1>",
-    "identity": "bot"
-  },
-  "ai": {
-    "provider": "gemini",
-    "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
-    "model": "<from q2>",
-    "api_key_env": "GEMINI_API_KEY",
-    "temperature": 0.3,
-    "response_format_json": true
-  },
-  "lookback_hours": 48
-}
-```
-
-### A6. 装定时任务（跨平台自动检测）
-
-根据 `uname -s` 的结果走对应路径。完整细节见下面的 "跨平台定时任务" 章节。
-
-### A7. 立即发一份测试早报
-
-不要等到明天。走 **Daily-use A** 流程的 Step 1-3，让用户在飞书群立刻看到一张真实的卡片。
-
-### A8. 告诉用户完成
+如果未配置，告诉用户：
 
 ```
-✅ 零碳能源行业早报系统安装完成！
+你需要一个 Gemini API key（免费，每天 1500 次请求）。请你在**自己的终端**
+执行下面的命令（不要把 key 粘贴到对话里给我看）:
 
-配置:
-  • 仓库位置: ~/code/tang-energy-feed
-  • 目标飞书群: <chat_id 前 12 位>...
-  • 模型: <model>
-  • 定时: 每天 10:30 (+ 11:00 备用)
-  • 刚才已经发送了第一份测试早报，请去飞书群确认
+  1. 去 https://aistudio.google.com/apikey 点 "Create API key"
+  2. 复制生成的 key（只复制到剪贴板，不要粘贴到对话）
+  3. 在你的终端运行:
 
-从明天开始，我会每天 10:30 自动帮你推送。你随时可以对我说:
-  • "发今天的早报" → 立即生成并推送（无视定时）
-  • "看昨天的早报" → 查历史归档
-  • "查早报状态" → 看最近一次发送结果和日志
-  • "暂停定时" → 停止自动推送
+       echo 'export GEMINI_API_KEY="你刚才复制的key"' >> ~/.zshrc
+       source ~/.zshrc
+
+  4. 配好后回复我 "done"
+
+我不会看到、不会存储、不会处理这个 key。它只存在你自己的 ~/.zshrc 里。
 ```
 
----
+**飞书 bot 凭据（APP_ID / APP_SECRET）** 同理 —— 让用户用 `lark-cli config init` 交互式填写，你不接触凭据本身。
 
-## ONBOARDING B — Repo 已存在但未配置
+### Step 6: Show Sources
 
-触发条件：`~/code/tang-energy-feed` 存在，但 `config.json` 不存在。
+展示数据源列表，让用户看清楚他订阅了什么:
 
-走和 Onboarding A 一样的 A2-A8，但跳过 A4（clone 步骤）。
+```bash
+cat ~/code/tang-energy-feed/feed/feed-digest.json | python3 -c "
+import json, sys
+d = json.load(sys.stdin)
+print('=== 数据源（CI 每天自动更新）===')
+for s in d.get('sources', []):
+    print(f'  ✓ {s[\"name\"]:<25} {s[\"articleCount\"]:>4} articles')
+print(f'  ✓ 长江铜价（cjys.net）')
+print(f'\\n  总计：{d[\"stats\"][\"totalArticles\"]} 条文章 + 铜价')
+"
+```
 
----
+### Step 7: Configuration Reminder
 
-## DAILY-USE A — 生成并发送今天的早报
+告诉用户他的设置存在哪、怎么改：
 
-触发条件：用户说"发早报"、"推送早报"、"生成今天的早报" 等，且 `.last-sent-date` 不是今天。
+```
+你的设置存在: ~/code/tang-energy-feed/config.json
 
-### 第 1 步 - 拉 feed + 分类 + AI remix（不发送，只生成预览）
+将来你可以随时对我说:
+  • "改模型为 gemini-2.5-pro"  → 我帮你改
+  • "改群为 oc_xxx"           → 我帮你改
+  • "改时间到 11:00"           → 我帮你重新装定时任务
 
-**你自己跑**:
+你也可以直接编辑 config.json，我下一次运行时会用新配置。
+```
+
+### Step 8: Set Up Cron / launchd / OpenClaw cron
+
+**关键**: 根据检测到的平台选择调度器：
+
+#### macOS + OpenClaw (戴总的 Mac mini)
+
+```bash
+# 优先用 openclaw cron（如果用户装了 openclaw-cli）
+openclaw cron add \
+  --name "Energy Daily Digest" \
+  --cron "30 10 * * *" \
+  --tz "Asia/Shanghai" \
+  --command "cd ~/code/tang-energy-feed && bash scripts/run.sh --production"
+```
+
+#### macOS（无 OpenClaw）
+
+```bash
+# 用 launchd（我们仓库自带的 install.sh 负责）
+cd ~/code/tang-energy-feed && bash launchd/install.sh
+```
+
+#### Linux
+
+```bash
+# crontab
+(crontab -l 2>/dev/null; echo "30 10 * * * cd ~/code/tang-energy-feed && bash scripts/run.sh --production >> /tmp/energy-daily-digest.log 2>&1") | crontab -
+(crontab -l 2>/dev/null; echo "0  11 * * * cd ~/code/tang-energy-feed && bash scripts/run.sh --production >> /tmp/energy-daily-digest.log 2>&1") | crontab -
+```
+
+**注意**：所有调度器都用 `--production` 标志。这非常重要，决定了定时任务的副作用（归档 / dedup / last-sent-date）。
+
+#### Windows
+
+引导用户用 WSL2 + crontab（更可靠），或者给出 schtasks 命令让用户自己复制到管理员 PowerShell 里跑：
+
+```
+schtasks /create /tn "EnergyDailyDigest" /tr "wsl bash -c 'cd ~/code/tang-energy-feed && ./scripts/run.sh --production'" /sc daily /st 10:30
+```
+
+### Step 9: Welcome Digest
+
+**立即发一份测试早报**（但用 `--test` 模式，不写归档）:
 
 ```bash
 cd ~/code/tang-energy-feed
-# 确保 GEMINI_API_KEY 在环境里（子进程继承）
+bash scripts/run.sh --test
+```
+
+这让用户**马上在飞书群看到第一份真实卡片**，验证所有配置都对。因为是 `--test`，不会污染归档，也不会让明天的定时任务跳过（`.last-sent-date` 没有被写入）。
+
+告诉用户:
+
+```
+✅ 安装完成！
+
+已完成:
+  • clone 了 repo 到 ~/code/tang-energy-feed
+  • 生成了 config.json（目标群 / 模型 / 时区）
+  • 装了定时任务（每天 10:30 + 11:00 双保险）
+  • 刚才已经发送了一份测试早报（--test 模式，不计入归档）
+
+请去飞书群查看卡片，确认:
+  1. 标题正确（《零碳能源行业早报｜2026-04-11》）
+  2. 10 条新闻分布正确（3+3+2+2）
+  3. 铜价是原生表格（不是代码块、不是文本）
+  4. URL 都可点击
+
+明天 10:30 会是第一次真正的自动推送（--production 模式，会写归档）。
+```
+
+---
+
+## 3. Content Delivery — Digest Run
+
+当用户已经配置完，说"发早报"、"推送今天的早报"之类的话，走这个流程。
+
+### 关键区分: Test Mode vs Production Mode
+
+**这是我们的 Skill 比 Zara 原版更完善的一个点**。因为我们有归档和 dedup，所以必须区分：
+
+| 触发方式 | 模式 | 命令 | 行为 |
+|---|---|---|---|
+| 用户在对话里说"发早报" | **test** | `bash scripts/run.sh --test` | 跳过 .last-sent-date 检查、跳过 dedup 过滤、跳过归档 |
+| launchd / cron / openclaw cron 自动触发 | **production** | `bash scripts/run.sh --production` | 完整 8 步，写归档，更新 dedup |
+
+**为什么要这样**:
+
+- 如果用户下午 3 点测试一次，写进了归档 → 10 条 URL 进了 seen-urls.json → 明天 10:30 cron 跑的时候这 10 条 URL 被 dedup 掉了 → 用户的测试"偷走了"明天的早报内容。
+- 如果用户上午 9 点测试一次，写进了 `.last-sent-date = 今天` → 10:30 cron 触发时 Step 0 检测到"今天已发送"就跳过了 → 当天没有真正的定时早报。
+
+**所以用户对话里触发的永远用 `--test`**。
+
+### Test Mode Flow (用户说"发早报"时)
+
+你的标准操作是**先预览 + 征求确认 + 再发送**：
+
+```bash
+cd ~/code/tang-energy-feed
+# 确保 GEMINI_API_KEY 在当前 shell 环境
 if [ -z "${GEMINI_API_KEY:-}" ] && [ -f ~/.zshrc ]; then
   eval "$(grep '^export GEMINI_API_KEY=' ~/.zshrc)"
 fi
-python3 scripts/fetch_feed.py config.json > /tmp/feed.json 2>&1
-python3 scripts/classify_candidates.py /tmp/feed.json > /tmp/candidates.json 2>&1
-python3 scripts/ai_remix.py config.json /tmp/candidates.json > /tmp/input.json 2>&1
+
+# 只跑到 Step 5（生成 input.json），不发送
+python3 scripts/fetch_feed.py config.json > /tmp/feed.json
+python3 scripts/classify_candidates.py --no-dedup /tmp/feed.json > /tmp/candidates.json
+python3 scripts/ai_remix.py config.json /tmp/candidates.json > /tmp/input.json
 ```
 
-如果任何一步 fail，读错误信息自己尝试修复。常见问题见 "故障排查对照表"。
-
-### 第 2 步 - 读 `/tmp/input.json` 并生成紧凑预览
-
-**用 Read 工具读 /tmp/input.json**，然后用下面的格式告诉用户（**严格控制在 30 行内**）:
+**用 Read 读 /tmp/input.json**，然后给用户一份**紧凑预览**（严格 30 行内）:
 
 ```
-📋 今天的早报预览（<model> 生成）
+📋 今天的早报预览（gemini-3-flash-preview · test 模式）
 
 一、今日最重要：
   1. <title 1>
@@ -239,32 +305,37 @@ python3 scripts/ai_remix.py config.json /tmp/candidates.json > /tmp/input.json 2
   9. <title 9>
   10. <title 10>
 
-💰 铜价：<mean_price> (<change>)
-   判断：<judgment 前 30 字>...
+💰 铜价表格（飞书原生 table 组件，实际渲染为带边框的表格）：
+  | 1#铜均价  | <mean_price>     |
+  | 涨跌      | <change>         |
+  | 价格区间  | <price_range>    |
+  | 产地牌号  | <brand>          |
+  | 日期      | <date>           |
+  判断：<judgment 前 30 字>...
 
 🎯 本周关注（4 条）：
   • <opp 1>
   • <opp 2>
-  • ...
+  • <opp 3>
+  • <opp 4>
 
-要发送到飞书群吗？回复 "发" / "确认" / "go" → 立即推送
-                  回复 "改 X" → 重新生成
-                  回复 "取消" → 不发送
+要发送到飞书群吗？
+  • 回复 "发"/"确认"/"go" → 立即推送（test 模式，不写归档）
+  • 回复 "改 X" → 重新生成
+  • 回复 "取消" → 不发送
 ```
+
+**注意**：铜价预览里显式说"飞书原生 table 组件"，不要让用户误以为发出去会是文本格式。
 
 **停在这里**，等用户明确回复。
 
-### 第 3 步 - 用户确认后立即发送 + 归档
+### 用户确认后发送
 
 ```bash
 cd ~/code/tang-energy-feed
 python3 scripts/build_card.py /tmp/input.json > /tmp/card.json
 
-# 读取 config 里的 chat_id 和 model
 CHAT_ID=$(python3 -c "import json; print(json.load(open('config.json'))['feishu']['chat_id'])")
-MODEL=$(python3 -c "import json; print(json.load(open('config.json'))['ai']['model'])")
-
-# 发送 via lark-cli
 lark-cli im +messages-send \
   --chat-id "$CHAT_ID" \
   --as bot \
@@ -272,232 +343,213 @@ lark-cli im +messages-send \
   --content "$(cat /tmp/card.json)" > /tmp/send_result.json
 
 MESSAGE_ID=$(python3 -c "import json; d=json.load(open('/tmp/send_result.json')); print(d.get('data',{}).get('message_id','unknown'))")
-
-# 读 feed metadata 给归档用
-FEED_GEN=$(python3 -c "import json; print(json.load(open('/tmp/feed.json')).get('generatedAt',''))")
-FEED_TOTAL=$(python3 -c "import json; print(json.load(open('/tmp/feed.json')).get('stats',{}).get('totalArticles',0))")
-
-# 归档
-python3 scripts/archive.py \
-  --input /tmp/input.json \
-  --message-id "$MESSAGE_ID" \
-  --chat-id "$CHAT_ID" \
-  --feed-generated-at "$FEED_GEN" \
-  --feed-total-articles "$FEED_TOTAL" \
-  --model "$MODEL"
+echo "✅ sent: $MESSAGE_ID"
 ```
 
-然后告诉用户:
+**不要跑 archive.py**（这是 test 模式的关键区别）。
+
+告诉用户:
 
 ```
-✅ 已发送到飞书群
+✅ 已发送到飞书群（test 模式）
   • 消息 ID: <message_id>
-  • 模型: <model>
-  • 归档: archive/<year>/<month>/<date>.md
-  • Dedup 缓存已更新（10 个 URL 未来 7 天不再选中）
+  • 模型: gemini-3-flash-preview
 
-请去飞书群确认卡片显示正常 🙏
+因为是 test 模式:
+  • 没有写 .last-sent-date → 明天 10:30 的定时任务仍会正常触发
+  • 没有写归档 → archive/ 目录没有增加文件
+  • 没有更新 dedup 缓存 → 这 10 条 URL 明天仍可被选中
+
+请去飞书群确认卡片显示正常。有任何问题告诉我。
 ```
+
+### Production Mode Flow (launchd / cron 自动触发)
+
+**你本身不会走这个分支**——production 模式是系统调度器（launchd / cron / openclaw）直接调 `run.sh --production`，不经过 AI 对话。
+
+但用户可能会问你"今天定时任务跑了吗？"，这时候你应该:
+
+```bash
+# 查 launchd 日志
+tail -30 /tmp/energy-daily-digest.log 2>/dev/null
+tail -10 /tmp/energy-daily-digest.err 2>/dev/null
+
+# 查归档（如果今天有 production 运行，这里会有文件）
+ls -la ~/code/tang-energy-feed/archive/2026/04/2026-04-11* 2>/dev/null
+
+# 查 .last-sent-date
+cat ~/code/tang-energy-feed/.last-sent-date 2>/dev/null
+```
+
+然后告诉用户状态。
 
 ---
 
-## DAILY-USE B — 今天已经发过了
+## 4. Configuration Handling
 
-触发条件：`.last-sent-date` = 今天。
+用户随时可以用自然语言改配置。你的工作是**读懂意图 + Edit config.json + 告知用户**。
 
-读 `archive/<year>/<month>/<today>-meta.json` 和 `.md`，告诉用户:
-
-```
-今天的早报已经发过了 ✅
-  • 发送时间: <sentAt>
-  • 消息 ID: <messageId>
-  • 归档: archive/<year>/<month>/<today>.md
-
-你想要做什么？
-  • "再发一次" → 重新发送同一份内容（从归档读）
-  • "重新生成" → 删除 last-sent-date 后生成新的一份
-  • "看内容" → 我把今天的 markdown 贴给你看
-  • "什么都不做" → 好的
-```
-
-用 AskUserQuestion 问。
+| 用户说 | 你做 |
+|---|---|
+| "换成 gemini-2.5-pro" | `Edit config.json` 把 `ai.model` 改成 `gemini-2.5-pro` |
+| "发到 oc_xxxxx 这个群" | `Edit config.json` 把 `feishu.chat_id` 改成 oc_xxxxx |
+| "改时间到 11:00" | 改 `launchd/com.tang.energy-daily-digest.plist.template` 的 `StartCalendarInterval`，然后重跑 `launchd/install.sh` |
+| "改成每天 2 次（早晚）" | 同上，加第三个 `StartCalendarInterval` dict |
+| "暂停定时" | `launchctl unload ~/Library/LaunchAgents/com.tang.energy-daily-digest.plist` |
+| "恢复定时" | `launchctl load ~/Library/LaunchAgents/com.tang.energy-daily-digest.plist` |
 
 ---
 
-## 跨平台定时任务
+## 5. 历史查询 / 归档访问
 
-根据 `uname -s` 选择:
+用户可能说"看昨天的早报"、"查 4 月 9 日的早报"。你的工作：
 
-### macOS → launchd
+```bash
+# 列所有归档
+ls ~/code/tang-energy-feed/archive/2026/04/
+
+# 读某一天的 markdown
+cat ~/code/tang-energy-feed/archive/2026/04/2026-04-10.md
+```
+
+然后**把 markdown 内容贴给用户看**（不需要重新渲染成卡片，markdown 本身就是人类可读的）。
+
+如果用户说"重发昨天的"——**不要跑 remix**，直接从归档里的 `input.json` 重新 build_card + 发送:
 
 ```bash
 cd ~/code/tang-energy-feed
-bash launchd/install.sh
-```
-
-`install.sh` 会自动:
-1. 把 `__REPO_ROOT__` 替换成真实路径
-2. 从 `~/.zshrc` 复制 `GEMINI_API_KEY` 到 `~/.bash_profile`（launchd 的 bash -l 能读到）
-3. Unload 老版本 + load 新版本
-4. 验证已注册
-
-### Linux → crontab
-
-```bash
-# 先把当前 crontab 备份
-crontab -l > /tmp/current_crontab 2>/dev/null || true
-
-# 追加我们的任务（双触发：10:30 + 11:00）
-cat >> /tmp/current_crontab << 'CRON'
-
-# tang-energy-feed: daily digest delivery
-30 10 * * * cd ~/code/tang-energy-feed && bash scripts/run.sh >> /tmp/energy-daily-digest.log 2>&1
-0  11 * * * cd ~/code/tang-energy-feed && bash scripts/run.sh >> /tmp/energy-daily-digest.log 2>&1
-CRON
-
-# 安装
-crontab /tmp/current_crontab
-crontab -l | grep energy  # 验证
-```
-
-**注意**: Linux cron 不继承登录 shell 的环境变量。在 crontab 开头加:
-```
-GEMINI_API_KEY=<value>
-PATH=/usr/local/bin:/usr/bin:/bin:/opt/homebrew/bin
-```
-
-或者让 `run.sh` 自己 `source ~/.bashrc`。
-
-### Windows → schtasks (PowerShell)
-
-用户需要手动做这一步（因为 Windows 没有统一的 shell 可以可靠地跨 WSL/CMD）:
-
-```
-我可以生成 schtasks 命令，但 Windows 的环境变量管理和 UNIX 差很多。
-我建议你在 Windows 上用 WSL2 (Ubuntu)，然后走 Linux 分支的 crontab 方案。
-
-如果你坚持用原生 Windows，我给你生成 schtasks 命令，但你要自己复制到管理员 PowerShell 里跑:
-
-  schtasks /create /tn "EnergyDailyDigest" /tr "wsl.exe bash /home/.../run.sh" ^
-    /sc daily /st 10:30 /rl highest
-
-同时需要你把 GEMINI_API_KEY 存到 Windows 的 "系统环境变量" 里。
-
-要我帮你生成完整的 schtasks 命令吗？
+YESTERDAY=$(date -v -1d +%Y-%m-%d)   # macOS
+# YESTERDAY=$(date -d yesterday +%Y-%m-%d)  # Linux
+YEAR=${YESTERDAY:0:4}
+MONTH=${YESTERDAY:5:2}
+python3 scripts/build_card.py "archive/$YEAR/$MONTH/$YESTERDAY-input.json" > /tmp/card.json
+# ...发送...
 ```
 
 ---
 
-## 故障排查对照表
+## 6. Manual Trigger Words
 
-| 症状 | 检查 | 修复 |
-|---|---|---|
-| Step 5 报 `Missing API key` | 跑 `echo ${#GEMINI_API_KEY}` 看是不是 0 | 在 run.sh 前加 `source ~/.zshrc` 或在 `launchd/install.sh` 复制到 `~/.bash_profile` |
-| Step 5 报 `404 Not Found` (model) | `grep model config.json` | 切到 `gemini-2.5-flash`（最稳）或 `gemini-3-flash-preview` |
-| Step 5 报 `400 response_format not supported` | N/A | 编辑 config.json 把 `response_format_json` 改成 `false` |
-| Step 6 报 `bot is not in the chat` | 跑 `lark-cli im chats list --as bot` | 引导用户去飞书群手动添加机器人 |
-| Step 6 报 `invalid access token` | 跑 `lark-cli auth status` | 重跑 `lark-cli config init` |
-| Step 0 说"今天已发送"但群里没有 | 读 `archive/<today>-meta.json` 看 chatId | 可能发到别的群了，让用户确认 chat_id |
-| launchd 在 10:30 没触发 | `launchctl list \| grep energy`, `cat /tmp/energy-daily-digest.err` | 最常见：`bash -l` 没读到 GEMINI_API_KEY，跑 `bash launchd/install.sh` 重装 |
-| 今天的新闻和昨天重复 | `cat archive/seen-urls.json` | 不应该发生 - 看 classify_candidates 的 stderr 是否有 "Dedup filter: excluding N URLs" |
+用户说下面任何一句话都触发这个 Skill：
+
+- "发早报" / "发送早报" / "推送早报" / "推送今日早报"
+- "发送零碳能源早报" / "发送能源日报" / "发送电力早报"
+- "生成今天的早报" / "今天的能源早报" / "现在发一份早报"
+- "跑一下早报" / "测试早报" / "发一份测试早报"
+- "能源早报" / "零碳早报"
+- "设置早报" / "安装早报系统" / "配置能源早报"
+- "看昨天的早报" / "查早报状态" / "看历史早报"
+- "早报状态" / "早报为什么没发"
 
 ---
 
-## 硬规则（不可协商）
+## 7. Distribution (关键：怎么把这个 Skill 分发给其他 AI)
 
-来自 `~/code/tang-energy-feed/SKILL.md`，Tang 凌晨反复确认过:
+**Tang 的要求**: 只需要把 GitHub URL 发给其他 AI，其他 AI 就能学会用。
 
-1. **身份必须 `--as bot`**，禁止 `--as user`（早报是自动化推送，不是真人发言）
-2. **消息类型必须 `interactive` 卡片**，铜价必须用原生 `table` 组件（不是 markdown 表格、不是 code_block）
+**实现方式** (对齐 Zara Zhang Rui 的 follow-builders):
+
+1. 整个 repo 是 public:
+   `https://github.com/tang730125633/tang-energy-feed`
+
+2. repo 根目录有一份 `SKILL.md`（和 `~/.claude/skills/energy-daily-digest/SKILL.md` 完全一致）
+
+3. 其他用户（比如戴总）对**他自己的 AI**说:
+
+   ```
+   请读这个仓库的 SKILL.md 并帮我安装: https://github.com/tang730125633/tang-energy-feed
+   ```
+
+4. 他的 AI `curl raw.githubusercontent.com/.../SKILL.md`，读到这份文档，就知道:
+   - 触发词是什么
+   - 9 步 onboarding 怎么走
+   - 调度器怎么装
+   - test / production 怎么区分
+   - 硬规则是什么
+   - 出错怎么排查
+
+5. 他的 AI 自己跑 `git clone`、问他 4 个问题、装定时、发第一份测试早报。**戴总全程不碰终端**。
+
+**这就是"一个 URL，任何 AI 都能学会"的实现**。和 Zara 的 follow-builders 架构完全对齐。
+
+---
+
+## 8. 硬规则（不可协商）
+
+1. **身份必须 `--as bot`**，禁止 `--as user`
+2. **消息类型必须 `interactive` 卡片**，铜价必须用原生 `table` 组件（schema 2.0），禁止 markdown 表格或 code_block
 3. **6 板块固定，标题一字不改**:
    - 一、今日最重要（3条）
    - 二、政策与行业（3条）
-   - 三、湖北本地（2条）← 即使没有湖北新闻也必须叫"湖北本地"，用湖北周边省份（河南/湖南/江西/安徽/陕西/重庆/贵州/四川）填充
+   - 三、湖北本地（2条）← 即使没有湖北新闻也必须叫"湖北本地"
    - 四、AI + 电力（2条）
    - 五、铜价与材料（1条）
    - 六、重点机会提示
-4. **永远不接触凭据本身**。GEMINI_API_KEY / LARK_APP_SECRET / 任何 key，你都**不粘贴、不 echo、不写文件**。它们存在用户的 shell 环境变量里。
-5. **AI 不做爬取**。所有原始数据来自 `feed/feed-digest.json`，由上游 GitHub Actions 每天 06:00 BJT 自动更新。你**不上网爬任何能源网站**。
+4. **永远不接触凭据本身** - GEMINI_API_KEY / LARK_APP_SECRET 你都不粘贴、不 echo、不写文件
+5. **AI 不做爬取** - 所有原始数据来自 `feed/feed-digest.json`，由上游 GitHub Actions 每天 06:00 BJT 自动更新
+6. **test 模式不写归档** - 用户对话触发永远用 `--test`
+7. **production 模式只由调度器触发** - 手动别跑 `--production`，除非你明确知道自己在做什么
 
 ---
 
-## 你的人设规则
+## 9. 故障排查对照表
 
-1. **主动执行**: 用户说"发早报"→ 立即 Bash 跑，不要先问"你确定吗"
-2. **预览紧凑**: 10 条新闻 + 铜价 + 4 条关注 ≤ 30 行。用户是在飞书里看手机，不是长文阅读
-3. **自己修 bug**: 能用 Bash / Edit 修的就修（比如模型名错了可以 Edit config.json），不能修的才问用户
-4. **成功给 message_id**: 用户可能后续 debug 或撤回
-5. **尊重归档**: 不覆盖 archive/ 下任何东西，archive.py 是 append-only
-6. **不碰 key**: 永远不 echo `$GEMINI_API_KEY`，不写入任何文件（除非是用户已经在用的 ~/.zshrc）
+| 症状 | 检查 | 修复 |
+|---|---|---|
+| Step 5 `Missing API key` | `echo ${#GEMINI_API_KEY}` | 在 run.sh 前 `eval "$(grep '^export GEMINI_API_KEY=' ~/.zshrc)"` |
+| Step 5 `404 Not Found` | `grep model config.json` | 切到 `gemini-2.5-flash` 或 `gemini-3-flash-preview` |
+| Step 5 `400 response_format` | - | 编辑 config.json 把 `response_format_json` 改成 `false` |
+| Step 6 `bot is not in the chat` | `lark-cli im chats list --as bot` | 引导用户去飞书群手动添加机器人 |
+| Step 6 `invalid access token` | `lark-cli auth status` | 重跑 `lark-cli config init` |
+| Test 后定时任务不跑 | `cat .last-sent-date` | 不应该发生 - test 模式不写这个文件。如果写了说明 mode 判断错了 |
+| 今天的新闻和昨天重复 | `cat archive/seen-urls.json` | 检查是不是用了 `--production` 在多次运行 |
+| launchd 没触发 | `launchctl list \| grep energy`, `cat /tmp/energy-daily-digest.err` | 最常见：`GEMINI_API_KEY` 不在 bash 的 login shell 环境里。跑 `launchd/install.sh` 修复 |
 
 ---
 
-## 关键文件路径速查
+## 10. 关键文件速查
 
 ```
-~/.claude/skills/energy-daily-digest/
-└── SKILL.md                        ← 这个文件（Claude Code 自动加载）
+~/.claude/skills/energy-daily-digest/SKILL.md      ← 这个文件（Claude Code 自动加载）
 
-~/code/tang-energy-feed/             ← Tang 的本地 repo（或戴总的本地 clone）
-├── SKILL.md                        ← repo 内的一份副本，供其他 AI clone 后读
-├── config.json                     ← 本地配置（chat_id + model）
-├── scripts/run.sh                  ← 8 步 delivery workflow 入口
-├── scripts/fetch_feed.py           ← Step 2: 拉 feed JSON
-├── scripts/classify_candidates.py  ← Step 4: 关键词分类 + dedup filter
-├── scripts/ai_remix.py             ← Step 5: 调 Gemini API
-├── scripts/build_card.py           ← Step 6: 构造飞书 interactive 卡片
-├── scripts/archive.py              ← Step 7: 归档 3 文件 + 更新 seen-urls
-├── scripts/render_markdown.py      ← 把 input.json 渲染成人类可读 .md
-├── feed/feed-digest.json           ← 上游 CI 产出（每天 06:00 BJT 自动更新）
-├── archive/                        ← 归档历史（按月组织）
-│   ├── seen-urls.json              ← 7 天滚动 dedup 缓存
-│   └── YYYY/MM/YYYY-MM-DD-{input,meta}.json + .md
+~/code/tang-energy-feed/                           ← 用户本地的 repo
+├── SKILL.md                                       ← repo 内副本，给其他 AI clone 后读
+├── config.json                                    ← 本地配置（chat_id + model，gitignored）
+├── scripts/
+│   ├── run.sh                                     ← 8 步 delivery workflow，支持 --test/--production
+│   ├── fetch_feed.py                              ← Step 2
+│   ├── classify_candidates.py                     ← Step 4（支持 --no-dedup）
+│   ├── ai_remix.py                                ← Step 5 (OpenAI-compatible, Gemini)
+│   ├── build_card.py                              ← Step 6 构造飞书卡片
+│   ├── archive.py                                 ← Step 7 归档（production 专用）
+│   ├── render_markdown.py                         ← 归档 markdown 渲染
+│   ├── send_lark.py                               ← CI 模式纯 Python 发送器
+│   ├── notify.sh                                  ← 失败通知
+│   ├── quality_check.sh                           ← feed 质量检查
+│   ├── show_stats.sh                              ← 统计输出
+│   ├── setup.sh                                   ← 9 步 onboarding（交互脚本版）
+│   └── openclaw-run.sh                            ← OpenClaw 定时任务专用入口
+├── prompts/remix-instructions.md                  ← AI remix 指令
+├── crawlers/                                      ← 上游爬虫（GitHub Actions 跑）
+├── feed/feed-digest.json                          ← CI 每天更新的数据源
+├── archive/                                       ← 生产运行归档（按年月）
+│   ├── seen-urls.json                             ← 7 天滚动 dedup 缓存
+│   └── 2026/04/2026-04-11.{md,json}-{input,meta}  ← 每日 3 个文件
 ├── launchd/
-│   ├── com.tang.energy-daily-digest.plist.template  ← 10:30 + 11:00 双触发
-│   └── install.sh                  ← 一键安装脚本
-└── .last-sent-date                 ← 今日发送成功标记（跨天自动失效）
+│   ├── com.tang.energy-daily-digest.plist.template ← 10:30 + 11:00 双触发
+│   └── install.sh                                 ← 一键安装
+├── .github/workflows/                             ← 上游 CI（daily-crawl + bjx-crawl + daily-digest）
+└── .last-sent-date                                ← production 运行留下的当日标记
 ```
 
 ---
 
-## 分发：这个 Skill 怎么到戴总的 AI 那里？
+## 11. 一句话总结
 
-有两种方式:
+**你的工作是对话 + 自动执行。Tang 的工作是视觉审核 + 决策。**
 
-### 方式 1（推荐）: 分享 GitHub repo 链接
+用户说"发早报"，你立刻跑 pipeline、生成预览、等确认、发送。不要让用户去终端。
+用户说"装早报系统"，你立刻走 9 步 onboarding、自动 clone/配置/装定时、发欢迎早报。不要让用户读 README。
+用户说"看昨天的"，你立刻读归档 markdown 贴出来。不要让用户 `cat` 文件。
 
-把 `https://github.com/tang730125633/tang-energy-feed` 发给戴总。戴总的 AI 只要能访问 GitHub（或者戴总手动 clone），就能看到 repo root 的 `SKILL.md`。
-
-戴总的 AI 读到 SKILL.md 后会知道：
-1. 这是一个自动化早报系统
-2. 触发词是什么
-3. 首次使用时要走 onboarding 流程
-4. 要问用户哪些问题
-5. 平台不同时怎么装定时任务
-
-然后戴总对他的 AI 说"帮我装一下这个早报系统，链接 https://github.com/...", AI 就自己 clone、自己配、自己装定时、自己发第一条测试早报。
-
-**关键**: repo 的 `SKILL.md` 必须和这个 `~/.claude/skills/energy-daily-digest/SKILL.md` **内容一致**。每次修改一份都要 sync 另一份。
-
-### 方式 2: 直接拷贝 Skill 目录
-
-```
-~/.claude/skills/energy-daily-digest/  ← 整个目录打包发送
-```
-
-戴总把它放到自己的 `~/.claude/skills/` 下，重启 Claude Code，Skill 自动加载。
-
-但这个方式只适用于 Claude Code。OpenClaw / Cursor / 其他 AI 可能 Skill 目录位置不一样，所以 **方式 1 更通用**。
-
----
-
-## Tang 反复强调的一句话
-
-> "人只是做视觉上的审核工作，而不是跑脚本去做测试。我们只需要了解 AI 告诉我们的，以及真实做出来的效果如何，再反馈给 AI。"
-
-你的工作是**执行 + 汇报**，**不是指导 + 教学**。Tang 不需要你教他 bash 或 launchd 命令。他只需要:
-- 看到飞书群里出现早报（或你的摘要说明今天因为 X 失败了）
-- 在关键节点视觉审核（"这些新闻 OK 吗？" "要发了吗？"）
-- 偶尔改个配置（"把模型换成 gemini-2.5-pro"）
-
-**你是一个员工，不是老师**。
+**你是员工，不是老师。**
