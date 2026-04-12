@@ -115,9 +115,10 @@ https://raw.githubusercontent.com/tang730125633/tang-energy-feed/main/feed/feed-
 ```
 .../feed/feed-cpnn.json      电网头条
 .../feed/feed-nea.json       国家能源局
-.../feed/feed-iesplaza.json  IESPlaza 综合能源  ← Day 2 新增
+.../feed/feed-china5e.json   中国能源网（7×24 周末也更新）
+.../feed/feed-iesplaza.json  IESPlaza 综合能源  ← 当前已挝，0 articles
 .../feed/feed-ne21.json      世纪新能源网       ← Day 2 新增
-.../feed/feed-bjx.json       北极星电力网       ← Day 3 Playwright 产出
+.../feed/feed-bjx.json       北极星电力网       ← 当前已挝，0 articles
 .../feed/feed-copper.json    长江铜价
 ```
 
@@ -125,18 +126,19 @@ https://raw.githubusercontent.com/tang730125633/tang-energy-feed/main/feed/feed-
 
 ---
 
-## 📊 数据源状态（2026-04-11 实测）
+## 📊 数据源状态（2026-04-12 实测）
 
 | 源 | URL | 状态 | 爬虫方式 | 说明 |
 |---|---|---|---|---|
-| 电网头条 | cpnn.com.cn | ✅ 主力 | 直爬 | 国家电网官媒，~65 articles/day |
-| 国家能源局 | nea.gov.cn | ✅ 政策 | 直爬 | 官方源，~48 articles/day |
-| IESPlaza 综合能源 | iesplaza.com | ✅ 主力 | 直爬（带重试） | **Day 2 新增**，综合能源/VPP，~112 articles/day |
-| 世纪新能源网 | ne21.com | ✅ 垂直 | 直爬（完整 headers） | **Day 2 新增**，光伏/风电/储能 |
-| 长江铜价 | cjys.net | ✅ 稳定 | 直爬 | 明文 HTML 表格 |
-| 北极星电力网 | bjx.com.cn | ⚠️ Playwright | JS 反爬 | **Day 3**：独立 workflow + Chromium bypass |
+| 电网头条 | cpnn.com.cn | ✅ 主力 | 直爬 | 国家电网官媒，~66 articles/day，周末不更新 |
+| 国家能源局 | nea.gov.cn | ✅ 政策 | 直爬 | 官方源，~48 articles/day，周末不更新 |
+| 中国能源网 | china5e.com | ✅ 7×24 | 直爬 | **周末也发稿**，关键的 fallback 源 |
+| 世纪新能源网 | ne21.com | ✅ 垂直 | Playwright | 光伏/风电/储能，需 JS 渲染 |
+| 长江铜价 | cjys.net | ✅ 稳定 | 直爬 | 明文 HTML 表格，工作日更新 |
+| 北极星电力网 | bjx.com.cn | ⚠️ 已挝 | Playwright | 阿里云 WAF 拦截，HTML 结构变了，0 articles |
+| IESPlaza 综合能源 | iesplaza.com | ❌ 已挝 | 直爬 | 服务器拒绝连接，0 articles |
 
-**当前 feed 规模**：单日 ~230 篇去重文章 + 铜价 + 中部能源 21 篇
+**当前 feed 规模**：单日 ~120 篇去重文章 + 铜价 + 中部能源专题。周末会减少，china5e 提供备份。
 
 ---
 
@@ -147,7 +149,7 @@ https://raw.githubusercontent.com/tang730125633/tang-energy-feed/main/feed/feed-
 ```json
 "ai": {
   "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
-  "model": "gemini-3-flash",
+  "model": "gemini-2.5-flash",
   "api_key_env": "GEMINI_API_KEY"
 }
 ```
@@ -174,7 +176,7 @@ tang-energy-feed/
 │
 ├── crawlers/                       # 上游采集（CI 运行）
 │   ├── common.py                   # HTTP/解析/重试/WAF 检测
-│   ├── cpnn.py / nea.py / iesplaza.py / ne21.py / copper.py
+│   ├── cpnn.py / nea.py / china5e.py / iesplaza.py / ne21.py / copper.py
 │   ├── bjx.py / bjx_playwright.py / ne21_playwright.py
 │   ├── enrich_summaries.py         # 详情页 summary 提取（Week 2）
 │   └── aggregate.py                # 聚合 + central-energy 专题（Month 2）
@@ -198,7 +200,7 @@ tang-energy-feed/
 ├── examples/                       # 示例 JSON（candidates/input/card）
 ├── launchd/                        # macOS 定时任务模板
 └── feed/                           # ⭐ CI 产出（自动 commit）
-    ├── feed-cpnn.json / feed-nea.json / feed-iesplaza.json / feed-ne21.json
+    ├── feed-cpnn.json / feed-nea.json / feed-china5e.json / feed-iesplaza.json / feed-ne21.json
     ├── feed-copper.json / feed-bjx.json
     ├── feed-digest.json            # ⭐ 全量订阅 URL
     └── feed-central-energy.json    # ⭐ 中部专题订阅 URL（Month 2）
@@ -233,7 +235,7 @@ cd tang-energy-feed && ./scripts/setup.sh
 
 - [x] **Day 1**：cpnn + nea + copper 三源直爬跑通；本地端到端测试通过
 - [x] **Day 1**：消费端 Skill 包（scripts + prompts + setup.sh）对齐 follow-builders
-- [x] **Day 2**：iesplaza + ne21 两个垂直源（单日 feed 从 113 → 230 篇）
+- [x] **Day 2**：iesplaza + ne21 两个垂直源（单日 feed 从 113 → 230 篇，后 iesplaza 已挝）
 - [x] **Day 3**：Playwright 独立 workflow（bjx-crawl.yml）处理 bjx 的 Aliyun WAF
 - [x] **Week 2**：`enrich_summaries.py` 抓取详情页提取真实 summary（避开站内 boilerplate）
 - [x] **Week 3**：Slack / Discord / 飞书机器人通知 + quality check 阈值告警

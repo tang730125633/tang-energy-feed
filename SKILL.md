@@ -1,6 +1,6 @@
 ---
 name: energy-daily-digest
-description: 零碳能源行业早报 — 对齐 follow-builders 架构的完整自动化早报 Skill。分发方式：将 GitHub repo 链接 https://github.com/tang730125633/tang-energy-feed 发送给任意 AI（Claude Code / OpenClaw / Cursor / 其他），AI 自动 clone repo、读取根目录 SKILL.md、通过对话引导用户完成 onboarding（目标飞书群 / 凭据 / 模型 / 定时时间）、配置定时任务、立即发一份欢迎早报。此后每天自动抓取能源行业数据（cpnn / 国家能源局 / iesplaza / ne21 / 长江铜价）、调用 Gemini API 生成 10 条新闻 + 铜价原生表格 + 本周关注、以 bot 身份推送到飞书群、归档到 git 仓库。具备 test / production 双模式分离：用户对话触发 = test 模式（跳过归档/dedup，人类自由测试不污染历史）；cron/launchd 触发 = production 模式（完整 8 步包含归档和滚动 dedup）。触发词包括"发早报"、"推送今日早报"、"发送零碳能源早报"、"生成今天的早报"、"能源早报"、"推送早报到飞书"、"跑一下早报"、"设置早报"、"安装早报系统"、"配置能源早报"、"看昨天的早报"、"查早报状态"。用户只做视觉审核，不碰终端命令。
+description: 零碳能源行业早报 — 对齐 follow-builders 架构的完整自动化早报 Skill。分发方式：将 GitHub repo 链接 https://github.com/tang730125633/tang-energy-feed 发送给任意 AI（Claude Code / OpenClaw / Cursor / 其他），AI 自动 clone repo、读取根目录 SKILL.md、通过对话引导用户完成 onboarding（目标飞书群 / 凭据 / 模型 / 定时时间）、配置定时任务、立即发一份欢迎早报。此后每天自动抓取能源行业数据（cpnn / 国家能源局 / china5e / ne21 / 长江铜价）、调用 Gemini API 生成 10 条新闻 + 铜价原生表格 + 本周关注、以 bot 身份推送到飞书群、归档到 git 仓库。具备 test / production 双模式分离：用户对话触发 = test 模式（跳过归档/dedup，人类自由测试不污染历史）；cron/launchd 触发 = production 模式（完整 8 步包含归档和滚动 dedup）。触发词包括"发早报"、"推送今日早报"、"发送零碳能源早报"、"生成今天的早报"、"能源早报"、"推送早报到飞书"、"跑一下早报"、"设置早报"、"安装早报系统"、"配置能源早报"、"看昨天的早报"、"查早报状态"。用户只做视觉审核，不碰终端命令。
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep, AskUserQuestion
 ---
 
@@ -60,7 +60,7 @@ echo "last_sent:            $(cat $REPO/.last-sent-date 2>/dev/null || echo neve
 
 ```
 我是零碳能源行业早报助手。这套系统每天会自动:
-  ✅ 抓取 230+ 条能源行业新闻（cpnn / 国家能源局 / iesplaza / ne21 + 长江铜价）
+  ✅ 抓取 120+ 条能源行业新闻（cpnn / 国家能源局 / china5e / ne21 + 长江铜价）
   ✅ 用 Gemini AI 生成 10 条精选新闻 + 铜价判断 + 本周关注
   ✅ 以飞书 interactive 卡片（带原生表格）推送到你指定的群
   ✅ 归档到 git 仓库，支持 7 天滚动 URL 去重
@@ -105,8 +105,8 @@ echo "last_sent:            $(cat $REPO/.last-sent-date 2>/dev/null || echo neve
 
 ```
 用哪个 Gemini 模型生成早报？（都是免费的）
-  A) gemini-3-flash-preview（推荐，最新，质量最高，2026-04-11 已验证）
-  B) gemini-2.5-flash（稳定版，配额更宽松）
+  A) gemini-2.5-flash（推荐，稳定，配额宽松，2026-04-12 已验证）
+  B) gemini-2.5-pro（质量更高但配额严格，可能撞到上限）
   C) gemini-2.5-pro（质量更高但配额严格，可能撞到上限）
 ```
 
@@ -288,7 +288,7 @@ python3 scripts/ai_remix.py config.json /tmp/candidates.json > /tmp/input.json
 **用 Read 读 /tmp/input.json**，然后给用户一份**紧凑预览**（严格 30 行内）:
 
 ```
-📋 今天的早报预览（gemini-3-flash-preview · test 模式）
+📋 今天的早报预览（gemini-2.5-flash · test 模式）
 
 一、今日最重要：
   1. <title 1>
@@ -353,7 +353,7 @@ echo "✅ sent: $MESSAGE_ID"
 ```
 ✅ 已发送到飞书群（test 模式）
   • 消息 ID: <message_id>
-  • 模型: gemini-3-flash-preview
+  • 模型: gemini-2.5-flash
 
 因为是 test 模式:
   • 没有写 .last-sent-date → 明天 10:30 的定时任务仍会正常触发
@@ -497,7 +497,7 @@ python3 scripts/build_card.py "archive/$YEAR/$MONTH/$YESTERDAY-input.json" > /tm
 | 症状 | 检查 | 修复 |
 |---|---|---|
 | Step 5 `Missing API key` | `echo ${#GEMINI_API_KEY}` | 在 run.sh 前 `eval "$(grep '^export GEMINI_API_KEY=' ~/.zshrc)"` |
-| Step 5 `404 Not Found` | `grep model config.json` | 切到 `gemini-2.5-flash` 或 `gemini-3-flash-preview` |
+| Step 5 `404 Not Found` | `grep model config.json` | 切到 `gemini-2.5-flash`（稳定版，推荐）|
 | Step 5 `400 response_format` | - | 编辑 config.json 把 `response_format_json` 改成 `false` |
 | Step 6 `bot is not in the chat` | `lark-cli im chats list --as bot` | 引导用户去飞书群手动添加机器人 |
 | Step 6 `invalid access token` | `lark-cli auth status` | 重跑 `lark-cli config init` |
@@ -544,7 +544,39 @@ python3 scripts/build_card.py "archive/$YEAR/$MONTH/$YESTERDAY-input.json" > /tm
 
 ---
 
-## 11. 一句话总结
+## 11. 数据源健康状态（2026-04-12 实测）
+
+| 源 | 域名 | 状态 | 爬虫方式 | 说明 |
+|---|---|---|---|---|
+| 电网头条 | cpnn.com.cn | ✅ 主力 | 直爬 | ~66 articles/day，周末不更新 |
+| 国家能源局 | nea.gov.cn | ✅ 政策 | 直爬 | ~48 articles/day，周末不更新 |
+| 中国能源网 | china5e.com | ✅ 7×24 | 直爬 | 周末也发稿，关键的 fallback 源 |
+| 世纪新能源 | ne21.com | ✅ 垂直 | Playwright | 光伏/风电/储能，需 JS 渲染 |
+| 长江铜价 | cjys.net | ✅ 稳定 | 直爬 | 工作日更新 |
+| 北极星电力 | bjx.com.cn | ⚠️ 已挝 | Playwright | 阿里云 WAF 拦截，HTML 结构变了，0 articles |
+| IESPlaza | iesplaza.com | ❌ 已挝 | 直爬 | 服务器拒绝连接，0 articles |
+
+**当前实际 feed 规模**：~120 篇去重文章 + 铜价。周末会减少（政府网站休息），china5e 提供周末备份。
+
+---
+
+## 11. 数据源健康状态（2026-04-12 实测）
+
+| 源 | 域名 | 状态 | 爬虫方式 | 说明 |
+|---|---|---|---|---|
+| 电网头条 | cpnn.com.cn | ✅ 主力 | 直爬 | ~66 articles/day，周末不更新 |
+| 国家能源局 | nea.gov.cn | ✅ 政策 | 直爬 | ~48 articles/day，周末不更新 |
+| 中国能源网 | china5e.com | ✅ 7×24 | 直爬 | 周末也发稿，关键的 fallback 源 |
+| 世纪新能源 | ne21.com | ✅ 垂直 | Playwright | 光伏/风电/储能，需 JS 渲染 |
+| 长江铜价 | cjys.net | ✅ 稳定 | 直爬 | 工作日更新 |
+| 北极星电力 | bjx.com.cn | ⚠️ 已挂 | Playwright | 阿里云 WAF 拦截，HTML 结构变了，0 articles |
+| IESPlaza | iesplaza.com | ❌ 已挂 | 直爬 | 服务器拒绝连接，0 articles |
+
+**当前实际 feed 规模**：~120 篇去重文章 + 铜价。周末会减少（政府网站休息），china5e 提供周末备份。
+
+---
+
+## 12. 一句话总结
 
 **你的工作是对话 + 自动执行。Tang 的工作是视觉审核 + 决策。**
 

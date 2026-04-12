@@ -18,15 +18,14 @@
   "ai": {
     "provider": "gemini",
     "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
-    "model": "gemini-3-flash-preview",
+    "model": "gemini-2.5-flash",
     "api_key_env": "GEMINI_API_KEY",
     "temperature": 0.3,
     "response_format_json": true,
 
-    "_provider_howto": "Any OpenAI-compatible endpoint works. See SKILL.md for the full list. Default is Gemini 3 Flash Preview (free, highest quality as of 2026-04-11).",
+    "_provider_howto": "Any OpenAI-compatible endpoint works. See SKILL.md for the full list. Default is Gemini 2.5 Flash (free, stable, verified 2026-04-12).",
     "_model_alternatives": [
-      "gemini-3-flash-preview (default, latest, 2026-04-11 verified)",
-      "gemini-2.5-flash (stable, very generous free quota)",
+      "gemini-2.5-flash (default, stable, generous free quota, 2026-04-12 verified)",
       "gemini-2.5-pro (higher quality, stricter quota)",
       "deepseek-chat (cheap, good Chinese)",
       "gpt-4o-mini (OpenAI, stable)"
