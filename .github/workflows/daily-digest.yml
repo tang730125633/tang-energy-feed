@@ -94,7 +94,7 @@ jobs:
             "ai": {
               "provider": "gemini",
               "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
-              "model": "gemini-3-flash",
+              "model": "gemini-2.5-flash",
               "api_key_env": "GEMINI_API_KEY",
               "temperature": 0.3,
               "response_format_json": true
