@@ -65,6 +65,9 @@ jobs:
       - name: Crawl iesplaza (综合能源服务网) [Day 2]
         run: python3 crawlers/iesplaza.py > feed/feed-iesplaza.json
 
+      - name: Crawl china5e (中国能源网 — 7×24 fallback source)
+        run: python3 crawlers/china5e.py > feed/feed-china5e.json
+
       # --- JS-challenge crawlers: write placeholder if bjx-crawl.yml
       # hasn't created them yet. Normally the Playwright workflow runs
       # 1 hour before this one and the files already exist. ---

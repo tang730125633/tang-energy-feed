@@ -198,12 +198,32 @@ def main() -> int:
     with central_path.open("w", encoding="utf-8") as f:
         json.dump(central, f, ensure_ascii=False, indent=2)
 
+    # ---- Freshness check: warn if no articles from today or yesterday ----
+    import datetime as dt
+    today = dt.date.today().isoformat()
+    yesterday = (dt.date.today() - dt.timedelta(days=1)).isoformat()
+    fresh_count = sum(
+        1 for a in digest["articles"]
+        if (a.get("publishedAt") or "")[:10] in (today, yesterday)
+    )
+    if fresh_count == 0:
+        print(
+            f"⚠️ FRESHNESS WARNING: 0 articles from {yesterday} or {today}. "
+            "Weekend or crawl issue? Feed will contain older articles.",
+            file=sys.stderr,
+        )
+        digest["warnings"] = digest.get("warnings", []) + [
+            f"No articles from {yesterday} or {today} — "
+            "possibly a weekend or all sources returned older content."
+        ]
+
     # Stderr summary (workflow logs)
     print(
         f"✓ Aggregated: {digest['stats']['totalArticles']} total articles, "
         f"{central['stats']['totalArticles']} central-China articles. "
         f"copper={'yes' if digest.get('copper') else 'no'}, "
-        f"sources={len(digest['sources'])}",
+        f"sources={len(digest['sources'])}, "
+        f"fresh(today+yesterday)={fresh_count}",
         file=sys.stderr,
     )
     return 0
