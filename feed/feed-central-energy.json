@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T22:42:14+00:00",
+  "generatedAt": "2026-04-13T22:52:49+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,67 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260410_1880068",
-      "title": "能源开新局 | 实干笃行，奋楫争先，推动河南能源高质量发展再上新台阶",
-      "url": "https://www.cpnn.com.cn/news/nytt/202604/t20260410_1880068.html",
+      "id": "china5e-1202453",
+      "title": "首季“开门红”|安徽能源集团新能公司利润总额同比增长35%",
+      "url": "https://www.china5e.com/news/news-1202453-1.html",
       "summary": "",
-      "publishedAt": "2026-04-10",
+      "publishedAt": "2026-04-13",
+      "source": "china5e.com",
+      "province": "安徽"
+    },
+    {
+      "id": "china5e-1202464",
+      "title": "江西师范大学“启源科技”团队：突破制氢关键技术，赋能绿氢产业发展",
+      "url": "https://www.china5e.com/news/news-1202464-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-13",
+      "source": "china5e.com",
+      "province": "江西"
+    },
+    {
+      "id": "china5e-1202449",
+      "title": "3月江西省煤炭价格小幅上涨",
+      "url": "https://www.china5e.com/news/news-1202449-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-13",
+      "source": "china5e.com",
+      "province": "江西"
+    },
+    {
+      "id": "china5e-1202448",
+      "title": "一季度皖能集团利润总额同比增长26.2%",
+      "url": "https://www.china5e.com/news/news-1202448-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-13",
+      "source": "china5e.com",
+      "province": "安徽"
+    },
+    {
+      "id": "china5e-1202440",
+      "title": "湖南岳阳市2026年第二季度分布式光伏可开发容量发布",
+      "url": "https://www.china5e.com/news/news-1202440-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-13",
+      "source": "china5e.com",
+      "province": "湖南"
+    },
+    {
+      "id": "cpnn-t20260413_1880568",
+      "title": "国能湖北公司年累计发电量突破100亿千瓦时",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202604/t20260413_1880568.html",
+      "summary": "",
+      "publishedAt": "2026-04-13",
       "source": "cpnn.com.cn",
-      "province": "河南"
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260413_1880414",
+      "title": "皖能马鞍山发电亮出一季度“多维成绩单”",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202604/t20260413_1880414.html",
+      "summary": "",
+      "publishedAt": "2026-04-13",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
     },
     {
       "id": "cpnn-t20260410_1880140",
@@ -57,27 +111,9 @@
       "province": "湖南"
     },
     {
-      "id": "cpnn-t20260409_1879736",
-      "title": "武汉远洋产业园光伏项目顺利并网发电",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202604/t20260409_1879736.html",
-      "summary": "",
-      "publishedAt": "2026-04-09",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
       "id": "cpnn-t20260409_1879646",
       "title": "大唐安徽新能源公司以清单化管理推进学习教育走实见效",
       "url": "https://www.cpnn.com.cn/qiye/guanli/202604/t20260409_1879646.html",
-      "summary": "",
-      "publishedAt": "2026-04-09",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260409_1879639",
-      "title": "大唐安徽当涂发电公司实现一季度“满堂红”",
-      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202604/t20260409_1879639.html",
       "summary": "",
       "publishedAt": "2026-04-09",
       "source": "cpnn.com.cn",
@@ -118,26 +154,17 @@
       "publishedAt": "2026-03-24",
       "source": "cpnn.com.cn",
       "province": "河南"
-    },
-    {
-      "id": "nea-20260319-5ff8ca4eb23f4c9c9e62349a46cf8c10-c",
-      "title": "亚太经合组织能源工作组第71次会议在江西南昌成功举办",
-      "url": "https://www.nea.gov.cn/20260319/5ff8ca4eb23f4c9c9e62349a46cf8c10/c.html",
-      "summary": "",
-      "publishedAt": "2026-03-19",
-      "source": "nea.gov.cn",
-      "province": "江西"
     }
   ],
   "stats": {
-    "totalArticles": 13,
+    "totalArticles": 16,
     "byProvince": {
-      "河南": 3,
-      "安徽": 3,
-      "华中": 2,
-      "湖南": 3,
+      "安徽": 5,
+      "江西": 2,
+      "湖南": 4,
       "湖北": 1,
-      "江西": 1
+      "华中": 2,
+      "河南": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
