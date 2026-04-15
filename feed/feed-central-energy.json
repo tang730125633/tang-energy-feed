@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T22:52:47+00:00",
+  "generatedAt": "2026-04-15T22:50:20+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,20 +12,29 @@
   ],
   "articles": [
     {
-      "id": "china5e-1202529",
-      "title": "匠心铸电，守护万家 | 湖北协思得，电能计量箱与铁附件专业制造商",
-      "url": "https://www.china5e.com/news/news-1202529-1.html",
+      "id": "china5e-1202548",
+      "title": "湖南湘潭：二季度分布式光伏可开放容量18.93万千瓦",
+      "url": "https://www.china5e.com/news/news-1202548-1.html",
       "summary": "",
-      "publishedAt": "2026-04-14",
+      "publishedAt": "2026-04-15",
       "source": "china5e.com",
-      "province": "湖北"
+      "province": "湖南"
     },
     {
-      "id": "cpnn-t20260414_1880888",
-      "title": "我国最北端核电站核心部件用上洛阳造",
-      "url": "https://www.cpnn.com.cn/news/kj/202604/t20260414_1880888.html",
+      "id": "cpnn-t20260415_1881047",
+      "title": "大唐河南清洁能源公司：实干让学习教育落地见效",
+      "url": "https://www.cpnn.com.cn/qiye/guanli/202604/t20260415_1881047.html",
       "summary": "",
-      "publishedAt": "2026-04-14",
+      "publishedAt": "2026-04-15",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260415_1881048",
+      "title": "大唐河南清洁能源公司：线塔上的“智斗计”",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202604/t20260415_1881048.html",
+      "summary": "",
+      "publishedAt": "2026-04-15",
       "source": "cpnn.com.cn",
       "province": "河南"
     },
@@ -66,15 +75,6 @@
       "province": "湖北"
     },
     {
-      "id": "cpnn-t20260409_1879646",
-      "title": "大唐安徽新能源公司以清单化管理推进学习教育走实见效",
-      "url": "https://www.cpnn.com.cn/qiye/guanli/202604/t20260409_1879646.html",
-      "summary": "",
-      "publishedAt": "2026-04-09",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -105,11 +105,10 @@
   "stats": {
     "totalArticles": 10,
     "byProvince": {
-      "湖北": 3,
-      "河南": 2,
-      "华中": 2,
-      "湖南": 2,
-      "安徽": 1
+      "湖南": 3,
+      "河南": 3,
+      "湖北": 2,
+      "华中": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
