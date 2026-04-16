@@ -1,9 +1,33 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-04-15T22:50:09+00:00",
+  "generatedAt": "2026-04-16T22:51:24+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260416-a0df479d9c42427fbc9d8c86ddf6537f-c",
+      "title": "国家能源局在全国部署开展供电质量提升专项行动",
+      "url": "https://www.nea.gov.cn/20260416/a0df479d9c42427fbc9d8c86ddf6537f/c.html",
+      "summary": "",
+      "publishedAt": "2026-04-16",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260416-3c51e47b101e4f2781e04be63c2e90d6-c",
+      "title": "股份经济合作社属于《关于深化提升“获得电力”服务水平 全面打造现代化用电营商环境的意见》（发改能源规〔2025〕624号）中提到的民营经济组织吗？",
+      "url": "https://www.nea.gov.cn/20260416/3c51e47b101e4f2781e04be63c2e90d6/c.html",
+      "summary": "",
+      "publishedAt": "2026-04-16",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260416-dd5f496cc9e542a58bd17e8f5fed06a4-c",
+      "title": "第十四届“魅力之光”核电科普活动首场院士讲座在上海科技馆开讲",
+      "url": "https://www.nea.gov.cn/20260416/dd5f496cc9e542a58bd17e8f5fed06a4/c.html",
+      "summary": "",
+      "publishedAt": "2026-04-16",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260415-5f6d7895513542deb073ce5841a37bc1-c",
       "title": "国家能源局召开能源领域氢能区域试点工作推进会",
@@ -390,7 +414,7 @@
     }
   ],
   "stats": {
-    "articleCount": 48
+    "articleCount": 51
   },
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T22:50:20+00:00",
+  "generatedAt": "2026-04-16T22:51:46+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "china5e-1202548",
-      "title": "湖南湘潭：二季度分布式光伏可开放容量18.93万千瓦",
-      "url": "https://www.china5e.com/news/news-1202548-1.html",
+      "id": "cpnn-t20260416_1881581",
+      "title": "华中能源监管局全面升级区域中长期市场规则体系",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202604/t20260416_1881581.html",
       "summary": "",
-      "publishedAt": "2026-04-15",
-      "source": "china5e.com",
-      "province": "湖南"
+      "publishedAt": "2026-04-16",
+      "source": "cpnn.com.cn",
+      "province": "华中"
     },
     {
       "id": "cpnn-t20260415_1881047",
@@ -55,15 +55,6 @@
       "publishedAt": "2026-04-14",
       "source": "nea.gov.cn",
       "province": "华中"
-    },
-    {
-      "id": "china5e-1202440",
-      "title": "湖南岳阳市2026年第二季度分布式光伏可开发容量发布",
-      "url": "https://www.china5e.com/news/news-1202440-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-13",
-      "source": "china5e.com",
-      "province": "湖南"
     },
     {
       "id": "cpnn-t20260413_1880568",
@@ -103,12 +94,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 10,
+    "totalArticles": 9,
     "byProvince": {
-      "湖南": 3,
+      "华中": 3,
       "河南": 3,
       "湖北": 2,
-      "华中": 2
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
