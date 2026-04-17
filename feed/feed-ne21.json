@@ -1,52 +1,13 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-04-16T21:52:57+00:00",
+  "generatedAt": "2026-04-17T21:53:33+00:00",
   "lookbackHours": 48,
-  "articles": [
-    {
-      "id": "ne21-226500",
-      "title": "权威认证！弘正储能新一代快速频率响应装置，让新能源电站“主动稳频”",
-      "url": "https://www.ne21.com/news/show-226500.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-226498",
-      "title": "独立储能真的赚钱吗？4月23日，相约广州专场沙龙，聊一聊独立储能的收益与运营",
-      "url": "https://www.ne21.com/news/show-226498.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-226497",
-      "title": "41号令7月1日施行｜国能日新合规解决方案，助力新能源与储能顺利达标",
-      "url": "https://www.ne21.com/news/show-226497.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-226496",
-      "title": "中西绿色合作新亮点丨海辰储能落子西班牙 吴祖钰出席西班牙首相企业家见面会",
-      "url": "https://www.ne21.com/news/show-226496.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-226495",
-      "title": "黑龙江安达经开区零碳园区建设服务招标",
-      "url": "https://www.ne21.com/news/show-226495.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    }
-  ],
+  "articles": [],
   "stats": {
-    "articleCount": 5
+    "articleCount": 0
   },
-  "errors": []
+  "errors": [
+    "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
+  ]
 }
