@@ -1,9 +1,33 @@
 {
   "source": "china5e.com",
   "sourceName": "中国能源网",
-  "generatedAt": "2026-04-17T22:51:17+00:00",
+  "generatedAt": "2026-04-18T22:42:46+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "china5e-1202714",
+      "title": "国网吕梁供电公司:检修淡季冲刺不停步 百强创建再攀新高峰",
+      "url": "https://www.china5e.com/news/news-1202714-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-18",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202716",
+      "title": "华北油田首个集中式风电项目——任丘150兆瓦风电进入全面攻坚阶段",
+      "url": "https://www.china5e.com/news/news-1202716-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-18",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202715",
+      "title": "议程提前解锁！ 2026电化学储能安全大会暨储能系列标准研讨会即将开幕！",
+      "url": "https://www.china5e.com/news/news-1202715-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-18",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1202709",
       "title": "晋能控股集团金鼎公司：精耕经营强管理 实干攻坚谱新篇",
@@ -77,14 +101,6 @@
       "source": "china5e.com"
     },
     {
-      "id": "china5e-1202704",
-      "title": "国网重庆潼南供电公司：实战化练兵 让无人机成为电网应急“千里眼”",
-      "url": "https://www.china5e.com/news/news-1202704-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-17",
-      "source": "china5e.com"
-    },
-    {
       "id": "china5e-1202686",
       "title": "宁德时代2026年Q1储能销量约50GWh",
       "url": "https://www.china5e.com/news/news-1202686-1.html",
@@ -104,22 +120,6 @@
       "id": "china5e-1202684",
       "title": "总投资6亿，山东200MW/400MWh独立储能项目即将投运",
       "url": "https://www.china5e.com/news/news-1202684-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-17",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1202683",
-      "title": "聚力绿色新动能 宿迁宿豫新能源产业筑强发展引擎",
-      "url": "https://www.china5e.com/news/news-1202683-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-17",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1202682",
-      "title": "从“煤海”到“氢谷” 山西“氢”装迈向千亿级新赛道",
-      "url": "https://www.china5e.com/news/news-1202682-1.html",
       "summary": "",
       "publishedAt": "2026-04-17",
       "source": "china5e.com"
@@ -373,6 +373,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1202683",
+      "title": "聚力绿色新动能 宿迁宿豫新能源产业筑强发展引擎",
+      "url": "https://www.china5e.com/news/news-1202683-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1202680",
       "title": "孟津区：“超级充电宝”为绿色低碳转型“蓄能”",
       "url": "https://www.china5e.com/news/news-1202680-1.html",
@@ -494,7 +502,7 @@
     }
   ],
   "stats": {
-    "articleCount": 61
+    "articleCount": 62
   },
   "errors": []
 }

@@ -1,57 +1,89 @@
 {
-  "generatedAt": "2026-04-17T22:51:17+00:00",
+  "generatedAt": "2026-04-18T22:42:47+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-04-17T21:53:32+00:00",
+      "generatedAt": "2026-04-18T21:43:05+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-04-17T22:51:17+00:00",
-      "articleCount": 61,
+      "generatedAt": "2026-04-18T22:42:46+00:00",
+      "articleCount": 62,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-04-17T22:51:03+00:00",
+      "generatedAt": "2026-04-18T22:42:31+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-04-17T22:50:59+00:00",
+      "generatedAt": "2026-04-18T22:42:29+00:00",
       "articleCount": 76,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-04-17T22:51:09+00:00",
+      "generatedAt": "2026-04-18T22:42:38+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-04-17T21:53:33+00:00",
-      "articleCount": 0,
-      "hasErrors": true
+      "generatedAt": "2026-04-18T21:43:13+00:00",
+      "articleCount": 3,
+      "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-04-17T22:51:01+00:00",
+      "generatedAt": "2026-04-18T22:42:30+00:00",
       "articleCount": 53,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1202714",
+      "title": "国网吕梁供电公司:检修淡季冲刺不停步 百强创建再攀新高峰",
+      "url": "https://www.china5e.com/news/news-1202714-1.html",
+      "summary": "三月是电网检修的传统淡季，却是线损管理的“黄金窗口”。孝义公司没有满足于去年百强县的成功，而是将其视为新的起点。公司全面复盘并优化了去年形成的一套成熟打法——T-1主动治理、日分析日通报、所长负责制、理论线损赋值保障等机制，在淡季期间加码发力，推动各项指标稳步攀升。",
+      "publishedAt": "2026-04-18",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202716",
+      "title": "华北油田首个集中式风电项目——任丘150兆瓦风电进入全面攻坚阶段",
+      "url": "https://www.china5e.com/news/news-1202716-1.html",
+      "summary": "4月17日，华北油田任丘150兆瓦风电项目建设现场鏖战正酣，多个关键作业面同步推进，施工全面进入攻坚阶段。截至目前，项目已完成12台风机基础浇筑、3个风机混塔组装，220千伏升压站土建施工全面展开。各环节紧密衔接，标志着华北油田绿色转型工程稳步推进。",
+      "publishedAt": "2026-04-18",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202715",
+      "title": "议程提前解锁！ 2026电化学储能安全大会暨储能系列标准研讨会即将开幕！",
+      "url": "https://www.china5e.com/news/news-1202715-1.html",
+      "summary": "4月23日至24日，2026电化学储能安全大会暨储能系列标准研讨会将在湖北省宜昌市隆重举行，会议议程抢先看!",
+      "publishedAt": "2026-04-18",
+      "source": "china5e.com"
+    },
+    {
+      "id": "cpnn-t20260418_1882036",
+      "title": "中能观察丨2040年我国核电装机规模将达2亿千瓦",
+      "url": "https://www.cpnn.com.cn/news/hy/202604/t20260418_1882036.html",
+      "summary": "“‘十五五’时期是核能发展的重要战略机遇期。预计到2040年我国核电装机规模将达2亿千瓦。”在4月17日召开的2026春季核能可持续发展论坛上，中国核能行业协会轮值理事长杨长利表示。",
+      "publishedAt": "2026-04-18",
+      "source": "cpnn.com.cn"
+    },
     {
       "id": "china5e-1202709",
       "title": "晋能控股集团金鼎公司：精耕经营强管理 实干攻坚谱新篇",
@@ -125,14 +157,6 @@
       "source": "china5e.com"
     },
     {
-      "id": "china5e-1202704",
-      "title": "国网重庆潼南供电公司：实战化练兵 让无人机成为电网应急“千里眼”",
-      "url": "https://www.china5e.com/news/news-1202704-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-04-17",
-      "source": "china5e.com"
-    },
-    {
       "id": "china5e-1202686",
       "title": "宁德时代2026年Q1储能销量约50GWh",
       "url": "https://www.china5e.com/news/news-1202686-1.html",
@@ -153,23 +177,6 @@
       "title": "总投资6亿，山东200MW/400MWh独立储能项目即将投运",
       "url": "https://www.china5e.com/news/news-1202684-1.html",
       "summary": "该项目总投资6亿元，2025年完成工程总承包(EPC)招标后，由东方旭能(山东)科技发展有限公司牵头承建。项目采用磷酸铁锂电池储能技术，规划新建80套5MW/10.03MWh储能单元，配套建设储能变流升压一体机、EMS能量管理系统等核心设备，以集装箱一体化设计方案打造高效储能体系",
-      "publishedAt": "2026-04-17",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1202683",
-      "title": "聚力绿色新动能 宿迁宿豫新能源产业筑强发展引擎",
-      "url": "https://www.china5e.com/news/news-1202683-1.html",
-      "summary": "近日，宿迁时代储能科技有限公司新一代80kW电堆正式下线，500kW功率模块顺利通过客户现场验收，即将交付海外市场。走进企业生产车间，自动化生产线高速运转，阴离子交换膜、密封膜、流道板等液流电池核心组件接连下线，工人们有序开展产品组装与调试工作。",
-      "publishedAt": "2026-04-17",
-      "source": "china5e.com",
-      "province": "河南"
-    },
-    {
-      "id": "china5e-1202682",
-      "title": "从“煤海”到“氢谷” 山西“氢”装迈向千亿级新赛道",
-      "url": "https://www.china5e.com/news/news-1202682-1.html",
-      "summary": "吕梁孝义，氢能重卡驶出鹏飞厂区，穿越太行直抵天津港，全程零排放;朔州平鲁，氢燃料电池发动机生产线满负荷运转，即将配套三一重卡驶向全国市场。这是2026年春天，山西氢能产业的日常图景。",
       "publishedAt": "2026-04-17",
       "source": "china5e.com"
     },
@@ -234,14 +241,6 @@
       "title": "国新办发布会明确非化石能源十年倍增目标！",
       "url": "https://www.cpnn.com.cn/news/hy/202604/t20260417_1881869.html",
       "summary": "发布会上，记者就“十五五”规划《纲要》中提出的“非化石能源十年倍增行动”提问，这一新目标具体指的是能源总量还是能源消费，以及时间表是否以2025年为基础、2035年为终点。",
-      "publishedAt": "2026-04-17",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260417_1881878",
-      "title": "中越联合声明：推动两国电力互联互通合作 积极开展新能源领域合作",
-      "url": "https://www.cpnn.com.cn/news/hy/202604/t20260417_1881878.html",
-      "summary": "4月17日，《中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明》发布。",
       "publishedAt": "2026-04-17",
       "source": "cpnn.com.cn"
     },
@@ -1466,6 +1465,15 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1202683",
+      "title": "聚力绿色新动能 宿迁宿豫新能源产业筑强发展引擎",
+      "url": "https://www.china5e.com/news/news-1202683-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "河南"
+    },
+    {
       "id": "china5e-1202680",
       "title": "孟津区：“超级充电宝”为绿色低碳转型“蓄能”",
       "url": "https://www.china5e.com/news/news-1202680-1.html",
@@ -1584,6 +1592,30 @@
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com"
+    },
+    {
+      "id": "ne21-226535",
+      "title": "数智化突破储能价值边界：华昱欣荣登“中国新型储能百大品牌”",
+      "url": "https://www.ne21.com/news/show-226535.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-226534",
+      "title": "远景田庆军：储能的下半场，从服务电网走向赋能场景",
+      "url": "https://www.ne21.com/news/show-226534.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-226531",
+      "title": "通威太阳能科技金堂基地顺利通过西热光伏组件认证工厂审核",
+      "url": "https://www.ne21.com/news/show-226531.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
     }
   ],
   "copper": {
@@ -1601,11 +1633,12 @@
     }
   },
   "stats": {
-    "totalArticles": 190,
+    "totalArticles": 194,
     "bySource": {
-      "china5e.com": 61,
+      "china5e.com": 62,
       "cpnn.com.cn": 76,
-      "nea.gov.cn": 53
+      "nea.gov.cn": 53,
+      "ne21.com": 3
     },
     "byProvince": {
       "河南": 5,
@@ -1625,12 +1658,6 @@
       "source": "iesplaza.com",
       "errors": [
         "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-      ]
-    },
-    {
-      "source": "ne21.com",
-      "errors": [
-        "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
       ]
     }
   ]
