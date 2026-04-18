@@ -1,13 +1,36 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-04-17T21:53:33+00:00",
+  "generatedAt": "2026-04-18T21:43:13+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-226535",
+      "title": "数智化突破储能价值边界：华昱欣荣登“中国新型储能百大品牌”",
+      "url": "https://www.ne21.com/news/show-226535.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-226534",
+      "title": "远景田庆军：储能的下半场，从服务电网走向赋能场景",
+      "url": "https://www.ne21.com/news/show-226534.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-226531",
+      "title": "通威太阳能科技金堂基地顺利通过西热光伏组件认证工厂审核",
+      "url": "https://www.ne21.com/news/show-226531.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 3
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
