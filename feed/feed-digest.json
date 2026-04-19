@@ -1,57 +1,65 @@
 {
-  "generatedAt": "2026-04-18T22:42:47+00:00",
+  "generatedAt": "2026-04-19T22:43:07+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-04-18T21:43:05+00:00",
+      "generatedAt": "2026-04-19T21:42:59+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-04-18T22:42:46+00:00",
+      "generatedAt": "2026-04-19T22:43:07+00:00",
       "articleCount": 62,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-04-18T22:42:31+00:00",
+      "generatedAt": "2026-04-19T22:42:53+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-04-18T22:42:29+00:00",
+      "generatedAt": "2026-04-19T22:42:50+00:00",
       "articleCount": 76,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-04-18T22:42:38+00:00",
+      "generatedAt": "2026-04-19T22:43:00+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-04-18T21:43:13+00:00",
+      "generatedAt": "2026-04-19T21:43:08+00:00",
       "articleCount": 3,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-04-18T22:42:30+00:00",
+      "generatedAt": "2026-04-19T22:42:52+00:00",
       "articleCount": 53,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260419_1882038",
+      "title": "揭晓！北京国际电影节“短片单元”「能源中国·优秀短片作品」推荐名单",
+      "url": "https://www.cpnn.com.cn/news/hy/202604/t20260419_1882038.html",
+      "summary": "本次活动得到来自全国能源电力行业百余家单位的积极响应，共征集到涵盖电力、油气、煤炭、新能源等能源行业各领域的优秀短片作品1300余部。活动秉持公开、公平、公正原则，邀请国内影视领域具有成就的专家学者出任评委。最终从征集作品中推荐出最佳人气作品1部（由“能源中国”客户端用户推荐产生",
+      "publishedAt": "2026-04-19",
+      "source": "cpnn.com.cn"
+    },
     {
       "id": "china5e-1202714",
       "title": "国网吕梁供电公司:检修淡季冲刺不停步 百强创建再攀新高峰",
@@ -233,14 +241,6 @@
       "title": "我国核电总装机容量达到1.25亿千瓦 居全球第一",
       "url": "https://www.cpnn.com.cn/news/xwtt/202604/t20260417_1881799.html",
       "summary": "4月17日，中国核能行业协会发布《中国核能发展报告2026》蓝皮书。蓝皮书显示，截至目前，我国商运核电机组60台，在建核电机组36台，在建核电规模占全球一半以上，同时核准待建机组还有16台，核电装机规模持续增长，总装机容量达到1.25亿千瓦，居全球第一。",
-      "publishedAt": "2026-04-17",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260417_1881869",
-      "title": "国新办发布会明确非化石能源十年倍增目标！",
-      "url": "https://www.cpnn.com.cn/news/hy/202604/t20260417_1881869.html",
-      "summary": "发布会上，记者就“十五五”规划《纲要》中提出的“非化石能源十年倍增行动”提问，这一新目标具体指的是能源总量还是能源消费，以及时间表是否以2025年为基础、2035年为终点。",
       "publishedAt": "2026-04-17",
       "source": "cpnn.com.cn"
     },
@@ -1635,8 +1635,8 @@
   "stats": {
     "totalArticles": 194,
     "bySource": {
-      "china5e.com": 62,
       "cpnn.com.cn": 76,
+      "china5e.com": 62,
       "nea.gov.cn": 53,
       "ne21.com": 3
     },
