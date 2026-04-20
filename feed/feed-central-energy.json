@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T22:43:07+00:00",
+  "generatedAt": "2026-04-20T22:53:24+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,33 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "china5e-1202766",
+      "title": "湘粤两省电网互联互通工程正式施工建设",
+      "url": "https://www.china5e.com/news/news-1202766-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-20",
+      "source": "china5e.com",
+      "province": "湖南"
+    },
+    {
+      "id": "china5e-1202773",
+      "title": "河南油建承建道真页岩气站投产",
+      "url": "https://www.china5e.com/news/news-1202773-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-20",
+      "source": "china5e.com",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260420_1882189",
+      "title": "湘粤两省电网互联互通工程正式施工建设",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202604/t20260420_1882189.html",
+      "summary": "",
+      "publishedAt": "2026-04-20",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
     {
       "id": "cpnn-t20260417_1881817",
       "title": "河南有望成为全国氢能产业中部示范",
@@ -111,18 +138,9 @@
       "province": "华中"
     },
     {
-      "id": "cpnn-t20260324_1875457",
-      "title": "大唐河南清洁能源杨明武：在平凡岗位书写不凡答卷",
-      "url": "https://www.cpnn.com.cn/qiye/yingcai/202603/t20260324_1875457.html",
-      "summary": "",
-      "publishedAt": "2026-03-24",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "china5e-1202683",
-      "title": "聚力绿色新动能 宿迁宿豫新能源产业筑强发展引擎",
-      "url": "https://www.china5e.com/news/news-1202683-1.html",
+      "id": "china5e-1202742",
+      "title": "河南储能装机3.11GW，平均利用小时数156小时!",
+      "url": "https://www.china5e.com/news/news-1202742-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
@@ -130,11 +148,11 @@
     }
   ],
   "stats": {
-    "totalArticles": 13,
+    "totalArticles": 15,
     "byProvince": {
+      "湖南": 6,
       "河南": 5,
       "华中": 3,
-      "湖南": 4,
       "湖北": 1
     }
   },
