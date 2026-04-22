@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T22:46:39+00:00",
+  "generatedAt": "2026-04-22T22:54:24+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,22 +12,22 @@
   ],
   "articles": [
     {
-      "id": "china5e-1202808",
-      "title": "安徽：鼓励中小型矿山实施资源整合",
-      "url": "https://www.china5e.com/news/news-1202808-1.html",
+      "id": "china5e-1202905",
+      "title": "河南能源集团新疆300万吨煤矿项目进入实质性建设阶段",
+      "url": "https://www.china5e.com/news/news-1202905-1.html",
       "summary": "",
-      "publishedAt": "2026-04-21",
-      "source": "china5e.com",
-      "province": "安徽"
-    },
-    {
-      "id": "china5e-1202812",
-      "title": "河南4个石油天然气探矿权挂牌出让",
-      "url": "https://www.china5e.com/news/news-1202812-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-21",
+      "publishedAt": "2026-04-22",
       "source": "china5e.com",
       "province": "河南"
+    },
+    {
+      "id": "china5e-1202907",
+      "title": "今年一季度湘潭空气质量持续向好",
+      "url": "https://www.china5e.com/news/news-1202907-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-22",
+      "source": "china5e.com",
+      "province": "湖南"
     },
     {
       "id": "cpnn-t20260421_1882586",
@@ -75,42 +75,6 @@
       "province": "河南"
     },
     {
-      "id": "china5e-1202773",
-      "title": "河南油建承建道真页岩气站投产",
-      "url": "https://www.china5e.com/news/news-1202773-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-20",
-      "source": "china5e.com",
-      "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260420_1882189",
-      "title": "湘粤两省电网互联互通工程正式施工建设",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202604/t20260420_1882189.html",
-      "summary": "",
-      "publishedAt": "2026-04-20",
-      "source": "cpnn.com.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260417_1881817",
-      "title": "河南有望成为全国氢能产业中部示范",
-      "url": "https://www.cpnn.com.cn/news/dfny/202604/t20260417_1881817.html",
-      "summary": "",
-      "publishedAt": "2026-04-17",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260416_1881581",
-      "title": "华中能源监管局全面升级区域中长期市场规则体系",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202604/t20260416_1881581.html",
-      "summary": "",
-      "publishedAt": "2026-04-16",
-      "source": "cpnn.com.cn",
-      "province": "华中"
-    },
-    {
       "id": "china5e-1202548",
       "title": "湖南湘潭：二季度分布式光伏可开放容量18.93万千瓦",
       "url": "https://www.china5e.com/news/news-1202548-1.html",
@@ -147,22 +111,31 @@
       "province": "华中"
     },
     {
-      "id": "ne21-226622",
-      "title": "大唐安徽黄山区农夫山泉光伏项目成功备案",
-      "url": "https://www.ne21.com/news/show-226622.html",
+      "id": "china5e-1202868",
+      "title": "重点项目！三峡集团在豫首个抽蓄电站开工",
+      "url": "https://www.china5e.com/news/news-1202868-1.html",
       "summary": "",
       "publishedAt": null,
-      "source": "ne21.com",
-      "province": "安徽"
+      "source": "china5e.com",
+      "province": "河南"
+    },
+    {
+      "id": "china5e-1202812",
+      "title": "河南4个石油天然气探矿权挂牌出让",
+      "url": "https://www.china5e.com/news/news-1202812-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 16,
+    "totalArticles": 13,
     "byProvince": {
-      "安徽": 4,
       "河南": 5,
-      "华中": 3,
-      "湖南": 4
+      "湖南": 4,
+      "安徽": 2,
+      "华中": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
