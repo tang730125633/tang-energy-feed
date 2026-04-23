@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T22:54:24+00:00",
+  "generatedAt": "2026-04-23T22:57:31+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,31 +12,13 @@
   ],
   "articles": [
     {
-      "id": "china5e-1202905",
-      "title": "河南能源集团新疆300万吨煤矿项目进入实质性建设阶段",
-      "url": "https://www.china5e.com/news/news-1202905-1.html",
+      "id": "cpnn-t20260423_1883302",
+      "title": "湖南送广东首次跨电网经营区中长期电力交易达成",
+      "url": "https://www.cpnn.com.cn/news/xny/202604/t20260423_1883302.html",
       "summary": "",
-      "publishedAt": "2026-04-22",
-      "source": "china5e.com",
-      "province": "河南"
-    },
-    {
-      "id": "china5e-1202907",
-      "title": "今年一季度湘潭空气质量持续向好",
-      "url": "https://www.china5e.com/news/news-1202907-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-22",
-      "source": "china5e.com",
-      "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260421_1882586",
-      "title": "重点项目！三峡集团在豫首个抽蓄电站开工",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202604/t20260421_1882586.html",
-      "summary": "",
-      "publishedAt": "2026-04-21",
+      "publishedAt": "2026-04-23",
       "source": "cpnn.com.cn",
-      "province": "河南"
+      "province": "湖南"
     },
     {
       "id": "cpnn-t20260421_1882562",
@@ -75,24 +57,6 @@
       "province": "河南"
     },
     {
-      "id": "china5e-1202548",
-      "title": "湖南湘潭：二季度分布式光伏可开放容量18.93万千瓦",
-      "url": "https://www.china5e.com/news/news-1202548-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-15",
-      "source": "china5e.com",
-      "province": "湖南"
-    },
-    {
-      "id": "china5e-1202440",
-      "title": "湖南岳阳市2026年第二季度分布式光伏可开发容量发布",
-      "url": "https://www.china5e.com/news/news-1202440-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-13",
-      "source": "china5e.com",
-      "province": "湖南"
-    },
-    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -109,33 +73,15 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
-    },
-    {
-      "id": "china5e-1202868",
-      "title": "重点项目！三峡集团在豫首个抽蓄电站开工",
-      "url": "https://www.china5e.com/news/news-1202868-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "河南"
-    },
-    {
-      "id": "china5e-1202812",
-      "title": "河南4个石油天然气探矿权挂牌出让",
-      "url": "https://www.china5e.com/news/news-1202812-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 13,
+    "totalArticles": 7,
     "byProvince": {
-      "河南": 5,
-      "湖南": 4,
+      "湖南": 2,
       "安徽": 2,
-      "华中": 2
+      "华中": 2,
+      "河南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

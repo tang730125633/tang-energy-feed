@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-04-22T22:54:10+00:00",
+  "generatedAt": "2026-04-23T22:55:12+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260423-ba4fc99321fa4da19624eeeb2d5e4135-c",
+      "title": "关于2026年3月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+      "url": "https://www.nea.gov.cn/20260423/ba4fc99321fa4da19624eeeb2d5e4135/c.html",
+      "summary": "",
+      "publishedAt": "2026-04-23",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260421-b96e69f505424e50b24b0d72fc04c0c0-c",
       "title": "国家能源局12398能源监管热线投诉举报处理情况通报（2026年3月）",
@@ -462,7 +470,7 @@
     }
   ],
   "stats": {
-    "articleCount": 57
+    "articleCount": 58
   },
   "errors": []
 }
