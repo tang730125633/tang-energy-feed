@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T22:57:31+00:00",
+  "generatedAt": "2026-04-24T22:48:56+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,51 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "china5e-1203024",
+      "title": "安徽一季度全社会用电899.3亿千瓦时",
+      "url": "https://www.china5e.com/news/news-1203024-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260424_1883469",
+      "title": "河南全面启动省级碳计量中心建设 以“精准标尺”护航绿色转型",
+      "url": "https://www.cpnn.com.cn/news/dfny/202604/t20260424_1883469.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260424_1883482",
+      "title": "国网湖南电力供电服务中心（计量中心）高压计量检测车投用",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202604/t20260424_1883482.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "nea-20260424-6aa74187c47e4731b3b779e8fa767f62-c",
+      "title": "华中监管局召开华中区域（东四省）电力互济技术支持系统建设工作推进会",
+      "url": "https://www.nea.gov.cn/20260424/6aa74187c47e4731b3b779e8fa767f62/c.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
+      "id": "nea-20260424-24125625607c474aa7d2b9e332aed342-c",
+      "title": "湖南能源监管办开展算电协同发展调研",
+      "url": "https://www.nea.gov.cn/20260424/24125625607c474aa7d2b9e332aed342/c.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "nea.gov.cn",
+      "province": "湖南"
+    },
     {
       "id": "cpnn-t20260423_1883302",
       "title": "湖南送广东首次跨电网经营区中长期电力交易达成",
@@ -30,31 +75,22 @@
       "province": "安徽"
     },
     {
-      "id": "nea-20260421-91ac06a3d9304bbfaeda4ac47784ee9f-c",
-      "title": "华东能源监管局会同安徽省能源局赴长丰县调研农村能源革命试点建设情况",
-      "url": "https://www.nea.gov.cn/20260421/91ac06a3d9304bbfaeda4ac47784ee9f/c.html",
+      "id": "china5e-1202548",
+      "title": "湖南湘潭：二季度分布式光伏可开放容量18.93万千瓦",
+      "url": "https://www.china5e.com/news/news-1202548-1.html",
       "summary": "",
-      "publishedAt": "2026-04-21",
-      "source": "nea.gov.cn",
-      "province": "安徽"
+      "publishedAt": "2026-04-15",
+      "source": "china5e.com",
+      "province": "湖南"
     },
     {
-      "id": "nea-20260421-d6e66d21cba740beb6cf79698f90d8f8-c",
-      "title": "华中能源监管局召开供电服务数字化监管功能建设推进会",
-      "url": "https://www.nea.gov.cn/20260421/d6e66d21cba740beb6cf79698f90d8f8/c.html",
+      "id": "china5e-1202440",
+      "title": "湖南岳阳市2026年第二季度分布式光伏可开发容量发布",
+      "url": "https://www.china5e.com/news/news-1202440-1.html",
       "summary": "",
-      "publishedAt": "2026-04-21",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
-      "id": "nea-20260421-809b479634e2455bbb818a1548a0135d-c",
-      "title": "河南能源监管办扎实推进“支部建设提升年”工作走深走实",
-      "url": "https://www.nea.gov.cn/20260421/809b479634e2455bbb818a1548a0135d/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-21",
-      "source": "nea.gov.cn",
-      "province": "河南"
+      "publishedAt": "2026-04-13",
+      "source": "china5e.com",
+      "province": "湖南"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -73,15 +109,33 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
+    },
+    {
+      "id": "china5e-1202812",
+      "title": "河南4个石油天然气探矿权挂牌出让",
+      "url": "https://www.china5e.com/news/news-1202812-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "河南"
+    },
+    {
+      "id": "china5e-1202966",
+      "title": "3月河南省煤炭价格779.61元/吨，环比下跌1.2%",
+      "url": "https://www.china5e.com/news/news-1202966-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 13,
     "byProvince": {
-      "湖南": 2,
       "安徽": 2,
-      "华中": 2,
-      "河南": 1
+      "河南": 3,
+      "湖南": 6,
+      "华中": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

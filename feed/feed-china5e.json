@@ -1,14 +1,532 @@
 {
   "source": "china5e.com",
   "sourceName": "中国能源网",
-  "generatedAt": "2026-04-23T22:57:30+00:00",
+  "generatedAt": "2026-04-24T22:48:55+00:00",
   "lookbackHours": 72,
-  "articles": [],
+  "articles": [
+    {
+      "id": "china5e-1203034",
+      "title": "MediaTek正式亮相主动式智能体座舱解决方案 助推行业迈入AI定义汽车新时代",
+      "url": "https://www.china5e.com/news/news-1203034-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203033",
+      "title": "从“人治”到“智治”，远光软件打造企业穿透式监管“智慧大脑”",
+      "url": "https://www.china5e.com/news/news-1203033-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203031",
+      "title": "奇点大会｜中能拾贝刘勇：数据与知识双轮驱动，解锁工业AI工程化落地核心路径",
+      "url": "https://www.china5e.com/news/news-1203031-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203029",
+      "title": "深度智控入选中国信通院算电协同攻坚单位，以源网荷储综合能源平台赋能新基建",
+      "url": "https://www.china5e.com/news/news-1203029-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203023",
+      "title": "拾贝故障预测与健康管理CyberwPHM：24小时在线，让运维从“被动抢修”迈入“主动预判”的全新阶段",
+      "url": "https://www.china5e.com/news/news-1203023-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203038",
+      "title": "国网吴堡县供电公司：集约监测揪隐患 “稽查+专业”解难题",
+      "url": "https://www.china5e.com/news/news-1203038-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203037",
+      "title": "重庆石柱：夯基固本练内功 实战练兵强技能",
+      "url": "https://www.china5e.com/news/news-1203037-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203032",
+      "title": "国网龙岩供电公司:以书为媒 以读促行 掀起“全民阅读活动周”热潮",
+      "url": "https://www.china5e.com/news/news-1203032-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203025",
+      "title": "日本福岛核事故反应堆内部测得“极高”水平核辐射",
+      "url": "https://www.china5e.com/news/news-1203025-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203024",
+      "title": "安徽一季度全社会用电899.3亿千瓦时",
+      "url": "https://www.china5e.com/news/news-1203024-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203021",
+      "title": "大唐领域控股宣布启动磷酸铁锂储能项目投资",
+      "url": "https://www.china5e.com/news/news-1203021-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203011",
+      "title": "一罐绿色甲醇背后的制度破冰",
+      "url": "https://www.china5e.com/news/news-1203011-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203009",
+      "title": "东林学子研发木质素双功能燃料电池 让林业剩余物变身",
+      "url": "https://www.china5e.com/news/news-1203009-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203001",
+      "title": "深耕“绿氢”产业链 打造转型新引擎",
+      "url": "https://www.china5e.com/news/news-1203001-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203000",
+      "title": "山西省独立储能电站达25座",
+      "url": "https://www.china5e.com/news/news-1203000-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203039",
+      "title": "中国石油长庆石化精细化管控实现一季度能耗压降5%",
+      "url": "https://www.china5e.com/news/news-1203039-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202987",
+      "title": "长江扬州段一季度原油吞吐量实现井喷式增长",
+      "url": "https://www.china5e.com/news/news-1202987-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203020",
+      "title": "3月宁夏煤炭价格大幅下降",
+      "url": "https://www.china5e.com/news/news-1203020-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203018",
+      "title": "准能集团两矿初步设计通过市能源局审批",
+      "url": "https://www.china5e.com/news/news-1203018-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203017",
+      "title": "电厂节前补库 煤价何去何从?",
+      "url": "https://www.china5e.com/news/news-1203017-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203016",
+      "title": "电厂库存跌至三年最低!今年淡季煤价不淡",
+      "url": "https://www.china5e.com/news/news-1203016-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203015",
+      "title": "节前补库及迎峰度夏预期较为乐观，动力煤整体看涨情绪升温",
+      "url": "https://www.china5e.com/news/news-1203015-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203030",
+      "title": "苏伊士重庆有机溶剂循环利用项目举行开工活动 支持工业园区可持续发展",
+      "url": "https://www.china5e.com/news/news-1203030-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203019",
+      "title": "一季度！延庆空气质量全市第一！",
+      "url": "https://www.china5e.com/news/news-1203019-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203008",
+      "title": "Everllence预警：实现IMO温室气体战略目标或存在50GW缺口",
+      "url": "https://www.china5e.com/news/news-1203008-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203002",
+      "title": "紧跟质量强国+绿色转型导向，东方雨虹连续第18年披露ESG报告",
+      "url": "https://www.china5e.com/news/news-1203002-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203022",
+      "title": "2026除醛市场迭代！蕴岛全场景长效净化：新房除甲醛新趋势",
+      "url": "https://www.china5e.com/news/news-1203022-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202956",
+      "title": "今年3月欧盟油价大涨 柴油价格环比增长逾19%",
+      "url": "https://www.china5e.com/news/news-1202956-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-23",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202975",
+      "title": "第三届海南国际游艇设计大赛颁奖典礼闪耀消博会，全球创意锚定绿色智能新航向",
+      "url": "https://www.china5e.com/news/news-1202975-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-23",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202974",
+      "title": "碳足迹服务商阳光慧碳：从核算到减排，如何为企业铺设碳关税“绿色通道”",
+      "url": "https://www.china5e.com/news/news-1202974-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-23",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202910",
+      "title": "乌鲁木齐中石油昆仑鑫泰燃气有限公司北疆片区各项目公司",
+      "url": "https://www.china5e.com/news/news-1202910-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-22",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202900",
+      "title": "乌鲁木齐中石油昆仑鑫泰燃气有限公司北疆片区各项目公司",
+      "url": "https://www.china5e.com/news/news-1202900-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-22",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202867",
+      "title": "广东电价突然飙至1元 / 度?分布式光伏业主别错过这波红利!",
+      "url": "https://www.china5e.com/news/news-1202867-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-22",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202548",
+      "title": "湖南湘潭：二季度分布式光伏可开放容量18.93万千瓦",
+      "url": "https://www.china5e.com/news/news-1202548-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-15",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202476",
+      "title": "我国主导的首个零碳城市国际标准发布 助力可持续城市和社区实现净零碳排放目标",
+      "url": "https://www.china5e.com/news/news-1202476-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-14",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202440",
+      "title": "湖南岳阳市2026年第二季度分布式光伏可开发容量发布",
+      "url": "https://www.china5e.com/news/news-1202440-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-13",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202467",
+      "title": "2026碳足迹企业推荐-必维全流程碳足迹合规与减排",
+      "url": "https://www.china5e.com/news/news-1202467-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-13",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202292",
+      "title": "绿色工厂认证遇阻？中正能源“5+X”零投入光伏模式，让企业先减碳后拿证",
+      "url": "https://www.china5e.com/news/news-1202292-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-08",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202204",
+      "title": "屋顶光伏装上“智能阀门”，一年可为广州新增绿电超1.5亿度",
+      "url": "https://www.china5e.com/news/news-1202204-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-07",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202087",
+      "title": "潜心钻研促研发 伏能科技团队核心实验圆满收官 取得阶段性突破",
+      "url": "https://www.china5e.com/news/news-1202087-1.html",
+      "summary": "",
+      "publishedAt": "2026-04-02",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202566",
+      "title": "亚洲液化天然气进口量降至6年最低",
+      "url": "https://www.china5e.com/news/news-1202566-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202991",
+      "title": "宝丰能源(600989)：1Q26业绩高增长 煤制烯烃高盈利有望延续",
+      "url": "https://www.china5e.com/news/news-1202991-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202988",
+      "title": "国际能源署署长称中东危机为“史上最大能源安全威胁”",
+      "url": "https://www.china5e.com/news/news-1202988-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202934",
+      "title": "川投能源(600674)：雅砻江贡献九成利润 银江水电驱动主业增长",
+      "url": "https://www.china5e.com/news/news-1202934-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202979",
+      "title": "国家能源局：全国累计发电装机容量39.6亿千瓦，同比增长15.5%",
+      "url": "https://www.china5e.com/news/news-1202979-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202888",
+      "title": "大同至怀来至天津南1000千伏特高压工程天津段全面开工",
+      "url": "https://www.china5e.com/news/news-1202888-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202999",
+      "title": "延边州首个百兆瓦级独立构网型储能电站开建",
+      "url": "https://www.china5e.com/news/news-1202999-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202998",
+      "title": "总投资约7亿!遵义市首个大型独立储能电站开工建设",
+      "url": "https://www.china5e.com/news/news-1202998-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202996",
+      "title": "首批74辆醇氢新能源清运车投用 减排超八成",
+      "url": "https://www.china5e.com/news/news-1202996-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202839",
+      "title": "重庆气矿今年累产天然气超8.9亿立方米",
+      "url": "https://www.china5e.com/news/news-1202839-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202812",
+      "title": "河南4个石油天然气探矿权挂牌出让",
+      "url": "https://www.china5e.com/news/news-1202812-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203013",
+      "title": "MTB：榆林煤矿本周价格公布，进口煤好贵呀!",
+      "url": "https://www.china5e.com/news/news-1203013-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202967",
+      "title": "中煤能源：预计2026年煤炭价格将稳定向好",
+      "url": "https://www.china5e.com/news/news-1202967-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202966",
+      "title": "3月河南省煤炭价格779.61元/吨，环比下跌1.2%",
+      "url": "https://www.china5e.com/news/news-1202966-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202965",
+      "title": "3月内蒙古煤炭价格686.04元/吨，环比下降1.7%",
+      "url": "https://www.china5e.com/news/news-1202965-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202959",
+      "title": "动力煤挺价观望;焦炭暂稳运行;焦煤需求支撑较强",
+      "url": "https://www.china5e.com/news/news-1202959-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1201234",
+      "title": "内蒙古自治区呼伦贝尔市2026年分布式能源工作方案发布",
+      "url": "https://www.china5e.com/news/news-1201234-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1200788",
+      "title": "河北南网首次应用分布式光伏与微网台区储能开展联合调峰",
+      "url": "https://www.china5e.com/news/news-1200788-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1202215",
+      "title": "英国确认将于2027年1月启动“碳关税”",
+      "url": "https://www.china5e.com/news/news-1202215-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1201628",
+      "title": "上海推出全国首个碳信托",
+      "url": "https://www.china5e.com/news/news-1201628-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1201279",
+      "title": "河北将打造一批零碳工厂",
+      "url": "https://www.china5e.com/news/news-1201279-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1200510",
+      "title": "我国首个海上CCUS项目规模化注入二氧化碳超30万吨",
+      "url": "https://www.china5e.com/news/news-1200510-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1118435",
+      "title": "全球可再生能源并购交易额在2021年上半年飙升",
+      "url": "https://www.china5e.com/news/news-1118435-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1118225",
+      "title": "2021年上半年新能源汽车产销创历史新高",
+      "url": "https://www.china5e.com/news/news-1118225-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1117139",
+      "title": "江苏​前5个月新建新能源汽车充电设施超2.7万根",
+      "url": "https://www.china5e.com/news/news-1117139-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 65
   },
-  "errors": [
-    "/news/ error: ReadTimeout: HTTPSConnectionPool(host='www.china5e.com', port=443): Read timed out. (read timeout=20)",
-    "homepage error: ReadTimeout: HTTPSConnectionPool(host='www.china5e.com', port=443): Read timed out. (read timeout=20)"
-  ]
+  "errors": []
 }
