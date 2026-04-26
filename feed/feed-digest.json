@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-04-25T22:46:21+00:00",
+  "generatedAt": "2026-04-26T22:49:21+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-04-25T21:44:24+00:00",
+      "generatedAt": "2026-04-26T21:48:26+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-04-25T22:46:21+00:00",
+      "generatedAt": "2026-04-26T22:49:21+00:00",
       "articleCount": 65,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-04-25T22:46:11+00:00",
+      "generatedAt": "2026-04-26T22:49:10+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-04-25T22:46:08+00:00",
-      "articleCount": 81,
+      "generatedAt": "2026-04-26T22:49:07+00:00",
+      "articleCount": 80,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-04-25T22:46:17+00:00",
+      "generatedAt": "2026-04-26T22:49:17+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-04-25T21:44:33+00:00",
+      "generatedAt": "2026-04-26T21:48:35+00:00",
       "articleCount": 5,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-04-25T22:46:10+00:00",
+      "generatedAt": "2026-04-26T22:49:09+00:00",
       "articleCount": 58,
       "hasErrors": false
     }
@@ -313,14 +313,6 @@
       "id": "cpnn-t20260424_1883514",
       "title": "我国首个“双碳”综合评价考核办法落地",
       "url": "https://www.cpnn.com.cn/news/hy/202604/t20260424_1883514.html",
-      "summary": "",
-      "publishedAt": "2026-04-24",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260424_1883512",
-      "title": "探寻宁波新型电力系统建设的实践路径",
-      "url": "https://www.cpnn.com.cn/news/hy/202604/t20260424_1883512.html",
       "summary": "",
       "publishedAt": "2026-04-24",
       "source": "cpnn.com.cn"
@@ -1753,10 +1745,10 @@
     }
   },
   "stats": {
-    "totalArticles": 209,
+    "totalArticles": 208,
     "bySource": {
       "china5e.com": 65,
-      "cpnn.com.cn": 81,
+      "cpnn.com.cn": 80,
       "nea.gov.cn": 58,
       "ne21.com": 5
     },
