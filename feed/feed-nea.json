@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-04-26T22:49:09+00:00",
+  "generatedAt": "2026-04-27T22:58:12+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260427-09f3dbc015664a74b9cbe2444c4891bf-c",
+      "title": "国家能源局新闻发布会文字实录",
+      "url": "https://www.nea.gov.cn/20260427/09f3dbc015664a74b9cbe2444c4891bf/c.html",
+      "summary": "",
+      "publishedAt": "2026-04-27",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260424-6c9209aa061049c88f9d54bcbd95d274-c",
       "title": "2026年1-3月全国电力市场交易电量同比增长25.6%",
@@ -101,24 +109,16 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260424-2cc51bea265540b1b70bc3393a2caaee-c",
-      "title": "贵州能源监管办召开电力市场监管暨风险防控工作会",
-      "url": "https://www.nea.gov.cn/20260424/2cc51bea265540b1b70bc3393a2caaee/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-24",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260424-deb474d93ced404096f04ca313030670-c",
-      "title": "新型储能赋能电力系统调节能力提升",
-      "url": "https://www.nea.gov.cn/20260424/deb474d93ced404096f04ca313030670/c.html",
+      "id": "nea-20260424-05f5cfe1ff89490495ae1db8fb1c4932-c",
+      "title": "国家能源局召开长三角电力市场建设专题推进会",
+      "url": "https://www.nea.gov.cn/20260424/05f5cfe1ff89490495ae1db8fb1c4932/c.html",
       "summary": "",
       "publishedAt": "2026-04-24",
       "source": "nea.gov.cn"
     },
     {
       "id": "nea-20260424-eabd20fe34ea4a44b5e6ce85490fe787-c",
-      "title": "受权发布丨中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见",
+      "title": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见",
       "url": "https://www.nea.gov.cn/20260424/eabd20fe34ea4a44b5e6ce85490fe787/c.html",
       "summary": "",
       "publishedAt": "2026-04-24",
@@ -136,14 +136,6 @@
       "id": "nea-20260424-b0da25deedfd40fdb8b1e505716b2958-c",
       "title": "粤港澳大湾区首台“华龙一号”核电机组投产发电",
       "url": "https://www.nea.gov.cn/20260424/b0da25deedfd40fdb8b1e505716b2958/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-24",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260424-05f5cfe1ff89490495ae1db8fb1c4932-c",
-      "title": "国家能源局召开长三角电力市场建设专题推进会",
-      "url": "https://www.nea.gov.cn/20260424/05f5cfe1ff89490495ae1db8fb1c4932/c.html",
       "summary": "",
       "publishedAt": "2026-04-24",
       "source": "nea.gov.cn"
@@ -282,22 +274,6 @@
       "url": "https://www.nea.gov.cn/20260410/e6878b71396d4f28b92af40a65e38f81/c.html",
       "summary": "",
       "publishedAt": "2026-04-10",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260408-de79c1606947448cb4fca23f83f4f471-c",
-      "title": "国家能源局召开2026年第一次能源监管工作例会",
-      "url": "https://www.nea.gov.cn/20260408/de79c1606947448cb4fca23f83f4f471/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-08",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260408-8a4f53eb155346eb962d19392ab27894-c",
-      "title": "国家能源局召开全国可再生能源电力开发建设月度（3月）调度会",
-      "url": "https://www.nea.gov.cn/20260408/8a4f53eb155346eb962d19392ab27894/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-08",
       "source": "nea.gov.cn"
     },
     {
@@ -470,7 +446,7 @@
     }
   ],
   "stats": {
-    "articleCount": 58
+    "articleCount": 55
   },
   "errors": []
 }
