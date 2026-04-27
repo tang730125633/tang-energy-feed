@@ -1,52 +1,13 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-04-26T21:48:35+00:00",
+  "generatedAt": "2026-04-27T22:00:29+00:00",
   "lookbackHours": 48,
-  "articles": [
-    {
-      "id": "ne21-737",
-      "title": "CDM碳交易",
-      "url": "https://www.ne21.com/news/list-737.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-226758",
-      "title": "电价改革前夜，我们回访了那个储能自投近亿元的企业",
-      "url": "https://www.ne21.com/news/show-226758.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-226754",
-      "title": "异质结技术如何突破太空光伏的死亡三角？",
-      "url": "https://www.ne21.com/news/show-226754.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-226753",
-      "title": "携手新材料上市企业，弘正储能智慧能源方案护航高端制造",
-      "url": "https://www.ne21.com/news/show-226753.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-226752",
-      "title": "2026零碳园区服务商竞争力评估与排名发布",
-      "url": "https://www.ne21.com/news/show-226752.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    }
-  ],
+  "articles": [],
   "stats": {
-    "articleCount": 5
+    "articleCount": 0
   },
-  "errors": []
+  "errors": [
+    "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
+  ]
 }
