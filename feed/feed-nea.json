@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-04-27T22:58:12+00:00",
+  "generatedAt": "2026-04-28T23:01:28+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260428-580e910ff2344b59bac10f9f10fb580f-c",
+      "title": "能源行业核电标准化技术委员会召开年度会议",
+      "url": "https://www.nea.gov.cn/20260428/580e910ff2344b59bac10f9f10fb580f/c.html",
+      "summary": "",
+      "publishedAt": "2026-04-28",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260427-09f3dbc015664a74b9cbe2444c4891bf-c",
       "title": "国家能源局新闻发布会文字实录",
@@ -61,6 +69,14 @@
       "source": "nea.gov.cn"
     },
     {
+      "id": "nea-20260424-05f5cfe1ff89490495ae1db8fb1c4932-c",
+      "title": "国家能源局召开长三角电力市场建设专题推进会",
+      "url": "https://www.nea.gov.cn/20260424/05f5cfe1ff89490495ae1db8fb1c4932/c.html",
+      "summary": "",
+      "publishedAt": "2026-04-24",
+      "source": "nea.gov.cn"
+    },
+    {
       "id": "nea-20260424-fb0deb5749fc4ae8acb851ce090d0126-c",
       "title": "南方能源监管局持续推进监管方式 创新赋能供电服务提升",
       "url": "https://www.nea.gov.cn/20260424/fb0deb5749fc4ae8acb851ce090d0126/c.html",
@@ -96,22 +112,6 @@
       "id": "nea-20260424-24125625607c474aa7d2b9e332aed342-c",
       "title": "湖南能源监管办开展算电协同发展调研",
       "url": "https://www.nea.gov.cn/20260424/24125625607c474aa7d2b9e332aed342/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-24",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260424-e3f5f23744b34165b67929da90940435-c",
-      "title": "四川能源监管办联合四川电力调控中心开展主题党日活动",
-      "url": "https://www.nea.gov.cn/20260424/e3f5f23744b34165b67929da90940435/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-24",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260424-05f5cfe1ff89490495ae1db8fb1c4932-c",
-      "title": "国家能源局召开长三角电力市场建设专题推进会",
-      "url": "https://www.nea.gov.cn/20260424/05f5cfe1ff89490495ae1db8fb1c4932/c.html",
       "summary": "",
       "publishedAt": "2026-04-24",
       "source": "nea.gov.cn"
@@ -229,14 +229,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260414-ebea57a0010e4b769b734702e1d350ee-c",
-      "title": "中共国家能源局党组第五轮巡视公告",
-      "url": "https://www.nea.gov.cn/20260414/ebea57a0010e4b769b734702e1d350ee/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-14",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260413-4d06c6ff1a8242049faa1adea7cd5823-c",
       "title": "国家能源局与中国气象局举行工作座谈会 推动能源气象合作升级 保障能源强国建设",
       "url": "https://www.nea.gov.cn/20260413/4d06c6ff1a8242049faa1adea7cd5823/c.html",
@@ -264,14 +256,6 @@
       "id": "nea-20260410-86735e174dbc4b6d9aae243232330edf-c",
       "title": "国家能源局党组举办理论学习中心组学习（扩大）会议暨树立和践行正确政绩观学习教育专题读书班",
       "url": "https://www.nea.gov.cn/20260410/86735e174dbc4b6d9aae243232330edf/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-10",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260410-e6878b71396d4f28b92af40a65e38f81-c",
-      "title": "国家能源局党组部署开展第五、第六轮巡视工作",
-      "url": "https://www.nea.gov.cn/20260410/e6878b71396d4f28b92af40a65e38f81/c.html",
       "summary": "",
       "publishedAt": "2026-04-10",
       "source": "nea.gov.cn"
@@ -338,14 +322,6 @@
       "url": "https://www.nea.gov.cn/20260312/dd031108771444f39f2e8f5a06006cba/c.html",
       "summary": "",
       "publishedAt": "2026-03-12",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260123-e2b3590a80d145ef94c5258de64f6bb0-c",
-      "title": "国家能源局关于5起供电企业影响市场公平竞争典型问题的通报",
-      "url": "https://www.nea.gov.cn/20260123/e2b3590a80d145ef94c5258de64f6bb0/c.html",
-      "summary": "",
-      "publishedAt": "2026-01-23",
       "source": "nea.gov.cn"
     },
     {
@@ -446,7 +422,7 @@
     }
   ],
   "stats": {
-    "articleCount": 55
+    "articleCount": 52
   },
   "errors": []
 }

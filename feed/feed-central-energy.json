@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T22:58:27+00:00",
+  "generatedAt": "2026-04-28T23:01:44+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,24 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260428_1884329",
+      "title": "湖南能源监管办启动新质生产力用户供电质量保障调研工作",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202604/t20260428_1884329.html",
+      "summary": "",
+      "publishedAt": "2026-04-28",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "cpnn-t20260428_1884328",
+      "title": "湖南能源监管办开展防汛安全专项督导检查",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202604/t20260428_1884328.html",
+      "summary": "",
+      "publishedAt": "2026-04-28",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
     {
       "id": "nea-20260424-6aa74187c47e4731b3b779e8fa767f62-c",
       "title": "华中监管局召开华中区域（东四省）电力互济技术支持系统建设工作推进会",
@@ -57,6 +75,15 @@
       "province": "湖南"
     },
     {
+      "id": "cpnn-t20260410_1880068",
+      "title": "能源开新局 | 实干笃行，奋楫争先，推动河南能源高质量发展再上新台阶",
+      "url": "https://www.cpnn.com.cn/news/nytt/202604/t20260410_1880068.html",
+      "summary": "",
+      "publishedAt": "2026-04-10",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -76,11 +103,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 10,
     "byProvince": {
+      "湖南": 6,
       "华中": 2,
-      "湖南": 4,
-      "安徽": 1
+      "安徽": 1,
+      "河南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
