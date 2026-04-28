@@ -1,13 +1,28 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-04-27T22:00:29+00:00",
+  "generatedAt": "2026-04-28T22:05:29+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-226853",
+      "title": "2026光伏储能景区充电站建设公司：值得投资的十大品牌揭晓",
+      "url": "https://www.ne21.com/news/show-226853.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-226852",
+      "title": "标准赋能全域落地，多维共治驱动行业升级——2026电化学储能安全大会暨储能系列标准交流会圆满落幕",
+      "url": "https://www.ne21.com/news/show-226852.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 2
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
