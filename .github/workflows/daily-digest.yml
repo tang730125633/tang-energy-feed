@@ -1,46 +1,12 @@
 name: Daily Digest Dispatch (Consumer-side, CI mode)
 
-# Fires every day at UTC 02:30 = 10:30 Beijing time. Runs the FULL
-# consumer-side pipeline entirely inside GitHub Actions:
-#
-#   1. Pull the latest feed-digest.json from this repo's main branch
-#      (which was committed by daily-crawl.yml at 06:00 BJT, 4.5 hours ago)
-#   2. classify → AI remix → build_card → send to Feishu
-#
-# This workflow is for ANYONE (you or a collaborator like 戴总) who wants
-# the daily report delivered to their own Feishu group without maintaining
-# a local cron/launchd job or leaving a computer running 24/7.
-#
-# REQUIRED GitHub secrets (Settings → Secrets and variables → Actions):
-#
-#   GEMINI_API_KEY    — from https://aistudio.google.com/apikey (free)
-#   LARK_APP_ID       — your self-built Feishu app's cli_xxx ID
-#   LARK_APP_SECRET   — your self-built Feishu app's secret
-#   FEISHU_CHAT_ID    — the oc_xxx ID of the group where the bot will post
-#
-# OPTIONAL secrets (for failure notifications):
-#   SLACK_WEBHOOK_URL / LARK_WEBHOOK_URL / DISCORD_WEBHOOK_URL
-#
-# PREREQUISITES (one-time setup for the Feishu bot):
-#   1. Create a self-built app at https://open.feishu.cn/app
-#   2. Enable scope: im:message:send_as_bot
-#   3. Publish a version of the app
-#   4. Add the bot to the target group (群设置 → 群机器人 → 添加)
-#   5. Get the group's chat_id (oc_xxx) by running
-#      `lark-cli im chats list --as bot` once locally (or call the
-#      /open-apis/im/v1/chats API directly)
-#
-# After setup, this workflow delivers the report automatically every day
-# at 10:30 BJT with zero manual intervention. If it fails, the optional
-# notification webhooks tell you.
-
 on:
   schedule:
     - cron: '30 2 * * *'   # UTC 02:30 = 10:30 Beijing
-  workflow_dispatch:        # allow manual triggering from Actions UI
+  workflow_dispatch:
 
 permissions:
-  contents: read   # read-only — this workflow does NOT write back to the repo
+  contents: read
 
 concurrency:
   group: daily-digest
@@ -59,32 +25,30 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install crawler deps (just `requests` for fetch_feed)
+      - name: Install crawler deps
         run: pip install -r crawlers/requirements.txt
 
       - name: Verify all required secrets are set
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
           LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
         run: |
           missing=""
-          [ -z "$GEMINI_API_KEY" ]   && missing="$missing GEMINI_API_KEY"
+          [ -z "$OPENAI_API_KEY" ]   && missing="$missing OPENAI_API_KEY"
           [ -z "$LARK_APP_ID" ]      && missing="$missing LARK_APP_ID"
           [ -z "$LARK_APP_SECRET" ]  && missing="$missing LARK_APP_SECRET"
           [ -z "$FEISHU_CHAT_ID" ]   && missing="$missing FEISHU_CHAT_ID"
           if [ -n "$missing" ]; then
             echo "✗ Missing secrets:$missing"
-            echo ""
-            echo "Set them in: Settings → Secrets and variables → Actions → New repository secret"
             exit 1
           fi
           echo "✓ All 4 required secrets present"
 
       - name: Generate ephemeral config.json from secrets
         run: |
-          cat > config.json << 'EOF'
+          cat > config.json << 'INNEREOF'
           {
             "feed_url": "https://raw.githubusercontent.com/tang730125633/tang-energy-feed/main/feed/feed-digest.json",
             "feishu": {
@@ -92,18 +56,16 @@ jobs:
               "identity": "bot"
             },
             "ai": {
-              "provider": "gemini",
-              "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
-              "model": "gemini-2.5-flash",
-              "api_key_env": "GEMINI_API_KEY",
+              "provider": "openai",
+              "base_url": "https://api.openai.com/v1",
+              "model": "gpt-4o-mini",
+              "api_key_env": "OPENAI_API_KEY",
               "temperature": 0.3,
               "response_format_json": true
             },
             "lookback_hours": 48
           }
-          EOF
-          # Substitute the chat_id from secrets (avoids putting it directly
-          # in the heredoc, which would leak it into shell history)
+          INNEREOF
           python3 -c "
           import json, os
           with open('config.json') as f:
@@ -111,20 +73,20 @@ jobs:
           c['feishu']['chat_id'] = os.environ['FEISHU_CHAT_ID']
           with open('config.json', 'w') as f:
               json.dump(c, f, ensure_ascii=False, indent=2)
-          print('✓ config.json generated (chat_id:', os.environ['FEISHU_CHAT_ID'][:12] + '...)')
+          print('✓ config.json generated')
           "
         env:
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
 
       - name: Run the 6-step delivery pipeline
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
           LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
         run: bash scripts/run.sh
 
-      - name: Cleanup — delete config.json (defence in depth)
+      - name: Cleanup
         if: always()
         run: rm -f config.json
 
@@ -137,5 +99,5 @@ jobs:
         run: |
           bash scripts/notify.sh \
             "tang-energy-feed digest dispatch FAILED" \
-            "Daily digest pipeline failed at ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            "Daily digest pipeline failed at \${{ github.server_url }}/\${{ github.repository }}/actions/runs/\${{ github.run_id }}"
         continue-on-error: true
