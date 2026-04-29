@@ -204,11 +204,16 @@ def validate_input(data: dict) -> None:
                 f"Section '{key}' has {len(s[key])} items, expected {expected}"
             )
         for i, item in enumerate(s[key]):
-            for field in ("title", "url", "summary", "impact"):
+            for field in ("title", "url"):
                 if not item.get(field):
                     raise ValueError(
                         f"Section '{key}' item {i} missing or empty '{field}'"
                     )
+            # Fill missing summary/impact with placeholder instead of failing
+            if not item.get("summary"):
+                item["summary"] = ""
+            if not item.get("impact"):
+                item["impact"] = ""
             if not item["url"].startswith(("http://", "https://")):
                 raise ValueError(
                     f"Section '{key}' item {i} has invalid URL: {item['url'][:60]!r}"
