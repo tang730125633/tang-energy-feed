@@ -1,36 +1,13 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-04-29T22:05:37+00:00",
+  "generatedAt": "2026-04-30T22:02:48+00:00",
   "lookbackHours": 48,
-  "articles": [
-    {
-      "id": "ne21-226892",
-      "title": "研学储能前沿，聚力校企共生 | 华南理工大学EDP理事会名企游学走进智光储能",
-      "url": "https://www.ne21.com/news/show-226892.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-226891",
-      "title": "不止于零排放：地上铁如何让每一台新能源物流车“物尽其用”",
-      "url": "https://www.ne21.com/news/show-226891.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-226890",
-      "title": "聚焦智慧储能：2026年工商业场景优质解决方案服务商全名单",
-      "url": "https://www.ne21.com/news/show-226890.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    }
-  ],
+  "articles": [],
   "stats": {
-    "articleCount": 3
+    "articleCount": 0
   },
-  "errors": []
+  "errors": [
+    "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
+  ]
 }
