@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T23:01:51+00:00",
+  "generatedAt": "2026-04-30T22:59:18+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -28,24 +28,6 @@
       "publishedAt": "2026-04-29",
       "source": "nea.gov.cn",
       "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260428_1884290",
-      "title": "大唐河南清洁能源公司张楠：把温度写进每一件小事里",
-      "url": "https://www.cpnn.com.cn/qiye/yingcai/202604/t20260428_1884290.html",
-      "summary": "",
-      "publishedAt": "2026-04-28",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260421_1882562",
-      "title": "国能安徽宿州电厂熔盐储热项目获国际储能创新大赛十佳",
-      "url": "https://www.cpnn.com.cn/qiye/rongyu/202604/t20260421_1882562.html",
-      "summary": "",
-      "publishedAt": "2026-04-21",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
     },
     {
       "id": "china5e-1202548",
@@ -85,11 +67,10 @@
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 6,
     "byProvince": {
       "华中": 2,
-      "河南": 2,
-      "安徽": 1,
+      "河南": 1,
       "湖南": 3
     }
   },

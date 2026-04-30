@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-04-29T23:01:35+00:00",
+  "generatedAt": "2026-04-30T22:59:03+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -61,6 +61,14 @@
       "source": "nea.gov.cn"
     },
     {
+      "id": "nea-20260429-77ddd08c10304befa9d8482b87d709a7-c",
+      "title": "中乌能源合作分委会第八次会议成功举行",
+      "url": "https://www.nea.gov.cn/20260429/77ddd08c10304befa9d8482b87d709a7/c.html",
+      "summary": "",
+      "publishedAt": "2026-04-29",
+      "source": "nea.gov.cn"
+    },
+    {
       "id": "nea-20260429-d1bf5932116f4ebeaa3fd0dfc16d93a5-c",
       "title": "浙江能源监管办赴宁波调研新型电力系统试点建设情况",
       "url": "https://www.nea.gov.cn/20260429/d1bf5932116f4ebeaa3fd0dfc16d93a5/c.html",
@@ -72,30 +80,6 @@
       "id": "nea-20260429-7dc55ea529ab4a3b8d69dbc3525db4e4-c",
       "title": "河南能源监管办组织召开2026年“获得电力”工作推进会",
       "url": "https://www.nea.gov.cn/20260429/7dc55ea529ab4a3b8d69dbc3525db4e4/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-29",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260429-da76b665401d45959c1700e6801a4269-c",
-      "title": "云南能源监管办深入开展煤电节能减排监管",
-      "url": "https://www.nea.gov.cn/20260429/da76b665401d45959c1700e6801a4269/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-29",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260429-abf2bc683cac4ef1ad5250f5653a4ce8-c",
-      "title": "山东能源监管办开展天然气管道“全省一张网”建设工作调研",
-      "url": "https://www.nea.gov.cn/20260429/abf2bc683cac4ef1ad5250f5653a4ce8/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-29",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260429-77ddd08c10304befa9d8482b87d709a7-c",
-      "title": "中乌能源合作分委会第八次会议成功举行",
-      "url": "https://www.nea.gov.cn/20260429/77ddd08c10304befa9d8482b87d709a7/c.html",
       "summary": "",
       "publishedAt": "2026-04-29",
       "source": "nea.gov.cn"
@@ -438,7 +422,7 @@
     }
   ],
   "stats": {
-    "articleCount": 54
+    "articleCount": 52
   },
   "errors": []
 }
