@@ -1,13 +1,36 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-04-30T22:02:48+00:00",
+  "generatedAt": "2026-05-01T21:58:39+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-226934",
+      "title": "新站落地|携手香港环电嘉，领充新能源开启港岛充电网络新篇章",
+      "url": "https://www.ne21.com/news/show-226934.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-226932",
+      "title": "实力领跑！智光储能斩获中石油2026年储能集采两大标包第一",
+      "url": "https://www.ne21.com/news/show-226932.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-226930",
+      "title": "隆基绿能BC电池驱动100%太阳能赛车 穿越比利时城市公共道路",
+      "url": "https://www.ne21.com/news/show-226930.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 3
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
