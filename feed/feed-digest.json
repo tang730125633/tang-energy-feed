@@ -1,57 +1,89 @@
 {
-  "generatedAt": "2026-04-30T22:59:18+00:00",
+  "generatedAt": "2026-05-01T22:56:21+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-04-30T22:02:17+00:00",
+      "generatedAt": "2026-05-01T21:58:20+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-04-30T22:59:18+00:00",
+      "generatedAt": "2026-05-01T22:56:20+00:00",
       "articleCount": 62,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-04-30T22:59:04+00:00",
+      "generatedAt": "2026-05-01T22:56:09+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-04-30T22:59:02+00:00",
+      "generatedAt": "2026-05-01T22:56:06+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-04-30T22:59:11+00:00",
+      "generatedAt": "2026-05-01T22:56:15+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-04-30T22:02:48+00:00",
-      "articleCount": 0,
-      "hasErrors": true
+      "generatedAt": "2026-05-01T21:58:39+00:00",
+      "articleCount": 3,
+      "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-04-30T22:59:03+00:00",
+      "generatedAt": "2026-05-01T22:56:07+00:00",
       "articleCount": 52,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1203229",
+      "title": "筑牢安全防线 守护绿色生产",
+      "url": "https://www.china5e.com/news/news-1203229-1.html",
+      "summary": "为深刻汲取行业环保设施安全事故与环境污染事件教训，扎实推进“四不伤害月”活动走深走实，近日，陕钢集团汉钢公司烧结厂以保安全、促环保、稳生产为主线，对2台265㎡烧结机及配套全流程环保设备开展安全匹配性专项排查整治，全面提升生产系统与环保系统协同运行水平，全力守牢安全生产底线、生态",
+      "publishedAt": "2026-05-01",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203228",
+      "title": "MAXHUB数字中国峰会发布能源数智化方案，打通“指挥—执行”闭环",
+      "url": "https://www.china5e.com/news/news-1203228-1.html",
+      "summary": "在2026年第九届数字中国建设峰会上，一个清晰的趋势正在形成：数字中国建设，正从“基础设施搭建”迈向“数智化实效释放”。当“有没有系统”不再是问题，“用不用得起来、能不能真正产生价值”成为新的关键。",
+      "publishedAt": "2026-05-01",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203227",
+      "title": "国网邯郸市永年区供电公司：节前全面“体检”电网 筑牢五一保电防线",
+      "url": "https://www.china5e.com/news/news-1203227-1.html",
+      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
+      "publishedAt": "2026-05-01",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203225",
+      "title": "河北曲周：用心守护五一文旅盛宴",
+      "url": "https://www.china5e.com/news/news-1203225-1.html",
+      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
+      "publishedAt": "2026-05-01",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1203220",
       "title": "2026数字中国创新大赛·能源大数据创新应用赛总决赛 在福建福州成功举行",
@@ -77,22 +109,6 @@
       "source": "china5e.com"
     },
     {
-      "id": "china5e-1203187",
-      "title": "一季度全国规模以上文化企业营收同比增长6.4%",
-      "url": "https://www.china5e.com/news/news-1203187-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-04-30",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1203184",
-      "title": "亚行下调今明两年亚太发展中经济体增长预期",
-      "url": "https://www.china5e.com/news/news-1203184-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-04-30",
-      "source": "china5e.com"
-    },
-    {
       "id": "china5e-1203223",
       "title": "满格电力护茶香 临沧凤庆供电局圆满完成2026年红茶节保电任务",
       "url": "https://www.china5e.com/news/news-1203223-1.html",
@@ -112,22 +128,6 @@
       "id": "china5e-1203219",
       "title": "国网忻州供电公司：党建引领聚合力 林电共安筑防线",
       "url": "https://www.china5e.com/news/news-1203219-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-04-30",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1203218",
-      "title": "线路特巡保供电 五一文旅“电力足”—武昌供电中心节前专项行动",
-      "url": "https://www.china5e.com/news/news-1203218-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-04-30",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1203205",
-      "title": "丰宁公司：优质电赋能“致富菌”",
-      "url": "https://www.china5e.com/news/news-1203205-1.html",
       "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
       "publishedAt": "2026-04-30",
       "source": "china5e.com"
@@ -969,6 +969,30 @@
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com"
+    },
+    {
+      "id": "ne21-226934",
+      "title": "新站落地|携手香港环电嘉，领充新能源开启港岛充电网络新篇章",
+      "url": "https://www.ne21.com/news/show-226934.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-226932",
+      "title": "实力领跑！智光储能斩获中石油2026年储能集采两大标包第一",
+      "url": "https://www.ne21.com/news/show-226932.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-226930",
+      "title": "隆基绿能BC电池驱动100%太阳能赛车 穿越比利时城市公共道路",
+      "url": "https://www.ne21.com/news/show-226930.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
     }
   ],
   "copper": {
@@ -986,10 +1010,11 @@
     }
   },
   "stats": {
-    "totalArticles": 114,
+    "totalArticles": 117,
     "bySource": {
       "china5e.com": 62,
-      "nea.gov.cn": 52
+      "nea.gov.cn": 52,
+      "ne21.com": 3
     },
     "byProvince": {
       "华中": 2,
@@ -1007,19 +1032,13 @@
     {
       "source": "cpnn.com.cn",
       "errors": [
-        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f34e89fa6d0>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
+        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7fcc55ebf150>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
       ]
     },
     {
       "source": "iesplaza.com",
       "errors": [
         "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-      ]
-    },
-    {
-      "source": "ne21.com",
-      "errors": [
-        "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
       ]
     }
   ]
