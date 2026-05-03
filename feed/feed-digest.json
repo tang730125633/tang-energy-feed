@@ -1,57 +1,65 @@
 {
-  "generatedAt": "2026-05-02T22:53:36+00:00",
+  "generatedAt": "2026-05-03T22:54:00+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-05-02T21:52:03+00:00",
+      "generatedAt": "2026-05-03T21:53:16+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-05-02T22:53:36+00:00",
+      "generatedAt": "2026-05-03T22:53:59+00:00",
       "articleCount": 62,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-05-02T22:53:27+00:00",
+      "generatedAt": "2026-05-03T22:53:50+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-05-02T22:53:24+00:00",
+      "generatedAt": "2026-05-03T22:53:47+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-05-02T22:53:33+00:00",
+      "generatedAt": "2026-05-03T22:53:56+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-05-02T21:52:11+00:00",
+      "generatedAt": "2026-05-03T21:53:23+00:00",
       "articleCount": 3,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-05-02T22:53:26+00:00",
+      "generatedAt": "2026-05-03T22:53:49+00:00",
       "articleCount": 52,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1203230",
+      "title": "国网吕梁供电公司：电力护航出行路 优质服务进车站",
+      "url": "https://www.china5e.com/news/news-1203230-1.html",
+      "summary": "“五一”假期客流高峰来临，为保障交城火车站用电安全顺畅，守护广大旅客出行用电无忧，5月1日，国网交城县供电公司组织“太行黎明共产党员服务队”和“青年突击队”深入交城火车站开展用电隐患排查及安全用电宣传活动。",
+      "publishedAt": "2026-05-03",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1203229",
       "title": "筑牢安全防线 守护绿色生产",
@@ -121,14 +129,6 @@
       "title": "国网寿阳县供电公司：筑牢充电安全防线 护航五一绿色出行",
       "url": "https://www.china5e.com/news/news-1203221-1.html",
       "summary": "五一假期将至，寿阳县平头镇黑水村福田古镇景区旅游热度持续攀升，新能源车辆充电需求随之增长。为保障游客出行安全便捷，4月29日，国网寿阳县供电公司组织太行黎明共产党员服务队和青年突击队，对罕阳宝通充电站开展节前专项安全用电检查，并面向车主开展安全用电宣传，全力护航假期绿色出行。",
-      "publishedAt": "2026-04-30",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1203219",
-      "title": "国网忻州供电公司：党建引领聚合力 林电共安筑防线",
-      "url": "https://www.china5e.com/news/news-1203219-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
       "publishedAt": "2026-04-30",
       "source": "china5e.com"
     },
@@ -1032,7 +1032,7 @@
     {
       "source": "cpnn.com.cn",
       "errors": [
-        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7fdac7bea690>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
+        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f1b8b3b4050>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
       ]
     },
     {
