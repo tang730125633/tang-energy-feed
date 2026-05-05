@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T23:01:47+00:00",
+  "generatedAt": "2026-05-05T23:00:35+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,15 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260430_1884824",
+      "title": "湖北首次完成“主配微协同”新型电力系统关键验证",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202604/t20260430_1884824.html",
+      "summary": "",
+      "publishedAt": "2026-04-30",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
     {
       "id": "nea-20260429-c79bbb9d6c7b4e8aba8168642c55096d-c",
       "title": "华中能源监管局举办树立和践行正确政绩观学习教育专题读书班",
@@ -67,8 +76,9 @@
     }
   ],
   "stats": {
-    "totalArticles": 6,
+    "totalArticles": 7,
     "byProvince": {
+      "湖北": 1,
       "华中": 2,
       "河南": 1,
       "湖南": 3
