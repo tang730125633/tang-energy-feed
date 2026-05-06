@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T23:00:35+00:00",
+  "generatedAt": "2026-05-06T22:57:24+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,24 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260506_1885307",
+      "title": "华中能源监管局赴新质生产力企业开展供电质量提升专题调研",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202605/t20260506_1885307.html",
+      "summary": "",
+      "publishedAt": "2026-05-06",
+      "source": "cpnn.com.cn",
+      "province": "华中"
+    },
+    {
+      "id": "cpnn-t20260506_1885204",
+      "title": "黑龙江省首次实现绿电外送湖北",
+      "url": "https://www.cpnn.com.cn/news/dfny/202605/t20260506_1885204.html",
+      "summary": "",
+      "publishedAt": "2026-05-06",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
     {
       "id": "cpnn-t20260430_1884824",
       "title": "湖北首次完成“主配微协同”新型电力系统关键验证",
@@ -76,10 +94,10 @@
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 9,
     "byProvince": {
-      "湖北": 1,
-      "华中": 2,
+      "华中": 3,
+      "湖北": 2,
       "河南": 1,
       "湖南": 3
     }
