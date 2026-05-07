@@ -1,13 +1,36 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-05-06T22:03:54+00:00",
+  "generatedAt": "2026-05-07T22:08:27+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-227021",
+      "title": "2026年企业能耗碳排放管理系统十大排名：专业评测与选购指南",
+      "url": "https://www.ne21.com/news/show-227021.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227020",
+      "title": "2026年十大能耗碳排放管理产品综合排名与选型推荐——功能、精度与性价比全面评测",
+      "url": "https://www.ne21.com/news/show-227020.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227019",
+      "title": "国内外双箭齐发，远景全面助力振石股份零碳转型",
+      "url": "https://www.ne21.com/news/show-227019.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 3
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
