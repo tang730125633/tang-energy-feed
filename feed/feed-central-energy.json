@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T22:57:24+00:00",
+  "generatedAt": "2026-05-07T23:04:00+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,22 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260506_1885307",
-      "title": "华中能源监管局赴新质生产力企业开展供电质量提升专题调研",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202605/t20260506_1885307.html",
+      "id": "cpnn-t20260507_1885518",
+      "title": "国家“十四五”重点项目河南巩义后寺河抽蓄电站主体工程建设全面展开",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202605/t20260507_1885518.html",
       "summary": "",
-      "publishedAt": "2026-05-06",
+      "publishedAt": "2026-05-07",
       "source": "cpnn.com.cn",
-      "province": "华中"
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260507_1885569",
+      "title": "大唐淮南田家庵发电：皖美家力量 同心向未来",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202605/t20260507_1885569.html",
+      "summary": "",
+      "publishedAt": "2026-05-07",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
     },
     {
       "id": "cpnn-t20260506_1885204",
@@ -26,15 +35,6 @@
       "url": "https://www.cpnn.com.cn/news/dfny/202605/t20260506_1885204.html",
       "summary": "",
       "publishedAt": "2026-05-06",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260430_1884824",
-      "title": "湖北首次完成“主配微协同”新型电力系统关键验证",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202604/t20260430_1884824.html",
-      "summary": "",
-      "publishedAt": "2026-04-30",
       "source": "cpnn.com.cn",
       "province": "湖北"
     },
@@ -96,9 +96,10 @@
   "stats": {
     "totalArticles": 9,
     "byProvince": {
-      "华中": 3,
-      "湖北": 2,
-      "河南": 1,
+      "河南": 2,
+      "安徽": 1,
+      "湖北": 1,
+      "华中": 2,
       "湖南": 3
     }
   },
