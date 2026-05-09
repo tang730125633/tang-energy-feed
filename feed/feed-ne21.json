@@ -1,13 +1,60 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-05-08T22:04:36+00:00",
+  "generatedAt": "2026-05-09T21:54:11+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-227096",
+      "title": "从英国储能火灾再敲警钟：储能安全，何时从“亡羊补牢”走向“主动防御”？",
+      "url": "https://www.ne21.com/news/show-227096.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227095",
+      "title": "烈火鉴真金｜双登储能液冷集装箱极限火烧测试圆满成功",
+      "url": "https://www.ne21.com/news/show-227095.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227094",
+      "title": "隆基芬兰首个储能项目并网：“全栈隆基”如何征服高纬度极寒与岛屿电网挑战？",
+      "url": "https://www.ne21.com/news/show-227094.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227093",
+      "title": "别再被骗了！固态变压器杀疯了！四部门发文力推！900天零故障+2天交付！1.25MW！从百台到千台，固态变压器正在横扫中国3万亿零碳园区市场",
+      "url": "https://www.ne21.com/news/show-227093.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227092",
+      "title": "全国91.2%，8省低于90%！1-3月光伏消纳情况公布",
+      "url": "https://www.ne21.com/news/show-227092.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227091",
+      "title": "394.7MW！云南5个光伏项目优选业主",
+      "url": "https://www.ne21.com/news/show-227091.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 6
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
