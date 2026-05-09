@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T23:01:17+00:00",
+  "generatedAt": "2026-05-09T22:54:40+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,40 +12,31 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260508_1886017",
-      "title": "河南能源监管办组织宣贯《电力重大事故隐患判定标准及治理监督管理规定》",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202605/t20260508_1886017.html",
+      "id": "cpnn-t20260509_1886481",
+      "title": "河南率先实现电力中长期市场假日连续开市",
+      "url": "https://www.cpnn.com.cn/news/dfny/202605/t20260509_1886481.html",
       "summary": "",
-      "publishedAt": "2026-05-08",
+      "publishedAt": "2026-05-09",
       "source": "cpnn.com.cn",
       "province": "河南"
     },
     {
-      "id": "cpnn-t20260508_1886018",
-      "title": "湖南能源监管办强化电力市场监管保障市场平稳运行",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202605/t20260508_1886018.html",
+      "id": "cpnn-t20260509_1886321",
+      "title": "大唐安徽公司600兆瓦绿电直连风电项目成功核准",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202605/t20260509_1886321.html",
       "summary": "",
-      "publishedAt": "2026-05-08",
+      "publishedAt": "2026-05-09",
       "source": "cpnn.com.cn",
-      "province": "湖南"
+      "province": "安徽"
     },
     {
-      "id": "nea-20260508-ddc9f841fb494e24ab353a308a60e620-c",
-      "title": "湖南能源监管办开展树立和践行正确政绩观学习教育现场活动",
-      "url": "https://www.nea.gov.cn/20260508/ddc9f841fb494e24ab353a308a60e620/c.html",
+      "id": "cpnn-t20260509_1886319",
+      "title": "大唐湖北新能源事业部：集电线路“风控”专巡成功应对“风考”",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202605/t20260509_1886319.html",
       "summary": "",
-      "publishedAt": "2026-05-08",
-      "source": "nea.gov.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260507_1885838",
-      "title": "本月实施！江西规范电力零售市场价格",
-      "url": "https://www.cpnn.com.cn/news/dfny/202605/t20260507_1885838.html",
-      "summary": "",
-      "publishedAt": "2026-05-07",
+      "publishedAt": "2026-05-09",
       "source": "cpnn.com.cn",
-      "province": "江西"
+      "province": "湖北"
     },
     {
       "id": "china5e-1202548",
@@ -85,11 +76,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 7,
     "byProvince": {
       "河南": 1,
-      "湖南": 5,
-      "江西": 1,
+      "安徽": 1,
+      "湖北": 1,
+      "湖南": 3,
       "华中": 1
     }
   },
