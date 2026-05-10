@@ -2,24 +2,24 @@ name: Daily Energy Feed
 
 # Run every day at 22:00 UTC = 06:00 Beijing time.
 #
-# This workflow handles the direct-scrape sources (no JS challenge):
-#   - cpnn.com.cn  (电网头条)
-#   - nea.gov.cn   (国家能源局)
-#   - cjys.net     (long-river copper price)
-#   - iesplaza.com (综合能源服务网 — Day 2 addition)
+# Direct-scrape sources (no JS challenge):
+#   - cpnn.com.cn       (电网头条)
+#   - nea.gov.cn        (国家能源局)
+#   - cjys.net          (长江铜价)
+#   - iesplaza.com      (综合能源服务网 — currently broken, kept as placeholder)
+#   - china5e.com       (中国能源网 — 7×24 fallback)
+#   - xinhuanet.com     (新华社能源频道 — NEW, policy-first)
+#   - chinapower.org.cn (中国电力网 — NEW, industry news)
 #
-# The JS-challenge sources (bjx.com.cn, ne21.com) live in a SEPARATE
-# workflow: .github/workflows/bjx-crawl.yml, which runs 1 hour earlier
-# at 05:00 BJT using Playwright. Its results (feed-bjx.json, feed-ne21.json)
-# are already committed to main by the time this workflow's aggregate
-# step runs, so they'll be picked up automatically.
+# JS-challenge sources live in bjx-crawl.yml (runs 1h earlier via Playwright):
+#   - bjx.com.cn, ne21.com
 #
-# Post-processing chain (Week 2 + Week 3 additions):
-#   1. fetch all sources
-#   2. aggregate into feed-digest.json + feed-central-energy.json
-#   3. enrich summaries (fetch detail pages for top articles)
-#   4. quality check (fail + notify if stats.totalArticles is too low)
-#   5. commit + push
+# Post-processing chain:
+#   1. Crawl all direct-scrape sources
+#   2. Aggregate → feed-digest.json + feed-central-energy.json
+#   3. Enrich summaries
+#   4. Quality check
+#   5. Commit + push
 
 on:
   schedule:
@@ -29,7 +29,6 @@ on:
 permissions:
   contents: write
 
-# Avoid concurrent runs that would race on feed/*.json commits
 concurrency:
   group: daily-crawl
   cancel-in-progress: false
@@ -37,7 +36,7 @@ concurrency:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -50,8 +49,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r crawlers/requirements.txt
 
-      # --- Direct-scrape crawlers (run in parallel conceptually but
-      # serially in a single step for simplicity; each crawler is <2s) ---
+      # --- Existing direct-scrape crawlers ---
 
       - name: Crawl cpnn (电网头条)
         run: python3 crawlers/cpnn.py > feed/feed-cpnn.json
@@ -62,15 +60,23 @@ jobs:
       - name: Crawl copper (长江铜价)
         run: python3 crawlers/copper.py > feed/feed-copper.json
 
-      - name: Crawl iesplaza (综合能源服务网) [Day 2]
+      - name: Crawl iesplaza (综合能源服务网) [placeholder — connection issues]
         run: python3 crawlers/iesplaza.py > feed/feed-iesplaza.json
+        continue-on-error: true
 
-      - name: Crawl china5e (中国能源网 — 7×24 fallback source)
+      - name: Crawl china5e (中国能源网 — 7×24 fallback)
         run: python3 crawlers/china5e.py > feed/feed-china5e.json
 
-      # --- JS-challenge crawlers: write placeholder if bjx-crawl.yml
-      # hasn't created them yet. Normally the Playwright workflow runs
-      # 1 hour before this one and the files already exist. ---
+      # --- New stable sources (replacing bjx + iesplaza when they break) ---
+
+      - name: Crawl xinhua_energy (新华社能源频道 — policy-first, no WAF)
+        run: python3 crawlers/xinhua_energy.py > feed/feed-xinhua.json
+
+      - name: Crawl chinapower (中国电力网 — industry news, 20-40 articles/day)
+        run: python3 crawlers/chinapower.py > feed/feed-chinapower.json
+
+      # --- JS-challenge crawlers: use placeholders if Playwright workflow
+      # hasn't produced the files yet ---
 
       - name: Ensure feed-bjx.json exists (placeholder if playwright workflow hasn't run)
         run: |
@@ -84,27 +90,25 @@ jobs:
             python3 crawlers/ne21.py > feed/feed-ne21.json
           fi
 
-      # --- Aggregate into feed-digest.json + feed-central-energy.json ---
+      # --- Aggregate ---
 
-      - name: "Aggregate (Month 2 — also produces feed-central-energy.json)"
+      - name: Aggregate (produces feed-digest.json + feed-central-energy.json)
         run: python3 crawlers/aggregate.py feed/ > feed/feed-digest.json
 
-      # --- Week 2: fetch detail pages to fill in summaries ---
+      # --- Enrich summaries (best-effort) ---
 
-      - name: Enrich summaries [Week 2]
+      - name: Enrich summaries
         run: python3 crawlers/enrich_summaries.py feed/feed-digest.json
-        continue-on-error: true  # Best-effort; never block the pipeline
+        continue-on-error: true
 
-      # --- Quality check (extracted to separate script to avoid YAML heredoc issues) ---
+      # --- Quality check ---
 
       - name: Quality check
         id: quality
         run: bash scripts/quality_check.sh feed/feed-digest.json
         continue-on-error: true
 
-      # --- Week 3: notify on quality issues ---
-
-      - name: Notify on low quality [Week 3]
+      - name: Notify on low quality
         if: steps.quality.outcome == 'failure'
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
@@ -113,15 +117,13 @@ jobs:
         run: |
           bash scripts/notify.sh \
             "tang-energy-feed quality warning" \
-            "Today's crawl produced a low-quality feed. Check the workflow log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            "Today's crawl produced a low-quality feed. Check: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         continue-on-error: true
-
-      # --- Show final stats (always run, via separate script) ---
 
       - name: Show final stats
         run: bash scripts/show_stats.sh
 
-      # --- Commit and push if the feed changed ---
+      # --- Commit ---
 
       - name: Commit and push if feed changed
         run: |
@@ -132,14 +134,9 @@ jobs:
             echo "No feed changes to commit."
           else
             git commit -m "chore(feed): daily update $(date -u +'%Y-%m-%d %H:%M UTC')"
-            # Rebase-and-push pattern: the bjx-crawl workflow may have
-            # pushed feed-bjx.json / feed-ne21.json between our checkout
-            # and our push, so pull-rebase before pushing.
             git pull --rebase origin main || true
             git push
           fi
-
-      # --- Notify on total pipeline failure ---
 
       - name: Notify on pipeline failure
         if: failure()
@@ -150,5 +147,5 @@ jobs:
         run: |
           bash scripts/notify.sh \
             "tang-energy-feed CRAWL FAILED" \
-            "Daily crawl workflow failed entirely. Investigate: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            "Daily crawl workflow failed. Investigate: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         continue-on-error: true
