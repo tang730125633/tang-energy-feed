@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T22:54:40+00:00",
+  "generatedAt": "2026-05-10T20:14:19+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
@@ -11,28 +11,35 @@
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-05-09T22:54:40+00:00",
+      "generatedAt": "2026-05-10T20:13:53+00:00",
       "articleCount": 59,
+      "hasErrors": false
+    },
+    {
+      "id": "chinapower.org.cn",
+      "name": "中国电力网",
+      "generatedAt": "2026-05-10T20:14:19+00:00",
+      "articleCount": 3,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-05-09T22:54:30+00:00",
+      "generatedAt": "2026-05-10T20:13:43+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-05-09T22:54:28+00:00",
+      "generatedAt": "2026-05-10T20:13:39+00:00",
       "articleCount": 64,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-05-09T22:54:37+00:00",
+      "generatedAt": "2026-05-10T20:13:50+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
@@ -46,8 +53,15 @@
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-05-09T22:54:29+00:00",
+      "generatedAt": "2026-05-10T20:13:41+00:00",
       "articleCount": 51,
+      "hasErrors": false
+    },
+    {
+      "id": "xinhuanet.com",
+      "name": "新华社能源频道",
+      "generatedAt": "2026-05-10T20:13:54+00:00",
+      "articleCount": 5,
       "hasErrors": false
     }
   ],
@@ -253,6 +267,30 @@
       "source": "china5e.com"
     },
     {
+      "id": "chinapower-458266",
+      "title": "“AI+跃升电力智能化”论坛在福州召开",
+      "url": "https://www.chinapower.org.cn/detail/458266.html",
+      "summary": "专家报告环节，中国电机工程学会会士、专委会主任委员、国家电网有限公司一级顾问王继业分享了题为《数据驱动 AI赋能 推动企业高质量发展》的报告，系统分析了发电/用电侧、调控侧、输电/变电/配电等环节的人工智能应用需求、应用范式及落地思路。",
+      "publishedAt": "2026-05-09",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-458263",
+      "title": "破300亿！内蒙古电力集团助企实现“用电数据”变“信贷活水”",
+      "url": "https://www.chinapower.org.cn/detail/458263.html",
+      "summary": "2023年以来，内蒙古电力集团创新打造“蒙电e电通”业务，联动银行机构，将企业用电数据、电费历史账单等关键信息，作为用电企业申请融资的信用评估核心依据，让金融活水直达用电企业。截至5月8日，累计服务内蒙古自治区晶硅光伏材料制造、铁合金制造、化工、煤炭及新能源等企业融资规模突破30",
+      "publishedAt": "2026-05-09",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-458259",
+      "title": "国家电网部署当前重点工作",
+      "url": "https://www.chinapower.org.cn/detail/458259.html",
+      "summary": "日前，国家电网公司召开工作会议部署当前重点工作，提出要牢牢把握“十五五”时期经济社会发展的重大意义，着眼国家需要、服务国家战略，从战略高度谋划好公司“十五五”发展，努力在经济社会发展中发挥“大国重器”“顶梁柱”作用。公司各单位认真贯彻落实会议精神，准确把握“十五五”时期的重要地位",
+      "publishedAt": "2026-05-09",
+      "source": "chinapower.org.cn"
+    },
+    {
       "id": "cpnn-t20260509_1886345",
       "title": "“能源的饭碗必须端在自己手里” ——我国加快能源强国建设筑牢安全发展根基",
       "url": "https://www.cpnn.com.cn/news/xwtt/202605/t20260509_1886345.html",
@@ -272,7 +310,7 @@
       "id": "cpnn-t20260509_1886478",
       "title": "我国储能产品出口迎来爆发式增长",
       "url": "https://www.cpnn.com.cn/news/hy/202605/t20260509_1886478.html",
-      "summary": "当下全球地缘政治扰动频发，多国能源供应稳定性承压，各国愈发重视能源自主与能源安全，持续加大储能设备采购与储能项目布局。2026年一季度，我国储能行业打破传统淡季规律，出口业务迎来爆发式增长。储能设备最核心，最关键的部件之一——锂离子蓄电池出口金额较去年同期增长超过50%。目前，储",
+      "summary": "",
       "publishedAt": "2026-05-09",
       "source": "cpnn.com.cn"
     },
@@ -280,7 +318,7 @@
       "id": "cpnn-t20260509_1886409",
       "title": "我国建成单线产能最大的大丝束碳纤维生产线",
       "url": "https://www.cpnn.com.cn/news/hy/202605/t20260509_1886409.html",
-      "summary": "中国能源新闻网讯（记者 赵悦婧）5月8日，记者从中国石化新闻办获悉，中国石化上海石化年产3万吨大丝束碳纤维建设项目一阶段投料开车并产出合格产品，产品性能达到国际先进水平。整体建设项目依托上海石化自有大丝束碳纤维专利技术以及内蒙古地区丰富的绿电资源，建设更为节能高效的10条碳纤维生",
+      "summary": "",
       "publishedAt": "2026-05-09",
       "source": "cpnn.com.cn"
     },
@@ -288,7 +326,7 @@
       "id": "cpnn-t20260509_1886408",
       "title": "人工智能与能源双向赋能有了路线图！",
       "url": "https://www.cpnn.com.cn/news/hy/202605/t20260509_1886408.html",
-      "summary": "当飞速增长的算力需求遇上深刻变革的能源系统，推动人工智能与能源从“单向支撑”走向“深度融合”，已成为培育新质生产力、建设能源强国的必答题。近日，国家能源局会同国家发展改革委、工业和信息化部、国家数据局印发了《关于促进人工智能与能源双向赋能的行动方案》（国能发科技〔2026〕34号",
+      "summary": "",
       "publishedAt": "2026-05-09",
       "source": "cpnn.com.cn"
     },
@@ -470,6 +508,30 @@
       "summary": "",
       "publishedAt": "2026-05-09",
       "source": "nea.gov.cn"
+    },
+    {
+      "id": "xinhua-d00f5fb400ca",
+      "title": "国家发展改革委 国家能源局 工业和信息化部 国家数据局印发《关于促进人工智能与能源双向赋能的行动方案》的通知",
+      "url": "https://www.xinhuanet.com/energy/20260509/d00f5fb400ca4960ab0ceffefc4564e5/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-09",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-fdd4adad44ee",
+      "title": "中国能源品牌周｜“绿色工业与能源品牌博览会”在京启动",
+      "url": "https://www.xinhuanet.com/energy/20260509/fdd4adad44ee461a9de1fcbf10f88409/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-09",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-e1fa3bb90073",
+      "title": "四部门促进人工智能与能源双向赋能",
+      "url": "https://www.xinhuanet.com/energy/20260509/e1fa3bb9007342f4ac2d7d00658dca29/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-09",
+      "source": "xinhuanet.com"
     },
     {
       "id": "china5e-1203351",
@@ -792,20 +854,28 @@
       "source": "nea.gov.cn"
     },
     {
+      "id": "xinhua-a40e5b4a8601",
+      "title": "秦海岩：以航运为起点，以能源安全为锚：谈绿色甲醇与绿氨的战略定位与发展路径",
+      "url": "https://www.xinhuanet.com/energy/20260508/a40e5b4a860142faaff6816b2a2b989b/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-08",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-c9456b9da8ec",
+      "title": "找准赛道拥抱绿色能源",
+      "url": "https://www.xinhuanet.com/energy/20260508/c9456b9da8ec4a70aad71c34bbb769e0/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-08",
+      "source": "xinhuanet.com"
+    },
+    {
       "id": "china5e-1203288",
       "title": "国际能源署：2025年甲烷排放仍居高位",
       "url": "https://www.china5e.com/news/news-1203288-1.html",
       "summary": "",
       "publishedAt": "2026-05-07",
       "source": "china5e.com"
-    },
-    {
-      "id": "cpnn-t20260507_1885385",
-      "title": "新疆首个绿电直连算电协同示范项目获批",
-      "url": "https://www.cpnn.com.cn/news/xwtt/202605/t20260507_1885385.html",
-      "summary": "",
-      "publishedAt": "2026-05-07",
-      "source": "cpnn.com.cn"
     },
     {
       "id": "cpnn-t20260507_1885825",
@@ -870,6 +940,14 @@
       "summary": "",
       "publishedAt": "2026-04-30",
       "source": "china5e.com"
+    },
+    {
+      "id": "cpnn-t20260430_1884758",
+      "title": "我国首个引入民营资本参与建设的核电项目投产发电",
+      "url": "https://www.cpnn.com.cn/news/xwtt/202604/t20260430_1884758.html",
+      "summary": "",
+      "publishedAt": "2026-04-30",
+      "source": "cpnn.com.cn"
     },
     {
       "id": "cpnn-t20260430_1884751",
@@ -1515,11 +1593,13 @@
     }
   },
   "stats": {
-    "totalArticles": 180,
+    "totalArticles": 188,
     "bySource": {
       "china5e.com": 59,
+      "chinapower.org.cn": 3,
       "cpnn.com.cn": 64,
       "nea.gov.cn": 51,
+      "xinhuanet.com": 5,
       "ne21.com": 6
     },
     "byProvince": {
