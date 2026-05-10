@@ -31,12 +31,14 @@ jobs:
       - name: Verify all required secrets are set
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
           LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
         run: |
           missing=""
           [ -z "$OPENAI_API_KEY" ]   && missing="$missing OPENAI_API_KEY"
+          [ -z "$OPENAI_BASE_URL" ]  && missing="$missing OPENAI_BASE_URL"
           [ -z "$LARK_APP_ID" ]      && missing="$missing LARK_APP_ID"
           [ -z "$LARK_APP_SECRET" ]  && missing="$missing LARK_APP_SECRET"
           [ -z "$FEISHU_CHAT_ID" ]   && missing="$missing FEISHU_CHAT_ID"
@@ -44,9 +46,13 @@ jobs:
             echo "✗ Missing secrets:$missing"
             exit 1
           fi
-          echo "✓ All 4 required secrets present"
+          echo "✓ All required secrets present"
 
       - name: Generate ephemeral config.json from secrets
+        env:
+          FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
         run: |
           cat > config.json << 'INNEREOF'
           {
@@ -57,8 +63,8 @@ jobs:
             },
             "ai": {
               "provider": "openai",
-              "base_url": "https://api.openai.com/v1",
-              "model": "gpt-4o-mini",
+              "base_url": "__OPENAI_BASE_URL__",
+              "model": "__OPENAI_MODEL__",
               "api_key_env": "OPENAI_API_KEY",
               "temperature": 0.3,
               "response_format_json": true
@@ -71,12 +77,16 @@ jobs:
           with open('config.json') as f:
               c = json.load(f)
           c['feishu']['chat_id'] = os.environ['FEISHU_CHAT_ID']
+          c['ai']['base_url'] = os.environ.get('OPENAI_BASE_URL', 'https://api.openai.com/v1').rstrip('/')
+          model = os.environ.get('OPENAI_MODEL', '').strip()
+          if model:
+              c['ai']['model'] = model
           with open('config.json', 'w') as f:
               json.dump(c, f, ensure_ascii=False, indent=2)
           print('✓ config.json generated')
+          print('  base_url:', c['ai']['base_url'])
+          print('  model:   ', c['ai']['model'])
           "
-        env:
-          FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
 
       - name: Run the 6-step delivery pipeline
         env:
@@ -99,5 +109,5 @@ jobs:
         run: |
           bash scripts/notify.sh \
             "tang-energy-feed digest dispatch FAILED" \
-            "Daily digest pipeline failed at \${{ github.server_url }}/\${{ github.repository }}/actions/runs/\${{ github.run_id }}"
+            "Daily digest pipeline failed at ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         continue-on-error: true
