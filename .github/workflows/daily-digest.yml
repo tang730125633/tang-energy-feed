@@ -31,12 +31,16 @@ jobs:
       - name: Verify all required secrets are set
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
           LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
         run: |
           missing=""
           [ -z "$OPENAI_API_KEY" ]   && missing="$missing OPENAI_API_KEY"
+          [ -z "$OPENAI_BASE_URL" ]  && missing="$missing OPENAI_BASE_URL"
+          [ -z "$OPENAI_MODEL" ]     && missing="$missing OPENAI_MODEL"
           [ -z "$LARK_APP_ID" ]      && missing="$missing LARK_APP_ID"
           [ -z "$LARK_APP_SECRET" ]  && missing="$missing LARK_APP_SECRET"
           [ -z "$FEISHU_CHAT_ID" ]   && missing="$missing FEISHU_CHAT_ID"
@@ -44,7 +48,7 @@ jobs:
             echo "✗ Missing secrets:$missing"
             exit 1
           fi
-          echo "✓ All 4 required secrets present"
+          echo "✓ All required secrets present"
 
       - name: Generate ephemeral config.json from secrets
         run: |
@@ -57,8 +61,8 @@ jobs:
             },
             "ai": {
               "provider": "openai",
-              "base_url": "https://api.openai.com/v1",
-              "model": "gpt-4o-mini",
+              "base_url": "__OPENAI_BASE_URL__",
+              "model": "__OPENAI_MODEL__",
               "api_key_env": "OPENAI_API_KEY",
               "temperature": 0.3,
               "response_format_json": true
@@ -71,12 +75,16 @@ jobs:
           with open('config.json') as f:
               c = json.load(f)
           c['feishu']['chat_id'] = os.environ['FEISHU_CHAT_ID']
+          c['ai']['base_url'] = os.environ['OPENAI_BASE_URL']
+          c['ai']['model'] = os.environ['OPENAI_MODEL']
           with open('config.json', 'w') as f:
               json.dump(c, f, ensure_ascii=False, indent=2)
           print('✓ config.json generated')
           "
         env:
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
 
       - name: Run the 6-step delivery pipeline
         env:
