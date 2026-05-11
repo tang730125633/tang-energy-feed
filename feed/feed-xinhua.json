@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-10T22:55:54+00:00",
+  "generatedAt": "2026-05-11T23:01:05+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -10,6 +10,38 @@
       "url": "https://www.xinhuanet.com/energy/20260509/d00f5fb400ca4960ab0ceffefc4564e5/c.html",
       "summary": "",
       "publishedAt": "2026-05-09",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-5f4c5297e82b",
+      "title": "隆基芬兰首个储能项目并网",
+      "url": "https://www.xinhuanet.com/energy/20260511/5f4c5297e82b49759f6f2055596bef9e/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-11",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-90921bda1bd8",
+      "title": "2026中国品牌价值评价信息公布 中国石油蝉联能源化工榜第一",
+      "url": "https://www.xinhuanet.com/energy/20260511/90921bda1bd84444b2ae77e116322033/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-11",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-c2f24e863b5f",
+      "title": "煤炭市场库存充足供需平稳",
+      "url": "https://www.xinhuanet.com/energy/20260511/c2f24e863b5f463997669c87c093ac0e/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-11",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-fa36f9e745b5",
+      "title": "浙江杭州丨“电力计量尖兵”为电压互感器装上“智慧大脑”",
+      "url": "https://www.xinhuanet.com/energy/20260511/fa36f9e745b54a95aaf4ec87684dcef4/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-11",
       "source": "xinhuanet.com"
     },
     {
@@ -46,7 +78,7 @@
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 9
   },
   "errors": []
 }

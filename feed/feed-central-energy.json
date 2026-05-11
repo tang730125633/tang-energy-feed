@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T22:56:22+00:00",
+  "generatedAt": "2026-05-11T23:01:23+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,15 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260511_1886820",
+      "title": "皖能马鞍山发电：青年扎根一线守护能源安全生命线",
+      "url": "https://www.cpnn.com.cn/qiye/yingcai/202605/t20260511_1886820.html",
+      "summary": "",
+      "publishedAt": "2026-05-11",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
     {
       "id": "cpnn-t20260509_1886481",
       "title": "河南率先实现电力中长期市场假日连续开市",
@@ -76,10 +85,10 @@
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 8,
     "byProvince": {
+      "安徽": 2,
       "河南": 1,
-      "安徽": 1,
       "湖北": 1,
       "湖南": 3,
       "华中": 1
