@@ -1,13 +1,13 @@
 {
   "source": "iesplaza.com",
   "sourceName": "IESPlaza 综合能源服务网",
-  "generatedAt": "2026-05-11T23:01:02+00:00",
+  "generatedAt": "2026-05-12T23:08:13+00:00",
   "lookbackHours": 48,
   "articles": [],
   "stats": {
     "articleCount": 0
   },
   "errors": [
-    "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "SSLError: HTTPSConnectionPool(host='www.iesplaza.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))"
   ]
 }

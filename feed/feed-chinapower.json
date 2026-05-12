@@ -1,9 +1,25 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-05-11T23:01:23+00:00",
+  "generatedAt": "2026-05-12T23:08:42+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-458406",
+      "title": "我国首个主动式电网惯量实时监测系统试点成功",
+      "url": "https://www.chinapower.org.cn/detail/458406.html",
+      "summary": "",
+      "publishedAt": "2026-05-12",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-458403",
+      "title": "国网蒙东电力特高压外送电量超9000亿千瓦时",
+      "url": "https://www.chinapower.org.cn/detail/458403.html",
+      "summary": "",
+      "publishedAt": "2026-05-12",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-458375",
       "title": "【经济参考报】打造新型电力系统战略枢纽——专访中国电力企业联合会专家组副组长王志轩",
@@ -11,18 +27,10 @@
       "summary": "",
       "publishedAt": "2026-05-11",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458371",
-      "title": "中国南方电网有限责任公司董事长、党组书记调整",
-      "url": "https://www.chinapower.org.cn/detail/458371.html",
-      "summary": "",
-      "publishedAt": "2026-05-11",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 3
   },
   "errors": []
 }

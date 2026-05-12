@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T23:01:23+00:00",
+  "generatedAt": "2026-05-12T23:08:42+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,24 @@
   ],
   "articles": [
     {
+      "id": "nea-20260512-347313407a334098b9947e8810c29b07-c",
+      "title": "华中区域电力市场建设首次联席会议在武汉召开",
+      "url": "https://www.nea.gov.cn/20260512/347313407a334098b9947e8810c29b07/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-12",
+      "source": "nea.gov.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "nea-20260512-67dddd1e399c43aaad2ca65c6473e5ad-c",
+      "title": "河南能源监管办进一步强化抽蓄安全齐抓共管工作机制",
+      "url": "https://www.nea.gov.cn/20260512/67dddd1e399c43aaad2ca65c6473e5ad/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-12",
+      "source": "nea.gov.cn",
+      "province": "河南"
+    },
+    {
       "id": "cpnn-t20260511_1886820",
       "title": "皖能马鞍山发电：青年扎根一线守护能源安全生命线",
       "url": "https://www.cpnn.com.cn/qiye/yingcai/202605/t20260511_1886820.html",
@@ -21,15 +39,6 @@
       "province": "安徽"
     },
     {
-      "id": "cpnn-t20260509_1886481",
-      "title": "河南率先实现电力中长期市场假日连续开市",
-      "url": "https://www.cpnn.com.cn/news/dfny/202605/t20260509_1886481.html",
-      "summary": "",
-      "publishedAt": "2026-05-09",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
       "id": "cpnn-t20260509_1886321",
       "title": "大唐安徽公司600兆瓦绿电直连风电项目成功核准",
       "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202605/t20260509_1886321.html",
@@ -37,15 +46,6 @@
       "publishedAt": "2026-05-09",
       "source": "cpnn.com.cn",
       "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260509_1886319",
-      "title": "大唐湖北新能源事业部：集电线路“风控”专巡成功应对“风考”",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202605/t20260509_1886319.html",
-      "summary": "",
-      "publishedAt": "2026-05-09",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
     },
     {
       "id": "china5e-1202548",
@@ -87,9 +87,9 @@
   "stats": {
     "totalArticles": 8,
     "byProvince": {
-      "安徽": 2,
-      "河南": 1,
       "湖北": 1,
+      "河南": 1,
+      "安徽": 2,
       "湖南": 3,
       "华中": 1
     }

@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-11T23:01:05+00:00",
+  "generatedAt": "2026-05-12T23:08:17+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -10,6 +10,14 @@
       "url": "https://www.xinhuanet.com/energy/20260509/d00f5fb400ca4960ab0ceffefc4564e5/c.html",
       "summary": "",
       "publishedAt": "2026-05-09",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-d8f2fb568db0",
+      "title": "以算电协同赋能新型能源体系",
+      "url": "https://www.xinhuanet.com/energy/20260512/d8f2fb568db0427aa4da2f636d0b847e/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-12",
       "source": "xinhuanet.com"
     },
     {
@@ -59,26 +67,10 @@
       "summary": "",
       "publishedAt": "2026-05-09",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-a40e5b4a8601",
-      "title": "秦海岩：以航运为起点，以能源安全为锚：谈绿色甲醇与绿氨的战略定位与发展路径",
-      "url": "https://www.xinhuanet.com/energy/20260508/a40e5b4a860142faaff6816b2a2b989b/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-08",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-c9456b9da8ec",
-      "title": "找准赛道拥抱绿色能源",
-      "url": "https://www.xinhuanet.com/energy/20260508/c9456b9da8ec4a70aad71c34bbb769e0/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-08",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 9
+    "articleCount": 8
   },
   "errors": []
 }
