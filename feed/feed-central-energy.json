@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T23:08:42+00:00",
+  "generatedAt": "2026-05-13T23:11:58+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,15 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260513_1887324",
+      "title": "国家电网与江西省委省政府举行会谈",
+      "url": "https://www.cpnn.com.cn/news/nyqy/202605/t20260513_1887324.html",
+      "summary": "",
+      "publishedAt": "2026-05-13",
+      "source": "cpnn.com.cn",
+      "province": "江西"
+    },
     {
       "id": "nea-20260512-347313407a334098b9947e8810c29b07-c",
       "title": "华中区域电力市场建设首次联席会议在武汉召开",
@@ -35,15 +44,6 @@
       "url": "https://www.cpnn.com.cn/qiye/yingcai/202605/t20260511_1886820.html",
       "summary": "",
       "publishedAt": "2026-05-11",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260509_1886321",
-      "title": "大唐安徽公司600兆瓦绿电直连风电项目成功核准",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202605/t20260509_1886321.html",
-      "summary": "",
-      "publishedAt": "2026-05-09",
       "source": "cpnn.com.cn",
       "province": "安徽"
     },
@@ -87,9 +87,10 @@
   "stats": {
     "totalArticles": 8,
     "byProvince": {
+      "江西": 1,
       "湖北": 1,
       "河南": 1,
-      "安徽": 2,
+      "安徽": 1,
       "湖南": 3,
       "华中": 1
     }

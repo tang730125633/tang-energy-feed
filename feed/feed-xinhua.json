@@ -1,15 +1,15 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-12T23:08:17+00:00",
+  "generatedAt": "2026-05-13T23:11:35+00:00",
   "lookbackHours": 72,
   "articles": [
     {
-      "id": "xinhua-d00f5fb400ca",
-      "title": "国家发展改革委 国家能源局 工业和信息化部 国家数据局印发《关于促进人工智能与能源双向赋能的行动方案》的通知",
-      "url": "https://www.xinhuanet.com/energy/20260509/d00f5fb400ca4960ab0ceffefc4564e5/c.html",
+      "id": "xinhua-743e236ea30e",
+      "title": "我国牵头制定的首个产品碳足迹数字化国际标准成功立项",
+      "url": "https://www.xinhuanet.com/energy/20260513/743e236ea30e430fbc11ccba0d92c0f8/c.html",
       "summary": "",
-      "publishedAt": "2026-05-09",
+      "publishedAt": "2026-05-13",
       "source": "xinhuanet.com"
     },
     {
@@ -51,26 +51,10 @@
       "summary": "",
       "publishedAt": "2026-05-11",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-fdd4adad44ee",
-      "title": "中国能源品牌周｜“绿色工业与能源品牌博览会”在京启动",
-      "url": "https://www.xinhuanet.com/energy/20260509/fdd4adad44ee461a9de1fcbf10f88409/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-09",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-e1fa3bb90073",
-      "title": "四部门促进人工智能与能源双向赋能",
-      "url": "https://www.xinhuanet.com/energy/20260509/e1fa3bb9007342f4ac2d7d00658dca29/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-09",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 8
+    "articleCount": 6
   },
   "errors": []
 }

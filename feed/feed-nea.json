@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-05-12T23:08:06+00:00",
+  "generatedAt": "2026-05-13T23:11:23+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260513-a38f9ff036f145a7bcfb6724e9f8d89e-c",
+      "title": "国家能源局公告 2026年 第1号",
+      "url": "https://www.nea.gov.cn/20260513/a38f9ff036f145a7bcfb6724e9f8d89e/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-13",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260512-347313407a334098b9947e8810c29b07-c",
       "title": "华中区域电力市场建设首次联席会议在武汉召开",
@@ -430,7 +438,7 @@
     }
   ],
   "stats": {
-    "articleCount": 53
+    "articleCount": 54
   },
   "errors": []
 }
