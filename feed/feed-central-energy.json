@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T23:11:58+00:00",
+  "generatedAt": "2026-05-14T23:03:18+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,15 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "china5e-1203666",
+      "title": "4月江西省煤炭价格917.14元/吨，环比下跌3.6%",
+      "url": "https://www.china5e.com/news/news-1203666-1.html",
+      "summary": "",
+      "publishedAt": "2026-05-14",
+      "source": "china5e.com",
+      "province": "江西"
+    },
     {
       "id": "cpnn-t20260513_1887324",
       "title": "国家电网与江西省委省政府举行会谈",
@@ -37,15 +46,6 @@
       "publishedAt": "2026-05-12",
       "source": "nea.gov.cn",
       "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260511_1886820",
-      "title": "皖能马鞍山发电：青年扎根一线守护能源安全生命线",
-      "url": "https://www.cpnn.com.cn/qiye/yingcai/202605/t20260511_1886820.html",
-      "summary": "",
-      "publishedAt": "2026-05-11",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
     },
     {
       "id": "china5e-1202548",
@@ -87,10 +87,9 @@
   "stats": {
     "totalArticles": 8,
     "byProvince": {
-      "江西": 1,
+      "江西": 2,
       "湖北": 1,
       "河南": 1,
-      "安徽": 1,
       "湖南": 3,
       "华中": 1
     }

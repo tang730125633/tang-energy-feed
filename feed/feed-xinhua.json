@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-13T23:11:35+00:00",
+  "generatedAt": "2026-05-14T23:02:57+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-4b66bbed4698",
+      "title": "全国碳市场累计成交额超600亿元 排放配额累计成交量近9亿吨",
+      "url": "https://www.xinhuanet.com/energy/20260514/4b66bbed46984a599e4073492e89228a/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-14",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-743e236ea30e",
       "title": "我国牵头制定的首个产品碳足迹数字化国际标准成功立项",
@@ -35,26 +43,10 @@
       "summary": "",
       "publishedAt": "2026-05-11",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-c2f24e863b5f",
-      "title": "煤炭市场库存充足供需平稳",
-      "url": "https://www.xinhuanet.com/energy/20260511/c2f24e863b5f463997669c87c093ac0e/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-11",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-fa36f9e745b5",
-      "title": "浙江杭州丨“电力计量尖兵”为电压互感器装上“智慧大脑”",
-      "url": "https://www.xinhuanet.com/energy/20260511/fa36f9e745b54a95aaf4ec87684dcef4/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-11",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 5
   },
   "errors": []
 }
