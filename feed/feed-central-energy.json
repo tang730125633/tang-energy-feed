@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T23:03:18+00:00",
+  "generatedAt": "2026-05-15T23:02:18+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,58 @@
   ],
   "articles": [
     {
-      "id": "china5e-1203666",
-      "title": "4月江西省煤炭价格917.14元/吨，环比下跌3.6%",
-      "url": "https://www.china5e.com/news/news-1203666-1.html",
+      "id": "cpnn-t20260515_1887981",
+      "title": "电力领域综合监管湖南省现场监管工作启动会召开",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202605/t20260515_1887981.html",
       "summary": "",
-      "publishedAt": "2026-05-14",
-      "source": "china5e.com",
+      "publishedAt": "2026-05-15",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "cpnn-t20260515_1887925",
+      "title": "江西电网单体投资最大500千伏输变电工程投运",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202605/t20260515_1887925.html",
+      "summary": "",
+      "publishedAt": "2026-05-15",
+      "source": "cpnn.com.cn",
       "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260515_1887841",
+      "title": "大唐安徽三个风电场荣获电力行业无故障风电场管理成果",
+      "url": "https://www.cpnn.com.cn/qiye/rongyu/202605/t20260515_1887841.html",
+      "summary": "",
+      "publishedAt": "2026-05-15",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "nea-20260515-7fd3daac7cfc4078bc350ab63cbddf6d-c",
+      "title": "华中能源监管局开展增量配电网改革发展专题调研",
+      "url": "https://www.nea.gov.cn/20260515/7fd3daac7cfc4078bc350ab63cbddf6d/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-15",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
+      "id": "nea-20260515-894f445be3cd4fe280698694201bfa96-c",
+      "title": "河南能源监管办组织宣贯《电力重大事故隐患判定标准及治理监督管理规定》",
+      "url": "https://www.nea.gov.cn/20260515/894f445be3cd4fe280698694201bfa96/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-15",
+      "source": "nea.gov.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260515-4d9cfdc754a54d039199b3314f7ae8bf-c",
+      "title": "电力领域综合监管湖南省现场监管工作启动会在长沙召开",
+      "url": "https://www.nea.gov.cn/20260515/4d9cfdc754a54d039199b3314f7ae8bf/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-15",
+      "source": "nea.gov.cn",
+      "province": "湖南"
     },
     {
       "id": "cpnn-t20260513_1887324",
@@ -82,16 +127,26 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
+    },
+    {
+      "id": "china5e-1203709",
+      "title": "江西电网单体投资最大500千伏输变电工程顺利投运",
+      "url": "https://www.china5e.com/news/news-1203709-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "江西"
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 14,
     "byProvince": {
-      "江西": 2,
-      "湖北": 1,
-      "河南": 1,
-      "湖南": 3,
-      "华中": 1
+      "湖南": 5,
+      "江西": 3,
+      "安徽": 1,
+      "华中": 2,
+      "河南": 2,
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
