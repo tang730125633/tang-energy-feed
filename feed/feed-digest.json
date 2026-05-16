@@ -1,71 +1,87 @@
 {
-  "generatedAt": "2026-05-15T23:02:18+00:00",
+  "generatedAt": "2026-05-16T22:55:20+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-05-15T22:03:40+00:00",
+      "generatedAt": "2026-05-16T21:56:14+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-05-15T23:01:53+00:00",
+      "generatedAt": "2026-05-16T22:54:55+00:00",
       "articleCount": 52,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-05-15T23:02:18+00:00",
+      "generatedAt": "2026-05-16T22:55:20+00:00",
       "articleCount": 1,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-05-15T23:01:43+00:00",
+      "generatedAt": "2026-05-16T22:54:44+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-05-15T23:01:40+00:00",
+      "generatedAt": "2026-05-16T22:54:42+00:00",
       "articleCount": 72,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-05-15T23:01:50+00:00",
+      "generatedAt": "2026-05-16T22:54:52+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-05-15T22:04:10+00:00",
-      "articleCount": 0,
-      "hasErrors": true
+      "generatedAt": "2026-05-16T21:56:21+00:00",
+      "articleCount": 4,
+      "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-05-15T23:01:41+00:00",
+      "generatedAt": "2026-05-16T22:54:43+00:00",
       "articleCount": 63,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-05-15T23:01:54+00:00",
+      "generatedAt": "2026-05-16T22:54:57+00:00",
       "articleCount": 5,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1203745",
+      "title": "第二届“智远·光启”数字科技大会智慧能源专题会召开 远光软件助力能源绿色数智转型",
+      "url": "https://www.china5e.com/news/news-1203745-1.html",
+      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
+      "publishedAt": "2026-05-16",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203744",
+      "title": "筑牢数字底座，激活新质生产力！——昆仑数智多款“硬核”成果亮相石油石化大会",
+      "url": "https://www.china5e.com/news/news-1203744-1.html",
+      "summary": "昆仑数智高级技术专家杜广源表示，本次产品依托覆盖云网数安边端智的工业互联网平台，融合中石油工业机理、数据模型与行业知识，运用 AI、数字孪生等前沿技术，攻克机理与 AI 融合、工业软件全栈自研、多技术能力协同三大难题，实现一体化建设与服务化交付。",
+      "publishedAt": "2026-05-16",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1203741",
       "title": "远光软件亮相数字中国建设峰会 穿透式监管方案赋能国资数智化升级",
@@ -95,14 +111,6 @@
       "title": "金、铁、煤炭、锂!我国新发现大中型矿产地200处",
       "url": "https://www.china5e.com/news/news-1203726-1.html",
       "summary": "记者5月13日从自然资源部了解到，2025年，全国非油气地质勘查投入资金达到252.50亿元，同比增长10%，新发现大中型矿产地200处。",
-      "publishedAt": "2026-05-15",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1203704",
-      "title": "今年以来我国未来产业布局提速",
-      "url": "https://www.china5e.com/news/news-1203704-1.html",
-      "summary": "不久前，在北京，全国首家太空算力创新中心启动筹建。太空算力，就是把地面的数据中心“搬”到太空，在天上完成数据采集、处理和输出。今年，我国将加快布局和完善太空算力产业生态。在上海，正在打造的全球首个人形机器人零部件中试平台，围绕减速器等5类零部件搭建小规模的试产生产线，可以提供72",
       "publishedAt": "2026-05-15",
       "source": "china5e.com"
     },
@@ -302,7 +310,7 @@
       "id": "china5e-1203736",
       "title": "“双碳”智能治理观察（二）丨“5＋9”综合评价考核体系如何重塑“双碳”治理方式",
       "url": "https://www.china5e.com/news/news-1203736-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
+      "summary": "",
       "publishedAt": "2026-05-15",
       "source": "china5e.com"
     },
@@ -652,14 +660,6 @@
       "id": "china5e-1203677",
       "title": "数智护航能源安全 华为擎云亮相石油石化企业信息技术交流大会",
       "url": "https://www.china5e.com/news/news-1203677-1.html",
-      "summary": "",
-      "publishedAt": "2026-05-14",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1203664",
-      "title": "国际油价5月13日 下跌",
-      "url": "https://www.china5e.com/news/news-1203664-1.html",
       "summary": "",
       "publishedAt": "2026-05-14",
       "source": "china5e.com"
@@ -1623,6 +1623,38 @@
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com"
+    },
+    {
+      "id": "ne21-227299",
+      "title": "氢导智能荣膺氢能观察 \"金鼎奖\"",
+      "url": "https://www.ne21.com/news/show-227299.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227298",
+      "title": "2026零碳园区充电站供应商选型指南：阳光新能源提供全周期稳定服务",
+      "url": "https://www.ne21.com/news/show-227298.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227297",
+      "title": "2026一站式零碳工厂改造方案：涵盖能源替代、碳捕集与数字化能碳管理",
+      "url": "https://www.ne21.com/news/show-227297.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227296",
+      "title": "高速公路排队久、充电慢？阳光新能源充电站为您提供坚实可靠的解决方案",
+      "url": "https://www.ne21.com/news/show-227296.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
     }
   ],
   "copper": {
@@ -1640,13 +1672,14 @@
     }
   },
   "stats": {
-    "totalArticles": 193,
+    "totalArticles": 197,
     "bySource": {
       "china5e.com": 52,
       "chinapower.org.cn": 1,
       "cpnn.com.cn": 72,
       "nea.gov.cn": 63,
-      "xinhuanet.com": 5
+      "xinhuanet.com": 5,
+      "ne21.com": 4
     },
     "byProvince": {
       "湖南": 5,
@@ -1668,12 +1701,6 @@
       "source": "iesplaza.com",
       "errors": [
         "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-      ]
-    },
-    {
-      "source": "ne21.com",
-      "errors": [
-        "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
       ]
     }
   ]
