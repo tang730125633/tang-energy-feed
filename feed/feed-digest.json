@@ -1,71 +1,87 @@
 {
-  "generatedAt": "2026-05-16T22:55:20+00:00",
+  "generatedAt": "2026-05-17T22:58:22+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-05-16T21:56:14+00:00",
+      "generatedAt": "2026-05-17T22:00:18+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-05-16T22:54:55+00:00",
+      "generatedAt": "2026-05-17T22:58:03+00:00",
       "articleCount": 52,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-05-16T22:55:20+00:00",
+      "generatedAt": "2026-05-17T22:58:22+00:00",
       "articleCount": 1,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-05-16T22:54:44+00:00",
+      "generatedAt": "2026-05-17T22:57:54+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-05-16T22:54:42+00:00",
+      "generatedAt": "2026-05-17T22:57:51+00:00",
       "articleCount": 72,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-05-16T22:54:52+00:00",
+      "generatedAt": "2026-05-17T22:58:00+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-05-16T21:56:21+00:00",
-      "articleCount": 4,
-      "hasErrors": false
+      "generatedAt": "2026-05-17T22:00:49+00:00",
+      "articleCount": 0,
+      "hasErrors": true
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-05-16T22:54:43+00:00",
+      "generatedAt": "2026-05-17T22:57:53+00:00",
       "articleCount": 63,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-05-16T22:54:57+00:00",
+      "generatedAt": "2026-05-17T22:58:05+00:00",
       "articleCount": 5,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1203747",
+      "title": "AI的变现链路：绿电解决能源，算力解决生产，迈富时解决AI变现",
+      "url": "https://www.china5e.com/news/news-1203747-1.html",
+      "summary": "这背后其实是一个很现实的问题：AI不是一次性软件，而是持续消耗能源、算力和Token的生产系统。模型训练要算力，智能体运行要算力，AI员工7×24小时工作更要算力。谁能更稳定、更低成本地获得算力资源，谁就在AI应用规模化交付中多了一层优势。",
+      "publishedAt": "2026-05-17",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1203746",
+      "title": "CIBF2026深圳启幕：全球电池产业从规模竞赛驶向价值创造深水区",
+      "url": "https://www.china5e.com/news/news-1203746-1.html",
+      "summary": "CIBF2026以“链动全球·赋能绿色·驱动未来”为主题，28万平方米展览面积、3100余家参展商，以盛大的规模展示行业的风貌。",
+      "publishedAt": "2026-05-17",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1203745",
       "title": "第二届“智远·光启”数字科技大会智慧能源专题会召开 远光软件助力能源绿色数智转型",
@@ -103,14 +119,6 @@
       "title": "多氟多战略入股龙集动力，华集源品牌布局产业新未来",
       "url": "https://www.china5e.com/news/news-1203731-1.html",
       "summary": "这一举动并非偶然。当全球能源转型进入深水区，小动力锂电池赛道强势崛起，多氟多凭借高瞻远瞩的战略眼光，早早便在该市场做了深入布局。多氟多在新环境下不仅仅只想做一家电芯供应商，更想在新的赛道也成为全链路参与的市场巨头。因此，龙集动力——作为仅用两年便杀入小动力锂电头部阵营的实力派，凭",
-      "publishedAt": "2026-05-15",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1203726",
-      "title": "金、铁、煤炭、锂!我国新发现大中型矿产地200处",
-      "url": "https://www.china5e.com/news/news-1203726-1.html",
-      "summary": "记者5月13日从自然资源部了解到，2025年，全国非油气地质勘查投入资金达到252.50亿元，同比增长10%，新发现大中型矿产地200处。",
       "publishedAt": "2026-05-15",
       "source": "china5e.com"
     },
@@ -183,14 +191,6 @@
       "title": "培育发展新动能 加力推动氢能产业链群发展",
       "url": "https://www.china5e.com/news/news-1203707-1.html",
       "summary": "氢能产业是战略性新兴产业和未来产业。目前我市重点氢能企业华秦新能源，正通过水电解制氢技术，在风光富余电消纳制氢、氢燃料电池车、加氢站、天然气混氢、氢能热电联供等领域持续深耕，为西安氢能产业发展注入新动能。",
-      "publishedAt": "2026-05-15",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1203706",
-      "title": "订单翻倍，产线“告急”——这家川企乘“氢”风而起",
-      "url": "https://www.china5e.com/news/news-1203706-1.html",
-      "summary": "5月11日，成都莒纳新材料科技有限公司(简称：莒纳科技)的产线暂停了。不是缺订单，而是订单太多，产线需要升级。",
       "publishedAt": "2026-05-15",
       "source": "china5e.com"
     },
@@ -1623,38 +1623,6 @@
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com"
-    },
-    {
-      "id": "ne21-227299",
-      "title": "氢导智能荣膺氢能观察 \"金鼎奖\"",
-      "url": "https://www.ne21.com/news/show-227299.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227298",
-      "title": "2026零碳园区充电站供应商选型指南：阳光新能源提供全周期稳定服务",
-      "url": "https://www.ne21.com/news/show-227298.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227297",
-      "title": "2026一站式零碳工厂改造方案：涵盖能源替代、碳捕集与数字化能碳管理",
-      "url": "https://www.ne21.com/news/show-227297.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227296",
-      "title": "高速公路排队久、充电慢？阳光新能源充电站为您提供坚实可靠的解决方案",
-      "url": "https://www.ne21.com/news/show-227296.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
     }
   ],
   "copper": {
@@ -1672,14 +1640,13 @@
     }
   },
   "stats": {
-    "totalArticles": 197,
+    "totalArticles": 193,
     "bySource": {
       "china5e.com": 52,
       "chinapower.org.cn": 1,
       "cpnn.com.cn": 72,
       "nea.gov.cn": 63,
-      "xinhuanet.com": 5,
-      "ne21.com": 4
+      "xinhuanet.com": 5
     },
     "byProvince": {
       "湖南": 5,
@@ -1701,6 +1668,12 @@
       "source": "iesplaza.com",
       "errors": [
         "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      ]
+    },
+    {
+      "source": "ne21.com",
+      "errors": [
+        "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
       ]
     }
   ]
