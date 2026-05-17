@@ -1,44 +1,13 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-05-16T21:56:21+00:00",
+  "generatedAt": "2026-05-17T22:00:49+00:00",
   "lookbackHours": 48,
-  "articles": [
-    {
-      "id": "ne21-227299",
-      "title": "氢导智能荣膺氢能观察 \"金鼎奖\"",
-      "url": "https://www.ne21.com/news/show-227299.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227298",
-      "title": "2026零碳园区充电站供应商选型指南：阳光新能源提供全周期稳定服务",
-      "url": "https://www.ne21.com/news/show-227298.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227297",
-      "title": "2026一站式零碳工厂改造方案：涵盖能源替代、碳捕集与数字化能碳管理",
-      "url": "https://www.ne21.com/news/show-227297.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227296",
-      "title": "高速公路排队久、充电慢？阳光新能源充电站为您提供坚实可靠的解决方案",
-      "url": "https://www.ne21.com/news/show-227296.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    }
-  ],
+  "articles": [],
   "stats": {
-    "articleCount": 4
+    "articleCount": 0
   },
-  "errors": []
+  "errors": [
+    "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
+  ]
 }
