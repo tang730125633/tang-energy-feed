@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T22:58:22+00:00",
+  "generatedAt": "2026-05-18T23:11:30+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,24 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "china5e-1203813",
+      "title": "一线“检”影!安徽能源集团新能公司“风光储”齐发力保安全",
+      "url": "https://www.china5e.com/news/news-1203813-1.html",
+      "summary": "",
+      "publishedAt": "2026-05-18",
+      "source": "china5e.com",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260518_1888447",
+      "title": "华东能源监管局参加安徽省深化提升“获得电力”服务水平工作推进会议",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202605/t20260518_1888447.html",
+      "summary": "",
+      "publishedAt": "2026-05-18",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
     {
       "id": "cpnn-t20260515_1887981",
       "title": "电力领域综合监管湖南省现场监管工作启动会召开",
@@ -102,15 +120,6 @@
       "province": "湖南"
     },
     {
-      "id": "china5e-1202440",
-      "title": "湖南岳阳市2026年第二季度分布式光伏可开发容量发布",
-      "url": "https://www.china5e.com/news/news-1202440-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-13",
-      "source": "china5e.com",
-      "province": "湖南"
-    },
-    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -129,6 +138,15 @@
       "province": "华中"
     },
     {
+      "id": "china5e-1203785",
+      "title": "电力领域综合监管湖南省现场监管工作启动会召开",
+      "url": "https://www.china5e.com/news/news-1203785-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖南"
+    },
+    {
       "id": "china5e-1203709",
       "title": "江西电网单体投资最大500千伏输变电工程顺利投运",
       "url": "https://www.china5e.com/news/news-1203709-1.html",
@@ -139,11 +157,11 @@
     }
   ],
   "stats": {
-    "totalArticles": 14,
+    "totalArticles": 16,
     "byProvince": {
+      "安徽": 3,
       "湖南": 5,
       "江西": 3,
-      "安徽": 1,
       "华中": 2,
       "河南": 2,
       "湖北": 1

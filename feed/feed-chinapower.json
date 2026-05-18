@@ -1,20 +1,28 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-05-17T22:58:22+00:00",
+  "generatedAt": "2026-05-18T23:11:29+00:00",
   "lookbackHours": 48,
   "articles": [
     {
-      "id": "chinapower-458493",
-      "title": "一季度西北电网跨省跨区交易电量同比增长两成",
-      "url": "https://www.chinapower.org.cn/detail/458493.html",
+      "id": "chinapower-458514",
+      "title": "中国能建华电华源公司中标中联数据马来西亚GP3超大规模算力中心设备供货项目",
+      "url": "https://www.chinapower.org.cn/detail/458514.html",
       "summary": "",
-      "publishedAt": "2026-05-15",
+      "publishedAt": "2026-05-18",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-458513",
+      "title": "中国电力报中国华电部署重点工作：迎峰度夏保供、沙戈荒基地、氢基全产业链",
+      "url": "https://www.chinapower.org.cn/detail/458513.html",
+      "summary": "",
+      "publishedAt": "2026-05-18",
       "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 1
+    "articleCount": 2
   },
   "errors": []
 }
