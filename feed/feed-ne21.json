@@ -1,13 +1,52 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-05-17T22:00:49+00:00",
+  "generatedAt": "2026-05-18T22:08:00+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-227345",
+      "title": "直击北京军博会，电小二以硬核电力筑牢国防应急防线",
+      "url": "https://www.ne21.com/news/show-227345.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227344",
+      "title": "超70GWh！大单扎堆！中国储能产品“卖爆了”",
+      "url": "https://www.ne21.com/news/show-227344.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227342",
+      "title": "又一处储能项目突发起火，内部烧毁严重！",
+      "url": "https://www.ne21.com/news/show-227342.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227341",
+      "title": "0.98元/Wh！中能建预中标新疆0.5GW/2GWh构网型储能项目EPC",
+      "url": "https://www.ne21.com/news/show-227341.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227340",
+      "title": "关税打不死的中国储能，正在等一场交易",
+      "url": "https://www.ne21.com/news/show-227340.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 5
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
