@@ -1,9 +1,41 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-18T23:11:10+00:00",
+  "generatedAt": "2026-05-19T23:10:47+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-8363f4ebb0ec",
+      "title": "北京绿电市场化交易规模首次超过火电",
+      "url": "https://www.xinhuanet.com/energy/20260519/8363f4ebb0ec4ea0b08d662cc2c6e3d7/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-19",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-36861cf7c3ec",
+      "title": "分布式光伏热需要冷思考",
+      "url": "https://www.xinhuanet.com/energy/20260519/36861cf7c3ec4db39e1a6cde6d849613/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-19",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-4d52363c9d41",
+      "title": "绿电替代 助力地方传统产业蝶变",
+      "url": "https://www.xinhuanet.com/energy/20260519/4d52363c9d414d61a604e3505825cf64/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-19",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-45f11a24c296",
+      "title": "给电网装“智能大脑+充电宝” 东极岛微电网破解海岛供电难题",
+      "url": "https://www.xinhuanet.com/energy/20260519/45f11a24c29641f5bc605d9aed3aa2fb/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-19",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-08db0a65fa8c",
       "title": "下好电力市场建设“一盘棋”",
@@ -19,34 +51,10 @@
       "summary": "",
       "publishedAt": "2026-05-18",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-6674e0713f36",
-      "title": "新华能源周报丨一季度清洁能源投资完成额同比上升29.38%；我国超深层页岩气田诞生",
-      "url": "https://www.xinhuanet.com/energy/20260515/6674e0713f364e0f8e111edd8afa7988/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-15",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-39743cde80d6",
-      "title": "全链条赋能 电力助力安溪茶产业绿色发展",
-      "url": "https://www.xinhuanet.com/energy/20260515/39743cde80d64d81ba0804ee1d693c6d/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-15",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-09c111e2da70",
-      "title": "河北邯郸：电力赋能净菜产业提质增效",
-      "url": "https://www.xinhuanet.com/energy/20260515/09c111e2da7043b394878aacf58b09c4/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-15",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 6
   },
   "errors": []
 }

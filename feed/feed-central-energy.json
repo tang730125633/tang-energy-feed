@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T23:11:30+00:00",
+  "generatedAt": "2026-05-19T23:11:14+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,31 @@
   ],
   "articles": [
     {
-      "id": "china5e-1203813",
-      "title": "一线“检”影!安徽能源集团新能公司“风光储”齐发力保安全",
-      "url": "https://www.china5e.com/news/news-1203813-1.html",
+      "id": "chinapower-458552",
+      "title": "青豫特高压工程累计输送电量突破1000亿千瓦时",
+      "url": "https://www.chinapower.org.cn/detail/458552.html",
       "summary": "",
-      "publishedAt": "2026-05-18",
-      "source": "china5e.com",
-      "province": "安徽"
+      "publishedAt": "2026-05-19",
+      "source": "chinapower.org.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260519_1888673",
+      "title": "风雨中逆行！国网湖南电力争分夺秒抢修保供电",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202605/t20260519_1888673.html",
+      "summary": "",
+      "publishedAt": "2026-05-19",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "nea-20260519-6d72a3828edf4cbd8c0bb368585492e7-c",
+      "title": "河南能源监管办与国家管网集团有关部门座谈交流",
+      "url": "https://www.nea.gov.cn/20260519/6d72a3828edf4cbd8c0bb368585492e7/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-19",
+      "source": "nea.gov.cn",
+      "province": "河南"
     },
     {
       "id": "cpnn-t20260518_1888447",
@@ -28,15 +46,6 @@
       "publishedAt": "2026-05-18",
       "source": "cpnn.com.cn",
       "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260515_1887981",
-      "title": "电力领域综合监管湖南省现场监管工作启动会召开",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202605/t20260515_1887981.html",
-      "summary": "",
-      "publishedAt": "2026-05-15",
-      "source": "cpnn.com.cn",
-      "province": "湖南"
     },
     {
       "id": "cpnn-t20260515_1887925",
@@ -57,42 +66,6 @@
       "province": "安徽"
     },
     {
-      "id": "nea-20260515-7fd3daac7cfc4078bc350ab63cbddf6d-c",
-      "title": "华中能源监管局开展增量配电网改革发展专题调研",
-      "url": "https://www.nea.gov.cn/20260515/7fd3daac7cfc4078bc350ab63cbddf6d/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-15",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
-      "id": "nea-20260515-894f445be3cd4fe280698694201bfa96-c",
-      "title": "河南能源监管办组织宣贯《电力重大事故隐患判定标准及治理监督管理规定》",
-      "url": "https://www.nea.gov.cn/20260515/894f445be3cd4fe280698694201bfa96/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-15",
-      "source": "nea.gov.cn",
-      "province": "河南"
-    },
-    {
-      "id": "nea-20260515-4d9cfdc754a54d039199b3314f7ae8bf-c",
-      "title": "电力领域综合监管湖南省现场监管工作启动会在长沙召开",
-      "url": "https://www.nea.gov.cn/20260515/4d9cfdc754a54d039199b3314f7ae8bf/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-15",
-      "source": "nea.gov.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260513_1887324",
-      "title": "国家电网与江西省委省政府举行会谈",
-      "url": "https://www.cpnn.com.cn/news/nyqy/202605/t20260513_1887324.html",
-      "summary": "",
-      "publishedAt": "2026-05-13",
-      "source": "cpnn.com.cn",
-      "province": "江西"
-    },
-    {
       "id": "nea-20260512-347313407a334098b9947e8810c29b07-c",
       "title": "华中区域电力市场建设首次联席会议在武汉召开",
       "url": "https://www.nea.gov.cn/20260512/347313407a334098b9947e8810c29b07/c.html",
@@ -100,24 +73,6 @@
       "publishedAt": "2026-05-12",
       "source": "nea.gov.cn",
       "province": "湖北"
-    },
-    {
-      "id": "nea-20260512-67dddd1e399c43aaad2ca65c6473e5ad-c",
-      "title": "河南能源监管办进一步强化抽蓄安全齐抓共管工作机制",
-      "url": "https://www.nea.gov.cn/20260512/67dddd1e399c43aaad2ca65c6473e5ad/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-12",
-      "source": "nea.gov.cn",
-      "province": "河南"
-    },
-    {
-      "id": "china5e-1202548",
-      "title": "湖南湘潭：二季度分布式光伏可开放容量18.93万千瓦",
-      "url": "https://www.china5e.com/news/news-1202548-1.html",
-      "summary": "",
-      "publishedAt": "2026-04-15",
-      "source": "china5e.com",
-      "province": "湖南"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -138,33 +93,24 @@
       "province": "华中"
     },
     {
-      "id": "china5e-1203785",
-      "title": "电力领域综合监管湖南省现场监管工作启动会召开",
-      "url": "https://www.china5e.com/news/news-1203785-1.html",
+      "id": "china5e-1203827",
+      "title": "青豫特高压工程累计输送电量突破千亿千瓦时",
+      "url": "https://www.china5e.com/news/news-1203827-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
-      "province": "湖南"
-    },
-    {
-      "id": "china5e-1203709",
-      "title": "江西电网单体投资最大500千伏输变电工程顺利投运",
-      "url": "https://www.china5e.com/news/news-1203709-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "江西"
+      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 16,
+    "totalArticles": 10,
     "byProvince": {
-      "安徽": 3,
-      "湖南": 5,
-      "江西": 3,
-      "华中": 2,
-      "河南": 2,
-      "湖北": 1
+      "河南": 3,
+      "湖南": 2,
+      "安徽": 2,
+      "江西": 1,
+      "湖北": 1,
+      "华中": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
