@@ -1,9 +1,25 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-05-19T23:10:32+00:00",
+  "generatedAt": "2026-05-20T23:18:43+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260520-99326d59f0404dc49577f0bfc7f3d930-c",
+      "title": "国家能源局有关负责同志就《关于有序推动多用户绿电直连发展有关事项的通知》答记者问",
+      "url": "https://www.nea.gov.cn/20260520/99326d59f0404dc49577f0bfc7f3d930/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-20",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260520-a842d14ccabc461292fa190e6618bb60-c",
+      "title": "国家能源局有关负责同志就《核电厂退役准备管理暂行办法》答记者问",
+      "url": "https://www.nea.gov.cn/20260520/a842d14ccabc461292fa190e6618bb60/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-20",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260519-6008bb88dc0649e5b5530fd6ad0b117a-c",
       "title": "2026年一季度光伏发电建设情况",
@@ -130,30 +146,6 @@
       "url": "https://www.nea.gov.cn/20260513/a38f9ff036f145a7bcfb6724e9f8d89e/c.html",
       "summary": "",
       "publishedAt": "2026-05-13",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260512-347313407a334098b9947e8810c29b07-c",
-      "title": "华中区域电力市场建设首次联席会议在武汉召开",
-      "url": "https://www.nea.gov.cn/20260512/347313407a334098b9947e8810c29b07/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-12",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260512-25620ccc3fe14e648ba838b37deefdcc-c",
-      "title": "南方能源监管局与广东省发展改革委举行交流座谈会",
-      "url": "https://www.nea.gov.cn/20260512/25620ccc3fe14e648ba838b37deefdcc/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-12",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260512-338dfb4154a0496fb00a2f19c1ccc49f-c",
-      "title": "山西能源监管办积极宣贯国家发展改革委第41号令",
-      "url": "https://www.nea.gov.cn/20260512/338dfb4154a0496fb00a2f19c1ccc49f/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-12",
       "source": "nea.gov.cn"
     },
     {
@@ -397,22 +389,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20251112-03dc9ef6112a45be9712aa2e7dc17597-c",
-      "title": "国家能源局有关负责同志就《关于促进新能源集成融合发展的指导意见》答记者问",
-      "url": "https://www.nea.gov.cn/20251112/03dc9ef6112a45be9712aa2e7dc17597/c.html",
-      "summary": "",
-      "publishedAt": "2025-11-12",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20251107-2f6a64db41264fb6b2f1597356211d6d-c",
-      "title": "国家能源局煤炭司负责同志就《关于推进煤炭与新能源融合发展的指导意见》答记者问",
-      "url": "https://www.nea.gov.cn/20251107/2f6a64db41264fb6b2f1597356211d6d/c.html",
-      "summary": "",
-      "publishedAt": "2025-11-07",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20250422-1a5f2975d3fc4d35a3a10cb90ae7642c-c",
       "title": "2024年分布式光伏备案接网推进情况监管典型案例",
       "url": "https://www.nea.gov.cn/20250422/1a5f2975d3fc4d35a3a10cb90ae7642c/c.html",
@@ -438,7 +414,7 @@
     }
   ],
   "stats": {
-    "articleCount": 54
+    "articleCount": 51
   },
   "errors": []
 }

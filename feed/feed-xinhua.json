@@ -1,9 +1,33 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-19T23:10:47+00:00",
+  "generatedAt": "2026-05-20T23:18:56+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-d0d6dd4e4c87",
+      "title": "水网润民生 绿电启新程 光大环境助力“六张网”建设",
+      "url": "https://www.xinhuanet.com/energy/20260520/d0d6dd4e4c874c979c8f0f401e76dbbf/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-20",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-453cf255f73e",
+      "title": "扎根厚土 向绿而生——中国石油积极推动油气与新能源融合发展走向深处",
+      "url": "https://www.xinhuanet.com/energy/20260520/453cf255f73e46ef8eec9baa6a52e002/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-20",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-0d372d5861bb",
+      "title": "核电厂如何“退休”有了新规定",
+      "url": "https://www.xinhuanet.com/energy/20260520/0d372d5861bb4375837d0ec27b69a618/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-20",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-8363f4ebb0ec",
       "title": "北京绿电市场化交易规模首次超过火电",
@@ -54,7 +78,7 @@
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 9
   },
   "errors": []
 }

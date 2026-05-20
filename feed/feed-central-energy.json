@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T23:11:14+00:00",
+  "generatedAt": "2026-05-20T23:19:22+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,15 +11,6 @@
     "湖南"
   ],
   "articles": [
-    {
-      "id": "chinapower-458552",
-      "title": "青豫特高压工程累计输送电量突破1000亿千瓦时",
-      "url": "https://www.chinapower.org.cn/detail/458552.html",
-      "summary": "",
-      "publishedAt": "2026-05-19",
-      "source": "chinapower.org.cn",
-      "province": "河南"
-    },
     {
       "id": "cpnn-t20260519_1888673",
       "title": "风雨中逆行！国网湖南电力争分夺秒抢修保供电",
@@ -48,15 +39,6 @@
       "province": "安徽"
     },
     {
-      "id": "cpnn-t20260515_1887925",
-      "title": "江西电网单体投资最大500千伏输变电工程投运",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202605/t20260515_1887925.html",
-      "summary": "",
-      "publishedAt": "2026-05-15",
-      "source": "cpnn.com.cn",
-      "province": "江西"
-    },
-    {
       "id": "cpnn-t20260515_1887841",
       "title": "大唐安徽三个风电场荣获电力行业无故障风电场管理成果",
       "url": "https://www.cpnn.com.cn/qiye/rongyu/202605/t20260515_1887841.html",
@@ -64,15 +46,6 @@
       "publishedAt": "2026-05-15",
       "source": "cpnn.com.cn",
       "province": "安徽"
-    },
-    {
-      "id": "nea-20260512-347313407a334098b9947e8810c29b07-c",
-      "title": "华中区域电力市场建设首次联席会议在武汉召开",
-      "url": "https://www.nea.gov.cn/20260512/347313407a334098b9947e8810c29b07/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-12",
-      "source": "nea.gov.cn",
-      "province": "湖北"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -100,17 +73,25 @@
       "publishedAt": null,
       "source": "china5e.com",
       "province": "河南"
+    },
+    {
+      "id": "china5e-1203899",
+      "title": "长距离“输氢管道”助推白云鄂博绿色氢能产业规模全面升级",
+      "url": "https://www.china5e.com/news/news-1203899-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 10,
+    "totalArticles": 8,
     "byProvince": {
-      "河南": 3,
       "湖南": 2,
+      "河南": 2,
       "安徽": 2,
-      "江西": 1,
-      "湖北": 1,
-      "华中": 1
+      "华中": 1,
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
