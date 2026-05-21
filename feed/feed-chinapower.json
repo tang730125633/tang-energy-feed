@@ -1,9 +1,33 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-05-20T23:19:22+00:00",
+  "generatedAt": "2026-05-21T23:08:58+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-458661",
+      "title": "2026年4月全国电动汽车充电设施数据情况",
+      "url": "https://www.chinapower.org.cn/detail/458661.html",
+      "summary": "",
+      "publishedAt": "2026-05-21",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-458656",
+      "title": "中电联关于征集2026年新型电力系统发展（崇礼）论坛论文的通知",
+      "url": "https://www.chinapower.org.cn/detail/458656.html",
+      "summary": "",
+      "publishedAt": "2026-05-21",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-458651",
+      "title": "2026年4月全国电力消费系列指数（CNECI）情况",
+      "url": "https://www.chinapower.org.cn/detail/458651.html",
+      "summary": "",
+      "publishedAt": "2026-05-21",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-458634",
       "title": "人民日报客户端：复工复产 扎哈淖尔35万吨绿电铝项目“春耕”正忙",
@@ -11,26 +35,10 @@
       "summary": "",
       "publishedAt": "2026-05-20",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458625",
-      "title": "外交部新闻发言人Facebook在新疆乌鲁木齐市北部沙漠，5个神秘圆圈组成了一个“巨型充电宝”",
-      "url": "https://www.chinapower.org.cn/detail/458625.html",
-      "summary": "",
-      "publishedAt": "2026-05-20",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458619",
-      "title": "【新京报】同比增长超40%，算力革命正在重塑中国电力版图",
-      "url": "https://www.chinapower.org.cn/detail/458619.html",
-      "summary": "",
-      "publishedAt": "2026-05-20",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 4
   },
   "errors": []
 }
