@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T23:08:58+00:00",
+  "generatedAt": "2026-05-22T23:09:28+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,22 +12,49 @@
   ],
   "articles": [
     {
-      "id": "china5e-1203985",
-      "title": "4月河南省煤炭价格跌幅收窄",
-      "url": "https://www.china5e.com/news/news-1203985-1.html",
+      "id": "china5e-1204075",
+      "title": "No.1！格创东智成功入围首批湖北省工业软件企业图谱和产品供给能力清单",
+      "url": "https://www.china5e.com/news/news-1204075-1.html",
       "summary": "",
-      "publishedAt": "2026-05-21",
+      "publishedAt": "2026-05-22",
       "source": "china5e.com",
-      "province": "河南"
+      "province": "湖北"
     },
     {
-      "id": "nea-20260519-6d72a3828edf4cbd8c0bb368585492e7-c",
-      "title": "河南能源监管办与国家管网集团有关部门座谈交流",
-      "url": "https://www.nea.gov.cn/20260519/6d72a3828edf4cbd8c0bb368585492e7/c.html",
+      "id": "china5e-1204039",
+      "title": "中节能湖北咸丰县50MW风电场项目获核准",
+      "url": "https://www.china5e.com/news/news-1204039-1.html",
       "summary": "",
-      "publishedAt": "2026-05-19",
+      "publishedAt": "2026-05-22",
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260522_1889835",
+      "title": "国家电投集团江西核电（天红科技）招聘公告",
+      "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202605/t20260522_1889835.html",
+      "summary": "",
+      "publishedAt": "2026-05-22",
+      "source": "cpnn.com.cn",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260522_1889723",
+      "title": "国网武汉供电为蔡家田小区电网“强筋健骨”",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202605/t20260522_1889723.html",
+      "summary": "",
+      "publishedAt": "2026-05-22",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "nea-20260522-97f9b6b503a24794b164dc72cbe8a9cd-c",
+      "title": "华中能源监管局召开牢固树立正确政绩观暨湖北新能源建设运营座谈会",
+      "url": "https://www.nea.gov.cn/20260522/97f9b6b503a24794b164dc72cbe8a9cd/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-22",
       "source": "nea.gov.cn",
-      "province": "河南"
+      "province": "湖北"
     },
     {
       "id": "cpnn-t20260518_1888447",
@@ -66,23 +93,23 @@
       "province": "华中"
     },
     {
-      "id": "china5e-1203960",
-      "title": "湖北氢能高速免费，截至2027年底!",
-      "url": "https://www.china5e.com/news/news-1203960-1.html",
+      "id": "china5e-1204048",
+      "title": "1000千伏特高压芜湖站输送电量达4000亿千瓦时",
+      "url": "https://www.china5e.com/news/news-1204048-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
-      "province": "湖北"
+      "province": "安徽"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 10,
     "byProvince": {
-      "河南": 2,
-      "安徽": 2,
+      "湖北": 4,
+      "江西": 1,
+      "安徽": 3,
       "湖南": 1,
-      "华中": 1,
-      "湖北": 1
+      "华中": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
