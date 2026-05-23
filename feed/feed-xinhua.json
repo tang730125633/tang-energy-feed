@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-22T23:09:08+00:00",
+  "generatedAt": "2026-05-23T22:57:53+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -59,26 +59,10 @@
       "summary": "",
       "publishedAt": "2026-05-20",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-8363f4ebb0ec",
-      "title": "北京绿电市场化交易规模首次超过火电",
-      "url": "https://www.xinhuanet.com/energy/20260519/8363f4ebb0ec4ea0b08d662cc2c6e3d7/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-19",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-36861cf7c3ec",
-      "title": "分布式光伏热需要冷思考",
-      "url": "https://www.xinhuanet.com/energy/20260519/36861cf7c3ec4db39e1a6cde6d849613/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-19",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 9
+    "articleCount": 7
   },
   "errors": []
 }

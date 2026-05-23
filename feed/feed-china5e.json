@@ -1,9 +1,33 @@
 {
   "source": "china5e.com",
   "sourceName": "中国能源网",
-  "generatedAt": "2026-05-22T23:09:06+00:00",
+  "generatedAt": "2026-05-23T22:57:52+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "china5e-1204078",
+      "title": "国网咸宁供电公司数字化工作部：开展专题学习 筑牢安全根基",
+      "url": "https://www.china5e.com/news/news-1204078-1.html",
+      "summary": "",
+      "publishedAt": "2026-05-23",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1204077",
+      "title": "G30哈吐一标项目沥青上面层主线全线贯通",
+      "url": "https://www.china5e.com/news/news-1204077-1.html",
+      "summary": "",
+      "publishedAt": "2026-05-23",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1204079",
+      "title": "矿压监测的“第三代智慧”：中感集团KJ1760如何让岩层“开口说话”？",
+      "url": "https://www.china5e.com/news/news-1204079-1.html",
+      "summary": "",
+      "publishedAt": "2026-05-23",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1204075",
       "title": "No.1！格创东智成功入围首批湖北省工业软件企业图谱和产品供给能力清单",
@@ -24,22 +48,6 @@
       "id": "china5e-1204028",
       "title": "晶科能源(688223)：2025年组件出货延续第一 2026Q1毛利率大幅扭亏",
       "url": "https://www.china5e.com/news/news-1204028-1.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1204024",
-      "title": "前4个月财政收入同比增长3.5% 支出向重点民生和科创领域倾斜",
-      "url": "https://www.china5e.com/news/news-1204024-1.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1204020",
-      "title": "政策升级，万亿级入境消费新市场加速开启!",
-      "url": "https://www.china5e.com/news/news-1204020-1.html",
       "summary": "",
       "publishedAt": "2026-05-22",
       "source": "china5e.com"
@@ -197,14 +205,6 @@
       "source": "china5e.com"
     },
     {
-      "id": "china5e-1204054",
-      "title": "印尼政策加码，煤炭进口布局迎来新转向",
-      "url": "https://www.china5e.com/news/news-1204054-1.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "china5e.com"
-    },
-    {
       "id": "china5e-1204062",
       "title": "两部门印发《推进生态综合补偿实施方案》",
       "url": "https://www.china5e.com/news/news-1204062-1.html",
@@ -325,6 +325,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1204054",
+      "title": "印尼政策加码，煤炭进口布局迎来新转向",
+      "url": "https://www.china5e.com/news/news-1204054-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1204049",
       "title": "买卖双方熬鹰对峙 煤价有无下跌可能?",
       "url": "https://www.china5e.com/news/news-1204049-1.html",
@@ -398,7 +406,7 @@
     }
   ],
   "stats": {
-    "articleCount": 49
+    "articleCount": 50
   },
   "errors": []
 }

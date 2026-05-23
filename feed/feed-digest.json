@@ -1,71 +1,95 @@
 {
-  "generatedAt": "2026-05-22T23:09:28+00:00",
+  "generatedAt": "2026-05-23T22:58:19+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-05-22T22:13:11+00:00",
+      "generatedAt": "2026-05-23T21:59:31+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-05-22T23:09:06+00:00",
-      "articleCount": 49,
+      "generatedAt": "2026-05-23T22:57:52+00:00",
+      "articleCount": 50,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-05-22T23:09:28+00:00",
-      "articleCount": 3,
+      "generatedAt": "2026-05-23T22:58:19+00:00",
+      "articleCount": 2,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-05-22T23:08:58+00:00",
+      "generatedAt": "2026-05-23T22:57:42+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-05-22T23:08:55+00:00",
+      "generatedAt": "2026-05-23T22:57:40+00:00",
       "articleCount": 73,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-05-22T23:09:04+00:00",
+      "generatedAt": "2026-05-23T22:57:49+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-05-22T22:13:19+00:00",
+      "generatedAt": "2026-05-23T21:59:39+00:00",
       "articleCount": 6,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-05-22T23:08:57+00:00",
+      "generatedAt": "2026-05-23T22:57:41+00:00",
       "articleCount": 55,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-05-22T23:09:08+00:00",
-      "articleCount": 9,
+      "generatedAt": "2026-05-23T22:57:53+00:00",
+      "articleCount": 7,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1204078",
+      "title": "国网咸宁供电公司数字化工作部：开展专题学习 筑牢安全根基",
+      "url": "https://www.china5e.com/news/news-1204078-1.html",
+      "summary": "近日，国网咸宁供电公司数字化工作部组织开展专题学习活动，重点学习《电力重大事故隐患判定标准及治理监督管理规定》，该部门基层班组共计26人全程参与学习，切实提升全员安全隐患辨识与治理能力，为电力信息通信安全筑牢思想和技能防线。",
+      "publishedAt": "2026-05-23",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1204077",
+      "title": "G30哈吐一标项目沥青上面层主线全线贯通",
+      "url": "https://www.china5e.com/news/news-1204077-1.html",
+      "summary": "匠心雕琢精品路面,实干贯通坦途通衢。5月21日,随着最后一段沥青上面层摊铺、碾压、收面作业圆满完成,由新疆路桥建设集团承建的G30连霍高速公路哈密至吐峪沟段改扩建工程HTGJ-1标段(以下简称“G30哈吐一标项目”)沥青上面层主线全线顺利贯通,成为全线第二个实现主线上面层贯通的标",
+      "publishedAt": "2026-05-23",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1204079",
+      "title": "矿压监测的“第三代智慧”：中感集团KJ1760如何让岩层“开口说话”？",
+      "url": "https://www.china5e.com/news/news-1204079-1.html",
+      "summary": "中感集团KJ1760第三代数智矿压监测系统，历经三次技术迭代，终于让岩层“开口说话”——清晰、准确、及时。它不再让你在“狼来了”的报警声中疲于奔命，而是把每一次压力变化、每一毫厘位移，都翻译成可读、可信、可用的安全信息。",
+      "publishedAt": "2026-05-23",
+      "source": "china5e.com"
+    },
     {
       "id": "chinapower-458713",
       "title": "中国电力报叶向东任中国华电董事长",
@@ -96,22 +120,6 @@
       "title": "晶科能源(688223)：2025年组件出货延续第一 2026Q1毛利率大幅扭亏",
       "url": "https://www.china5e.com/news/news-1204028-1.html",
       "summary": "晶科能源发布2025 年年报及2026 年一季报，2025 年公司实现收入654.92 亿元，同比下降29%;归母净利-68.82 亿元;其中，2025Q4 实现收入175.06 亿元，同比下降15%，环比增长8%;归母净利-29.61 亿元。2026Q1 实现收入122.48 ",
-      "publishedAt": "2026-05-22",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1204024",
-      "title": "前4个月财政收入同比增长3.5% 支出向重点民生和科创领域倾斜",
-      "url": "https://www.china5e.com/news/news-1204024-1.html",
-      "summary": "日前，财政部发布数据显示，今年1至4月，全国一般公共预算收入83404亿元，同比增长3.5%;全国一般公共预算支出94809亿元，同比增长1.3%。",
-      "publishedAt": "2026-05-22",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1204020",
-      "title": "政策升级，万亿级入境消费新市场加速开启!",
-      "url": "https://www.china5e.com/news/news-1204020-1.html",
-      "summary": "“随着我国对外开放的大门越开越大，越来越多的外国朋友走进中国，入境消费迎来广阔发展空间。加力发展离境退税，将撬动入境消费万亿级新增量，为提振消费注入新动力。”5月18日，国新办举行新闻发布会，商务部副部长盛秋平表示，2025年，全国离境退税销售额同比增长近1倍，仅一年的销售规模，",
       "publishedAt": "2026-05-22",
       "source": "china5e.com"
     },
@@ -269,14 +277,6 @@
       "source": "china5e.com"
     },
     {
-      "id": "china5e-1204054",
-      "title": "印尼政策加码，煤炭进口布局迎来新转向",
-      "url": "https://www.china5e.com/news/news-1204054-1.html",
-      "summary": "2026年1-4月，我国从大部分国家进口煤炭数量同比均出现了减少。具体来看，我国从印尼、澳大利亚、哥伦比亚、俄罗斯、加拿大和菲律宾进口煤炭数量同比降幅分别为8%、10%、12%、17%、35%和36%。但我国从蒙古国和南非进口煤炭数量同比分别上涨61%和8%。今年以来我国没有从美",
-      "publishedAt": "2026-05-22",
-      "source": "china5e.com"
-    },
-    {
       "id": "china5e-1204062",
       "title": "两部门印发《推进生态综合补偿实施方案》",
       "url": "https://www.china5e.com/news/news-1204062-1.html",
@@ -305,14 +305,6 @@
       "title": "国家电网与中国能建举行会谈",
       "url": "https://www.chinapower.org.cn/detail/458697.html",
       "summary": "5月21日，国家电网公司董事长、党组书记张智刚在公司总部与中国能源建设集团有限公司董事长、党委书记倪真举行会谈。",
-      "publishedAt": "2026-05-22",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458691",
-      "title": "人民日报客户端：复工复产 扎哈淖尔35万吨绿电铝项目“春耕”正忙",
-      "url": "https://www.chinapower.org.cn/detail/458691.html",
-      "summary": "",
       "publishedAt": "2026-05-22",
       "source": "chinapower.org.cn"
     },
@@ -1056,22 +1048,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "xinhua-8363f4ebb0ec",
-      "title": "北京绿电市场化交易规模首次超过火电",
-      "url": "https://www.xinhuanet.com/energy/20260519/8363f4ebb0ec4ea0b08d662cc2c6e3d7/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-19",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-36861cf7c3ec",
-      "title": "分布式光伏热需要冷思考",
-      "url": "https://www.xinhuanet.com/energy/20260519/36861cf7c3ec4db39e1a6cde6d849613/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-19",
-      "source": "xinhuanet.com"
-    },
-    {
       "id": "china5e-1203806",
       "title": "捷报再传！苏州团队再创佳绩！12000kW标杆合同成功签约，20万千瓦全域改造蓄势待发",
       "url": "https://www.china5e.com/news/news-1203806-1.html",
@@ -1516,6 +1492,14 @@
       "source": "cpnn.com.cn"
     },
     {
+      "id": "china5e-1204054",
+      "title": "印尼政策加码，煤炭进口布局迎来新转向",
+      "url": "https://www.china5e.com/news/news-1204054-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1204049",
       "title": "买卖双方熬鹰对峙 煤价有无下跌可能?",
       "url": "https://www.china5e.com/news/news-1204049-1.html",
@@ -1652,13 +1636,13 @@
     }
   },
   "stats": {
-    "totalArticles": 195,
+    "totalArticles": 193,
     "bySource": {
-      "chinapower.org.cn": 3,
-      "china5e.com": 49,
+      "china5e.com": 50,
+      "chinapower.org.cn": 2,
       "cpnn.com.cn": 73,
       "nea.gov.cn": 55,
-      "xinhuanet.com": 9,
+      "xinhuanet.com": 7,
       "ne21.com": 6
     },
     "byProvince": {
