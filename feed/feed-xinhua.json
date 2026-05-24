@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-23T22:57:53+00:00",
+  "generatedAt": "2026-05-24T23:02:38+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -35,34 +35,10 @@
       "summary": "",
       "publishedAt": "2026-05-21",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-d0d6dd4e4c87",
-      "title": "水网润民生 绿电启新程 光大环境助力“六张网”建设",
-      "url": "https://www.xinhuanet.com/energy/20260520/d0d6dd4e4c874c979c8f0f401e76dbbf/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-20",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-453cf255f73e",
-      "title": "扎根厚土 向绿而生——中国石油积极推动油气与新能源融合发展走向深处",
-      "url": "https://www.xinhuanet.com/energy/20260520/453cf255f73e46ef8eec9baa6a52e002/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-20",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-0d372d5861bb",
-      "title": "核电厂如何“退休”有了新规定",
-      "url": "https://www.xinhuanet.com/energy/20260520/0d372d5861bb4375837d0ec27b69a618/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-20",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 4
   },
   "errors": []
 }

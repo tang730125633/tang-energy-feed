@@ -1,67 +1,67 @@
 {
-  "generatedAt": "2026-05-23T22:58:19+00:00",
+  "generatedAt": "2026-05-24T23:03:02+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-05-23T21:59:31+00:00",
+      "generatedAt": "2026-05-24T22:01:35+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-05-23T22:57:52+00:00",
+      "generatedAt": "2026-05-24T23:02:37+00:00",
       "articleCount": 50,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-05-23T22:58:19+00:00",
+      "generatedAt": "2026-05-24T23:03:02+00:00",
       "articleCount": 2,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-05-23T22:57:42+00:00",
+      "generatedAt": "2026-05-24T23:02:26+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-05-23T22:57:40+00:00",
+      "generatedAt": "2026-05-24T23:02:24+00:00",
       "articleCount": 73,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-05-23T22:57:49+00:00",
+      "generatedAt": "2026-05-24T23:02:33+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-05-23T21:59:39+00:00",
-      "articleCount": 6,
-      "hasErrors": false
+      "generatedAt": "2026-05-24T22:02:05+00:00",
+      "articleCount": 0,
+      "hasErrors": true
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-05-23T22:57:41+00:00",
+      "generatedAt": "2026-05-24T23:02:25+00:00",
       "articleCount": 55,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-05-23T22:57:53+00:00",
-      "articleCount": 7,
+      "generatedAt": "2026-05-24T23:02:38+00:00",
+      "articleCount": 4,
       "hasErrors": false
     }
   ],
@@ -968,30 +968,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "xinhua-d0d6dd4e4c87",
-      "title": "水网润民生 绿电启新程 光大环境助力“六张网”建设",
-      "url": "https://www.xinhuanet.com/energy/20260520/d0d6dd4e4c874c979c8f0f401e76dbbf/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-20",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-453cf255f73e",
-      "title": "扎根厚土 向绿而生——中国石油积极推动油气与新能源融合发展走向深处",
-      "url": "https://www.xinhuanet.com/energy/20260520/453cf255f73e46ef8eec9baa6a52e002/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-20",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-0d372d5861bb",
-      "title": "核电厂如何“退休”有了新规定",
-      "url": "https://www.xinhuanet.com/energy/20260520/0d372d5861bb4375837d0ec27b69a618/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-20",
-      "source": "xinhuanet.com"
-    },
-    {
       "id": "china5e-1203838",
       "title": "红河元阳分布式光伏铺就“阳光致富路”",
       "url": "https://www.china5e.com/news/news-1203838-1.html",
@@ -1571,54 +1547,6 @@
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com"
-    },
-    {
-      "id": "ne21-227518",
-      "title": "印度首家！禾迈微型逆变器通过BEE能效标签授权",
-      "url": "https://www.ne21.com/news/show-227518.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227517",
-      "title": "乡镇充电站轻量化部署难？阳光新能源以“蚂蚁站”破解县域充电难题",
-      "url": "https://www.ne21.com/news/show-227517.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227516",
-      "title": "重卡充电站快充难？阳光新能源以“光储充一体化”破解效率与成本困局",
-      "url": "https://www.ne21.com/news/show-227516.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227515",
-      "title": "2026年5月十大工商业光伏厂家排行出炉！",
-      "url": "https://www.ne21.com/news/show-227515.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227513",
-      "title": "搭建国际合作桥梁 引领氢能创新发展 北京氢能创新中心亮相 2026 香港国际氢能发展论坛",
-      "url": "https://www.ne21.com/news/show-227513.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227512",
-      "title": "液流电池“端电池”顽疾攻克！川承储能独有技术实现全堆压差≤5mV",
-      "url": "https://www.ne21.com/news/show-227512.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
     }
   ],
   "copper": {
@@ -1636,14 +1564,13 @@
     }
   },
   "stats": {
-    "totalArticles": 193,
+    "totalArticles": 184,
     "bySource": {
       "china5e.com": 50,
       "chinapower.org.cn": 2,
       "cpnn.com.cn": 73,
       "nea.gov.cn": 55,
-      "xinhuanet.com": 7,
-      "ne21.com": 6
+      "xinhuanet.com": 4
     },
     "byProvince": {
       "湖北": 4,
@@ -1664,6 +1591,12 @@
       "source": "iesplaza.com",
       "errors": [
         "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      ]
+    },
+    {
+      "source": "ne21.com",
+      "errors": [
+        "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
       ]
     }
   ]
