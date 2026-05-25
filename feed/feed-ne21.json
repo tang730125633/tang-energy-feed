@@ -1,13 +1,36 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-05-24T22:02:05+00:00",
+  "generatedAt": "2026-05-25T22:14:17+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-227556",
+      "title": "海博思创携手华为打造国内单体容量最大智能组串式储能电站正式发布",
+      "url": "https://www.ne21.com/news/show-227556.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227555",
+      "title": "共筑产业新生态 智赢价值大时代丨2026储能高质量发展峰会成功举办",
+      "url": "https://www.ne21.com/news/show-227555.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227554",
+      "title": "零碳塑界 绿色未来 — 金发科技2025可持续发展报告解读",
+      "url": "https://www.ne21.com/news/show-227554.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 3
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
