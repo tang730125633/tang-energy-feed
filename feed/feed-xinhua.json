@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-24T23:02:38+00:00",
+  "generatedAt": "2026-05-25T23:12:16+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-fecdb49d0b66",
+      "title": "错峰绿电交易，破解能源供需“时空差”",
+      "url": "https://www.xinhuanet.com/energy/20260525/fecdb49d0b664e65bd8ab6905281c841/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-25",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-d6f21445de43",
       "title": "中国石油绘就能源开发与万物共荣和美画卷",
@@ -26,14 +34,6 @@
       "url": "https://www.xinhuanet.com/energy/20260522/315958da79864f3b9715965683b23d52/c.html",
       "summary": "",
       "publishedAt": "2026-05-22",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-cdc70fbb6ba3",
-      "title": "王思强：解码电力行业的数智时代",
-      "url": "https://www.xinhuanet.com/energy/20260521/cdc70fbb6ba34dc1905ccb6529fff56b/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-21",
       "source": "xinhuanet.com"
     }
   ],

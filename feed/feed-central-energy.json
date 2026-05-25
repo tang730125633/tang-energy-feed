@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T23:03:02+00:00",
+  "generatedAt": "2026-05-25T23:12:42+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,24 +12,6 @@
   ],
   "articles": [
     {
-      "id": "china5e-1204075",
-      "title": "No.1！格创东智成功入围首批湖北省工业软件企业图谱和产品供给能力清单",
-      "url": "https://www.china5e.com/news/news-1204075-1.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
-      "id": "china5e-1204039",
-      "title": "中节能湖北咸丰县50MW风电场项目获核准",
-      "url": "https://www.china5e.com/news/news-1204039-1.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
       "id": "cpnn-t20260522_1889835",
       "title": "国家电投集团江西核电（天红科技）招聘公告",
       "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202605/t20260522_1889835.html",
@@ -37,15 +19,6 @@
       "publishedAt": "2026-05-22",
       "source": "cpnn.com.cn",
       "province": "江西"
-    },
-    {
-      "id": "cpnn-t20260522_1889723",
-      "title": "国网武汉供电为蔡家田小区电网“强筋健骨”",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202605/t20260522_1889723.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
     },
     {
       "id": "nea-20260522-97f9b6b503a24794b164dc72cbe8a9cd-c",
@@ -93,22 +66,22 @@
       "province": "华中"
     },
     {
-      "id": "china5e-1204048",
-      "title": "1000千伏特高压芜湖站输送电量达4000亿千瓦时",
-      "url": "https://www.china5e.com/news/news-1204048-1.html",
+      "id": "china5e-1204100",
+      "title": "湖南省建科院两项省外百兆瓦级储能项目相继开工",
+      "url": "https://www.china5e.com/news/news-1204100-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
-      "province": "安徽"
+      "province": "湖南"
     }
   ],
   "stats": {
-    "totalArticles": 10,
+    "totalArticles": 7,
     "byProvince": {
-      "湖北": 4,
       "江西": 1,
-      "安徽": 3,
-      "湖南": 1,
+      "湖北": 1,
+      "安徽": 2,
+      "湖南": 2,
       "华中": 1
     }
   },

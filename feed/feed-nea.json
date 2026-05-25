@@ -1,9 +1,25 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-05-24T23:02:25+00:00",
+  "generatedAt": "2026-05-25T23:12:01+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260525-00667d31b6614d8cb1c9ce019fb0946b-c",
+      "title": "国家能源局召开青年理论学习小组组长座谈会",
+      "url": "https://www.nea.gov.cn/20260525/00667d31b6614d8cb1c9ce019fb0946b/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-25",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260525-c509435a0f09497cb3d2ca361fa262de-c",
+      "title": "国家能源局发布2026年1-4月份全国电力统计数据",
+      "url": "https://www.nea.gov.cn/20260525/c509435a0f09497cb3d2ca361fa262de/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-25",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260522-d69c6247834f4a34b23ce1f70146aac2-c",
       "title": "国家能源局派出机构2026年度拟录用公务员公示公告",
@@ -301,14 +317,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260413-d96d201511a543cea829a5b593384ab7-c",
-      "title": "第37次亚太经合组织能源数据分析专家组会议在广州召开",
-      "url": "https://www.nea.gov.cn/20260413/d96d201511a543cea829a5b593384ab7/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-13",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260407-8318743a08f04274824087ea62cf6728-c",
       "title": "《关于提升新能源和新型并网主体涉网安全能力服务新型电力系统高质量发展的通知》中涉网参数检测单位资质的问题",
       "url": "https://www.nea.gov.cn/20260407/8318743a08f04274824087ea62cf6728/c.html",
@@ -446,7 +454,7 @@
     }
   ],
   "stats": {
-    "articleCount": 55
+    "articleCount": 56
   },
   "errors": []
 }
