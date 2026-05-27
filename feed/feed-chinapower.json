@@ -1,9 +1,33 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-05-26T23:15:16+00:00",
+  "generatedAt": "2026-05-27T23:22:26+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-458819",
+      "title": "内蒙古电力集团营配贯通迈出关键第一步 实现全场景落地应用",
+      "url": "https://www.chinapower.org.cn/detail/458819.html",
+      "summary": "",
+      "publishedAt": "2026-05-27",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-458818",
+      "title": "南方电网人工智能赋能新型电力系统高质量发展",
+      "url": "https://www.chinapower.org.cn/detail/458818.html",
+      "summary": "",
+      "publishedAt": "2026-05-27",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-458816",
+      "title": "“十五五”我国新型电网投资预计将超五万亿元",
+      "url": "https://www.chinapower.org.cn/detail/458816.html",
+      "summary": "",
+      "publishedAt": "2026-05-27",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-458801",
       "title": "2026年4月全国电力供应系列指数（CNESI）情况",
@@ -35,26 +59,10 @@
       "summary": "",
       "publishedAt": "2026-05-26",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458787",
-      "title": "中国能建山西院中标国家电网山西省电力公司9项工程",
-      "url": "https://www.chinapower.org.cn/detail/458787.html",
-      "summary": "",
-      "publishedAt": "2026-05-26",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458777",
-      "title": "浙江松阳抽蓄电站下水库大坝面板浇筑到顶",
-      "url": "https://www.chinapower.org.cn/detail/458777.html",
-      "summary": "",
-      "publishedAt": "2026-05-25",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 7
   },
   "errors": []
 }

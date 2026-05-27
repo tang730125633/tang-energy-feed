@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T23:15:16+00:00",
+  "generatedAt": "2026-05-27T23:22:26+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,22 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260526_1890641",
-      "title": "湖南能源监管办与国家管网集团湖南分公司座谈交流",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202605/t20260526_1890641.html",
+      "id": "china5e-1204246",
+      "title": "河南省“十五五”规划纲要：稳定省内煤炭产量 增强煤炭调入能力",
+      "url": "https://www.china5e.com/news/news-1204246-1.html",
       "summary": "",
-      "publishedAt": "2026-05-26",
+      "publishedAt": "2026-05-27",
+      "source": "china5e.com",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260527_1890966",
+      "title": "大唐湖北新能源事业部农光同治拧紧“三夏”安全阀",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202605/t20260527_1890966.html",
+      "summary": "",
+      "publishedAt": "2026-05-27",
       "source": "cpnn.com.cn",
-      "province": "湖南"
+      "province": "湖北"
     },
     {
       "id": "cpnn-t20260526_1890541",
@@ -73,16 +82,25 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
+    },
+    {
+      "id": "china5e-1204233",
+      "title": "青豫特高压工程输送电量突破1000亿千瓦时",
+      "url": "https://www.china5e.com/news/news-1204233-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 9,
     "byProvince": {
-      "湖南": 2,
-      "湖北": 1,
+      "河南": 3,
+      "湖北": 2,
       "华中": 2,
-      "河南": 1,
-      "江西": 1
+      "江西": 1,
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

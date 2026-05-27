@@ -1,9 +1,33 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-26T23:14:48+00:00",
+  "generatedAt": "2026-05-27T23:22:06+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-256ffafb3ebc",
+      "title": "去年全国算力中心总用电量1700亿千瓦时 占全社会用电量的1.6%",
+      "url": "https://www.xinhuanet.com/energy/20260527/256ffafb3ebc4f5fb82a8ab11009f84b/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-27",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-dbe3e5cc48d8",
+      "title": "为建设能源强国 赋能美好生活贡献力量——中国石油2025年度企业社会责任报告发布",
+      "url": "https://www.xinhuanet.com/energy/20260527/dbe3e5cc48d840b9b27afb359ec20b3a/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-27",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-179b5660e1a1",
+      "title": "在“死亡之海”边缘，他让信号满格——记国家能源集团青年五四奖章个人朱越",
+      "url": "https://www.xinhuanet.com/energy/20260527/179b5660e1a1418c943757063cff5137/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-27",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-40a3c9809496",
       "title": "国网能源院“中国电力工业史”大思政课走进昌平校园 厚植青少年能源强国情怀",
@@ -30,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 6
   },
   "errors": []
 }

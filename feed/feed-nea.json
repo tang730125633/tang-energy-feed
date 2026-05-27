@@ -1,9 +1,33 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-05-26T23:14:34+00:00",
+  "generatedAt": "2026-05-27T23:21:55+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260527-e1586e72e3124fb6a96b033567ce5713-c",
+      "title": "国家能源局主要负责同志赴广东省深圳市调研能源强国建设工作",
+      "url": "https://www.nea.gov.cn/20260527/e1586e72e3124fb6a96b033567ce5713/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-27",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260527-ad612fe227504da0bdaafe63f7433b9f-c",
+      "title": "国家能源局召开全国“人工智能+”能源现场推进会",
+      "url": "https://www.nea.gov.cn/20260527/ad612fe227504da0bdaafe63f7433b9f/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-27",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260527-a9cf945b4e014e918719c3a99889d76f-c",
+      "title": "国家能源局召开民营企业座谈会",
+      "url": "https://www.nea.gov.cn/20260527/a9cf945b4e014e918719c3a99889d76f/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-27",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260526-261bbb10eea24be3b7ea3a00d89b8891-c",
       "title": "国家能源局综合司关于发布“人工智能+”能源高价值场景清单和组织开展试点申报工作的通知",
@@ -104,30 +128,6 @@
       "id": "nea-20260522-b25a79ddb16540a8bbac584ee68969c4-c",
       "title": "国家能源局2026年度拟录用公务员公示公告",
       "url": "https://www.nea.gov.cn/20260522/b25a79ddb16540a8bbac584ee68969c4/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260522-d6da8fe317bf40c9a9c8102cedac4a41-c",
-      "title": "浙江能源监管办深入水电站一线督导防灾减灾工作",
-      "url": "https://www.nea.gov.cn/20260522/d6da8fe317bf40c9a9c8102cedac4a41/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260522-16e27f1abaae44fd8a305d16142e7b8f-c",
-      "title": "东北能源监管局利用数字化监管精准发力进一步规范电力市场秩序",
-      "url": "https://www.nea.gov.cn/20260522/16e27f1abaae44fd8a305d16142e7b8f/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260522-1144d626b16045edb87222e69f110334-c",
-      "title": "西北能源监管局赴长庆油田开展能源保供调研等工作",
-      "url": "https://www.nea.gov.cn/20260522/1144d626b16045edb87222e69f110334/c.html",
       "summary": "",
       "publishedAt": "2026-05-22",
       "source": "nea.gov.cn"
@@ -301,22 +301,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260414-d68a5ff30a34415595e55c339590460c-c",
-      "title": "国家能源局主要负责人会见澳大利亚驻华大使",
-      "url": "https://www.nea.gov.cn/20260414/d68a5ff30a34415595e55c339590460c/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-14",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260413-4d06c6ff1a8242049faa1adea7cd5823-c",
-      "title": "国家能源局与中国气象局举行工作座谈会 推动能源气象合作升级 保障能源强国建设",
-      "url": "https://www.nea.gov.cn/20260413/4d06c6ff1a8242049faa1adea7cd5823/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-13",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260407-8318743a08f04274824087ea62cf6728-c",
       "title": "《关于提升新能源和新型并网主体涉网安全能力服务新型电力系统高质量发展的通知》中涉网参数检测单位资质的问题",
       "url": "https://www.nea.gov.cn/20260407/8318743a08f04274824087ea62cf6728/c.html",
@@ -446,7 +430,7 @@
     }
   ],
   "stats": {
-    "articleCount": 55
+    "articleCount": 53
   },
   "errors": []
 }
