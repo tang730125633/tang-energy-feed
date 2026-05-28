@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T23:22:26+00:00",
+  "generatedAt": "2026-05-28T23:23:17+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,21 +12,12 @@
   ],
   "articles": [
     {
-      "id": "china5e-1204246",
-      "title": "河南省“十五五”规划纲要：稳定省内煤炭产量 增强煤炭调入能力",
-      "url": "https://www.china5e.com/news/news-1204246-1.html",
+      "id": "china5e-1204327",
+      "title": "首日直击：中感集团鄂尔多斯煤博会亮剑，AI正在重塑矿山安全新范式",
+      "url": "https://www.china5e.com/news/news-1204327-1.html",
       "summary": "",
-      "publishedAt": "2026-05-27",
+      "publishedAt": "2026-05-28",
       "source": "china5e.com",
-      "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260527_1890966",
-      "title": "大唐湖北新能源事业部农光同治拧紧“三夏”安全阀",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202605/t20260527_1890966.html",
-      "summary": "",
-      "publishedAt": "2026-05-27",
-      "source": "cpnn.com.cn",
       "province": "湖北"
     },
     {
@@ -94,11 +85,11 @@
     }
   ],
   "stats": {
-    "totalArticles": 9,
+    "totalArticles": 8,
     "byProvince": {
-      "河南": 3,
       "湖北": 2,
       "华中": 2,
+      "河南": 2,
       "江西": 1,
       "湖南": 1
     }

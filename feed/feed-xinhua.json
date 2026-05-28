@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-27T23:22:06+00:00",
+  "generatedAt": "2026-05-28T23:22:55+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-a011f484a0b4",
+      "title": "中国石油昆仑大模型迈入主动智能新阶段——AI从“被动问答”变“主动干活” 能源化工全产业链实现智能化升级",
+      "url": "https://www.xinhuanet.com/energy/20260528/a011f484a0b442b587a94aca84a60d2b/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-28",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-46be70c6d6f3",
+      "title": "光伏组件两项强制性国家标准发布",
+      "url": "https://www.xinhuanet.com/energy/20260528/46be70c6d6f34a629fa3d35ae3aa7780/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-28",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-256ffafb3ebc",
       "title": "去年全国算力中心总用电量1700亿千瓦时 占全社会用电量的1.6%",
@@ -54,7 +70,7 @@
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 8
   },
   "errors": []
 }

@@ -1,9 +1,33 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-05-27T23:22:26+00:00",
+  "generatedAt": "2026-05-28T23:23:17+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-458856",
+      "title": "AI助抢修 电力护算力",
+      "url": "https://www.chinapower.org.cn/detail/458856.html",
+      "summary": "",
+      "publishedAt": "2026-05-28",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-458836",
+      "title": "我国超高海拔装机最大抽蓄电站2号下斜井实现精准贯通",
+      "url": "https://www.chinapower.org.cn/detail/458836.html",
+      "summary": "",
+      "publishedAt": "2026-05-28",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-458833",
+      "title": "中国电力报度度关爱 点亮未来 ——华电“520公众开放日”扫描",
+      "url": "https://www.chinapower.org.cn/detail/458833.html",
+      "summary": "",
+      "publishedAt": "2026-05-28",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-458819",
       "title": "内蒙古电力集团营配贯通迈出关键第一步 实现全场景落地应用",
@@ -27,42 +51,10 @@
       "summary": "",
       "publishedAt": "2026-05-27",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458801",
-      "title": "2026年4月全国电力供应系列指数（CNESI）情况",
-      "url": "https://www.chinapower.org.cn/detail/458801.html",
-      "summary": "",
-      "publishedAt": "2026-05-26",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458793",
-      "title": "破解绿电供需“时差”",
-      "url": "https://www.chinapower.org.cn/detail/458793.html",
-      "summary": "",
-      "publishedAt": "2026-05-26",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458792",
-      "title": "国网福建电力牵头制定的电力导体材料腐蚀国际标准发布",
-      "url": "https://www.chinapower.org.cn/detail/458792.html",
-      "summary": "",
-      "publishedAt": "2026-05-26",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458791",
-      "title": "青海绿电交易累计超二百亿千瓦时",
-      "url": "https://www.chinapower.org.cn/detail/458791.html",
-      "summary": "",
-      "publishedAt": "2026-05-26",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 6
   },
   "errors": []
 }
