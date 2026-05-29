@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T23:23:17+00:00",
+  "generatedAt": "2026-05-29T23:19:43+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,40 +12,49 @@
   ],
   "articles": [
     {
-      "id": "china5e-1204327",
-      "title": "首日直击：中感集团鄂尔多斯煤博会亮剑，AI正在重塑矿山安全新范式",
-      "url": "https://www.china5e.com/news/news-1204327-1.html",
+      "id": "china5e-1204385",
+      "title": "AI智创·矿鸿智联 | 2026鄂尔多斯智能煤矿引航峰会成功举办",
+      "url": "https://www.china5e.com/news/news-1204385-1.html",
       "summary": "",
-      "publishedAt": "2026-05-28",
+      "publishedAt": "2026-05-29",
       "source": "china5e.com",
       "province": "湖北"
     },
     {
-      "id": "cpnn-t20260526_1890541",
-      "title": "国网湖北电力以科技手段提升汛期供电可靠性",
-      "url": "https://www.cpnn.com.cn/news/kj/202605/t20260526_1890541.html",
+      "id": "cpnn-t20260529_1891801",
+      "title": "锚定飞轮储能！湘电股份拟向孙公司增资",
+      "url": "https://www.cpnn.com.cn/news/hy/202605/t20260529_1891801.html",
       "summary": "",
-      "publishedAt": "2026-05-26",
+      "publishedAt": "2026-05-29",
       "source": "cpnn.com.cn",
-      "province": "湖北"
+      "province": "湖南"
     },
     {
-      "id": "nea-20260526-0c9d43bfaeea400086906e6cdf7672cf-c",
-      "title": "华中能源监管局扎实推进政绩观学习教育问题查摆工作",
-      "url": "https://www.nea.gov.cn/20260526/0c9d43bfaeea400086906e6cdf7672cf/c.html",
+      "id": "cpnn-t20260529_1891683",
+      "title": "大唐安徽新能源公司：致敬榜样力量 汲取奋进力量",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202605/t20260529_1891683.html",
       "summary": "",
-      "publishedAt": "2026-05-26",
+      "publishedAt": "2026-05-29",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "nea-20260529-fcdf1026fb8241b0a8a40a98f2f0b425-c",
+      "title": "华中能源监管局组织召开雅湖、金永直流输电工程配套电源建设工作座谈会",
+      "url": "https://www.nea.gov.cn/20260529/fcdf1026fb8241b0a8a40a98f2f0b425/c.html",
+      "summary": "",
+      "publishedAt": "2026-05-29",
       "source": "nea.gov.cn",
       "province": "华中"
     },
     {
-      "id": "nea-20260526-8a8cf2bc79c040f4ab7634d401aab530-c",
-      "title": "河南能源监管办组织召开电网安全风险管控工作座谈会",
-      "url": "https://www.nea.gov.cn/20260526/8a8cf2bc79c040f4ab7634d401aab530/c.html",
+      "id": "nea-20260529-650030f32212430fbcdfcd9d2f558633-c",
+      "title": "湖南能源监管办召开跨省跨区交易提升新能源消纳水平座谈会",
+      "url": "https://www.nea.gov.cn/20260529/650030f32212430fbcdfcd9d2f558633/c.html",
       "summary": "",
-      "publishedAt": "2026-05-26",
+      "publishedAt": "2026-05-29",
       "source": "nea.gov.cn",
-      "province": "河南"
+      "province": "湖南"
     },
     {
       "id": "cpnn-t20260522_1889835",
@@ -75,23 +84,23 @@
       "province": "华中"
     },
     {
-      "id": "china5e-1204233",
-      "title": "青豫特高压工程输送电量突破1000亿千瓦时",
-      "url": "https://www.china5e.com/news/news-1204233-1.html",
+      "id": "china5e-1204342",
+      "title": "国家能源集团安徽公司蚌埠电厂：年度光伏发电量突破3000万千瓦时",
+      "url": "https://www.china5e.com/news/news-1204342-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
-      "province": "河南"
+      "province": "安徽"
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 9,
     "byProvince": {
-      "湖北": 2,
+      "湖北": 1,
+      "湖南": 3,
+      "安徽": 2,
       "华中": 2,
-      "河南": 2,
-      "江西": 1,
-      "湖南": 1
+      "江西": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
