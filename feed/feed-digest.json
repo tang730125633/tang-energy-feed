@@ -1,71 +1,87 @@
 {
-  "generatedAt": "2026-05-29T23:19:43+00:00",
+  "generatedAt": "2026-05-30T23:05:27+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-05-29T22:40:01+00:00",
+      "generatedAt": "2026-05-30T22:05:35+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-05-29T23:19:20+00:00",
+      "generatedAt": "2026-05-30T23:05:06+00:00",
       "articleCount": 53,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-05-29T23:19:43+00:00",
-      "articleCount": 6,
+      "generatedAt": "2026-05-30T23:05:27+00:00",
+      "articleCount": 5,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-05-29T23:19:11+00:00",
+      "generatedAt": "2026-05-30T23:04:57+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-05-29T23:19:08+00:00",
+      "generatedAt": "2026-05-30T23:04:54+00:00",
       "articleCount": 76,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-05-29T23:19:17+00:00",
+      "generatedAt": "2026-05-30T23:05:03+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-05-29T22:40:10+00:00",
+      "generatedAt": "2026-05-30T22:05:44+00:00",
       "articleCount": 2,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-05-29T23:19:09+00:00",
+      "generatedAt": "2026-05-30T23:04:56+00:00",
       "articleCount": 54,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-05-29T23:19:22+00:00",
+      "generatedAt": "2026-05-30T23:05:07+00:00",
       "articleCount": 8,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1204398",
+      "title": "国网柯坪县供电公司:联建聚力促团结 电力惠民暖人心",
+      "url": "https://www.china5e.com/news/news-1204398-1.html",
+      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
+      "publishedAt": "2026-05-30",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1204399",
+      "title": "坦桑尼亚丨国民议会聚焦中坦绿色合作：零碳运输通道与新能源产业链本地化项目获国家级平台推介",
+      "url": "https://www.china5e.com/news/news-1204399-1.html",
+      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
+      "publishedAt": "2026-05-30",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1204395",
       "title": "从“会走路”到“会干活”：亿嘉和将在华为云INSPIRE大会展示具身智能落地实践",
@@ -139,14 +155,6 @@
       "source": "china5e.com"
     },
     {
-      "id": "china5e-1204345",
-      "title": "2026年1-4月全国电力市场交易电量同比增长25.6%",
-      "url": "https://www.china5e.com/news/news-1204345-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-05-29",
-      "source": "china5e.com"
-    },
-    {
       "id": "china5e-1204394",
       "title": "零投入分电费！中正能源光伏合伙人模式全解读，珠三角限时招募",
       "url": "https://www.china5e.com/news/news-1204394-1.html",
@@ -174,14 +182,6 @@
       "id": "china5e-1204365",
       "title": "天能氢电“辰星”系列燃料电池发布 全链自主树立行业标杆",
       "url": "https://www.china5e.com/news/news-1204365-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-05-29",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1204362",
-      "title": "新能源储能行业海外国家经理招聘困局与破局——万宝盛华全球化高端管理人才寻访实践",
-      "url": "https://www.china5e.com/news/news-1204362-1.html",
       "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
       "publishedAt": "2026-05-29",
       "source": "china5e.com"
@@ -742,14 +742,6 @@
       "summary": "",
       "publishedAt": "2026-05-28",
       "source": "china5e.com"
-    },
-    {
-      "id": "chinapower-458856",
-      "title": "AI助抢修 电力护算力",
-      "url": "https://www.chinapower.org.cn/detail/458856.html",
-      "summary": "",
-      "publishedAt": "2026-05-28",
-      "source": "chinapower.org.cn"
     },
     {
       "id": "cpnn-t20260528_1891250",
@@ -1563,6 +1555,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1204351",
+      "title": "3.2GWh!晶科科技斩获山西独立储能项目",
+      "url": "https://www.china5e.com/news/news-1204351-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1204347",
       "title": "毕节纳雍县生活垃圾焚烧发电厂正式并网发电!",
       "url": "https://www.china5e.com/news/news-1204347-1.html",
@@ -1591,14 +1591,6 @@
       "id": "china5e-1204297",
       "title": "京能180MW风电项目获核准批复!",
       "url": "https://www.china5e.com/news/news-1204297-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1204296",
-      "title": "山东青岛即墨海上光伏项目一期第二批次并网发电",
-      "url": "https://www.china5e.com/news/news-1204296-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com"
@@ -1652,17 +1644,17 @@
       "source": "china5e.com"
     },
     {
-      "id": "ne21-227711",
-      "title": "储能的“价值分水岭”：海博思创构建面向未来电力市场的“智能体平台”",
-      "url": "https://www.ne21.com/news/show-227711.html",
+      "id": "ne21-227714",
+      "title": "汇耀品尚能源科技完成1.4亿元B轮融资，加速柔性光伏支架全球化布局",
+      "url": "https://www.ne21.com/news/show-227714.html",
       "summary": "",
       "publishedAt": null,
       "source": "ne21.com"
     },
     {
-      "id": "ne21-227707",
-      "title": "中标人放弃，75MW光伏项目废标！",
-      "url": "https://www.ne21.com/news/show-227707.html",
+      "id": "ne21-227711",
+      "title": "储能的“价值分水岭”：海博思创构建面向未来电力市场的“智能体平台”",
+      "url": "https://www.ne21.com/news/show-227711.html",
       "summary": "",
       "publishedAt": null,
       "source": "ne21.com"
@@ -1683,10 +1675,10 @@
     }
   },
   "stats": {
-    "totalArticles": 199,
+    "totalArticles": 198,
     "bySource": {
       "china5e.com": 53,
-      "chinapower.org.cn": 6,
+      "chinapower.org.cn": 5,
       "cpnn.com.cn": 76,
       "nea.gov.cn": 54,
       "xinhuanet.com": 8,

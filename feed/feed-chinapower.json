@@ -1,7 +1,7 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-05-29T23:19:43+00:00",
+  "generatedAt": "2026-05-30T23:05:27+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -43,18 +43,10 @@
       "summary": "",
       "publishedAt": "2026-05-29",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-458856",
-      "title": "AI助抢修 电力护算力",
-      "url": "https://www.chinapower.org.cn/detail/458856.html",
-      "summary": "",
-      "publishedAt": "2026-05-28",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 5
   },
   "errors": []
 }
