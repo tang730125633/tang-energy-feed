@@ -1,9 +1,17 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-05-30T23:05:27+00:00",
+  "generatedAt": "2026-05-31T23:08:23+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-458910",
+      "title": "中国电力报中国华电多措并举推动学习教育走深走实",
+      "url": "https://www.chinapower.org.cn/detail/458910.html",
+      "summary": "",
+      "publishedAt": "2026-05-31",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-458885",
       "title": "【人民日报】新型电网 更强更绿更智能（经济新方位·精准发力建好“六张网”）",
@@ -46,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 6
   },
   "errors": []
 }

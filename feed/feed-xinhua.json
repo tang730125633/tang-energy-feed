@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-05-30T23:05:07+00:00",
+  "generatedAt": "2026-05-31T23:08:04+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -59,18 +59,10 @@
       "summary": "",
       "publishedAt": "2026-05-28",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-256ffafb3ebc",
-      "title": "去年全国算力中心总用电量1700亿千瓦时 占全社会用电量的1.6%",
-      "url": "https://www.xinhuanet.com/energy/20260527/256ffafb3ebc4f5fb82a8ab11009f84b/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-27",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 8
+    "articleCount": 7
   },
   "errors": []
 }

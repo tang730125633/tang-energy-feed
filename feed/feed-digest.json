@@ -1,71 +1,87 @@
 {
-  "generatedAt": "2026-05-30T23:05:27+00:00",
+  "generatedAt": "2026-05-31T23:08:23+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-05-30T22:05:35+00:00",
+      "generatedAt": "2026-05-31T22:05:13+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-05-30T23:05:06+00:00",
+      "generatedAt": "2026-05-31T23:08:03+00:00",
       "articleCount": 53,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-05-30T23:05:27+00:00",
-      "articleCount": 5,
+      "generatedAt": "2026-05-31T23:08:23+00:00",
+      "articleCount": 6,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-05-30T23:04:57+00:00",
+      "generatedAt": "2026-05-31T23:07:54+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-05-30T23:04:54+00:00",
+      "generatedAt": "2026-05-31T23:07:52+00:00",
       "articleCount": 76,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-05-30T23:05:03+00:00",
+      "generatedAt": "2026-05-31T23:08:01+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-05-30T22:05:44+00:00",
+      "generatedAt": "2026-05-31T22:05:28+00:00",
       "articleCount": 2,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-05-30T23:04:56+00:00",
+      "generatedAt": "2026-05-31T23:07:53+00:00",
       "articleCount": 54,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-05-30T23:05:07+00:00",
-      "articleCount": 8,
+      "generatedAt": "2026-05-31T23:08:04+00:00",
+      "articleCount": 7,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1204400",
+      "title": "第八届综合能源服务落地实践峰会在南京圆满落幕共绘产业发展新蓝图",
+      "url": "https://www.china5e.com/news/news-1204400-1.html",
+      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
+      "publishedAt": "2026-05-31",
+      "source": "china5e.com"
+    },
+    {
+      "id": "chinapower-458910",
+      "title": "中国电力报中国华电多措并举推动学习教育走深走实",
+      "url": "https://www.chinapower.org.cn/detail/458910.html",
+      "summary": "为扎实推动树立和践行正确政绩观学习教育走深走实，中国华电集团有限公司党组一体推进学查改，各项工作取得阶段性成效。",
+      "publishedAt": "2026-05-31",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "china5e-1204398",
       "title": "国网柯坪县供电公司:联建聚力促团结 电力惠民暖人心",
@@ -295,7 +311,7 @@
       "id": "cpnn-t20260529_1891801",
       "title": "锚定飞轮储能！湘电股份拟向孙公司增资",
       "url": "https://www.cpnn.com.cn/news/hy/202605/t20260529_1891801.html",
-      "summary": "中国能源新闻网讯（记者衣韵潼）5月29日，湘潭电机股份有限公司（以下简称“湘电股份”）公告，为抢抓机遇，打造新的经济增长点，拟由公司及全资子公司湖南湘电动力有限公司（以下简称“湘电动力”）共同对全资孙公司湖北东湖新动力有限公司（以下简称“东湖新动力”）实施增资扩股。",
+      "summary": "",
       "publishedAt": "2026-05-29",
       "source": "cpnn.com.cn",
       "province": "湖南"
@@ -304,7 +320,7 @@
       "id": "cpnn-t20260529_1891799",
       "title": "AI牵手能源，会擦出怎样的火花？",
       "url": "https://www.cpnn.com.cn/news/hy/202605/t20260529_1891799.html",
-      "summary": "从百米深的井下采煤面，到绵延千里的铁路运煤专线；从高耸的风力发电机组，到精密的煤化工反应釜——一场由人工智能驱动的深刻变革，正在国家能源集团的全产业链上悄然发生。",
+      "summary": "",
       "publishedAt": "2026-05-29",
       "source": "cpnn.com.cn"
     },
@@ -960,14 +976,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "xinhua-256ffafb3ebc",
-      "title": "去年全国算力中心总用电量1700亿千瓦时 占全社会用电量的1.6%",
-      "url": "https://www.xinhuanet.com/energy/20260527/256ffafb3ebc4f5fb82a8ab11009f84b/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-27",
-      "source": "xinhuanet.com"
-    },
-    {
       "id": "china5e-1204208",
       "title": "君发科技亮相2026全球甲烷大会分享“技术创新与产业实践”",
       "url": "https://www.china5e.com/news/news-1204208-1.html",
@@ -1271,14 +1279,6 @@
       "summary": "",
       "publishedAt": "2026-05-13",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "china5e-1203494",
-      "title": "光伏不再只属于“有屋顶的人”",
-      "url": "https://www.china5e.com/news/news-1203494-1.html",
-      "summary": "",
-      "publishedAt": "2026-05-11",
-      "source": "china5e.com"
     },
     {
       "id": "nea-20260509-45e5721670704d4e8555d2212211db45-c",
@@ -1678,10 +1678,10 @@
     "totalArticles": 198,
     "bySource": {
       "china5e.com": 53,
-      "chinapower.org.cn": 5,
+      "chinapower.org.cn": 6,
       "cpnn.com.cn": 76,
       "nea.gov.cn": 54,
-      "xinhuanet.com": 8,
+      "xinhuanet.com": 7,
       "ne21.com": 2
     },
     "byProvince": {
