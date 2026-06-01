@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T23:08:23+00:00",
+  "generatedAt": "2026-06-01T23:39:49+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,33 +11,6 @@
     "湖南"
   ],
   "articles": [
-    {
-      "id": "china5e-1204385",
-      "title": "AI智创·矿鸿智联 | 2026鄂尔多斯智能煤矿引航峰会成功举办",
-      "url": "https://www.china5e.com/news/news-1204385-1.html",
-      "summary": "",
-      "publishedAt": "2026-05-29",
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260529_1891801",
-      "title": "锚定飞轮储能！湘电股份拟向孙公司增资",
-      "url": "https://www.cpnn.com.cn/news/hy/202605/t20260529_1891801.html",
-      "summary": "",
-      "publishedAt": "2026-05-29",
-      "source": "cpnn.com.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260529_1891683",
-      "title": "大唐安徽新能源公司：致敬榜样力量 汲取奋进力量",
-      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202605/t20260529_1891683.html",
-      "summary": "",
-      "publishedAt": "2026-05-29",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
     {
       "id": "nea-20260529-fcdf1026fb8241b0a8a40a98f2f0b425-c",
       "title": "华中能源监管局组织召开雅湖、金永直流输电工程配套电源建设工作座谈会",
@@ -82,24 +55,13 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
-    },
-    {
-      "id": "china5e-1204342",
-      "title": "国家能源集团安徽公司蚌埠电厂：年度光伏发电量突破3000万千瓦时",
-      "url": "https://www.china5e.com/news/news-1204342-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "安徽"
     }
   ],
   "stats": {
-    "totalArticles": 9,
+    "totalArticles": 5,
     "byProvince": {
-      "湖北": 1,
-      "湖南": 3,
-      "安徽": 2,
       "华中": 2,
+      "湖南": 2,
       "江西": 1
     }
   },

@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-05-31T23:07:53+00:00",
+  "generatedAt": "2026-06-01T23:39:15+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -85,14 +85,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260529-4346f80a96ca42c489d4fe2e2a31de04-c",
-      "title": "云南能源监管办开展家庭家教家风廉政警示教育",
-      "url": "https://www.nea.gov.cn/20260529/4346f80a96ca42c489d4fe2e2a31de04/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-29",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260529-a4df1c37d41c4d768fe9443c85ca9d4d-c",
       "title": "新型电网 更强更绿更智能",
       "url": "https://www.nea.gov.cn/20260529/a4df1c37d41c4d768fe9443c85ca9d4d/c.html",
@@ -154,22 +146,6 @@
       "url": "https://www.nea.gov.cn/20260525/c509435a0f09497cb3d2ca361fa262de/c.html",
       "summary": "",
       "publishedAt": "2026-05-25",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260522-d69c6247834f4a34b23ce1f70146aac2-c",
-      "title": "国家能源局派出机构2026年度拟录用公务员公示公告",
-      "url": "https://www.nea.gov.cn/20260522/d69c6247834f4a34b23ce1f70146aac2/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260522-b25a79ddb16540a8bbac584ee68969c4-c",
-      "title": "国家能源局2026年度拟录用公务员公示公告",
-      "url": "https://www.nea.gov.cn/20260522/b25a79ddb16540a8bbac584ee68969c4/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
       "source": "nea.gov.cn"
     },
     {
@@ -438,7 +414,7 @@
     }
   ],
   "stats": {
-    "articleCount": 54
+    "articleCount": 51
   },
   "errors": []
 }
