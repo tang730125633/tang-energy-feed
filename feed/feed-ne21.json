@@ -1,28 +1,13 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-06-01T23:04:47+00:00",
+  "generatedAt": "2026-06-02T23:05:32+00:00",
   "lookbackHours": 48,
-  "articles": [
-    {
-      "id": "ne21-227747",
-      "title": "2025-2026光伏储能充电站建设选哪家？五家主流服务商横评对比",
-      "url": "https://www.ne21.com/news/show-227747.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-227745",
-      "title": "远景亮相2026国际“碳中和与能源智联”论坛：引领AI时代的新型电力系统",
-      "url": "https://www.ne21.com/news/show-227745.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    }
-  ],
+  "articles": [],
   "stats": {
-    "articleCount": 2
+    "articleCount": 0
   },
-  "errors": []
+  "errors": [
+    "JS redirect challenge not resolved after Playwright wait"
+  ]
 }
