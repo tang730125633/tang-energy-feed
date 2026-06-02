@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T23:39:49+00:00",
+  "generatedAt": "2026-06-02T23:52:59+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,22 +12,49 @@
   ],
   "articles": [
     {
-      "id": "nea-20260529-fcdf1026fb8241b0a8a40a98f2f0b425-c",
-      "title": "华中能源监管局组织召开雅湖、金永直流输电工程配套电源建设工作座谈会",
-      "url": "https://www.nea.gov.cn/20260529/fcdf1026fb8241b0a8a40a98f2f0b425/c.html",
+      "id": "china5e-1204484",
+      "title": "湖北能源(000883)：提分红比例至不低于50% 26Q1来水偏丰业绩高增",
+      "url": "https://www.china5e.com/news/news-1204484-1.html",
       "summary": "",
-      "publishedAt": "2026-05-29",
+      "publishedAt": "2026-06-02",
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "china5e-1204519",
+      "title": "安徽明光：电力护航 伴童成长",
+      "url": "https://www.china5e.com/news/news-1204519-1.html",
+      "summary": "",
+      "publishedAt": "2026-06-02",
+      "source": "china5e.com",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260602_1892484",
+      "title": "国网淮北供电：守护皖北能源“桥头堡”",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202606/t20260602_1892484.html",
+      "summary": "",
+      "publishedAt": "2026-06-02",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "nea-20260602-0d5bb79e7edf4c59b73d859f5830ae19-c",
+      "title": "华中能源监管局组织召开新型经营主体参与电力市场工作座谈会",
+      "url": "https://www.nea.gov.cn/20260602/0d5bb79e7edf4c59b73d859f5830ae19/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-02",
       "source": "nea.gov.cn",
       "province": "华中"
     },
     {
-      "id": "nea-20260529-650030f32212430fbcdfcd9d2f558633-c",
-      "title": "湖南能源监管办召开跨省跨区交易提升新能源消纳水平座谈会",
-      "url": "https://www.nea.gov.cn/20260529/650030f32212430fbcdfcd9d2f558633/c.html",
+      "id": "nea-20260602-f3bbba176d1f4ea5ab7eacd499d0e51c-c",
+      "title": "河南能源监管办赴豫西南督导迎峰度夏电力保供工作",
+      "url": "https://www.nea.gov.cn/20260602/f3bbba176d1f4ea5ab7eacd499d0e51c/c.html",
       "summary": "",
-      "publishedAt": "2026-05-29",
+      "publishedAt": "2026-06-02",
       "source": "nea.gov.cn",
-      "province": "湖南"
+      "province": "河南"
     },
     {
       "id": "cpnn-t20260522_1889835",
@@ -58,11 +85,14 @@
     }
   ],
   "stats": {
-    "totalArticles": 5,
+    "totalArticles": 8,
     "byProvince": {
+      "湖北": 1,
+      "安徽": 2,
       "华中": 2,
-      "湖南": 2,
-      "江西": 1
+      "河南": 1,
+      "江西": 1,
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

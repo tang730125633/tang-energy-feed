@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-01T23:39:27+00:00",
+  "generatedAt": "2026-06-02T23:52:38+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-ee98e1635cca",
+      "title": "中国石化高性能碳纤维技术研发获重大突破",
+      "url": "https://www.xinhuanet.com/energy/20260602/ee98e1635cca4517b56c861e60fe2d30/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-02",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-8ca47302c8df",
       "title": "27.1GWh！国内新型储能一季度装机数据发布",
@@ -27,42 +35,10 @@
       "summary": "",
       "publishedAt": "2026-06-01",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-456bbcde4b8c",
-      "title": "新华能源周报丨51个“人工智能+”能源高价值场景清单发布；中国石油昆仑大模型迭代升级成果正式发布",
-      "url": "https://www.xinhuanet.com/energy/20260529/456bbcde4b8c42e3a2774f3a2f8043d4/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-29",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-e9b2fc5b6833",
-      "title": "全球电力需求攀升 GE Vernova HA级燃机机组运行突破400万小时",
-      "url": "https://www.xinhuanet.com/energy/20260529/e9b2fc5b683340fa97e5a8ea848c6224/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-29",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-61ca760598eb",
-      "title": "哈伊高铁电力“大动脉”全线贯通",
-      "url": "https://www.xinhuanet.com/energy/20260529/61ca760598eb4028abe940576d12c1e1/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-29",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-71e23d12f46d",
-      "title": "新场景催生电力市场更大活力",
-      "url": "https://www.xinhuanet.com/energy/20260529/71e23d12f46d47dab8e60c37503fadc9/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-29",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 4
   },
   "errors": []
 }
