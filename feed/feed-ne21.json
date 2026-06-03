@@ -1,13 +1,36 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-06-02T23:05:32+00:00",
+  "generatedAt": "2026-06-03T23:08:45+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-227814",
+      "title": "聚焦光储高压电力电子系统，德氪微在 SNEC 2026 展示毫米波无线隔离方案",
+      "url": "https://www.ne21.com/news/show-227814.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227813",
+      "title": "​2026能源行业碳中和先行者榜单：引领绿色转型的先锋力量",
+      "url": "https://www.ne21.com/news/show-227813.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-227810",
+      "title": "兆新股份完成收购优得新能源70%股权 开启智慧能源服务协同新篇",
+      "url": "https://www.ne21.com/news/show-227810.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 3
   },
-  "errors": [
-    "JS redirect challenge not resolved after Playwright wait"
-  ]
+  "errors": []
 }
