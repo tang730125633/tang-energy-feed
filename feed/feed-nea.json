@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-06-02T23:52:26+00:00",
+  "generatedAt": "2026-06-03T23:50:00+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -96,14 +96,6 @@
       "id": "nea-20260602-9b8a137ad5a842eb802b6f41ed30d3e8-c",
       "title": "四川能源监管办从严抓实汛期电力防灾保供工作",
       "url": "https://www.nea.gov.cn/20260602/9b8a137ad5a842eb802b6f41ed30d3e8/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260602-e444f35f81e74e6b8b00bc9d3aa8d473-c",
-      "title": "云南能源监管办开展供电许可专项排查",
-      "url": "https://www.nea.gov.cn/20260602/e444f35f81e74e6b8b00bc9d3aa8d473/c.html",
       "summary": "",
       "publishedAt": "2026-06-02",
       "source": "nea.gov.cn"
@@ -430,7 +422,7 @@
     }
   ],
   "stats": {
-    "articleCount": 53
+    "articleCount": 52
   },
   "errors": []
 }

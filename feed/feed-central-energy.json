@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T23:52:59+00:00",
+  "generatedAt": "2026-06-03T23:50:38+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,21 +12,21 @@
   ],
   "articles": [
     {
-      "id": "china5e-1204484",
-      "title": "湖北能源(000883)：提分红比例至不低于50% 26Q1来水偏丰业绩高增",
-      "url": "https://www.china5e.com/news/news-1204484-1.html",
+      "id": "cpnn-t20260603_1892642",
+      "title": "江西电力中长期市场6月起每日开市",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202606/t20260603_1892642.html",
       "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "china5e.com",
-      "province": "湖北"
+      "publishedAt": "2026-06-03",
+      "source": "cpnn.com.cn",
+      "province": "江西"
     },
     {
-      "id": "china5e-1204519",
-      "title": "安徽明光：电力护航 伴童成长",
-      "url": "https://www.china5e.com/news/news-1204519-1.html",
+      "id": "cpnn-t20260603_1892634",
+      "title": "大唐安徽能源营销公司签订首份电力交易代理合同",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202606/t20260603_1892634.html",
       "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "china5e.com",
+      "publishedAt": "2026-06-03",
+      "source": "cpnn.com.cn",
       "province": "安徽"
     },
     {
@@ -87,11 +87,10 @@
   "stats": {
     "totalArticles": 8,
     "byProvince": {
-      "湖北": 1,
+      "江西": 2,
       "安徽": 2,
       "华中": 2,
       "河南": 1,
-      "江西": 1,
       "湖南": 1
     }
   },

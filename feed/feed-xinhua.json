@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-02T23:52:38+00:00",
+  "generatedAt": "2026-06-03T23:50:14+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-ea0523db738c",
+      "title": "甘浙特高压受端换流站接入浙江电网",
+      "url": "https://www.xinhuanet.com/energy/20260603/ea0523db738c479a964dc1f2fe07f117/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-03",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-926c51a6d330",
+      "title": "浙江绍兴 | 优质电力服务为重点民生工程按下“加速键”",
+      "url": "https://www.xinhuanet.com/energy/20260603/926c51a6d330442eb36d6f4271fecc65/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-03",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-ee98e1635cca",
       "title": "中国石化高性能碳纤维技术研发获重大突破",
@@ -38,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 6
   },
   "errors": []
 }
