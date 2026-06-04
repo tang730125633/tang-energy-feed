@@ -1,9 +1,25 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-06-03T23:50:38+00:00",
+  "generatedAt": "2026-06-04T23:14:47+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-459080",
+      "title": "南方电网与东方电气集团举行会谈",
+      "url": "https://www.chinapower.org.cn/detail/459080.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459072",
+      "title": "大同—怀来—天津南特高压工程进入全面架线阶段",
+      "url": "https://www.chinapower.org.cn/detail/459072.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-459050",
       "title": "中国电力海口市文昌市共建项目1号炉大板梁吊装",
@@ -11,34 +27,10 @@
       "summary": "",
       "publishedAt": "2026-06-03",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459031",
-      "title": "乌兰察布首批120万千瓦项目获2026年度水利电力行业优质工程",
-      "url": "https://www.chinapower.org.cn/detail/459031.html",
-      "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459024",
-      "title": "南方电网上线首个设备健康诊断“数字医生”",
-      "url": "https://www.chinapower.org.cn/detail/459024.html",
-      "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459023",
-      "title": "南方总调发布电力通信全景支撑电网高质量发展技术白皮书",
-      "url": "https://www.chinapower.org.cn/detail/459023.html",
-      "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 3
   },
   "errors": []
 }

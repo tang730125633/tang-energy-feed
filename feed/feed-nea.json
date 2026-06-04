@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-06-03T23:50:00+00:00",
+  "generatedAt": "2026-06-04T23:14:17+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260604-ef70594173a14f74afe36fd8382fb592-c",
+      "title": "国家能源局组织开展2026年度能源行业消费帮扶合作行动交流活动",
+      "url": "https://www.nea.gov.cn/20260604/ef70594173a14f74afe36fd8382fb592/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260602-a7e494c0ee274b839b9febc63b74d861-c",
       "title": "国家能源局发布2026年4月全国可再生能源绿色电力证书核发及交易数据",
@@ -80,22 +88,6 @@
       "id": "nea-20260602-fd761b3d05c74ce1b5eee6c6b4955059-c",
       "title": "福建能源监管办主动靠前服务 有序做好电力业务许可证延续工作",
       "url": "https://www.nea.gov.cn/20260602/fd761b3d05c74ce1b5eee6c6b4955059/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260602-f3bbba176d1f4ea5ab7eacd499d0e51c-c",
-      "title": "河南能源监管办赴豫西南督导迎峰度夏电力保供工作",
-      "url": "https://www.nea.gov.cn/20260602/f3bbba176d1f4ea5ab7eacd499d0e51c/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260602-9b8a137ad5a842eb802b6f41ed30d3e8-c",
-      "title": "四川能源监管办从严抓实汛期电力防灾保供工作",
-      "url": "https://www.nea.gov.cn/20260602/9b8a137ad5a842eb802b6f41ed30d3e8/c.html",
       "summary": "",
       "publishedAt": "2026-06-02",
       "source": "nea.gov.cn"
@@ -277,14 +269,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260416-a0df479d9c42427fbc9d8c86ddf6537f-c",
-      "title": "国家能源局在全国部署开展供电质量提升专项行动",
-      "url": "https://www.nea.gov.cn/20260416/a0df479d9c42427fbc9d8c86ddf6537f/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-16",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260416-3c51e47b101e4f2781e04be63c2e90d6-c",
       "title": "股份经济合作社属于《关于深化提升“获得电力”服务水平 全面打造现代化用电营商环境的意见》（发改能源规〔2025〕624号）中提到的民营经济组织吗？",
       "url": "https://www.nea.gov.cn/20260416/3c51e47b101e4f2781e04be63c2e90d6/c.html",
@@ -422,7 +406,7 @@
     }
   ],
   "stats": {
-    "articleCount": 52
+    "articleCount": 50
   },
   "errors": []
 }

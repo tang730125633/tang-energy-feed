@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T23:50:38+00:00",
+  "generatedAt": "2026-06-04T23:14:47+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,33 @@
   ],
   "articles": [
     {
+      "id": "cpnn-t20260604_1893023",
+      "title": "华中能源监管局组织召开油气管网设施公平开放工作协调会",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202606/t20260604_1893023.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "cpnn.com.cn",
+      "province": "华中"
+    },
+    {
+      "id": "cpnn-t20260604_1892963",
+      "title": "皖能马鞍山发电“火力全开”备战迎峰度夏",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260604_1892963.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260604_1892965",
+      "title": "大唐安徽淮北发电1号机组再度获评中电联AAAA级称号",
+      "url": "https://www.cpnn.com.cn/qiye/rongyu/202606/t20260604_1892965.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
       "id": "cpnn-t20260603_1892642",
       "title": "江西电力中长期市场6月起每日开市",
       "url": "https://www.cpnn.com.cn/news/dianli2023/202606/t20260603_1892642.html",
@@ -21,24 +48,6 @@
       "province": "江西"
     },
     {
-      "id": "cpnn-t20260603_1892634",
-      "title": "大唐安徽能源营销公司签订首份电力交易代理合同",
-      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202606/t20260603_1892634.html",
-      "summary": "",
-      "publishedAt": "2026-06-03",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260602_1892484",
-      "title": "国网淮北供电：守护皖北能源“桥头堡”",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202606/t20260602_1892484.html",
-      "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
       "id": "nea-20260602-0d5bb79e7edf4c59b73d859f5830ae19-c",
       "title": "华中能源监管局组织召开新型经营主体参与电力市场工作座谈会",
       "url": "https://www.nea.gov.cn/20260602/0d5bb79e7edf4c59b73d859f5830ae19/c.html",
@@ -46,15 +55,6 @@
       "publishedAt": "2026-06-02",
       "source": "nea.gov.cn",
       "province": "华中"
-    },
-    {
-      "id": "nea-20260602-f3bbba176d1f4ea5ab7eacd499d0e51c-c",
-      "title": "河南能源监管办赴豫西南督导迎峰度夏电力保供工作",
-      "url": "https://www.nea.gov.cn/20260602/f3bbba176d1f4ea5ab7eacd499d0e51c/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "nea.gov.cn",
-      "province": "河南"
     },
     {
       "id": "cpnn-t20260522_1889835",
@@ -87,10 +87,9 @@
   "stats": {
     "totalArticles": 8,
     "byProvince": {
-      "江西": 2,
+      "华中": 3,
       "安徽": 2,
-      "华中": 2,
-      "河南": 1,
+      "江西": 2,
       "湖南": 1
     }
   },

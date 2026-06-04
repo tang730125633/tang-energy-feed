@@ -1,9 +1,49 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-03T23:50:14+00:00",
+  "generatedAt": "2026-06-04T23:14:29+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-0ddde44e8276",
+      "title": "鹏辉能源大储、户储、AIDC三箭齐发，闪耀SNEC 2026",
+      "url": "https://www.xinhuanet.com/energy/20260604/0ddde44e82764b549c34d05f84daad07/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-16319d8f2d66",
+      "title": "隆基光储科技亮相2026SNEC，全栈隆基打造“阳光发电机”",
+      "url": "https://www.xinhuanet.com/energy/20260604/16319d8f2d66470ea1dc88954f8d25d3/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-eb6d9999ae8d",
+      "title": "今夏国家电网最大用电负荷将超13亿千瓦 同比增约6%",
+      "url": "https://www.xinhuanet.com/energy/20260604/eb6d9999ae8d4156a5855bfc779ca563/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-75217f843496",
+      "title": "国家电网公司受邀出席全球发展倡议主题研讨会并作经验分享",
+      "url": "https://www.xinhuanet.com/energy/20260604/75217f8434964058ad5f0e2a57c883b9/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-57e9ca9e41cc",
+      "title": "国电电力湖东公司：传统火电蹚出绿色转型新路子",
+      "url": "https://www.xinhuanet.com/energy/20260604/57e9ca9e41cc4beab95ce536aa142e4d/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-04",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-ea0523db738c",
       "title": "甘浙特高压受端换流站接入浙江电网",
@@ -35,26 +75,10 @@
       "summary": "",
       "publishedAt": "2026-06-01",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-993dade7a36a",
-      "title": "发力补上低碳产业短板",
-      "url": "https://www.xinhuanet.com/energy/20260601/993dade7a36a4d939245c50606ba94c6/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-01",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-69b8bce4aba7",
-      "title": "国家能源局：激发能源领域民企创新发展动能",
-      "url": "https://www.xinhuanet.com/energy/20260601/69b8bce4aba7456c8086faacce29dbed/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-01",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 9
   },
   "errors": []
 }
