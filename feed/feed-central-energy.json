@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T23:14:47+00:00",
+  "generatedAt": "2026-06-05T23:16:12+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,42 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260605_1893425",
+      "title": "大唐湖北新能源事业部开展安全生产月活动",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202606/t20260605_1893425.html",
+      "summary": "",
+      "publishedAt": "2026-06-05",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "nea-20260605-3a08bf0f8ef6472d8c639ae5abb3fa21-c",
+      "title": "华中能源监管局扎实督导暴雨受灾区域电力抢修保供工作",
+      "url": "https://www.nea.gov.cn/20260605/3a08bf0f8ef6472d8c639ae5abb3fa21/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-05",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
+      "id": "nea-20260605-0a5de7cc967c484fa257b96ae96876c6-c",
+      "title": "湖南能源监管办召开跨省跨区交易提升新能源消纳水平座谈会",
+      "url": "https://www.nea.gov.cn/20260605/0a5de7cc967c484fa257b96ae96876c6/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-05",
+      "source": "nea.gov.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "nea-20260605-121c753b36434ada9a451278cb247824-c",
+      "title": "华中能源监管局坚持开门教育推动学习教育见行见效",
+      "url": "https://www.nea.gov.cn/20260605/121c753b36434ada9a451278cb247824/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-05",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
     {
       "id": "cpnn-t20260604_1893023",
       "title": "华中能源监管局组织召开油气管网设施公平开放工作协调会",
@@ -48,15 +84,6 @@
       "province": "江西"
     },
     {
-      "id": "nea-20260602-0d5bb79e7edf4c59b73d859f5830ae19-c",
-      "title": "华中能源监管局组织召开新型经营主体参与电力市场工作座谈会",
-      "url": "https://www.nea.gov.cn/20260602/0d5bb79e7edf4c59b73d859f5830ae19/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
       "id": "cpnn-t20260522_1889835",
       "title": "国家电投集团江西核电（天红科技）招聘公告",
       "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202605/t20260522_1889835.html",
@@ -85,12 +112,13 @@
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 11,
     "byProvince": {
-      "华中": 3,
+      "湖北": 1,
+      "华中": 4,
+      "湖南": 2,
       "安徽": 2,
-      "江西": 2,
-      "湖南": 1
+      "江西": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
