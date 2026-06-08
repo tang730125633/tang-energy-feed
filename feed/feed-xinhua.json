@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-07T23:12:02+00:00",
+  "generatedAt": "2026-06-08T23:16:34+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-47908f8fb437",
+      "title": "智库送课进泉城 精准赋能促发展——国网能源院联合济南供电公司开展政策解读进企业活动",
+      "url": "https://www.xinhuanet.com/energy/20260608/47908f8fb437486081dc1fe2f96c376e/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-08",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-34e50496e7ec",
       "title": "六五环境日|能源行业绿色发展“三本账”",
@@ -35,50 +43,10 @@
       "summary": "",
       "publishedAt": "2026-06-05",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-0ddde44e8276",
-      "title": "鹏辉能源大储、户储、AIDC三箭齐发，闪耀SNEC 2026",
-      "url": "https://www.xinhuanet.com/energy/20260604/0ddde44e82764b549c34d05f84daad07/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-04",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-16319d8f2d66",
-      "title": "隆基光储科技亮相2026SNEC，全栈隆基打造“阳光发电机”",
-      "url": "https://www.xinhuanet.com/energy/20260604/16319d8f2d66470ea1dc88954f8d25d3/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-04",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-eb6d9999ae8d",
-      "title": "今夏国家电网最大用电负荷将超13亿千瓦 同比增约6%",
-      "url": "https://www.xinhuanet.com/energy/20260604/eb6d9999ae8d4156a5855bfc779ca563/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-04",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-75217f843496",
-      "title": "国家电网公司受邀出席全球发展倡议主题研讨会并作经验分享",
-      "url": "https://www.xinhuanet.com/energy/20260604/75217f8434964058ad5f0e2a57c883b9/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-04",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-57e9ca9e41cc",
-      "title": "国电电力湖东公司：传统火电蹚出绿色转型新路子",
-      "url": "https://www.xinhuanet.com/energy/20260604/57e9ca9e41cc4beab95ce536aa142e4d/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-04",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 9
+    "articleCount": 5
   },
   "errors": []
 }

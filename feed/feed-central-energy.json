@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T23:12:27+00:00",
+  "generatedAt": "2026-06-08T23:17:02+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,31 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260605_1893425",
-      "title": "大唐湖北新能源事业部开展安全生产月活动",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202606/t20260605_1893425.html",
+      "id": "cpnn-t20260608_1893668",
+      "title": "国网河南电科院：给“体检设备”做体检 筑牢新型电力系统感知防线",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202606/t20260608_1893668.html",
       "summary": "",
-      "publishedAt": "2026-06-05",
+      "publishedAt": "2026-06-08",
       "source": "cpnn.com.cn",
-      "province": "湖北"
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260608_1893667",
+      "title": "国家能源集团江西万安电厂：撂荒地生金记",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260608_1893667.html",
+      "summary": "",
+      "publishedAt": "2026-06-08",
+      "source": "cpnn.com.cn",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260608_1893638",
+      "title": "江西电建智信能碳全景AI运营平台亮相上海国际光伏展",
+      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202606/t20260608_1893638.html",
+      "summary": "",
+      "publishedAt": "2026-06-08",
+      "source": "cpnn.com.cn",
+      "province": "江西"
     },
     {
       "id": "nea-20260605-3a08bf0f8ef6472d8c639ae5abb3fa21-c",
@@ -39,33 +57,6 @@
       "province": "湖南"
     },
     {
-      "id": "nea-20260605-121c753b36434ada9a451278cb247824-c",
-      "title": "华中能源监管局坚持开门教育推动学习教育见行见效",
-      "url": "https://www.nea.gov.cn/20260605/121c753b36434ada9a451278cb247824/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-05",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
-      "id": "cpnn-t20260604_1893023",
-      "title": "华中能源监管局组织召开油气管网设施公平开放工作协调会",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202606/t20260604_1893023.html",
-      "summary": "",
-      "publishedAt": "2026-06-04",
-      "source": "cpnn.com.cn",
-      "province": "华中"
-    },
-    {
-      "id": "cpnn-t20260604_1892963",
-      "title": "皖能马鞍山发电“火力全开”备战迎峰度夏",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260604_1892963.html",
-      "summary": "",
-      "publishedAt": "2026-06-04",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
       "id": "cpnn-t20260604_1892965",
       "title": "大唐安徽淮北发电1号机组再度获评中电联AAAA级称号",
       "url": "https://www.cpnn.com.cn/qiye/rongyu/202606/t20260604_1892965.html",
@@ -73,15 +64,6 @@
       "publishedAt": "2026-06-04",
       "source": "cpnn.com.cn",
       "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260603_1892642",
-      "title": "江西电力中长期市场6月起每日开市",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202606/t20260603_1892642.html",
-      "summary": "",
-      "publishedAt": "2026-06-03",
-      "source": "cpnn.com.cn",
-      "province": "江西"
     },
     {
       "id": "cpnn-t20260522_1889835",
@@ -112,13 +94,13 @@
     }
   ],
   "stats": {
-    "totalArticles": 11,
+    "totalArticles": 9,
     "byProvince": {
-      "湖北": 1,
-      "华中": 4,
+      "河南": 1,
+      "江西": 3,
+      "华中": 2,
       "湖南": 2,
-      "安徽": 2,
-      "江西": 2
+      "安徽": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
