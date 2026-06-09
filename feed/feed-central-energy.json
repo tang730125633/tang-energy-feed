@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T23:17:02+00:00",
+  "generatedAt": "2026-06-09T23:22:00+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,15 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "nea-20260609-f0ffad02617545c5a2e77815d382ac15-c",
+      "title": "华中能源监管局统筹推进2026年华中区域电力安全生产月活动",
+      "url": "https://www.nea.gov.cn/20260609/f0ffad02617545c5a2e77815d382ac15/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-09",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
     {
       "id": "cpnn-t20260608_1893668",
       "title": "国网河南电科院：给“体检设备”做体检 筑牢新型电力系统感知防线",
@@ -39,24 +48,6 @@
       "province": "江西"
     },
     {
-      "id": "nea-20260605-3a08bf0f8ef6472d8c639ae5abb3fa21-c",
-      "title": "华中能源监管局扎实督导暴雨受灾区域电力抢修保供工作",
-      "url": "https://www.nea.gov.cn/20260605/3a08bf0f8ef6472d8c639ae5abb3fa21/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-05",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
-      "id": "nea-20260605-0a5de7cc967c484fa257b96ae96876c6-c",
-      "title": "湖南能源监管办召开跨省跨区交易提升新能源消纳水平座谈会",
-      "url": "https://www.nea.gov.cn/20260605/0a5de7cc967c484fa257b96ae96876c6/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-05",
-      "source": "nea.gov.cn",
-      "province": "湖南"
-    },
-    {
       "id": "cpnn-t20260604_1892965",
       "title": "大唐安徽淮北发电1号机组再度获评中电联AAAA级称号",
       "url": "https://www.cpnn.com.cn/qiye/rongyu/202606/t20260604_1892965.html",
@@ -64,15 +55,6 @@
       "publishedAt": "2026-06-04",
       "source": "cpnn.com.cn",
       "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260522_1889835",
-      "title": "国家电投集团江西核电（天红科技）招聘公告",
-      "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202605/t20260522_1889835.html",
-      "summary": "",
-      "publishedAt": "2026-05-22",
-      "source": "cpnn.com.cn",
-      "province": "江西"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -91,16 +73,25 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
+    },
+    {
+      "id": "china5e-1204826",
+      "title": "比亚迪“郑州号”滚装船装载4809辆新能源汽车直航澳大利亚",
+      "url": "https://www.china5e.com/news/news-1204826-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 9,
+    "totalArticles": 8,
     "byProvince": {
-      "河南": 1,
-      "江西": 3,
       "华中": 2,
-      "湖南": 2,
-      "安徽": 1
+      "河南": 2,
+      "江西": 2,
+      "安徽": 1,
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

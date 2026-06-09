@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-08T23:16:34+00:00",
+  "generatedAt": "2026-06-09T23:21:32+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-5dca6ae2dbe5",
+      "title": "算电协同助力算力网建设",
+      "url": "https://www.xinhuanet.com/energy/20260609/5dca6ae2dbe544dd87caf8df58b0af2f/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-09",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-9faeef43fa48",
+      "title": "中国二十二冶：转型、智造、低碳，在推进新型工业化中展现新作为",
+      "url": "https://www.xinhuanet.com/energy/20260609/9faeef43fa484da5ac73a648607832c5/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-09",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-47908f8fb437",
       "title": "智库送课进泉城 精准赋能促发展——国网能源院联合济南供电公司开展政策解读进企业活动",
@@ -11,42 +27,10 @@
       "summary": "",
       "publishedAt": "2026-06-08",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-34e50496e7ec",
-      "title": "六五环境日|能源行业绿色发展“三本账”",
-      "url": "https://www.xinhuanet.com/energy/20260605/34e50496e7ec461a841ad96a959c1cec/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-05",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-86532afc0157",
-      "title": "新华能源周报丨上海：做好电力期货、算力期货研发准备；今夏国家电网最大用电负荷同比增约6%",
-      "url": "https://www.xinhuanet.com/energy/20260605/86532afc0157467da6c16b63eed68bb5/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-05",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-d84f3ecc15d2",
-      "title": "领跑碳管理 提速新能源 中国石油高质量发展绿能澎湃",
-      "url": "https://www.xinhuanet.com/energy/20260605/d84f3ecc15d24207bb31c0d061b9f348/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-05",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-e06bf0248c83",
-      "title": "首届全国油气微生物资源与工程学术年会在浙江绍兴举办",
-      "url": "https://www.xinhuanet.com/energy/20260605/e06bf0248c834e75af8a0f59f0842c3e/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-05",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 3
   },
   "errors": []
 }
