@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-06-09T23:21:19+00:00",
+  "generatedAt": "2026-06-10T23:40:04+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -88,14 +88,6 @@
       "id": "nea-20260609-043b768c4ab24d4785aee8c5caf73bf7-c",
       "title": "云南能源监管办迅速落实国家能源局部署 专题研究安排电力安全监管工作",
       "url": "https://www.nea.gov.cn/20260609/043b768c4ab24d4785aee8c5caf73bf7/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-09",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260609-c2087f33ccb74ae79c7cb56a3c049881-c",
-      "title": "贵州能源监管办开展分布式光伏座谈调研",
-      "url": "https://www.nea.gov.cn/20260609/c2087f33ccb74ae79c7cb56a3c049881/c.html",
       "summary": "",
       "publishedAt": "2026-06-09",
       "source": "nea.gov.cn"
@@ -414,7 +406,7 @@
     }
   ],
   "stats": {
-    "articleCount": 51
+    "articleCount": 50
   },
   "errors": []
 }
