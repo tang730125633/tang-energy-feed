@@ -1,9 +1,33 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-06-10T23:40:32+00:00",
+  "generatedAt": "2026-06-11T22:41:51+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-459256",
+      "title": "太空“无线充电宝”建设进度更新 “逐日工程”迎新突破",
+      "url": "https://www.chinapower.org.cn/detail/459256.html",
+      "summary": "",
+      "publishedAt": "2026-06-11",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459251",
+      "title": "广东实现绿电“小时级”精准匹配与溯源",
+      "url": "https://www.chinapower.org.cn/detail/459251.html",
+      "summary": "",
+      "publishedAt": "2026-06-11",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459249",
+      "title": "湖南—贵州电力灵活互济工程换流站主体开工",
+      "url": "https://www.chinapower.org.cn/detail/459249.html",
+      "summary": "",
+      "publishedAt": "2026-06-11",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-459220",
       "title": "国家电网与浙江省委省政府举行会谈",
@@ -19,26 +43,10 @@
       "summary": "",
       "publishedAt": "2026-06-10",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459218",
-      "title": "中国电机工程学会电力防灾减灾专业委员会关于召开2026年中低压配网防台风专题技术研讨会的通知",
-      "url": "https://www.chinapower.org.cn/detail/459218.html",
-      "summary": "",
-      "publishedAt": "2026-06-10",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459195",
-      "title": "强电网 畅通道 促转型 ——从南方五省区“十五五”规划纲要看电网建设新布局",
-      "url": "https://www.chinapower.org.cn/detail/459195.html",
-      "summary": "",
-      "publishedAt": "2026-06-09",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 5
   },
   "errors": []
 }

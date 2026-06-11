@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-10T23:40:15+00:00",
+  "generatedAt": "2026-06-11T22:41:30+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-daa93c78a07e",
+      "title": "产品碳足迹核查机构认可制度实施",
+      "url": "https://www.xinhuanet.com/energy/20260611/daa93c78a07e4b808d7f53a60b9161ce/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-11",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-0adb5c828bc4",
+      "title": "国家能源局发布《2025年度中国电力市场发展报告》",
+      "url": "https://www.xinhuanet.com/energy/20260611/0adb5c828bc4401fb002db9209a70011/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-11",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-bf866963f780",
       "title": "提升电网韧性国际研讨会在杭州召开",
@@ -38,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 6
   },
   "errors": []
 }
