@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-11T22:41:30+00:00",
+  "generatedAt": "2026-06-12T23:24:14+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-de1b04f0f48f",
+      "title": "一线调研丨新型电网让绿电接得住、送得出、用得好",
+      "url": "https://www.xinhuanet.com/energy/20260612/de1b04f0f48f4460901946c8cee79e9f/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-12",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-a8feb5dd95c1",
+      "title": "新华能源周报丨最高法发布涉电水气热力纠纷等典型案例；三峡电力外送通道迁改工程启动",
+      "url": "https://www.xinhuanet.com/energy/20260612/a8feb5dd95c14dfd9aafacbd317df58f/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-12",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-daa93c78a07e",
       "title": "产品碳足迹核查机构认可制度实施",
@@ -43,18 +59,10 @@
       "summary": "",
       "publishedAt": "2026-06-09",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-47908f8fb437",
-      "title": "智库送课进泉城 精准赋能促发展——国网能源院联合济南供电公司开展政策解读进企业活动",
-      "url": "https://www.xinhuanet.com/energy/20260608/47908f8fb437486081dc1fe2f96c376e/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-08",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 7
   },
   "errors": []
 }

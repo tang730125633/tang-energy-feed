@@ -1,9 +1,33 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-06-11T22:41:51+00:00",
+  "generatedAt": "2026-06-12T23:24:33+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-459277",
+      "title": "人工智能驱动配电网高质量发展技术交流会在武汉召开",
+      "url": "https://www.chinapower.org.cn/detail/459277.html",
+      "summary": "",
+      "publishedAt": "2026-06-12",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459271",
+      "title": "三峡电力外送通道迁改工程全面启动",
+      "url": "https://www.chinapower.org.cn/detail/459271.html",
+      "summary": "",
+      "publishedAt": "2026-06-12",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459270",
+      "title": "国家电网举行2026年迎峰度夏暨大面积停电事件联合反事故演练",
+      "url": "https://www.chinapower.org.cn/detail/459270.html",
+      "summary": "",
+      "publishedAt": "2026-06-12",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-459256",
       "title": "太空“无线充电宝”建设进度更新 “逐日工程”迎新突破",
@@ -11,42 +35,10 @@
       "summary": "",
       "publishedAt": "2026-06-11",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459251",
-      "title": "广东实现绿电“小时级”精准匹配与溯源",
-      "url": "https://www.chinapower.org.cn/detail/459251.html",
-      "summary": "",
-      "publishedAt": "2026-06-11",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459249",
-      "title": "湖南—贵州电力灵活互济工程换流站主体开工",
-      "url": "https://www.chinapower.org.cn/detail/459249.html",
-      "summary": "",
-      "publishedAt": "2026-06-11",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459220",
-      "title": "国家电网与浙江省委省政府举行会谈",
-      "url": "https://www.chinapower.org.cn/detail/459220.html",
-      "summary": "",
-      "publishedAt": "2026-06-10",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459219",
-      "title": "中国电机工程学会电力防灾减灾专业委员会关于召开2026年中低压配网防台风专题技术研讨会的通知",
-      "url": "https://www.chinapower.org.cn/detail/459219.html",
-      "summary": "",
-      "publishedAt": "2026-06-10",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 4
   },
   "errors": []
 }

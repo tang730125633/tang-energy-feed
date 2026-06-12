@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T22:41:51+00:00",
+  "generatedAt": "2026-06-12T23:24:33+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,31 +12,58 @@
   ],
   "articles": [
     {
-      "id": "chinapower-459249",
-      "title": "湖南—贵州电力灵活互济工程换流站主体开工",
-      "url": "https://www.chinapower.org.cn/detail/459249.html",
+      "id": "chinapower-459277",
+      "title": "人工智能驱动配电网高质量发展技术交流会在武汉召开",
+      "url": "https://www.chinapower.org.cn/detail/459277.html",
       "summary": "",
-      "publishedAt": "2026-06-11",
+      "publishedAt": "2026-06-12",
       "source": "chinapower.org.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260612_1894821",
+      "title": "湖南-贵州电力灵活互济工程换流站主体开工",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202606/t20260612_1894821.html",
+      "summary": "",
+      "publishedAt": "2026-06-12",
+      "source": "cpnn.com.cn",
       "province": "湖南"
     },
     {
-      "id": "cpnn-t20260611_1894626",
-      "title": "华中能源监管局组织开展2026年电力行业防洪度汛工作",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202606/t20260611_1894626.html",
+      "id": "cpnn-t20260612_1894826",
+      "title": "大唐河南清洁能源公司：闻“汛”而动，筑牢安全堤坝",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202606/t20260612_1894826.html",
       "summary": "",
-      "publishedAt": "2026-06-11",
+      "publishedAt": "2026-06-12",
       "source": "cpnn.com.cn",
-      "province": "华中"
+      "province": "河南"
     },
     {
-      "id": "nea-20260609-f0ffad02617545c5a2e77815d382ac15-c",
-      "title": "华中能源监管局统筹推进2026年华中区域电力安全生产月活动",
-      "url": "https://www.nea.gov.cn/20260609/f0ffad02617545c5a2e77815d382ac15/c.html",
+      "id": "cpnn-t20260612_1894820",
+      "title": "大唐河南清洁能源公司全面启动2026年 “安全生产月”活动",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202606/t20260612_1894820.html",
       "summary": "",
-      "publishedAt": "2026-06-09",
+      "publishedAt": "2026-06-12",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260612-008ae0c750c1432ba7e01e31056220f3-c",
+      "title": "华中能源监管局组织参观湖北省直机关第十二届“清风颂”廉政书画展",
+      "url": "https://www.nea.gov.cn/20260612/008ae0c750c1432ba7e01e31056220f3/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-12",
       "source": "nea.gov.cn",
-      "province": "华中"
+      "province": "湖北"
+    },
+    {
+      "id": "nea-20260612-44bd613c432d467ab87c51e33a9ffb85-c",
+      "title": "河南能源监管办开展迎峰度夏电力保供督导调研",
+      "url": "https://www.nea.gov.cn/20260612/44bd613c432d467ab87c51e33a9ffb85/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-12",
+      "source": "nea.gov.cn",
+      "province": "河南"
     },
     {
       "id": "cpnn-t20260604_1892965",
@@ -67,11 +94,13 @@
     }
   ],
   "stats": {
-    "totalArticles": 6,
+    "totalArticles": 9,
     "byProvince": {
+      "湖北": 2,
       "湖南": 2,
-      "华中": 3,
-      "安徽": 1
+      "河南": 3,
+      "安徽": 1,
+      "华中": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
