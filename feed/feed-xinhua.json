@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-12T23:24:14+00:00",
+  "generatedAt": "2026-06-13T23:12:41+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -43,26 +43,10 @@
       "summary": "",
       "publishedAt": "2026-06-10",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-5dca6ae2dbe5",
-      "title": "算电协同助力算力网建设",
-      "url": "https://www.xinhuanet.com/energy/20260609/5dca6ae2dbe544dd87caf8df58b0af2f/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-09",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-9faeef43fa48",
-      "title": "中国二十二冶：转型、智造、低碳，在推进新型工业化中展现新作为",
-      "url": "https://www.xinhuanet.com/energy/20260609/9faeef43fa484da5ac73a648607832c5/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-09",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 5
   },
   "errors": []
 }

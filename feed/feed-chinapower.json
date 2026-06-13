@@ -1,9 +1,17 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-06-12T23:24:33+00:00",
+  "generatedAt": "2026-06-13T23:13:05+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-459285",
+      "title": "深化交流谋合作 凝心聚力促发展——中电联与南方电网公司举行电力行业职业技能竞赛工作交流座谈会",
+      "url": "https://www.chinapower.org.cn/detail/459285.html",
+      "summary": "",
+      "publishedAt": "2026-06-13",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-459277",
       "title": "人工智能驱动配电网高质量发展技术交流会在武汉召开",
@@ -38,7 +46,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 5
   },
   "errors": []
 }

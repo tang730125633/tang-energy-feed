@@ -1,71 +1,95 @@
 {
-  "generatedAt": "2026-06-12T23:24:33+00:00",
+  "generatedAt": "2026-06-13T23:13:05+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-06-12T22:41:55+00:00",
+      "generatedAt": "2026-06-13T22:11:54+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-06-12T23:24:13+00:00",
-      "articleCount": 50,
+      "generatedAt": "2026-06-13T23:12:39+00:00",
+      "articleCount": 51,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-06-12T23:24:33+00:00",
-      "articleCount": 4,
+      "generatedAt": "2026-06-13T23:13:05+00:00",
+      "articleCount": 5,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-06-12T23:24:04+00:00",
+      "generatedAt": "2026-06-13T23:12:29+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-06-12T23:24:01+00:00",
+      "generatedAt": "2026-06-13T23:12:27+00:00",
       "articleCount": 72,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-06-12T23:24:10+00:00",
+      "generatedAt": "2026-06-13T23:12:36+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-06-12T22:42:04+00:00",
+      "generatedAt": "2026-06-13T22:12:03+00:00",
       "articleCount": 1,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-06-12T23:24:03+00:00",
+      "generatedAt": "2026-06-13T23:12:28+00:00",
       "articleCount": 53,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-06-12T23:24:14+00:00",
-      "articleCount": 7,
+      "generatedAt": "2026-06-13T23:12:41+00:00",
+      "articleCount": 5,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1205043",
+      "title": "以“稳”保“顺”，全力筑牢高炉“优质粮仓”",
+      "url": "https://www.china5e.com/news/news-1205043-1.html",
+      "summary": "近期，汉钢公司烧结厂紧扣“1号高炉顺利出铁”核心目标，以“稳中求进”为基调，全面吹响质量提升、设备保障、稳产保供“冲锋号”，通过强化思想引领、严抓设备运维、精细操作管控，为高炉稳定顺行、高效达产筑牢坚实根基。",
+      "publishedAt": "2026-06-13",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1205044",
+      "title": "咸宁供电公司扎实开展网络安全专项排查整治工作",
+      "url": "https://www.china5e.com/news/news-1205044-1.html",
+      "summary": "为深入落实安全生产治本攻坚“效能提升年”等工作部署，近日，国网咸宁供电公司全面启动网络安全专项排查整治，聚焦系统后门、账号管控、安全监测关键环节，深挖信息系统安全隐患，筑牢电网网络安全屏障。",
+      "publishedAt": "2026-06-13",
+      "source": "china5e.com"
+    },
+    {
+      "id": "chinapower-459285",
+      "title": "深化交流谋合作 凝心聚力促发展——中电联与南方电网公司举行电力行业职业技能竞赛工作交流座谈会",
+      "url": "https://www.chinapower.org.cn/detail/459285.html",
+      "summary": "近日，中电联与南方电网公司举行电力行业职业技能竞赛工作交流座谈会，中电联党委委员冮宇峰出席会议并讲话，双方围绕合作开展电力行业职业技能竞赛等内容进行了交流座谈。",
+      "publishedAt": "2026-06-13",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "china5e-1205011",
       "title": "以办实事的力度，提升民生幸福温度",
@@ -87,22 +111,6 @@
       "title": "5月CPI总体平稳 产业升级支撑PPI继续上涨",
       "url": "https://www.china5e.com/news/news-1204998-1.html",
       "summary": "5月份，居民消费市场运行总体平稳，居民消费价格指数(CPI)环比下降0.1%，同比上涨1.2%，扣除食品和能源价格的核心CPI同比上涨1.1%。受国内部分行业需求增加以及国际大宗商品价格波动传导等因素影响，工业生产者出厂价格指数(PPI)环比上涨0.5%，同比上涨3.9%。",
-      "publishedAt": "2026-06-12",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1204997",
-      "title": "中国造船业为什么能逆袭",
-      "url": "https://www.china5e.com/news/news-1204997-1.html",
-      "summary": "数据显示，今年我国三大造船指标继续领跑全球。1-3月，中国造船完工量、新接订单量、手持订单量分别占世界市场份额的57.3%、84.9%和69.8%。",
-      "publishedAt": "2026-06-12",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1204996",
-      "title": "算力需求增长等带动有色金属等相关行业价格上涨",
-      "url": "https://www.china5e.com/news/news-1204996-1.html",
-      "summary": "国家统计局公布最新数据显示，今年1～5月平均，我国工业生产者出厂价格比上年同期上涨1.0%，工业生产者购进价格上涨1.6%。",
       "publishedAt": "2026-06-12",
       "source": "china5e.com"
     },
@@ -303,7 +311,7 @@
       "id": "cpnn-t20260612_1894696",
       "title": "10万亿元大市场将至 中国经济“电力满格”",
       "url": "https://www.cpnn.com.cn/news/xwtt/202606/t20260612_1894696.html",
-      "summary": "“十五五”时期，我国新型电网的投资将超过5万亿元，带动上下游总规模超10万亿元，与新型电网相关的基建投资，可直接创造就业岗位超过百万。",
+      "summary": "",
       "publishedAt": "2026-06-12",
       "source": "cpnn.com.cn"
     },
@@ -937,22 +945,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "xinhua-5dca6ae2dbe5",
-      "title": "算电协同助力算力网建设",
-      "url": "https://www.xinhuanet.com/energy/20260609/5dca6ae2dbe544dd87caf8df58b0af2f/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-09",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-9faeef43fa48",
-      "title": "中国二十二冶：转型、智造、低碳，在推进新型工业化中展现新作为",
-      "url": "https://www.xinhuanet.com/energy/20260609/9faeef43fa484da5ac73a648607832c5/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-09",
-      "source": "xinhuanet.com"
-    },
-    {
       "id": "china5e-1204788",
       "title": "PM2.5五年下降25%！天津发布最新生态环境保护成绩单",
       "url": "https://www.china5e.com/news/news-1204788-1.html",
@@ -1492,6 +1484,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1204996",
+      "title": "算力需求增长等带动有色金属等相关行业价格上涨",
+      "url": "https://www.china5e.com/news/news-1204996-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1205018",
       "title": "10万亿元大市场将至 中国经济“电力满格”",
       "url": "https://www.china5e.com/news/news-1205018-1.html",
@@ -1564,9 +1564,9 @@
       "source": "china5e.com"
     },
     {
-      "id": "ne21-228094",
-      "title": "场景融合 智慧协同，阳光电源PhD Talk解读S+储能价值新范式",
-      "url": "https://www.ne21.com/news/show-228094.html",
+      "id": "ne21-228100",
+      "title": "2026年中国虚拟电厂市场全景分析：千亿赛道开启，主流厂商综合实力对比与选型推荐",
+      "url": "https://www.ne21.com/news/show-228100.html",
       "summary": "",
       "publishedAt": null,
       "source": "ne21.com"
@@ -1589,11 +1589,11 @@
   "stats": {
     "totalArticles": 187,
     "bySource": {
-      "china5e.com": 50,
-      "chinapower.org.cn": 4,
+      "china5e.com": 51,
+      "chinapower.org.cn": 5,
       "cpnn.com.cn": 72,
       "nea.gov.cn": 53,
-      "xinhuanet.com": 7,
+      "xinhuanet.com": 5,
       "ne21.com": 1
     },
     "byProvince": {
