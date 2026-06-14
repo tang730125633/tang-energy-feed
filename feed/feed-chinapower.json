@@ -1,7 +1,7 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-06-13T23:13:05+00:00",
+  "generatedAt": "2026-06-14T23:15:51+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -35,18 +35,10 @@
       "summary": "",
       "publishedAt": "2026-06-12",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459256",
-      "title": "太空“无线充电宝”建设进度更新 “逐日工程”迎新突破",
-      "url": "https://www.chinapower.org.cn/detail/459256.html",
-      "summary": "",
-      "publishedAt": "2026-06-11",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 4
   },
   "errors": []
 }

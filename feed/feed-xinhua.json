@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-13T23:12:41+00:00",
+  "generatedAt": "2026-06-14T23:15:26+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -35,18 +35,10 @@
       "summary": "",
       "publishedAt": "2026-06-11",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-bf866963f780",
-      "title": "提升电网韧性国际研讨会在杭州召开",
-      "url": "https://www.xinhuanet.com/energy/20260610/bf866963f78042aa8e68ae6477ba56af/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-10",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 4
   },
   "errors": []
 }
