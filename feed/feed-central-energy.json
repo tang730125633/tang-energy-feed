@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T23:15:51+00:00",
+  "generatedAt": "2026-06-15T23:51:51+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "chinapower-459277",
-      "title": "人工智能驱动配电网高质量发展技术交流会在武汉召开",
-      "url": "https://www.chinapower.org.cn/detail/459277.html",
+      "id": "cpnn-t20260615_1894976",
+      "title": "华东能源监管局督导检查安徽省电力迎峰度夏安全保供工作",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202606/t20260615_1894976.html",
       "summary": "",
-      "publishedAt": "2026-06-12",
-      "source": "chinapower.org.cn",
-      "province": "湖北"
+      "publishedAt": "2026-06-15",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
     },
     {
       "id": "cpnn-t20260612_1894821",
@@ -28,24 +28,6 @@
       "publishedAt": "2026-06-12",
       "source": "cpnn.com.cn",
       "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260612_1894826",
-      "title": "大唐河南清洁能源公司：闻“汛”而动，筑牢安全堤坝",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202606/t20260612_1894826.html",
-      "summary": "",
-      "publishedAt": "2026-06-12",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260612_1894820",
-      "title": "大唐河南清洁能源公司全面启动2026年 “安全生产月”活动",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202606/t20260612_1894820.html",
-      "summary": "",
-      "publishedAt": "2026-06-12",
-      "source": "cpnn.com.cn",
-      "province": "河南"
     },
     {
       "id": "nea-20260612-008ae0c750c1432ba7e01e31056220f3-c",
@@ -94,12 +76,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 9,
+    "totalArticles": 7,
     "byProvince": {
-      "湖北": 2,
+      "安徽": 2,
       "湖南": 2,
-      "河南": 3,
-      "安徽": 1,
+      "湖北": 1,
+      "河南": 1,
       "华中": 1
     }
   },
