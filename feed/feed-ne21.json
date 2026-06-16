@@ -1,13 +1,13 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-06-15T23:06:29+00:00",
+  "generatedAt": "2026-06-16T22:55:18+00:00",
   "lookbackHours": 48,
   "articles": [],
   "stats": {
     "articleCount": 0
   },
   "errors": [
-    "Challenge bypassed but parser found 0 articles. ne21 HTML structure may have changed."
+    "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
   ]
 }
