@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T23:51:51+00:00",
+  "generatedAt": "2026-06-16T23:40:20+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,49 +12,49 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260615_1894976",
-      "title": "华东能源监管局督导检查安徽省电力迎峰度夏安全保供工作",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202606/t20260615_1894976.html",
+      "id": "china5e-1205138",
+      "title": "九江华秋电路2.4MW分布式光伏及2MW/4MWh储能项目全面并网",
+      "url": "https://www.china5e.com/news/news-1205138-1.html",
       "summary": "",
-      "publishedAt": "2026-06-15",
+      "publishedAt": "2026-06-16",
+      "source": "china5e.com",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260616_1895343",
+      "title": "大唐河南清洁能源公司：给风机带上“N95”",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260616_1895343.html",
+      "summary": "",
+      "publishedAt": "2026-06-16",
       "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260612_1894821",
-      "title": "湖南-贵州电力灵活互济工程换流站主体开工",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202606/t20260612_1894821.html",
-      "summary": "",
-      "publishedAt": "2026-06-12",
-      "source": "cpnn.com.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "nea-20260612-008ae0c750c1432ba7e01e31056220f3-c",
-      "title": "华中能源监管局组织参观湖北省直机关第十二届“清风颂”廉政书画展",
-      "url": "https://www.nea.gov.cn/20260612/008ae0c750c1432ba7e01e31056220f3/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-12",
-      "source": "nea.gov.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "nea-20260612-44bd613c432d467ab87c51e33a9ffb85-c",
-      "title": "河南能源监管办开展迎峰度夏电力保供督导调研",
-      "url": "https://www.nea.gov.cn/20260612/44bd613c432d467ab87c51e33a9ffb85/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-12",
-      "source": "nea.gov.cn",
       "province": "河南"
     },
     {
-      "id": "cpnn-t20260604_1892965",
-      "title": "大唐安徽淮北发电1号机组再度获评中电联AAAA级称号",
-      "url": "https://www.cpnn.com.cn/qiye/rongyu/202606/t20260604_1892965.html",
+      "id": "cpnn-t20260616_1895350",
+      "title": "大唐安徽新能源公司“学+查+练”全面筑牢安全生产防线",
+      "url": "https://www.cpnn.com.cn/qiye/guanli/202606/t20260616_1895350.html",
       "summary": "",
-      "publishedAt": "2026-06-04",
+      "publishedAt": "2026-06-16",
       "source": "cpnn.com.cn",
       "province": "安徽"
+    },
+    {
+      "id": "nea-20260616-c6073d809b9f4bb4a6b629e121c4a108-c",
+      "title": "华中能源监管局组织开展2026年电力行业防洪度汛工作",
+      "url": "https://www.nea.gov.cn/20260616/c6073d809b9f4bb4a6b629e121c4a108/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-16",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
+      "id": "nea-20260616-1432abd7efa843f59c1b31c369ae81db-c",
+      "title": "河南能源监管办在深学真查实改中提升学习教育实效",
+      "url": "https://www.nea.gov.cn/20260616/1432abd7efa843f59c1b31c369ae81db/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-16",
+      "source": "nea.gov.cn",
+      "province": "河南"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -78,11 +78,11 @@
   "stats": {
     "totalArticles": 7,
     "byProvince": {
-      "安徽": 2,
-      "湖南": 2,
-      "湖北": 1,
-      "河南": 1,
-      "华中": 1
+      "江西": 1,
+      "河南": 2,
+      "安徽": 1,
+      "华中": 2,
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
