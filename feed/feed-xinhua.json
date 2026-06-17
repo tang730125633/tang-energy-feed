@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-16T23:39:53+00:00",
+  "generatedAt": "2026-06-17T23:43:51+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-55ab6af4b21e",
+      "title": "智析电力市场新政 赋能产业高质发展——国家电网能源院共产党员服务队赴唐山开展政策解读活动",
+      "url": "https://www.xinhuanet.com/energy/20260617/55ab6af4b21e401eb9a25d1a3f0ffc12/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-17",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-14bc0c8c3ac8",
+      "title": "绿电澎湃 聚势向南——从第10届南博会看云南绿色能源强省新格局",
+      "url": "https://www.xinhuanet.com/energy/20260617/14bc0c8c3ac848c385ba05c91e1213c9/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-17",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-76eeb9e19002",
       "title": "国网经研院举办电亮未来•2026年新型电网创新发展研讨会",
@@ -38,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 6
   },
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T23:40:20+00:00",
+  "generatedAt": "2026-06-17T23:44:11+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,24 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "china5e-1205244",
+      "title": "湖北宜化氯资源产业化项目焚烧装置开工，百能科技助力资源高效循环利用",
+      "url": "https://www.china5e.com/news/news-1205244-1.html",
+      "summary": "",
+      "publishedAt": "2026-06-17",
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260617_1895783",
+      "title": "大唐湖北新能源事业部青年参加宝武“AI护航安全”联建活动",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202606/t20260617_1895783.html",
+      "summary": "",
+      "publishedAt": "2026-06-17",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
     {
       "id": "china5e-1205138",
       "title": "九江华秋电路2.4MW分布式光伏及2MW/4MWh储能项目全面并网",
@@ -73,16 +91,26 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
+    },
+    {
+      "id": "ne21-228231",
+      "title": "湖南：2026年1-5月光伏产品出口激增超一倍",
+      "url": "https://www.ne21.com/news/show-228231.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com",
+      "province": "湖南"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 10,
     "byProvince": {
+      "湖北": 2,
       "江西": 1,
       "河南": 2,
       "安徽": 1,
       "华中": 2,
-      "湖南": 1
+      "湖南": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

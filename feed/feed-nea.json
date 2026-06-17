@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-06-16T23:39:41+00:00",
+  "generatedAt": "2026-06-17T23:43:39+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260617-5c9ecfb6eb0c47dc87347dd79b58e6f5-c",
+      "title": "国家能源局召开核电科普工作座谈会暨“绿色核能”核电科普合作平台成立会议",
+      "url": "https://www.nea.gov.cn/20260617/5c9ecfb6eb0c47dc87347dd79b58e6f5/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-17",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260616-f4cf0cde7676422c8cdd7b6f6d9ccf45-c",
       "title": "西北能源监管局专题部署落实国家能源局安全生产视频会议精神",
@@ -80,14 +88,6 @@
       "id": "nea-20260616-162ed35a1e4e414f884d2b9d87429f34-c",
       "title": "四川能源监管办联合江苏能源监管办赴通渭县开展乡村振兴帮扶调研",
       "url": "https://www.nea.gov.cn/20260616/162ed35a1e4e414f884d2b9d87429f34/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260616-99a1fd5cf3244282b055d5688a85e3e6-c",
-      "title": "贵州能源监管办组织召开安全生产治本攻坚三年行动工作推进会",
-      "url": "https://www.nea.gov.cn/20260616/99a1fd5cf3244282b055d5688a85e3e6/c.html",
       "summary": "",
       "publishedAt": "2026-06-16",
       "source": "nea.gov.cn"
@@ -240,14 +240,6 @@
       "id": "nea-20260525-c509435a0f09497cb3d2ca361fa262de-c",
       "title": "国家能源局发布2026年1-4月份全国电力统计数据",
       "url": "https://www.nea.gov.cn/20260525/c509435a0f09497cb3d2ca361fa262de/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-25",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260525-00667d31b6614d8cb1c9ce019fb0946b-c",
-      "title": "国家能源局召开青年理论学习小组组长座谈会",
-      "url": "https://www.nea.gov.cn/20260525/00667d31b6614d8cb1c9ce019fb0946b/c.html",
       "summary": "",
       "publishedAt": "2026-05-25",
       "source": "nea.gov.cn"
@@ -446,7 +438,7 @@
     }
   ],
   "stats": {
-    "articleCount": 55
+    "articleCount": 54
   },
   "errors": []
 }
