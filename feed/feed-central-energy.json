@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T23:44:11+00:00",
+  "generatedAt": "2026-06-18T23:52:01+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,22 +12,40 @@
   ],
   "articles": [
     {
-      "id": "china5e-1205244",
-      "title": "湖北宜化氯资源产业化项目焚烧装置开工，百能科技助力资源高效循环利用",
-      "url": "https://www.china5e.com/news/news-1205244-1.html",
+      "id": "china5e-1205286",
+      "title": "200MW/400MWh丨江西一独立储能示范项目一期工程正式开工",
+      "url": "https://www.china5e.com/news/news-1205286-1.html",
       "summary": "",
-      "publishedAt": "2026-06-17",
+      "publishedAt": "2026-06-18",
       "source": "china5e.com",
-      "province": "湖北"
+      "province": "江西"
     },
     {
-      "id": "cpnn-t20260617_1895783",
-      "title": "大唐湖北新能源事业部青年参加宝武“AI护航安全”联建活动",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202606/t20260617_1895783.html",
+      "id": "nea-20260618-cf6cdb80a4d04042b562b395bb4b1ee9-c",
+      "title": "华中能源监管局系统施策深入推进电力业务资质许可监管工作",
+      "url": "https://www.nea.gov.cn/20260618/cf6cdb80a4d04042b562b395bb4b1ee9/c.html",
       "summary": "",
-      "publishedAt": "2026-06-17",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
+      "publishedAt": "2026-06-18",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
+      "id": "nea-20260618-749fe8e75d544473a4b782936c35efbf-c",
+      "title": "河南能源监管办迅速落实全国安全生产视频会议精神",
+      "url": "https://www.nea.gov.cn/20260618/749fe8e75d544473a4b782936c35efbf/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-18",
+      "source": "nea.gov.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260618-a0007de3205f4580a2408a97bb97adcc-c",
+      "title": "湖南能源监管办持续规范能源监管统计工作",
+      "url": "https://www.nea.gov.cn/20260618/a0007de3205f4580a2408a97bb97adcc/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-18",
+      "source": "nea.gov.cn",
+      "province": "湖南"
     },
     {
       "id": "china5e-1205138",
@@ -37,42 +55,6 @@
       "publishedAt": "2026-06-16",
       "source": "china5e.com",
       "province": "江西"
-    },
-    {
-      "id": "cpnn-t20260616_1895343",
-      "title": "大唐河南清洁能源公司：给风机带上“N95”",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260616_1895343.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260616_1895350",
-      "title": "大唐安徽新能源公司“学+查+练”全面筑牢安全生产防线",
-      "url": "https://www.cpnn.com.cn/qiye/guanli/202606/t20260616_1895350.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "nea-20260616-c6073d809b9f4bb4a6b629e121c4a108-c",
-      "title": "华中能源监管局组织开展2026年电力行业防洪度汛工作",
-      "url": "https://www.nea.gov.cn/20260616/c6073d809b9f4bb4a6b629e121c4a108/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
-      "id": "nea-20260616-1432abd7efa843f59c1b31c369ae81db-c",
-      "title": "河南能源监管办在深学真查实改中提升学习教育实效",
-      "url": "https://www.nea.gov.cn/20260616/1432abd7efa843f59c1b31c369ae81db/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
-      "source": "nea.gov.cn",
-      "province": "河南"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -91,25 +73,14 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
-    },
-    {
-      "id": "ne21-228231",
-      "title": "湖南：2026年1-5月光伏产品出口激增超一倍",
-      "url": "https://www.ne21.com/news/show-228231.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com",
-      "province": "湖南"
     }
   ],
   "stats": {
-    "totalArticles": 10,
+    "totalArticles": 7,
     "byProvince": {
-      "湖北": 2,
-      "江西": 1,
-      "河南": 2,
-      "安徽": 1,
+      "江西": 2,
       "华中": 2,
+      "河南": 1,
       "湖南": 2
     }
   },

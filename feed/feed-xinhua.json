@@ -1,9 +1,49 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-17T23:43:51+00:00",
+  "generatedAt": "2026-06-18T23:51:37+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-5d6e6685ae45",
+      "title": "国家电网、南方电网达成我国首笔输电权交易",
+      "url": "https://www.xinhuanet.com/energy/20260618/5d6e6685ae45457d81966616ed7087a2/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-18",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-9e9201fb8620",
+      "title": "第十一届海上风电大会在沪举办 聚力打造海风高质量发展新生态",
+      "url": "https://www.xinhuanet.com/energy/20260618/9e9201fb86204b209f36bd65a5f299b0/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-18",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-bb48acb612e8",
+      "title": "新华财经|可靠电力赋能上合示范区开放平台建设",
+      "url": "https://www.xinhuanet.com/energy/20260618/bb48acb612e844799400fde7881521d3/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-18",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-c17b5d8e3015",
+      "title": "（短视频）2026安全生产月丨我把“它”说给你听：风电场巡检安全线",
+      "url": "https://www.xinhuanet.com/energy/20260618/c17b5d8e30154035a7f1b61f6dca5c96/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-18",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-32c9277f78fd",
+      "title": "一分钟说能源|中国工业零碳从“点”的淬炼到“面”的协同",
+      "url": "https://www.xinhuanet.com/energy/20260618/32c9277f78fd46039cf5dbd2c47811a9/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-18",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-55ab6af4b21e",
       "title": "智析电力市场新政 赋能产业高质发展——国家电网能源院共产党员服务队赴唐山开展政策解读活动",
@@ -27,34 +67,10 @@
       "summary": "",
       "publishedAt": "2026-06-16",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-64903f91f3cf",
-      "title": "五部门联合印发《关于开展重点行业节能降碳改造攻坚三年行动的通知》",
-      "url": "https://www.xinhuanet.com/energy/20260616/64903f91f3cf420282690c5da3c6a8d9/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-48941de00807",
-      "title": "全国统一电力市场体系初步建成",
-      "url": "https://www.xinhuanet.com/energy/20260615/48941de0080747ba814cb8716761fb14/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-15",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-d075d5801167",
-      "title": "国电电力山西新能源：向绿向新 走好绿色发展奋进路",
-      "url": "https://www.xinhuanet.com/energy/20260615/d075d58011674016978784f25cb441d7/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-15",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 8
   },
   "errors": []
 }
