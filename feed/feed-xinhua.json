@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-18T23:51:37+00:00",
+  "generatedAt": "2026-06-19T22:27:29+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-6a172866b2a5",
+      "title": "端午假期国家电网保障电力供应平稳有序",
+      "url": "https://www.xinhuanet.com/energy/20260619/6a172866b2a541a095b9b3bd6a1ab314/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-19",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-5d6e6685ae45",
       "title": "国家电网、南方电网达成我国首笔输电权交易",
@@ -58,14 +66,6 @@
       "url": "https://www.xinhuanet.com/energy/20260617/14bc0c8c3ac848c385ba05c91e1213c9/c.html",
       "summary": "",
       "publishedAt": "2026-06-17",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-76eeb9e19002",
-      "title": "国网经研院举办电亮未来•2026年新型电网创新发展研讨会",
-      "url": "https://www.xinhuanet.com/energy/20260616/76eeb9e190024c9c8e0be1ce5a6a0029/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
       "source": "xinhuanet.com"
     }
   ],

@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-06-18T23:52:01+00:00",
+  "generatedAt": "2026-06-19T22:27:48+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-06-18T23:07:34+00:00",
+      "generatedAt": "2026-06-19T21:32:03+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-06-18T23:51:36+00:00",
+      "generatedAt": "2026-06-19T22:27:28+00:00",
       "articleCount": 51,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-06-18T23:52:01+00:00",
+      "generatedAt": "2026-06-19T22:27:48+00:00",
       "articleCount": 3,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-06-18T23:51:26+00:00",
+      "generatedAt": "2026-06-19T22:27:20+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-06-18T23:51:23+00:00",
+      "generatedAt": "2026-06-19T22:27:17+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-06-18T23:51:32+00:00",
+      "generatedAt": "2026-06-19T22:27:26+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-06-18T23:07:42+00:00",
+      "generatedAt": "2026-06-19T21:32:11+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-06-18T23:51:24+00:00",
+      "generatedAt": "2026-06-19T22:27:18+00:00",
       "articleCount": 57,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-06-18T23:51:37+00:00",
+      "generatedAt": "2026-06-19T22:27:29+00:00",
       "articleCount": 8,
       "hasErrors": false
     }
@@ -73,6 +73,14 @@
       "summary": "郝英杰立足能源高质量发展全局，深刻阐释编制导则、启动“铸美行动”的重要意义。他指出，当前新型电力系统建设加速推进，电力工程在安全可靠建设目标基础上，正向着生态协调、人文赋能、风貌优美的方向升级。近年来，电网改造、火电转型、新能源建设、电力人工智能发展等领域打造出一批优质美学标杆，",
       "publishedAt": "2026-06-19",
       "source": "chinapower.org.cn"
+    },
+    {
+      "id": "xinhua-6a172866b2a5",
+      "title": "端午假期国家电网保障电力供应平稳有序",
+      "url": "https://www.xinhuanet.com/energy/20260619/6a172866b2a541a095b9b3bd6a1ab314/c.html",
+      "summary": "端午临仲夏，时清日复长。端午期间，国家电网公司广大员工坚守运维保电与工程建设一线，统筹做好重点活动保供电、汛期安全防护、民生服务保障各项工作，以可靠电力守护万家灯火，以实干攻坚完善能源网架，为节日平稳运行和迎峰度夏提供坚强支撑。",
+      "publishedAt": "2026-06-19",
+      "source": "xinhuanet.com"
     },
     {
       "id": "china5e-1205283",
@@ -303,7 +311,7 @@
       "id": "china5e-1205260",
       "title": "我国绿色低碳转型扎实推进",
       "url": "https://www.china5e.com/news/news-1205260-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
+      "summary": "",
       "publishedAt": "2026-06-18",
       "source": "china5e.com"
     },
@@ -606,14 +614,6 @@
       "summary": "",
       "publishedAt": "2026-06-16",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "xinhua-76eeb9e19002",
-      "title": "国网经研院举办电亮未来•2026年新型电网创新发展研讨会",
-      "url": "https://www.xinhuanet.com/energy/20260616/76eeb9e190024c9c8e0be1ce5a6a0029/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
-      "source": "xinhuanet.com"
     },
     {
       "id": "china5e-1205028",
@@ -1044,9 +1044,9 @@
     "totalArticles": 119,
     "bySource": {
       "chinapower.org.cn": 3,
+      "xinhuanet.com": 8,
       "china5e.com": 51,
-      "nea.gov.cn": 57,
-      "xinhuanet.com": 8
+      "nea.gov.cn": 57
     },
     "byProvince": {
       "江西": 2,
@@ -1065,7 +1065,7 @@
     {
       "source": "cpnn.com.cn",
       "errors": [
-        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f24ed686390>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
+        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f196d4e0190>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
       ]
     },
     {

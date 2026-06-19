@@ -1,13 +1,13 @@
 {
   "source": "cpnn.com.cn",
   "sourceName": "电网头条（中国能源传媒集团）",
-  "generatedAt": "2026-06-18T23:51:23+00:00",
+  "generatedAt": "2026-06-19T22:27:17+00:00",
   "lookbackHours": 48,
   "articles": [],
   "stats": {
     "articleCount": 0
   },
   "errors": [
-    "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f24ed686390>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
+    "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f196d4e0190>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
   ]
 }
