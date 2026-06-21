@@ -1,7 +1,7 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-06-20T22:34:21+00:00",
+  "generatedAt": "2026-06-21T22:33:57+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -11,26 +11,10 @@
       "summary": "",
       "publishedAt": "2026-06-19",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459401",
-      "title": "全国首家！内蒙古电力交易中心获省级绿电绿证双重交易资质",
-      "url": "https://www.chinapower.org.cn/detail/459401.html",
-      "summary": "",
-      "publishedAt": "2026-06-18",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459399",
-      "title": "可靠电力赋能上合示范区开放平台建设",
-      "url": "https://www.chinapower.org.cn/detail/459399.html",
-      "summary": "",
-      "publishedAt": "2026-06-18",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 1
   },
   "errors": []
 }

@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-20T22:33:30+00:00",
+  "generatedAt": "2026-06-21T22:33:15+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -51,26 +51,10 @@
       "summary": "",
       "publishedAt": "2026-06-18",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-55ab6af4b21e",
-      "title": "智析电力市场新政 赋能产业高质发展——国家电网能源院共产党员服务队赴唐山开展政策解读活动",
-      "url": "https://www.xinhuanet.com/energy/20260617/55ab6af4b21e401eb9a25d1a3f0ffc12/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-17",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-14bc0c8c3ac8",
-      "title": "绿电澎湃 聚势向南——从第10届南博会看云南绿色能源强省新格局",
-      "url": "https://www.xinhuanet.com/energy/20260617/14bc0c8c3ac848c385ba05c91e1213c9/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-17",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 8
+    "articleCount": 6
   },
   "errors": []
 }
