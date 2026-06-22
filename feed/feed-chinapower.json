@@ -1,20 +1,36 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-06-21T22:33:57+00:00",
+  "generatedAt": "2026-06-22T22:39:52+00:00",
   "lookbackHours": 48,
   "articles": [
     {
-      "id": "chinapower-459412",
-      "title": "《电力工业美学评估导则》专家研讨会成功召开",
-      "url": "https://www.chinapower.org.cn/detail/459412.html",
+      "id": "chinapower-459452",
+      "title": "中国电机工程学会关于公布第三届“张良杯”全国电力交易对抗赛获奖名单的通知",
+      "url": "https://www.chinapower.org.cn/detail/459452.html",
       "summary": "",
-      "publishedAt": "2026-06-19",
+      "publishedAt": "2026-06-22",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459442",
+      "title": "南方电网公司与南光集团签署交流合作协议",
+      "url": "https://www.chinapower.org.cn/detail/459442.html",
+      "summary": "",
+      "publishedAt": "2026-06-22",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459440",
+      "title": "国家电网公司加快迎峰度夏重点工程建设",
+      "url": "https://www.chinapower.org.cn/detail/459440.html",
+      "summary": "",
+      "publishedAt": "2026-06-22",
       "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 1
+    "articleCount": 3
   },
   "errors": []
 }

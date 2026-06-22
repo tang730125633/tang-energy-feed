@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-06-21T22:33:02+00:00",
+  "generatedAt": "2026-06-22T22:39:23+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260622-c9c23bedf4c24757a6a087c763362095-c",
+      "title": "国家能源局12398能源监管热线投诉举报处理情况通报（2026年5月）",
+      "url": "https://www.nea.gov.cn/20260622/c9c23bedf4c24757a6a087c763362095/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-22",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260618-fd1e3751b9d448b1872f8887dedcf537-c",
       "title": "国家能源局成功举办“光明守护—2026”电力应急救援综合演练",
@@ -96,22 +104,6 @@
       "id": "nea-20260618-a0007de3205f4580a2408a97bb97adcc-c",
       "title": "湖南能源监管办持续规范能源监管统计工作",
       "url": "https://www.nea.gov.cn/20260618/a0007de3205f4580a2408a97bb97adcc/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-18",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260618-ffb1f221b3c0451fa3c2f65bf5c37181-c",
-      "title": "云南能源监管办推动“双低”专项治理见实效",
-      "url": "https://www.nea.gov.cn/20260618/ffb1f221b3c0451fa3c2f65bf5c37181/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-18",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260618-c8fde5a3fd8b415ea9f897986d12cd3a-c",
-      "title": "贵州能源监管办开展“电力安全进校园 能源科普护成长”主题宣传活动",
-      "url": "https://www.nea.gov.cn/20260618/c8fde5a3fd8b415ea9f897986d12cd3a/c.html",
       "summary": "",
       "publishedAt": "2026-06-18",
       "source": "nea.gov.cn"
@@ -462,7 +454,7 @@
     }
   ],
   "stats": {
-    "articleCount": 57
+    "articleCount": 56
   },
   "errors": []
 }

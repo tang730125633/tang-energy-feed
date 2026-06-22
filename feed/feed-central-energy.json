@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T22:33:57+00:00",
+  "generatedAt": "2026-06-22T22:39:53+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,15 +11,6 @@
     "湖南"
   ],
   "articles": [
-    {
-      "id": "china5e-1205286",
-      "title": "200MW/400MWh丨江西一独立储能示范项目一期工程正式开工",
-      "url": "https://www.china5e.com/news/news-1205286-1.html",
-      "summary": "",
-      "publishedAt": "2026-06-18",
-      "source": "china5e.com",
-      "province": "江西"
-    },
     {
       "id": "nea-20260618-cf6cdb80a4d04042b562b395bb4b1ee9-c",
       "title": "华中能源监管局系统施策深入推进电力业务资质许可监管工作",
@@ -57,24 +48,6 @@
       "province": "江西"
     },
     {
-      "id": "cpnn-t20260616_1895343",
-      "title": "大唐河南清洁能源公司：给风机带上“N95”",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260616_1895343.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260616_1895350",
-      "title": "大唐安徽新能源公司“学+查+练”全面筑牢安全生产防线",
-      "url": "https://www.cpnn.com.cn/qiye/guanli/202606/t20260616_1895350.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -94,13 +67,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 9,
+    "totalArticles": 6,
     "byProvince": {
-      "江西": 2,
       "华中": 2,
-      "河南": 2,
+      "河南": 1,
       "湖南": 2,
-      "安徽": 1
+      "江西": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
