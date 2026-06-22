@@ -1,13 +1,44 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-06-21T21:35:56+00:00",
+  "generatedAt": "2026-06-22T21:46:25+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-228308",
+      "title": "协合运维陆一川：从投资者视角，解码新能源资产价值的底层逻辑",
+      "url": "https://www.ne21.com/news/show-228308.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-228307",
+      "title": "太空光伏的真实底气：藏在这家“隐形冠军”的技术里",
+      "url": "https://www.ne21.com/news/show-228307.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-228306",
+      "title": "蓄势启航！ASEE 2027东盟智慧能源、太阳能光伏电池储能双博览会3月落地曼谷，全域规模全面升级",
+      "url": "https://www.ne21.com/news/show-228306.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-228305",
+      "title": "远景与AMEA Power再携手！1GW风电合作助力埃及能源转型",
+      "url": "https://www.ne21.com/news/show-228305.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 4
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
