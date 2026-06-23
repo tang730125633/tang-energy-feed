@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-22T22:39:34+00:00",
+  "generatedAt": "2026-06-23T22:34:02+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -35,18 +35,10 @@
       "summary": "",
       "publishedAt": "2026-06-22",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-6a172866b2a5",
-      "title": "端午假期国家电网保障电力供应平稳有序",
-      "url": "https://www.xinhuanet.com/energy/20260619/6a172866b2a541a095b9b3bd6a1ab314/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-19",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 4
   },
   "errors": []
 }

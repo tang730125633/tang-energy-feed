@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T22:39:53+00:00",
+  "generatedAt": "2026-06-23T22:34:26+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,30 +12,129 @@
   ],
   "articles": [
     {
-      "id": "nea-20260618-cf6cdb80a4d04042b562b395bb4b1ee9-c",
-      "title": "华中能源监管局系统施策深入推进电力业务资质许可监管工作",
-      "url": "https://www.nea.gov.cn/20260618/cf6cdb80a4d04042b562b395bb4b1ee9/c.html",
+      "id": "bjx-1501051",
+      "title": "总投资2亿元！湖南一负极材料项目签约",
+      "url": "https://news.bjx.com.cn/html/20260623/1501051.shtml",
       "summary": "",
-      "publishedAt": "2026-06-18",
+      "publishedAt": "2026-06-23",
+      "source": "bjx.com.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "bjx-1501141",
+      "title": "2100MW！河南九峰山抽水蓄能电站机电工程进入施工阶段",
+      "url": "https://news.bjx.com.cn/html/20260623/1501141.shtml",
+      "summary": "",
+      "publishedAt": "2026-06-23",
+      "source": "bjx.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "bjx-1501145",
+      "title": "湖南省“数字新基建”100个标志性项目名单（2026年）",
+      "url": "https://news.bjx.com.cn/html/20260623/1501145.shtml",
+      "summary": "",
+      "publishedAt": "2026-06-23",
+      "source": "bjx.com.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "bjx-1501108",
+      "title": "5年运营对赌、限价1334万元！安徽阜阳光储充虚拟电厂项目招标！",
+      "url": "https://news.bjx.com.cn/html/20260623/1501108.shtml",
+      "summary": "",
+      "publishedAt": "2026-06-23",
+      "source": "bjx.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "bjx-1501118",
+      "title": "河南：继续对氢能货车免收通行费",
+      "url": "https://news.bjx.com.cn/html/20260623/1501118.shtml",
+      "summary": "",
+      "publishedAt": "2026-06-23",
+      "source": "bjx.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "chinapower-459487",
+      "title": "中国电机工程学会电力机器人专委会换届会暨电力机器人技术研讨会在武汉举行",
+      "url": "https://www.chinapower.org.cn/detail/459487.html",
+      "summary": "",
+      "publishedAt": "2026-06-23",
+      "source": "chinapower.org.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260623_1896701",
+      "title": "企业丨湖北能源重要人事调整",
+      "url": "https://www.cpnn.com.cn/news/renshi2023/202606/t20260623_1896701.html",
+      "summary": "",
+      "publishedAt": "2026-06-23",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260623_1896845",
+      "title": "皖能淮北国安电力：全负荷脱硝 实现机组绿色转型",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260623_1896845.html",
+      "summary": "",
+      "publishedAt": "2026-06-23",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "nea-20260623-c1a5a256a8a942658b3635e305ce2913-c",
+      "title": "华东能源监管局参加安徽省2026年迎峰度夏能源电力保供动员部署会议暨实战应急演练",
+      "url": "https://www.nea.gov.cn/20260623/c1a5a256a8a942658b3635e305ce2913/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-23",
+      "source": "nea.gov.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "nea-20260623-22f6c76f64e04bb19d4a19b201a08cc1-c",
+      "title": "华中能源监管局扎实推进电力行业重点问题监管核查",
+      "url": "https://www.nea.gov.cn/20260623/22f6c76f64e04bb19d4a19b201a08cc1/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-23",
       "source": "nea.gov.cn",
       "province": "华中"
     },
     {
-      "id": "nea-20260618-749fe8e75d544473a4b782936c35efbf-c",
-      "title": "河南能源监管办迅速落实全国安全生产视频会议精神",
-      "url": "https://www.nea.gov.cn/20260618/749fe8e75d544473a4b782936c35efbf/c.html",
+      "id": "bjx-1500704",
+      "title": "国网江西电力推动算电协同，提升供电保障能力",
+      "url": "https://news.bjx.com.cn/html/20260622/1500704.shtml",
       "summary": "",
-      "publishedAt": "2026-06-18",
-      "source": "nea.gov.cn",
-      "province": "河南"
+      "publishedAt": "2026-06-22",
+      "source": "bjx.com.cn",
+      "province": "江西"
     },
     {
-      "id": "nea-20260618-a0007de3205f4580a2408a97bb97adcc-c",
-      "title": "湖南能源监管办持续规范能源监管统计工作",
-      "url": "https://www.nea.gov.cn/20260618/a0007de3205f4580a2408a97bb97adcc/c.html",
+      "id": "bjx-1500695",
+      "title": "安徽涡阳供电：开展业务技能培训",
+      "url": "https://news.bjx.com.cn/html/20260620/1500695.shtml",
+      "summary": "",
+      "publishedAt": "2026-06-20",
+      "source": "bjx.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "bjx-1500694",
+      "title": "安徽涡阳供电：护航中考供电安全",
+      "url": "https://news.bjx.com.cn/html/20260619/1500694.shtml",
+      "summary": "",
+      "publishedAt": "2026-06-19",
+      "source": "bjx.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "bjx-1500618",
+      "title": "岳阳市住建领域碳达峰碳中和宣传手册",
+      "url": "https://news.bjx.com.cn/html/20260618/1500618.shtml",
       "summary": "",
       "publishedAt": "2026-06-18",
-      "source": "nea.gov.cn",
+      "source": "bjx.com.cn",
       "province": "湖南"
     },
     {
@@ -46,6 +145,15 @@
       "publishedAt": "2026-06-16",
       "source": "china5e.com",
       "province": "江西"
+    },
+    {
+      "id": "bjx-1499413",
+      "title": "以清单规制秩序 以创新升级监管 ——访国家能源局湖南监管办公室相关负责人",
+      "url": "https://news.bjx.com.cn/html/20260610/1499413.shtml",
+      "summary": "",
+      "publishedAt": "2026-06-10",
+      "source": "bjx.com.cn",
+      "province": "湖南"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -64,15 +172,35 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
+    },
+    {
+      "id": "china5e-1205415",
+      "title": "108MW/216MWh!湖北公安储能项目全容量并网运行",
+      "url": "https://www.china5e.com/news/news-1205415-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "china5e-1205436",
+      "title": "5月河南省煤炭价格845.26元/吨，环比上涨1.2%",
+      "url": "https://www.china5e.com/news/news-1205436-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 6,
+    "totalArticles": 20,
     "byProvince": {
+      "湖南": 5,
+      "河南": 3,
+      "安徽": 5,
+      "湖北": 3,
       "华中": 2,
-      "河南": 1,
-      "湖南": 2,
-      "江西": 1
+      "江西": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
