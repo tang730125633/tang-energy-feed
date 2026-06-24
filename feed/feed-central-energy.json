@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T22:34:26+00:00",
+  "generatedAt": "2026-06-24T22:34:28+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,56 +12,11 @@
   ],
   "articles": [
     {
-      "id": "bjx-1501051",
-      "title": "总投资2亿元！湖南一负极材料项目签约",
-      "url": "https://news.bjx.com.cn/html/20260623/1501051.shtml",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "bjx.com.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "bjx-1501141",
-      "title": "2100MW！河南九峰山抽水蓄能电站机电工程进入施工阶段",
-      "url": "https://news.bjx.com.cn/html/20260623/1501141.shtml",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "bjx.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "bjx-1501145",
-      "title": "湖南省“数字新基建”100个标志性项目名单（2026年）",
-      "url": "https://news.bjx.com.cn/html/20260623/1501145.shtml",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "bjx.com.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "bjx-1501108",
-      "title": "5年运营对赌、限价1334万元！安徽阜阳光储充虚拟电厂项目招标！",
-      "url": "https://news.bjx.com.cn/html/20260623/1501108.shtml",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "bjx.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "bjx-1501118",
-      "title": "河南：继续对氢能货车免收通行费",
-      "url": "https://news.bjx.com.cn/html/20260623/1501118.shtml",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "bjx.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "chinapower-459487",
+      "id": "chinapower-459540",
       "title": "中国电机工程学会电力机器人专委会换届会暨电力机器人技术研讨会在武汉举行",
-      "url": "https://www.chinapower.org.cn/detail/459487.html",
+      "url": "https://www.chinapower.org.cn/detail/459540.html",
       "summary": "",
-      "publishedAt": "2026-06-23",
+      "publishedAt": "2026-06-24",
       "source": "chinapower.org.cn",
       "province": "湖北"
     },
@@ -102,42 +57,6 @@
       "province": "华中"
     },
     {
-      "id": "bjx-1500704",
-      "title": "国网江西电力推动算电协同，提升供电保障能力",
-      "url": "https://news.bjx.com.cn/html/20260622/1500704.shtml",
-      "summary": "",
-      "publishedAt": "2026-06-22",
-      "source": "bjx.com.cn",
-      "province": "江西"
-    },
-    {
-      "id": "bjx-1500695",
-      "title": "安徽涡阳供电：开展业务技能培训",
-      "url": "https://news.bjx.com.cn/html/20260620/1500695.shtml",
-      "summary": "",
-      "publishedAt": "2026-06-20",
-      "source": "bjx.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "bjx-1500694",
-      "title": "安徽涡阳供电：护航中考供电安全",
-      "url": "https://news.bjx.com.cn/html/20260619/1500694.shtml",
-      "summary": "",
-      "publishedAt": "2026-06-19",
-      "source": "bjx.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "bjx-1500618",
-      "title": "岳阳市住建领域碳达峰碳中和宣传手册",
-      "url": "https://news.bjx.com.cn/html/20260618/1500618.shtml",
-      "summary": "",
-      "publishedAt": "2026-06-18",
-      "source": "bjx.com.cn",
-      "province": "湖南"
-    },
-    {
       "id": "china5e-1205138",
       "title": "九江华秋电路2.4MW分布式光伏及2MW/4MWh储能项目全面并网",
       "url": "https://www.china5e.com/news/news-1205138-1.html",
@@ -145,15 +64,6 @@
       "publishedAt": "2026-06-16",
       "source": "china5e.com",
       "province": "江西"
-    },
-    {
-      "id": "bjx-1499413",
-      "title": "以清单规制秩序 以创新升级监管 ——访国家能源局湖南监管办公室相关负责人",
-      "url": "https://news.bjx.com.cn/html/20260610/1499413.shtml",
-      "summary": "",
-      "publishedAt": "2026-06-10",
-      "source": "bjx.com.cn",
-      "province": "湖南"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -172,35 +82,16 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
-    },
-    {
-      "id": "china5e-1205415",
-      "title": "108MW/216MWh!湖北公安储能项目全容量并网运行",
-      "url": "https://www.china5e.com/news/news-1205415-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
-      "id": "china5e-1205436",
-      "title": "5月河南省煤炭价格845.26元/吨，环比上涨1.2%",
-      "url": "https://www.china5e.com/news/news-1205436-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 20,
+    "totalArticles": 8,
     "byProvince": {
-      "湖南": 5,
-      "河南": 3,
-      "安徽": 5,
-      "湖北": 3,
+      "湖北": 2,
+      "安徽": 2,
       "华中": 2,
-      "江西": 2
+      "江西": 1,
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-06-23T22:33:52+00:00",
+  "generatedAt": "2026-06-24T22:33:48+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260624-556ec93cd3bc42eca4eb3af4aaf8261c-c",
+      "title": "国家能源局负责人会见沙特国际电力和水务公司董事长",
+      "url": "https://www.nea.gov.cn/20260624/556ec93cd3bc42eca4eb3af4aaf8261c/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-24",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260623-df99dd671f7140ac84692a343d5ce246-c",
       "title": "国家能源局党组第五轮巡视完成反馈",
@@ -80,30 +88,6 @@
       "id": "nea-20260623-252ac6691b7a468295459e1e7d0bb33a-c",
       "title": "江苏能源监管办启动天然气市场体系建设监管工作",
       "url": "https://www.nea.gov.cn/20260623/252ac6691b7a468295459e1e7d0bb33a/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260623-e0f496202293426fa3e581513aa8a173-c",
-      "title": "福建能源监管办布置2026年迎峰度夏能源保供工作",
-      "url": "https://www.nea.gov.cn/20260623/e0f496202293426fa3e581513aa8a173/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260623-b5217213bb1f424b993947b66184a379-c",
-      "title": "四川能源监管办深入落实国家能源局安全生产视频会议精神 部署下半年电力安全监管重点工作",
-      "url": "https://www.nea.gov.cn/20260623/b5217213bb1f424b993947b66184a379/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260623-01e1bed7404e4f199b21ed1f1a21cff6-c",
-      "title": "贵州能源监管办主要负责同志讲授树立和践行正确政绩观学习教育专题党课",
-      "url": "https://www.nea.gov.cn/20260623/01e1bed7404e4f199b21ed1f1a21cff6/c.html",
       "summary": "",
       "publishedAt": "2026-06-23",
       "source": "nea.gov.cn"
@@ -301,14 +285,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260519-6008bb88dc0649e5b5530fd6ad0b117a-c",
-      "title": "2026年一季度光伏发电建设情况",
-      "url": "https://www.nea.gov.cn/20260519/6008bb88dc0649e5b5530fd6ad0b117a/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-19",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260515-76a82a7375a942e2ab748b36cf7cc14b-c",
       "title": "中国绿色电力证书发展报告（2025）",
       "url": "https://www.nea.gov.cn/20260515/76a82a7375a942e2ab748b36cf7cc14b/c.html",
@@ -478,7 +454,7 @@
     }
   ],
   "stats": {
-    "articleCount": 59
+    "articleCount": 56
   },
   "errors": []
 }
