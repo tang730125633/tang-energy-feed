@@ -1,28 +1,13 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-06-24T21:36:15+00:00",
+  "generatedAt": "2026-06-25T21:38:42+00:00",
   "lookbackHours": 48,
-  "articles": [
-    {
-      "id": "ne21-228374",
-      "title": "远景新型电力系统方案亮相Intersolar，重塑AI与工业能源底座",
-      "url": "https://www.ne21.com/news/show-228374.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-228372",
-      "title": "储能赋能工业发展，远信储能亮相2026AEF非洲能源论坛",
-      "url": "https://www.ne21.com/news/show-228372.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    }
-  ],
+  "articles": [],
   "stats": {
-    "articleCount": 2
+    "articleCount": 0
   },
-  "errors": []
+  "errors": [
+    "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
+  ]
 }
