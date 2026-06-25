@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T22:34:28+00:00",
+  "generatedAt": "2026-06-25T22:37:29+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "chinapower-459540",
-      "title": "中国电机工程学会电力机器人专委会换届会暨电力机器人技术研讨会在武汉举行",
-      "url": "https://www.chinapower.org.cn/detail/459540.html",
+      "id": "cpnn-t20260625_1897583",
+      "title": "国网河南电科院：科技赋能电网环保 助推能源绿色转型",
+      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202606/t20260625_1897583.html",
       "summary": "",
-      "publishedAt": "2026-06-24",
-      "source": "chinapower.org.cn",
-      "province": "湖北"
+      "publishedAt": "2026-06-25",
+      "source": "cpnn.com.cn",
+      "province": "河南"
     },
     {
       "id": "cpnn-t20260623_1896701",
@@ -57,15 +57,6 @@
       "province": "华中"
     },
     {
-      "id": "china5e-1205138",
-      "title": "九江华秋电路2.4MW分布式光伏及2MW/4MWh储能项目全面并网",
-      "url": "https://www.china5e.com/news/news-1205138-1.html",
-      "summary": "",
-      "publishedAt": "2026-06-16",
-      "source": "china5e.com",
-      "province": "江西"
-    },
-    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -85,12 +76,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 7,
     "byProvince": {
-      "湖北": 2,
+      "河南": 1,
+      "湖北": 1,
       "安徽": 2,
       "华中": 2,
-      "江西": 1,
       "湖南": 1
     }
   },
