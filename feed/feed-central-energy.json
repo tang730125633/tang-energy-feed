@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T22:37:29+00:00",
+  "generatedAt": "2026-06-26T22:33:36+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,40 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260625_1897583",
-      "title": "国网河南电科院：科技赋能电网环保 助推能源绿色转型",
-      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202606/t20260625_1897583.html",
+      "id": "china5e-1205640",
+      "title": "江西佳鸿电瓷制造有限公司荣获 “绝缘子十大品牌” 称号",
+      "url": "https://www.china5e.com/news/news-1205640-1.html",
       "summary": "",
-      "publishedAt": "2026-06-25",
+      "publishedAt": "2026-06-26",
+      "source": "china5e.com",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260626_1897862",
+      "title": "“绿能拼图”助力华润电力武汉滨湖双鹤药业降本增效",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202606/t20260626_1897862.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
       "source": "cpnn.com.cn",
-      "province": "河南"
+      "province": "湖北"
+    },
+    {
+      "id": "nea-20260626-7ee7e85ef96e41fdb0dbc68ef55983eb-c",
+      "title": "华中能源监管局开展党建业务融合联建活动",
+      "url": "https://www.nea.gov.cn/20260626/7ee7e85ef96e41fdb0dbc68ef55983eb/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
+      "id": "nea-20260626-50ff037d38604e5f9b95c2b3b8e04332-c",
+      "title": "湖南能源监管办与湖南省能源局协同推动老旧小区“电表下楼”助力绿色出行",
+      "url": "https://www.nea.gov.cn/20260626/50ff037d38604e5f9b95c2b3b8e04332/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "nea.gov.cn",
+      "province": "湖南"
     },
     {
       "id": "cpnn-t20260623_1896701",
@@ -28,33 +55,6 @@
       "publishedAt": "2026-06-23",
       "source": "cpnn.com.cn",
       "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260623_1896845",
-      "title": "皖能淮北国安电力：全负荷脱硝 实现机组绿色转型",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260623_1896845.html",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "nea-20260623-c1a5a256a8a942658b3635e305ce2913-c",
-      "title": "华东能源监管局参加安徽省2026年迎峰度夏能源电力保供动员部署会议暨实战应急演练",
-      "url": "https://www.nea.gov.cn/20260623/c1a5a256a8a942658b3635e305ce2913/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "nea.gov.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "nea-20260623-22f6c76f64e04bb19d4a19b201a08cc1-c",
-      "title": "华中能源监管局扎实推进电力行业重点问题监管核查",
-      "url": "https://www.nea.gov.cn/20260623/22f6c76f64e04bb19d4a19b201a08cc1/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "nea.gov.cn",
-      "province": "华中"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -78,11 +78,10 @@
   "stats": {
     "totalArticles": 7,
     "byProvince": {
-      "河南": 1,
-      "湖北": 1,
-      "安徽": 2,
+      "江西": 1,
+      "湖北": 2,
       "华中": 2,
-      "湖南": 1
+      "湖南": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

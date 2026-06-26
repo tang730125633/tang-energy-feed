@@ -1,9 +1,57 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-06-25T22:37:29+00:00",
+  "generatedAt": "2026-06-26T22:33:36+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-459628",
+      "title": "2026年5月全国电力供应系列指数（CNESI）情况",
+      "url": "https://www.chinapower.org.cn/detail/459628.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459627",
+      "title": "2026年5月全国电力消费系列指数（CNECI）情况",
+      "url": "https://www.chinapower.org.cn/detail/459627.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459616",
+      "title": "世界额定水头最高、我国单机容量最大抽蓄电站全面投产",
+      "url": "https://www.chinapower.org.cn/detail/459616.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459614",
+      "title": "海南—广东电力灵活互济工程海缆路由勘察完成",
+      "url": "https://www.chinapower.org.cn/detail/459614.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459598",
+      "title": "中国能建华北电力试研院单体调试的河北沧东三期项目5号机组投运",
+      "url": "https://www.chinapower.org.cn/detail/459598.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-459595",
+      "title": "中电联举办电力超导技术 及设备工程应用专题讲座",
+      "url": "https://www.chinapower.org.cn/detail/459595.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-459584",
       "title": "2026年5月全国电动汽车充电设施数据情况",
@@ -11,18 +59,10 @@
       "summary": "",
       "publishedAt": "2026-06-25",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459566",
-      "title": "中国能建广西院中标广西电网公司工程监理项目",
-      "url": "https://www.chinapower.org.cn/detail/459566.html",
-      "summary": "",
-      "publishedAt": "2026-06-25",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 7
   },
   "errors": []
 }

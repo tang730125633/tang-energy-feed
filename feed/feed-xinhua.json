@@ -1,9 +1,33 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-25T22:37:03+00:00",
+  "generatedAt": "2026-06-26T22:33:03+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-80a1e124598d",
+      "title": "《新型能源体系建设“十五五”规划》发布 2030年初步建成清洁低碳安全高效的新型能源体系",
+      "url": "https://www.xinhuanet.com/energy/20260626/80a1e124598d4580916d6ddf6adc54f4/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-b905d055d444",
+      "title": "水泥业攻坚节能降碳改造",
+      "url": "https://www.xinhuanet.com/energy/20260626/b905d055d4444190931bf03a2461b617/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-849ed86b65c2",
+      "title": "新华能源周报丨《新型能源体系建设“十五五”规划》发布；我国发电装机容量突破40亿千瓦",
+      "url": "https://www.xinhuanet.com/energy/20260626/849ed86b65c2444bb0a8d18dcac6455e/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-26",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-744bc261ea3b",
       "title": "海上风电价值不止于能源",
@@ -27,18 +51,10 @@
       "summary": "",
       "publishedAt": "2026-06-24",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-4358b02eef8e",
-      "title": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法",
-      "url": "https://www.xinhuanet.com/energy/20260622/4358b02eef8e481484c8d79eaf0a617a/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-22",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 6
   },
   "errors": []
 }
