@@ -1,13 +1,36 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-06-25T21:38:42+00:00",
+  "generatedAt": "2026-06-26T21:35:59+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-228471",
+      "title": "闲置荒山、滩涂如何变身“绿电银行”？地面集中式光伏综合解决方案全解析",
+      "url": "https://www.ne21.com/news/show-228471.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-228469",
+      "title": "远景与SOLA Group签署660MWh储能供货协议，助力南非电力体系市场化转型",
+      "url": "https://www.ne21.com/news/show-228469.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-228467",
+      "title": "海辰储能发布新一代∞Power 1022kWh储能柜，引领工商储进入长时应用新阶段",
+      "url": "https://www.ne21.com/news/show-228467.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 3
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
