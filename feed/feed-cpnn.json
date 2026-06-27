@@ -1,9 +1,25 @@
 {
   "source": "cpnn.com.cn",
   "sourceName": "电网头条（中国能源传媒集团）",
-  "generatedAt": "2026-06-26T22:32:52+00:00",
+  "generatedAt": "2026-06-27T22:28:40+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "cpnn-t20260627_1898091",
+      "title": "国网江西电力党校：打造“映山红”党校文化品牌",
+      "url": "https://www.cpnn.com.cn/qiye/guanli/202606/t20260627_1898091.html",
+      "summary": "",
+      "publishedAt": "2026-06-27",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260627_1898090",
+      "title": "广西电网河池供电局：立体化培训 赋能干部管理能力跃升",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202606/t20260627_1898090.html",
+      "summary": "",
+      "publishedAt": "2026-06-27",
+      "source": "cpnn.com.cn"
+    },
     {
       "id": "cpnn-t20260626_1898038",
       "title": "《新型能源体系建设“十五五”规划》发布",
@@ -272,14 +288,6 @@
       "id": "cpnn-t20260626_1897917",
       "title": "大唐巩义发电：数海耕耘守初心 芳华逐梦助发展",
       "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202606/t20260626_1897917.html",
-      "summary": "",
-      "publishedAt": "2026-06-26",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260626_1897874",
-      "title": "国网高台供电精准监督护航电力营商环境",
-      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202606/t20260626_1897874.html",
       "summary": "",
       "publishedAt": "2026-06-26",
       "source": "cpnn.com.cn"
@@ -734,7 +742,7 @@
     }
   ],
   "stats": {
-    "articleCount": 91
+    "articleCount": 92
   },
   "errors": []
 }

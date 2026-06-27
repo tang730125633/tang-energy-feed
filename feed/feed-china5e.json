@@ -1,9 +1,17 @@
 {
   "source": "china5e.com",
   "sourceName": "中国能源网",
-  "generatedAt": "2026-06-26T22:33:03+00:00",
+  "generatedAt": "2026-06-27T22:28:52+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "china5e-1205646",
+      "title": "华为中国行2026·新疆人工智能+产业峰会成功举办",
+      "url": "https://www.china5e.com/news/news-1205646-1.html",
+      "summary": "",
+      "publishedAt": "2026-06-27",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1205634",
       "title": "全球第一！“灵晟”登顶全球超算TOP500，中国刷新世界算力新高度",
@@ -32,14 +40,6 @@
       "id": "china5e-1205610",
       "title": "“十五五”新型能源体系建设“路线图”发布",
       "url": "https://www.china5e.com/news/news-1205610-1.html",
-      "summary": "",
-      "publishedAt": "2026-06-26",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1205605",
-      "title": "未来五年，新型能源体系这样建设",
-      "url": "https://www.china5e.com/news/news-1205605-1.html",
       "summary": "",
       "publishedAt": "2026-06-26",
       "source": "china5e.com"
@@ -333,6 +333,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1205605",
+      "title": "未来五年，新型能源体系这样建设",
+      "url": "https://www.china5e.com/news/news-1205605-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1205540",
       "title": "广西能源(600310)：广西厂网一体发电商 聚焦主业盈利改善",
       "url": "https://www.china5e.com/news/news-1205540-1.html",
@@ -454,7 +462,7 @@
     }
   ],
   "stats": {
-    "articleCount": 56
+    "articleCount": 57
   },
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T22:33:36+00:00",
+  "generatedAt": "2026-06-27T22:29:16+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,15 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260627_1898091",
+      "title": "国网江西电力党校：打造“映山红”党校文化品牌",
+      "url": "https://www.cpnn.com.cn/qiye/guanli/202606/t20260627_1898091.html",
+      "summary": "",
+      "publishedAt": "2026-06-27",
+      "source": "cpnn.com.cn",
+      "province": "江西"
+    },
     {
       "id": "china5e-1205640",
       "title": "江西佳鸿电瓷制造有限公司荣获 “绝缘子十大品牌” 称号",
@@ -76,9 +85,9 @@
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 8,
     "byProvince": {
-      "江西": 1,
+      "江西": 2,
       "湖北": 2,
       "华中": 2,
       "湖南": 2

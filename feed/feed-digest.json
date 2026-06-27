@@ -1,71 +1,96 @@
 {
-  "generatedAt": "2026-06-26T22:33:36+00:00",
+  "generatedAt": "2026-06-27T22:29:16+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-06-26T21:35:51+00:00",
+      "generatedAt": "2026-06-27T21:29:45+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-06-26T22:33:03+00:00",
-      "articleCount": 56,
+      "generatedAt": "2026-06-27T22:28:52+00:00",
+      "articleCount": 57,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-06-26T22:33:36+00:00",
+      "generatedAt": "2026-06-27T22:29:16+00:00",
       "articleCount": 7,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-06-26T22:32:54+00:00",
+      "generatedAt": "2026-06-27T22:28:42+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-06-26T22:32:52+00:00",
-      "articleCount": 91,
+      "generatedAt": "2026-06-27T22:28:40+00:00",
+      "articleCount": 92,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-06-26T22:33:00+00:00",
+      "generatedAt": "2026-06-27T22:28:49+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-06-26T21:35:59+00:00",
+      "generatedAt": "2026-06-27T21:29:54+00:00",
       "articleCount": 3,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-06-26T22:32:53+00:00",
+      "generatedAt": "2026-06-27T22:28:41+00:00",
       "articleCount": 59,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-06-26T22:33:03+00:00",
+      "generatedAt": "2026-06-27T22:28:53+00:00",
       "articleCount": 6,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1205646",
+      "title": "华为中国行2026·新疆人工智能+产业峰会成功举办",
+      "url": "https://www.china5e.com/news/news-1205646-1.html",
+      "summary": "[中国，新疆，2026年6月26日] 以“数智天山 算赢未来”为主题的华为中国行2026·新疆人工智能+产业峰会在乌鲁木齐市成功举办。本次峰会依托亚欧博览会这一国家级、国际性综合经贸盛会的重要平台，来自自治区工业和信息化厅、国资委、科技厅、数发局等单位，驻疆央企及区属重点国企的主",
+      "publishedAt": "2026-06-27",
+      "source": "china5e.com"
+    },
+    {
+      "id": "cpnn-t20260627_1898091",
+      "title": "国网江西电力党校：打造“映山红”党校文化品牌",
+      "url": "https://www.cpnn.com.cn/qiye/guanli/202606/t20260627_1898091.html",
+      "summary": "映山红是江西的省花，象征着伟大的井冈山精神、苏区精神与长征精神，是赣鄱大地红色基因的鲜明符号。国网江西电力党校深挖本土红色文化内涵，依托“映山红”精神内核打造特色文化品牌，围绕培训提质、科研赋能、师资培优三大目标，开展映山红讲师团、映山红期刊、映山红大讲堂三大载体建设，推进党校各",
+      "publishedAt": "2026-06-27",
+      "source": "cpnn.com.cn",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260627_1898090",
+      "title": "广西电网河池供电局：立体化培训 赋能干部管理能力跃升",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202606/t20260627_1898090.html",
+      "summary": "中国能源新闻网讯（韦海）为深入贯彻落实党的二十届四中全会精神，严格落实南方电网、广西电网干部教育培训工作部署，持续深化人才强企战略，广西电网有限责任公司河池供电局（简称“广西电网河池供电局”）2026年干部管理能力提升培训班于今年6月顺利举办。本次培训面向河池市局及各县级企业50",
+      "publishedAt": "2026-06-27",
+      "source": "cpnn.com.cn"
+    },
     {
       "id": "china5e-1205634",
       "title": "全球第一！“灵晟”登顶全球超算TOP500，中国刷新世界算力新高度",
@@ -94,14 +119,6 @@
       "id": "china5e-1205610",
       "title": "“十五五”新型能源体系建设“路线图”发布",
       "url": "https://www.china5e.com/news/news-1205610-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-06-26",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1205605",
-      "title": "未来五年，新型能源体系这样建设",
-      "url": "https://www.china5e.com/news/news-1205605-1.html",
       "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
       "publishedAt": "2026-06-26",
       "source": "china5e.com"
@@ -295,7 +312,7 @@
       "id": "chinapower-459614",
       "title": "海南—广东电力灵活互济工程海缆路由勘察完成",
       "url": "https://www.chinapower.org.cn/detail/459614.html",
-      "summary": "6月18日，海南—广东电力灵活互济工程海底电缆路由勘察工作全面完成，获取了详实的海底地质数据，为后续海缆敷设及工程建设提供了科学支撑。",
+      "summary": "",
       "publishedAt": "2026-06-26",
       "source": "chinapower.org.cn"
     },
@@ -303,7 +320,7 @@
       "id": "chinapower-459598",
       "title": "中国能建华北电力试研院单体调试的河北沧东三期项目5号机组投运",
       "url": "https://www.chinapower.org.cn/detail/459598.html",
-      "summary": "6月23日，中国能建科技公司所属华北电力试研院承接单体调试的国能河北沧东电厂三期2×660兆瓦机组扩建工程5号机组完成168小时满负荷试运行，正式投运。",
+      "summary": "",
       "publishedAt": "2026-06-26",
       "source": "chinapower.org.cn"
     },
@@ -584,14 +601,6 @@
       "id": "cpnn-t20260626_1897917",
       "title": "大唐巩义发电：数海耕耘守初心 芳华逐梦助发展",
       "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202606/t20260626_1897917.html",
-      "summary": "",
-      "publishedAt": "2026-06-26",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260626_1897874",
-      "title": "国网高台供电精准监督护航电力营商环境",
-      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202606/t20260626_1897874.html",
       "summary": "",
       "publishedAt": "2026-06-26",
       "source": "cpnn.com.cn"
@@ -1706,6 +1715,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1205605",
+      "title": "未来五年，新型能源体系这样建设",
+      "url": "https://www.china5e.com/news/news-1205605-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1205540",
       "title": "广西能源(600310)：广西厂网一体发电商 聚焦主业盈利改善",
       "url": "https://www.china5e.com/news/news-1205540-1.html",
@@ -1865,17 +1882,17 @@
     }
   },
   "stats": {
-    "totalArticles": 222,
+    "totalArticles": 224,
     "bySource": {
-      "china5e.com": 56,
+      "china5e.com": 57,
+      "cpnn.com.cn": 92,
       "chinapower.org.cn": 7,
-      "cpnn.com.cn": 91,
       "nea.gov.cn": 59,
       "xinhuanet.com": 6,
       "ne21.com": 3
     },
     "byProvince": {
-      "江西": 1,
+      "江西": 2,
       "湖北": 2,
       "华中": 2,
       "湖南": 2
