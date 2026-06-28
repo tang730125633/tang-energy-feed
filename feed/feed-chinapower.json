@@ -1,7 +1,7 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-06-27T22:29:16+00:00",
+  "generatedAt": "2026-06-28T22:28:52+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -43,26 +43,10 @@
       "summary": "",
       "publishedAt": "2026-06-26",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459595",
-      "title": "中电联举办电力超导技术 及设备工程应用专题讲座",
-      "url": "https://www.chinapower.org.cn/detail/459595.html",
-      "summary": "",
-      "publishedAt": "2026-06-26",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459584",
-      "title": "2026年5月全国电动汽车充电设施数据情况",
-      "url": "https://www.chinapower.org.cn/detail/459584.html",
-      "summary": "",
-      "publishedAt": "2026-06-25",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 5
   },
   "errors": []
 }

@@ -1,67 +1,67 @@
 {
-  "generatedAt": "2026-06-27T22:29:16+00:00",
+  "generatedAt": "2026-06-28T22:28:53+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-06-27T21:29:45+00:00",
+      "generatedAt": "2026-06-28T21:29:52+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-06-27T22:28:52+00:00",
+      "generatedAt": "2026-06-28T22:28:31+00:00",
       "articleCount": 57,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-06-27T22:29:16+00:00",
-      "articleCount": 7,
+      "generatedAt": "2026-06-28T22:28:52+00:00",
+      "articleCount": 5,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-06-27T22:28:42+00:00",
+      "generatedAt": "2026-06-28T22:28:21+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-06-27T22:28:40+00:00",
+      "generatedAt": "2026-06-28T22:28:19+00:00",
       "articleCount": 92,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-06-27T22:28:49+00:00",
+      "generatedAt": "2026-06-28T22:28:28+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-06-27T21:29:54+00:00",
+      "generatedAt": "2026-06-28T21:30:00+00:00",
       "articleCount": 3,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-06-27T22:28:41+00:00",
+      "generatedAt": "2026-06-28T22:28:20+00:00",
       "articleCount": 59,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-06-27T22:28:53+00:00",
-      "articleCount": 6,
+      "generatedAt": "2026-06-28T22:28:33+00:00",
+      "articleCount": 5,
       "hasErrors": false
     }
   ],
@@ -320,14 +320,6 @@
       "id": "chinapower-459598",
       "title": "中国能建华北电力试研院单体调试的河北沧东三期项目5号机组投运",
       "url": "https://www.chinapower.org.cn/detail/459598.html",
-      "summary": "",
-      "publishedAt": "2026-06-26",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459595",
-      "title": "中电联举办电力超导技术 及设备工程应用专题讲座",
-      "url": "https://www.chinapower.org.cn/detail/459595.html",
       "summary": "",
       "publishedAt": "2026-06-26",
       "source": "chinapower.org.cn"
@@ -824,14 +816,6 @@
       "source": "china5e.com"
     },
     {
-      "id": "chinapower-459584",
-      "title": "2026年5月全国电动汽车充电设施数据情况",
-      "url": "https://www.chinapower.org.cn/detail/459584.html",
-      "summary": "",
-      "publishedAt": "2026-06-25",
-      "source": "chinapower.org.cn"
-    },
-    {
       "id": "cpnn-t20260625_1897546",
       "title": "我国发电装机容量突破40亿千瓦",
       "url": "https://www.cpnn.com.cn/news/xwtt/202606/t20260625_1897546.html",
@@ -1022,14 +1006,6 @@
       "summary": "",
       "publishedAt": "2026-06-24",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "xinhua-e2b04f54c242",
-      "title": "中国电力普安发电与华为数字能源技术有限公司达成战略合作",
-      "url": "https://www.xinhuanet.com/energy/20260624/e2b04f54c24246f69424ac18c9069099/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-24",
-      "source": "xinhuanet.com"
     },
     {
       "id": "china5e-1205421",
@@ -1882,13 +1858,13 @@
     }
   },
   "stats": {
-    "totalArticles": 224,
+    "totalArticles": 221,
     "bySource": {
       "china5e.com": 57,
       "cpnn.com.cn": 92,
-      "chinapower.org.cn": 7,
+      "chinapower.org.cn": 5,
       "nea.gov.cn": 59,
-      "xinhuanet.com": 6,
+      "xinhuanet.com": 5,
       "ne21.com": 3
     },
     "byProvince": {

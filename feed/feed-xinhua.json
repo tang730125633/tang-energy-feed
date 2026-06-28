@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-27T22:28:53+00:00",
+  "generatedAt": "2026-06-28T22:28:33+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -43,18 +43,10 @@
       "summary": "",
       "publishedAt": "2026-06-25",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-e2b04f54c242",
-      "title": "中国电力普安发电与华为数字能源技术有限公司达成战略合作",
-      "url": "https://www.xinhuanet.com/energy/20260624/e2b04f54c24246f69424ac18c9069099/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-24",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 5
   },
   "errors": []
 }
