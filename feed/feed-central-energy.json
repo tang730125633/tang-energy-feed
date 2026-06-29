@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T22:28:53+00:00",
+  "generatedAt": "2026-06-29T22:29:53+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,51 @@
   ],
   "articles": [
     {
+      "id": "cpnn-t20260629_1898500",
+      "title": "河南省电力中长期市场实施细则：任何单位和个人不得不当干预市场运行",
+      "url": "https://www.cpnn.com.cn/news/dfny/202606/t20260629_1898500.html",
+      "summary": "",
+      "publishedAt": "2026-06-29",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260629_1898381",
+      "title": "湖北新能源事业部龙感湖风电扩建项目首台混塔风电机组吊装完成",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260629_1898381.html",
+      "summary": "",
+      "publishedAt": "2026-06-29",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260629_1898380",
+      "title": "皖能马鞍山发电：三级排查+闭环整改 夯实燃运雨季“三防”安全",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202606/t20260629_1898380.html",
+      "summary": "",
+      "publishedAt": "2026-06-29",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260629_1898376",
+      "title": "武汉工商学院：启动零碳校园建设 产教融合共筑低碳样本",
+      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202606/t20260629_1898376.html",
+      "summary": "",
+      "publishedAt": "2026-06-29",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260629_1898330",
+      "title": "华中电力试研院获电力企业班组岗位创新创效一级项目",
+      "url": "https://www.cpnn.com.cn/qiye/rongyu/202606/t20260629_1898330.html",
+      "summary": "",
+      "publishedAt": "2026-06-29",
+      "source": "cpnn.com.cn",
+      "province": "华中"
+    },
+    {
       "id": "cpnn-t20260627_1898091",
       "title": "国网江西电力党校：打造“映山红”党校文化品牌",
       "url": "https://www.cpnn.com.cn/qiye/guanli/202606/t20260627_1898091.html",
@@ -19,24 +64,6 @@
       "publishedAt": "2026-06-27",
       "source": "cpnn.com.cn",
       "province": "江西"
-    },
-    {
-      "id": "china5e-1205640",
-      "title": "江西佳鸿电瓷制造有限公司荣获 “绝缘子十大品牌” 称号",
-      "url": "https://www.china5e.com/news/news-1205640-1.html",
-      "summary": "",
-      "publishedAt": "2026-06-26",
-      "source": "china5e.com",
-      "province": "江西"
-    },
-    {
-      "id": "cpnn-t20260626_1897862",
-      "title": "“绿能拼图”助力华润电力武汉滨湖双鹤药业降本增效",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202606/t20260626_1897862.html",
-      "summary": "",
-      "publishedAt": "2026-06-26",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
     },
     {
       "id": "nea-20260626-7ee7e85ef96e41fdb0dbc68ef55983eb-c",
@@ -85,11 +112,13 @@
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 11,
     "byProvince": {
-      "江西": 2,
-      "湖北": 2,
-      "华中": 2,
+      "河南": 1,
+      "湖北": 3,
+      "安徽": 1,
+      "华中": 3,
+      "江西": 1,
       "湖南": 2
     }
   },

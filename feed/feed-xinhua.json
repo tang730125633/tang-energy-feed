@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-28T22:28:33+00:00",
+  "generatedAt": "2026-06-29T22:29:30+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -10,6 +10,14 @@
       "url": "https://www.xinhuanet.com/energy/20260626/80a1e124598d4580916d6ddf6adc54f4/c.html",
       "summary": "",
       "publishedAt": "2026-06-26",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-e18402e3067a",
+      "title": "我国发电装机容量突破40亿千瓦",
+      "url": "https://www.xinhuanet.com/energy/20260629/e18402e3067a4e8692293934217119a7/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-29",
       "source": "xinhuanet.com"
     },
     {
@@ -27,26 +35,10 @@
       "summary": "",
       "publishedAt": "2026-06-26",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-744bc261ea3b",
-      "title": "海上风电价值不止于能源",
-      "url": "https://www.xinhuanet.com/energy/20260625/744bc261ea3b43e78142a7edf01b37ec/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-25",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-33a4a0b1019b",
-      "title": "第四届链博会清洁能源链主题活动举行",
-      "url": "https://www.xinhuanet.com/energy/20260625/33a4a0b1019b44c8a84289dfccfde47c/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-25",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 4
   },
   "errors": []
 }
