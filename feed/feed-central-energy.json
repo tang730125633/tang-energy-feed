@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T22:29:53+00:00",
+  "generatedAt": "2026-06-30T22:34:11+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,42 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260630_1898674",
+      "title": "陕北—安徽±800千伏特高压直流输电工程建成投运",
+      "url": "https://www.cpnn.com.cn/news/hy/202606/t20260630_1898674.html",
+      "summary": "",
+      "publishedAt": "2026-06-30",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260630_1898767",
+      "title": "湖北能源江陵电厂220千伏送出工程全线竣工送电",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202606/t20260630_1898767.html",
+      "summary": "",
+      "publishedAt": "2026-06-30",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260630_1898781",
+      "title": "“智能时代能源变革与城市更新”学术研讨会暨协同创新中心成立大会在武汉举行",
+      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202606/t20260630_1898781.html",
+      "summary": "",
+      "publishedAt": "2026-06-30",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "nea-20260630-f2cd1093665e41838ea9ef220bcaaa5f-c",
+      "title": "国家能源局华中监管局、湖南监管办公室、河南监管办公室电力安全监管典型执法案例",
+      "url": "https://www.nea.gov.cn/20260630/f2cd1093665e41838ea9ef220bcaaa5f/c.html",
+      "summary": "",
+      "publishedAt": "2026-06-30",
+      "source": "nea.gov.cn",
+      "province": "湖南"
+    },
     {
       "id": "cpnn-t20260629_1898500",
       "title": "河南省电力中长期市场实施细则：任何单位和个人不得不当干预市场运行",
@@ -24,24 +60,6 @@
       "id": "cpnn-t20260629_1898381",
       "title": "湖北新能源事业部龙感湖风电扩建项目首台混塔风电机组吊装完成",
       "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260629_1898381.html",
-      "summary": "",
-      "publishedAt": "2026-06-29",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260629_1898380",
-      "title": "皖能马鞍山发电：三级排查+闭环整改 夯实燃运雨季“三防”安全",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202606/t20260629_1898380.html",
-      "summary": "",
-      "publishedAt": "2026-06-29",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260629_1898376",
-      "title": "武汉工商学院：启动零碳校园建设 产教融合共筑低碳样本",
-      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202606/t20260629_1898376.html",
       "summary": "",
       "publishedAt": "2026-06-29",
       "source": "cpnn.com.cn",
@@ -64,24 +82,6 @@
       "publishedAt": "2026-06-27",
       "source": "cpnn.com.cn",
       "province": "江西"
-    },
-    {
-      "id": "nea-20260626-7ee7e85ef96e41fdb0dbc68ef55983eb-c",
-      "title": "华中能源监管局开展党建业务融合联建活动",
-      "url": "https://www.nea.gov.cn/20260626/7ee7e85ef96e41fdb0dbc68ef55983eb/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-26",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
-      "id": "nea-20260626-50ff037d38604e5f9b95c2b3b8e04332-c",
-      "title": "湖南能源监管办与湖南省能源局协同推动老旧小区“电表下楼”助力绿色出行",
-      "url": "https://www.nea.gov.cn/20260626/50ff037d38604e5f9b95c2b3b8e04332/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-26",
-      "source": "nea.gov.cn",
-      "province": "湖南"
     },
     {
       "id": "cpnn-t20260623_1896701",
@@ -114,12 +114,12 @@
   "stats": {
     "totalArticles": 11,
     "byProvince": {
-      "河南": 1,
-      "湖北": 3,
       "安徽": 1,
-      "华中": 3,
-      "江西": 1,
-      "湖南": 2
+      "湖北": 4,
+      "湖南": 2,
+      "河南": 1,
+      "华中": 2,
+      "江西": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
