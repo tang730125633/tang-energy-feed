@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-06-30T22:33:42+00:00",
+  "generatedAt": "2026-07-01T22:35:39+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -10,6 +10,30 @@
       "url": "https://www.xinhuanet.com/energy/20260630/46a3563d635a4f439ed7fedca2d85513/c.html",
       "summary": "",
       "publishedAt": "2026-06-30",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-37c94f0f293f",
+      "title": "中国电力用户数量居全球首位",
+      "url": "https://www.xinhuanet.com/energy/20260701/37c94f0f293f4d1382283404d385da8d/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-01",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-e87ec3fc12c4",
+      "title": "智领全球能源未来 国产“长龙号”铸就智能钻探中国新标杆",
+      "url": "https://www.xinhuanet.com/energy/20260701/e87ec3fc12c44595ab26caf8bcb888cb/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-01",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-69e9d82ec52d",
+      "title": "西北电网成为我国首个外送能力达 亿千瓦级的区域电网",
+      "url": "https://www.xinhuanet.com/energy/20260701/69e9d82ec52d4b2e8db2a5d83480701f/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-01",
       "source": "xinhuanet.com"
     },
     {
@@ -38,7 +62,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 7
   },
   "errors": []
 }

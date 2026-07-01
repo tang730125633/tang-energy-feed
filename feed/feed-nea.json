@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-06-30T22:33:30+00:00",
+  "generatedAt": "2026-07-01T22:35:25+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260701-b8dac3bee7dd4e5d9a87c93c3146d1d9-c",
+      "title": "国家能源局负责人出席第十一届金砖国家能源部长会",
+      "url": "https://www.nea.gov.cn/20260701/b8dac3bee7dd4e5d9a87c93c3146d1d9/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-01",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260630-6a3dde25234c46a090e5d918d69affbd-c",
       "title": "国家能源局召开工作交流会 进一步推动“获得电力”服务水平提升",
@@ -253,14 +261,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260618-40896fcdf828437aae35da2b9739e0c2-c",
-      "title": "国家能源局党组召开会议 传达学习全国党建工作座谈会议精神 研究部署学习贯彻习近平党建思想工作",
-      "url": "https://www.nea.gov.cn/20260618/40896fcdf828437aae35da2b9739e0c2/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-18",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260618-41e848b9ec6543998757db3864e01ab2-c",
       "title": "《2025年度中国电力市场发展报告》发布——全国统一电力市场体系初步建成",
       "url": "https://www.nea.gov.cn/20260618/41e848b9ec6543998757db3864e01ab2/c.html",
@@ -349,14 +349,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260423-ba4fc99321fa4da19624eeeb2d5e4135-c",
-      "title": "关于2026年3月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
-      "url": "https://www.nea.gov.cn/20260423/ba4fc99321fa4da19624eeeb2d5e4135/c.html",
-      "summary": "",
-      "publishedAt": "2026-04-23",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260416-3c51e47b101e4f2781e04be63c2e90d6-c",
       "title": "股份经济合作社属于《关于深化提升“获得电力”服务水平 全面打造现代化用电营商环境的意见》（发改能源规〔2025〕624号）中提到的民营经济组织吗？",
       "url": "https://www.nea.gov.cn/20260416/3c51e47b101e4f2781e04be63c2e90d6/c.html",
@@ -392,14 +384,6 @@
       "id": "nea-20260331-1bf84fffaa9945c29cef4c144a04d8db-c",
       "title": "国家能源局华中监管局党组关于局党组第三轮巡视整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/1bf84fffaa9945c29cef4c144a04d8db/c.html",
-      "summary": "",
-      "publishedAt": "2026-03-31",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260331-880468e48ffb4d0083a99ad154b0d075-c",
-      "title": "国家能源局机关服务中心党支部关于局党组第三轮巡视整改进展情况的通报",
-      "url": "https://www.nea.gov.cn/20260331/880468e48ffb4d0083a99ad154b0d075/c.html",
       "summary": "",
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn"
@@ -470,7 +454,7 @@
     }
   ],
   "stats": {
-    "articleCount": 58
+    "articleCount": 56
   },
   "errors": []
 }

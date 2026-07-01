@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T22:34:11+00:00",
+  "generatedAt": "2026-07-01T22:36:04+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,22 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260630_1898674",
-      "title": "陕北—安徽±800千伏特高压直流输电工程建成投运",
-      "url": "https://www.cpnn.com.cn/news/hy/202606/t20260630_1898674.html",
+      "id": "cpnn-t20260701_1899003",
+      "title": "国网新源河南洛宁抽水蓄能电站全面投产发电",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202607/t20260701_1899003.html",
       "summary": "",
-      "publishedAt": "2026-06-30",
+      "publishedAt": "2026-07-01",
       "source": "cpnn.com.cn",
-      "province": "安徽"
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260701_1899030",
+      "title": "河南：三年专项行动推动交通运输绿色低碳转型",
+      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260701_1899030.html",
+      "summary": "",
+      "publishedAt": "2026-07-01",
+      "source": "cpnn.com.cn",
+      "province": "河南"
     },
     {
       "id": "cpnn-t20260630_1898767",
@@ -57,15 +66,6 @@
       "province": "河南"
     },
     {
-      "id": "cpnn-t20260629_1898381",
-      "title": "湖北新能源事业部龙感湖风电扩建项目首台混塔风电机组吊装完成",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202606/t20260629_1898381.html",
-      "summary": "",
-      "publishedAt": "2026-06-29",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
       "id": "cpnn-t20260629_1898330",
       "title": "华中电力试研院获电力企业班组岗位创新创效一级项目",
       "url": "https://www.cpnn.com.cn/qiye/rongyu/202606/t20260629_1898330.html",
@@ -84,15 +84,6 @@
       "province": "江西"
     },
     {
-      "id": "cpnn-t20260623_1896701",
-      "title": "企业丨湖北能源重要人事调整",
-      "url": "https://www.cpnn.com.cn/news/renshi2023/202606/t20260623_1896701.html",
-      "summary": "",
-      "publishedAt": "2026-06-23",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -109,17 +100,26 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
+    },
+    {
+      "id": "china5e-1205778",
+      "title": "陕北-安徽±800千伏特高压直流输电工程投运",
+      "url": "https://www.china5e.com/news/news-1205778-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "安徽"
     }
   ],
   "stats": {
     "totalArticles": 11,
     "byProvince": {
-      "安徽": 1,
-      "湖北": 4,
+      "河南": 3,
+      "湖北": 2,
       "湖南": 2,
-      "河南": 1,
       "华中": 2,
-      "江西": 1
+      "江西": 1,
+      "安徽": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
