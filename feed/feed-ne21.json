@@ -1,36 +1,13 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-06-30T21:38:09+00:00",
+  "generatedAt": "2026-07-01T21:37:42+00:00",
   "lookbackHours": 48,
-  "articles": [
-    {
-      "id": "ne21-228574",
-      "title": "风电变桨服务商选择指南：2026年市场格局与技术实力深度对比",
-      "url": "https://www.ne21.com/news/show-228574.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-228573",
-      "title": "阳光慧碳电池护照服务商：企业出海欧盟的合规护航者",
-      "url": "https://www.ne21.com/news/show-228573.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-228571",
-      "title": "阿特斯储能测试中心获CNAS实验室认可证书",
-      "url": "https://www.ne21.com/news/show-228571.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    }
-  ],
+  "articles": [],
   "stats": {
-    "articleCount": 3
+    "articleCount": 0
   },
-  "errors": []
+  "errors": [
+    "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
+  ]
 }
