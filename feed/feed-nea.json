@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-07-01T22:35:25+00:00",
+  "generatedAt": "2026-07-02T22:27:21+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260702-724b1aebd4d2447cafd50657d4fcfe5e-c",
+      "title": "国家能源局召开深层煤层气勘探开发专题会议",
+      "url": "https://www.nea.gov.cn/20260702/724b1aebd4d2447cafd50657d4fcfe5e/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-02",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260701-b8dac3bee7dd4e5d9a87c93c3146d1d9-c",
       "title": "国家能源局负责人出席第十一届金砖国家能源部长会",
@@ -125,22 +133,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260630-fd83d9435eec4827b46676347a5ca840-c",
-      "title": "福建能源监管办统筹开展2026年电力业务资质许可专项监管工作",
-      "url": "https://www.nea.gov.cn/20260630/fd83d9435eec4827b46676347a5ca840/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-30",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260630-826d4a8f1ae843eaa507a0176ecbb527-c",
-      "title": "南博会绿色能源项目集中签约 跨境能源合作实现新突破",
-      "url": "https://www.nea.gov.cn/20260630/826d4a8f1ae843eaa507a0176ecbb527/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-30",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260630-3f2bc66f7ff945c6ac15780db9d0ab99-c",
       "title": "国家能源局2026年第二季度政府网站和政务新媒体抽查情况",
       "url": "https://www.nea.gov.cn/20260630/3f2bc66f7ff945c6ac15780db9d0ab99/c.html",
@@ -250,14 +242,6 @@
       "url": "https://www.nea.gov.cn/20260623/df99dd671f7140ac84692a343d5ce246/c.html",
       "summary": "",
       "publishedAt": "2026-06-23",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260618-5ed199e3107f4c89ad78884e62461bf4-c",
-      "title": "国家能源局主要负责人出席第五届塔什干国际投资论坛",
-      "url": "https://www.nea.gov.cn/20260618/5ed199e3107f4c89ad78884e62461bf4/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-18",
       "source": "nea.gov.cn"
     },
     {
@@ -454,7 +438,7 @@
     }
   ],
   "stats": {
-    "articleCount": 56
+    "articleCount": 54
   },
   "errors": []
 }

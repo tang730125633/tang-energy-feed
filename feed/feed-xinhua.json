@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-01T22:35:39+00:00",
+  "generatedAt": "2026-07-02T22:27:36+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -10,6 +10,30 @@
       "url": "https://www.xinhuanet.com/energy/20260630/46a3563d635a4f439ed7fedca2d85513/c.html",
       "summary": "",
       "publishedAt": "2026-06-30",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-72021bd8b165",
+      "title": "国家电网有限公司发布服务新能源发展报告",
+      "url": "https://www.xinhuanet.com/energy/20260702/72021bd8b165493caeaf67645207c5b7/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-02",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-8d9d585f3340",
+      "title": "可再生能源消费有了“硬约束”",
+      "url": "https://www.xinhuanet.com/energy/20260702/8d9d585f33404fe785bedb1e8ec0ace9/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-02",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-bee6c710ff6f",
+      "title": "对话远景：驶向深远海 海上风电“亿千瓦”目标下的远景答卷",
+      "url": "https://www.xinhuanet.com/energy/20260702/bee6c710ff6f4cc8817105c7c51e457e/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-02",
       "source": "xinhuanet.com"
     },
     {
@@ -34,30 +58,6 @@
       "url": "https://www.xinhuanet.com/energy/20260701/69e9d82ec52d4b2e8db2a5d83480701f/c.html",
       "summary": "",
       "publishedAt": "2026-07-01",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-402f12765781",
-      "title": "（短视频）2026安全生产月丨我把“它”说给你听——国电电力内蒙古新能源",
-      "url": "https://www.xinhuanet.com/energy/20260630/402f1276578148a5aeca892954a3fbe5/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-8602e0abf4f7",
-      "title": "国内首个棉花碳足迹核算平台上线",
-      "url": "https://www.xinhuanet.com/energy/20260630/8602e0abf4f74a10b33da720d032a607/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-e18402e3067a",
-      "title": "我国发电装机容量突破40亿千瓦",
-      "url": "https://www.xinhuanet.com/energy/20260629/e18402e3067a4e8692293934217119a7/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-29",
       "source": "xinhuanet.com"
     }
   ],

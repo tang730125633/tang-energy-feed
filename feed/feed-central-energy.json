@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:36:04+00:00",
+  "generatedAt": "2026-07-02T22:28:01+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260701_1899003",
-      "title": "国网新源河南洛宁抽水蓄能电站全面投产发电",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202607/t20260701_1899003.html",
+      "id": "cpnn-t20260702_1899449",
+      "title": "攻坚收官！武汉电网迎峰度夏再添新动能",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260702_1899449.html",
       "summary": "",
-      "publishedAt": "2026-07-01",
+      "publishedAt": "2026-07-02",
       "source": "cpnn.com.cn",
-      "province": "河南"
+      "province": "湖北"
     },
     {
       "id": "cpnn-t20260701_1899030",
@@ -33,15 +33,6 @@
       "id": "cpnn-t20260630_1898767",
       "title": "湖北能源江陵电厂220千伏送出工程全线竣工送电",
       "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202606/t20260630_1898767.html",
-      "summary": "",
-      "publishedAt": "2026-06-30",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260630_1898781",
-      "title": "“智能时代能源变革与城市更新”学术研讨会暨协同创新中心成立大会在武汉举行",
-      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202606/t20260630_1898781.html",
       "summary": "",
       "publishedAt": "2026-06-30",
       "source": "cpnn.com.cn",
@@ -75,15 +66,6 @@
       "province": "华中"
     },
     {
-      "id": "cpnn-t20260627_1898091",
-      "title": "国网江西电力党校：打造“映山红”党校文化品牌",
-      "url": "https://www.cpnn.com.cn/qiye/guanli/202606/t20260627_1898091.html",
-      "summary": "",
-      "publishedAt": "2026-06-27",
-      "source": "cpnn.com.cn",
-      "province": "江西"
-    },
-    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -112,13 +94,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 11,
+    "totalArticles": 9,
     "byProvince": {
-      "河南": 3,
       "湖北": 2,
+      "河南": 2,
       "湖南": 2,
       "华中": 2,
-      "江西": 1,
       "安徽": 1
     }
   },
