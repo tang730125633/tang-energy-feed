@@ -1,13 +1,36 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-07-01T21:37:42+00:00",
+  "generatedAt": "2026-07-02T21:30:20+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-228650",
+      "title": "深化氢能产业链协同 陕西榆林能源集团与中国氢能集团股份、上海信然压缩机开展合作洽谈",
+      "url": "https://www.ne21.com/news/show-228650.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-228648",
+      "title": "2026年能耗碳排放管理产品推荐：制造丨园区丨楼宇适用的碳核算与能效优化工具选型推荐",
+      "url": "https://www.ne21.com/news/show-228648.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-228647",
+      "title": "企业能耗碳排放管理系统选型指南：2026年主流产品功能对比与实施要点解析",
+      "url": "https://www.ne21.com/news/show-228647.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 3
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
