@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T22:28:01+00:00",
+  "generatedAt": "2026-07-03T22:26:55+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,58 +12,49 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260702_1899449",
-      "title": "攻坚收官！武汉电网迎峰度夏再添新动能",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260702_1899449.html",
+      "id": "china5e-1205890",
+      "title": "安徽铁塔：“光储充”一体化方案 让城市“绿”意流淌",
+      "url": "https://www.china5e.com/news/news-1205890-1.html",
       "summary": "",
-      "publishedAt": "2026-07-02",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
+      "publishedAt": "2026-07-03",
+      "source": "china5e.com",
+      "province": "安徽"
     },
     {
-      "id": "cpnn-t20260701_1899030",
-      "title": "河南：三年专项行动推动交通运输绿色低碳转型",
-      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260701_1899030.html",
+      "id": "china5e-1205918",
+      "title": "润泽山河 行者无疆：昆仑润滑一城一策汽油机油推广活动走进郑州",
+      "url": "https://www.china5e.com/news/news-1205918-1.html",
       "summary": "",
-      "publishedAt": "2026-07-01",
-      "source": "cpnn.com.cn",
+      "publishedAt": "2026-07-03",
+      "source": "china5e.com",
       "province": "河南"
     },
     {
-      "id": "cpnn-t20260630_1898767",
-      "title": "湖北能源江陵电厂220千伏送出工程全线竣工送电",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202606/t20260630_1898767.html",
+      "id": "nea-20260703-5b2ca85e498141ed9c80a049ebe24d17-c",
+      "title": "华中能源监管局举办庆祝建党105周年暨 “两优一先”表彰会",
+      "url": "https://www.nea.gov.cn/20260703/5b2ca85e498141ed9c80a049ebe24d17/c.html",
       "summary": "",
-      "publishedAt": "2026-06-30",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
+      "publishedAt": "2026-07-03",
+      "source": "nea.gov.cn",
+      "province": "华中"
     },
     {
-      "id": "nea-20260630-f2cd1093665e41838ea9ef220bcaaa5f-c",
-      "title": "国家能源局华中监管局、湖南监管办公室、河南监管办公室电力安全监管典型执法案例",
-      "url": "https://www.nea.gov.cn/20260630/f2cd1093665e41838ea9ef220bcaaa5f/c.html",
+      "id": "nea-20260703-4163817f6d504faca60c9076194a8f38-c",
+      "title": "河南能源监管办开展供电企业现场监管促进提升“获得电力”服务水平",
+      "url": "https://www.nea.gov.cn/20260703/4163817f6d504faca60c9076194a8f38/c.html",
       "summary": "",
-      "publishedAt": "2026-06-30",
+      "publishedAt": "2026-07-03",
+      "source": "nea.gov.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260703-96ce118f5fd14226ae6801c8b5269c73-c",
+      "title": "湖南能源监管办筑牢新能源集控中心网络安全防线 护航新型电力系统高质量发展",
+      "url": "https://www.nea.gov.cn/20260703/96ce118f5fd14226ae6801c8b5269c73/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-03",
       "source": "nea.gov.cn",
       "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260629_1898500",
-      "title": "河南省电力中长期市场实施细则：任何单位和个人不得不当干预市场运行",
-      "url": "https://www.cpnn.com.cn/news/dfny/202606/t20260629_1898500.html",
-      "summary": "",
-      "publishedAt": "2026-06-29",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260629_1898330",
-      "title": "华中电力试研院获电力企业班组岗位创新创效一级项目",
-      "url": "https://www.cpnn.com.cn/qiye/rongyu/202606/t20260629_1898330.html",
-      "summary": "",
-      "publishedAt": "2026-06-29",
-      "source": "cpnn.com.cn",
-      "province": "华中"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -94,13 +85,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 9,
+    "totalArticles": 8,
     "byProvince": {
-      "湖北": 2,
+      "安徽": 2,
       "河南": 2,
-      "湖南": 2,
       "华中": 2,
-      "安徽": 1
+      "湖南": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
