@@ -1,17 +1,9 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-03T22:26:37+00:00",
+  "generatedAt": "2026-07-04T22:23:16+00:00",
   "lookbackHours": 72,
   "articles": [
-    {
-      "id": "xinhua-46a3563d635a",
-      "title": "国家能源局召开工作交流会 进一步推动“获得电力”服务水平提升",
-      "url": "https://www.xinhuanet.com/energy/20260630/46a3563d635a4f439ed7fedca2d85513/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-30",
-      "source": "xinhuanet.com"
-    },
     {
       "id": "xinhua-fb21ebac2f95",
       "title": "新华能源周报丨《中国供电发展报告（2026）》发布；我国首个流域型国家排放标准发布；我国首个550兆瓦F级燃机项目全容量投产发电",
@@ -62,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 6
   },
   "errors": []
 }

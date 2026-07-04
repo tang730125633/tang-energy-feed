@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T22:26:55+00:00",
+  "generatedAt": "2026-07-04T22:23:36+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,21 +12,21 @@
   ],
   "articles": [
     {
-      "id": "china5e-1205890",
-      "title": "安徽铁塔：“光储充”一体化方案 让城市“绿”意流淌",
-      "url": "https://www.china5e.com/news/news-1205890-1.html",
-      "summary": "",
-      "publishedAt": "2026-07-03",
-      "source": "china5e.com",
-      "province": "安徽"
-    },
-    {
       "id": "china5e-1205918",
       "title": "润泽山河 行者无疆：昆仑润滑一城一策汽油机油推广活动走进郑州",
       "url": "https://www.china5e.com/news/news-1205918-1.html",
       "summary": "",
       "publishedAt": "2026-07-03",
       "source": "china5e.com",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260703_1899743",
+      "title": "河南能源监管办开展油气管网设施公平开放情况现场监管",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260703_1899743.html",
+      "summary": "",
+      "publishedAt": "2026-07-03",
+      "source": "cpnn.com.cn",
       "province": "河南"
     },
     {
@@ -57,6 +57,42 @@
       "province": "湖南"
     },
     {
+      "id": "cpnn-t20260702_1899449",
+      "title": "攻坚收官！武汉电网迎峰度夏再添新动能",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260702_1899449.html",
+      "summary": "",
+      "publishedAt": "2026-07-02",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260702_1899437",
+      "title": "国网安徽电力张课：深耕信通赋能电网安全",
+      "url": "https://www.cpnn.com.cn/qiye/yingcai/202607/t20260702_1899437.html",
+      "summary": "",
+      "publishedAt": "2026-07-02",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260701_1899030",
+      "title": "河南：三年专项行动推动交通运输绿色低碳转型",
+      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260701_1899030.html",
+      "summary": "",
+      "publishedAt": "2026-07-01",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260629_1898330",
+      "title": "华中电力试研院获电力企业班组岗位创新创效一级项目",
+      "url": "https://www.cpnn.com.cn/qiye/rongyu/202606/t20260629_1898330.html",
+      "summary": "",
+      "publishedAt": "2026-06-29",
+      "source": "cpnn.com.cn",
+      "province": "华中"
+    },
+    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -85,12 +121,13 @@
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 12,
     "byProvince": {
-      "安徽": 2,
-      "河南": 2,
-      "华中": 2,
-      "湖南": 2
+      "河南": 4,
+      "华中": 3,
+      "湖南": 2,
+      "湖北": 1,
+      "安徽": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
