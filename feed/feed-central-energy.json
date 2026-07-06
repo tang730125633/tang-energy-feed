@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T22:26:09+00:00",
+  "generatedAt": "2026-07-06T22:32:41+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,40 @@
   ],
   "articles": [
     {
-      "id": "china5e-1205918",
-      "title": "润泽山河 行者无疆：昆仑润滑一城一策汽油机油推广活动走进郑州",
-      "url": "https://www.china5e.com/news/news-1205918-1.html",
+      "id": "china5e-1205963",
+      "title": "总投资5.1亿元!华能河南100MW风电项目获核准",
+      "url": "https://www.china5e.com/news/news-1205963-1.html",
       "summary": "",
-      "publishedAt": "2026-07-03",
+      "publishedAt": "2026-07-06",
       "source": "china5e.com",
       "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260706_1899950",
+      "title": "苏皖绿电精准匹配上海算力中心",
+      "url": "https://www.cpnn.com.cn/news/xny/202607/t20260706_1899950.html",
+      "summary": "",
+      "publishedAt": "2026-07-06",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260703_1899743",
+      "title": "河南能源监管办开展油气管网设施公平开放情况现场监管",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260703_1899743.html",
+      "summary": "",
+      "publishedAt": "2026-07-03",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260703_1899763",
+      "title": "湖北首个省级新能源集控业务数据专网建成投运",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260703_1899763.html",
+      "summary": "",
+      "publishedAt": "2026-07-03",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
     },
     {
       "id": "nea-20260703-5b2ca85e498141ed9c80a049ebe24d17-c",
@@ -48,6 +75,33 @@
       "province": "湖南"
     },
     {
+      "id": "cpnn-t20260702_1899437",
+      "title": "国网安徽电力张课：深耕信通赋能电网安全",
+      "url": "https://www.cpnn.com.cn/qiye/yingcai/202607/t20260702_1899437.html",
+      "summary": "",
+      "publishedAt": "2026-07-02",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260701_1899030",
+      "title": "河南：三年专项行动推动交通运输绿色低碳转型",
+      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260701_1899030.html",
+      "summary": "",
+      "publishedAt": "2026-07-01",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260629_1898330",
+      "title": "华中电力试研院获电力企业班组岗位创新创效一级项目",
+      "url": "https://www.cpnn.com.cn/qiye/rongyu/202606/t20260629_1898330.html",
+      "summary": "",
+      "publishedAt": "2026-06-29",
+      "source": "cpnn.com.cn",
+      "province": "华中"
+    },
+    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -64,24 +118,16 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "华中"
-    },
-    {
-      "id": "china5e-1205778",
-      "title": "陕北-安徽±800千伏特高压直流输电工程投运",
-      "url": "https://www.china5e.com/news/news-1205778-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "安徽"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 12,
     "byProvince": {
-      "河南": 2,
-      "华中": 2,
-      "湖南": 2,
-      "安徽": 1
+      "河南": 4,
+      "安徽": 2,
+      "湖北": 1,
+      "华中": 3,
+      "湖南": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

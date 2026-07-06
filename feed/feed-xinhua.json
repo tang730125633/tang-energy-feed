@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-05T22:25:44+00:00",
+  "generatedAt": "2026-07-06T22:32:17+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -19,34 +19,10 @@
       "summary": "",
       "publishedAt": "2026-07-03",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-72021bd8b165",
-      "title": "国家电网有限公司发布服务新能源发展报告",
-      "url": "https://www.xinhuanet.com/energy/20260702/72021bd8b165493caeaf67645207c5b7/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-02",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-8d9d585f3340",
-      "title": "可再生能源消费有了“硬约束”",
-      "url": "https://www.xinhuanet.com/energy/20260702/8d9d585f33404fe785bedb1e8ec0ace9/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-02",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-bee6c710ff6f",
-      "title": "对话远景：驶向深远海 海上风电“亿千瓦”目标下的远景答卷",
-      "url": "https://www.xinhuanet.com/energy/20260702/bee6c710ff6f4cc8817105c7c51e457e/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-02",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 2
   },
   "errors": []
 }
