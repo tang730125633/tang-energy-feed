@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T22:28:51+00:00",
+  "generatedAt": "2026-07-08T22:26:05+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,42 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "china5e-1206067",
+      "title": "河南可再生能源装机突破100GW!",
+      "url": "https://www.china5e.com/news/news-1206067-1.html",
+      "summary": "",
+      "publishedAt": "2026-07-08",
+      "source": "china5e.com",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260708_1900469",
+      "title": "2026年“高质量发展能源行”网评引导活动在内蒙古鄂尔多斯启动",
+      "url": "https://www.cpnn.com.cn/news/nytt/202607/t20260708_1900469.html",
+      "summary": "",
+      "publishedAt": "2026-07-08",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260708_1900490",
+      "title": "皖能铜陵发电迎战暴雨“双线作战” 全力保供“风雨无忧”",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202607/t20260708_1900490.html",
+      "summary": "",
+      "publishedAt": "2026-07-08",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260708_1900486",
+      "title": "皖能马鞍山发电“纪玲玲劳模（工匠）创新工作室”十年磨剑锻造新质生产力",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202607/t20260708_1900486.html",
+      "summary": "",
+      "publishedAt": "2026-07-08",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
     {
       "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
       "title": "2026年“高质量发展能源行”网评引导活动在内蒙古鄂尔多斯启动",
@@ -48,6 +84,42 @@
       "province": "湖南"
     },
     {
+      "id": "cpnn-t20260706_1899950",
+      "title": "苏皖绿电精准匹配上海算力中心",
+      "url": "https://www.cpnn.com.cn/news/xny/202607/t20260706_1899950.html",
+      "summary": "",
+      "publishedAt": "2026-07-06",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260703_1899743",
+      "title": "河南能源监管办开展油气管网设施公平开放情况现场监管",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260703_1899743.html",
+      "summary": "",
+      "publishedAt": "2026-07-03",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260703_1899763",
+      "title": "湖北首个省级新能源集控业务数据专网建成投运",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260703_1899763.html",
+      "summary": "",
+      "publishedAt": "2026-07-03",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260702_1899437",
+      "title": "国网安徽电力张课：深耕信通赋能电网安全",
+      "url": "https://www.cpnn.com.cn/qiye/yingcai/202607/t20260702_1899437.html",
+      "summary": "",
+      "publishedAt": "2026-07-02",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
       "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
       "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
@@ -67,11 +139,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 6,
+    "totalArticles": 14,
     "byProvince": {
-      "湖北": 1,
+      "河南": 3,
+      "湖北": 3,
+      "安徽": 4,
       "华中": 2,
-      "河南": 1,
       "湖南": 2
     }
   },
