@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T22:26:05+00:00",
+  "generatedAt": "2026-07-09T22:35:54+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "china5e-1206067",
-      "title": "河南可再生能源装机突破100GW!",
-      "url": "https://www.china5e.com/news/news-1206067-1.html",
+      "id": "cpnn-t20260709_1900756",
+      "title": "安徽高速沿线光伏电站装机容量达347.6兆瓦",
+      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260709_1900756.html",
       "summary": "",
-      "publishedAt": "2026-07-08",
-      "source": "china5e.com",
-      "province": "河南"
+      "publishedAt": "2026-07-09",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
     },
     {
       "id": "cpnn-t20260708_1900469",
@@ -28,24 +28,6 @@
       "publishedAt": "2026-07-08",
       "source": "cpnn.com.cn",
       "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260708_1900490",
-      "title": "皖能铜陵发电迎战暴雨“双线作战” 全力保供“风雨无忧”",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202607/t20260708_1900490.html",
-      "summary": "",
-      "publishedAt": "2026-07-08",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260708_1900486",
-      "title": "皖能马鞍山发电“纪玲玲劳模（工匠）创新工作室”十年磨剑锻造新质生产力",
-      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202607/t20260708_1900486.html",
-      "summary": "",
-      "publishedAt": "2026-07-08",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
     },
     {
       "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
@@ -82,15 +64,6 @@
       "publishedAt": "2026-07-07",
       "source": "nea.gov.cn",
       "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260706_1899950",
-      "title": "苏皖绿电精准匹配上海算力中心",
-      "url": "https://www.cpnn.com.cn/news/xny/202607/t20260706_1899950.html",
-      "summary": "",
-      "publishedAt": "2026-07-06",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
     },
     {
       "id": "cpnn-t20260703_1899743",
@@ -139,12 +112,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 14,
+    "totalArticles": 11,
     "byProvince": {
-      "河南": 3,
+      "安徽": 2,
       "湖北": 3,
-      "安徽": 4,
       "华中": 2,
+      "河南": 2,
       "湖南": 2
     }
   },

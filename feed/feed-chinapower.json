@@ -1,9 +1,17 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-07-08T22:26:05+00:00",
+  "generatedAt": "2026-07-09T22:35:54+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-459937",
+      "title": "全国最小型“电力魔方”落地深圳",
+      "url": "https://www.chinapower.org.cn/detail/459937.html",
+      "summary": "",
+      "publishedAt": "2026-07-09",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-459901",
       "title": "【人民网】报告显示：全产业链拓展应用场景 推动电力信用体系建设",
@@ -11,50 +19,10 @@
       "summary": "",
       "publishedAt": "2026-07-08",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459900",
-      "title": "【中国经济新闻网】电力行业信用体系建设2026年工作会在京召开",
-      "url": "https://www.chinapower.org.cn/detail/459900.html",
-      "summary": "",
-      "publishedAt": "2026-07-08",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459898",
-      "title": "南方电网公司与海南省委省政府举行会谈",
-      "url": "https://www.chinapower.org.cn/detail/459898.html",
-      "summary": "",
-      "publishedAt": "2026-07-08",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459896",
-      "title": "西北电网电力跨区外送规模突破一亿千瓦",
-      "url": "https://www.chinapower.org.cn/detail/459896.html",
-      "summary": "",
-      "publishedAt": "2026-07-08",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459881",
-      "title": "中电联燃料分会召开2026年第二季度电力燃料形势分析座谈会",
-      "url": "https://www.chinapower.org.cn/detail/459881.html",
-      "summary": "",
-      "publishedAt": "2026-07-08",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459874",
-      "title": "新研究提出大模型智能体电网调度框架",
-      "url": "https://www.chinapower.org.cn/detail/459874.html",
-      "summary": "",
-      "publishedAt": "2026-07-07",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 2
   },
   "errors": []
 }

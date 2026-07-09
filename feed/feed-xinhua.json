@@ -1,9 +1,33 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-08T22:25:40+00:00",
+  "generatedAt": "2026-07-09T22:35:28+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-395b11f10102",
+      "title": "国家能源集团国神公司：一块煤的价值跃升",
+      "url": "https://www.xinhuanet.com/energy/20260709/395b11f1010247d7aec3037685b58655/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-09",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-ec03f8d6f1f1",
+      "title": "以科普播撒绿色微光，港华燃气联合点亮慈善基金于深圳市罗湖区梅园实验学校打造能源科普基地",
+      "url": "https://www.xinhuanet.com/energy/20260709/ec03f8d6f1f1494aab0150534c052a6b/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-09",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-7d523c24137c",
+      "title": "国家电网公司牵头三项成果获国家科学技术奖",
+      "url": "https://www.xinhuanet.com/energy/20260709/7d523c24137c4dd2b24fccb8a5520745/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-09",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-26e5b6b1b388",
       "title": "台达以ESG赋能“前行共好” 绘就零碳新局",
@@ -22,7 +46,7 @@
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 5
   },
   "errors": []
 }
