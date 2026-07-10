@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T22:35:54+00:00",
+  "generatedAt": "2026-07-10T22:26:24+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,33 @@
   ],
   "articles": [
     {
+      "id": "cpnn-t20260710_1901304",
+      "title": "国网江西电力：物联平台升级改造及关键业务割接工作完成",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260710_1901304.html",
+      "summary": "",
+      "publishedAt": "2026-07-10",
+      "source": "cpnn.com.cn",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260710_1901318",
+      "title": "大唐湖北新能源事业部：党建引领奋战“美莎克”防汛一线战场",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260710_1901318.html",
+      "summary": "",
+      "publishedAt": "2026-07-10",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "nea-20260710-aee722aba74f45f0a26b8bdff01c9ef1-c",
+      "title": "华中能源监管局赴国网华中分部开展省间互济交易与迎峰度夏电力保供调研",
+      "url": "https://www.nea.gov.cn/20260710/aee722aba74f45f0a26b8bdff01c9ef1/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-10",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
       "id": "cpnn-t20260709_1900756",
       "title": "安徽高速沿线光伏电站装机容量达347.6兆瓦",
       "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260709_1900756.html",
@@ -19,15 +46,6 @@
       "publishedAt": "2026-07-09",
       "source": "cpnn.com.cn",
       "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260708_1900469",
-      "title": "2026年“高质量发展能源行”网评引导活动在内蒙古鄂尔多斯启动",
-      "url": "https://www.cpnn.com.cn/news/nytt/202607/t20260708_1900469.html",
-      "summary": "",
-      "publishedAt": "2026-07-08",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
     },
     {
       "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
@@ -39,33 +57,6 @@
       "province": "湖北"
     },
     {
-      "id": "nea-20260707-0590184b43a848518f52fe5772f894e1-c",
-      "title": "华中区域（东四省）电力互济市场正式启动连续结算试运行",
-      "url": "https://www.nea.gov.cn/20260707/0590184b43a848518f52fe5772f894e1/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-07",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
-      "id": "nea-20260707-33d7acd4c6ad450d8780f110df572703-c",
-      "title": "河南能源监管办专题部署落实国家能源局2026年第三季度电力安全风险管控工作视频会议精神",
-      "url": "https://www.nea.gov.cn/20260707/33d7acd4c6ad450d8780f110df572703/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-07",
-      "source": "nea.gov.cn",
-      "province": "河南"
-    },
-    {
-      "id": "nea-20260707-82c49dcc5fdb4f4ba689688c329d7ea7-c",
-      "title": "湖南能源监管办调研学习“枫桥经验” 探索电力纠纷化解新路径",
-      "url": "https://www.nea.gov.cn/20260707/82c49dcc5fdb4f4ba689688c329d7ea7/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-07",
-      "source": "nea.gov.cn",
-      "province": "湖南"
-    },
-    {
       "id": "cpnn-t20260703_1899743",
       "title": "河南能源监管办开展油气管网设施公平开放情况现场监管",
       "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260703_1899743.html",
@@ -73,15 +64,6 @@
       "publishedAt": "2026-07-03",
       "source": "cpnn.com.cn",
       "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260703_1899763",
-      "title": "湖北首个省级新能源集控业务数据专网建成投运",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260703_1899763.html",
-      "summary": "",
-      "publishedAt": "2026-07-03",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
     },
     {
       "id": "cpnn-t20260702_1899437",
@@ -100,25 +82,17 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "湖南"
-    },
-    {
-      "id": "nea-20260331-1bf84fffaa9945c29cef4c144a04d8db-c",
-      "title": "国家能源局华中监管局党组关于局党组第三轮巡视整改进展情况的通报",
-      "url": "https://www.nea.gov.cn/20260331/1bf84fffaa9945c29cef4c144a04d8db/c.html",
-      "summary": "",
-      "publishedAt": "2026-03-31",
-      "source": "nea.gov.cn",
-      "province": "华中"
     }
   ],
   "stats": {
-    "totalArticles": 11,
+    "totalArticles": 8,
     "byProvince": {
+      "江西": 1,
+      "湖北": 2,
+      "华中": 1,
       "安徽": 2,
-      "湖北": 3,
-      "华中": 2,
-      "河南": 2,
-      "湖南": 2
+      "河南": 1,
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

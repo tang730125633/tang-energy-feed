@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-09T22:35:28+00:00",
+  "generatedAt": "2026-07-10T22:26:05+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-201de431cd71",
+      "title": "新华能源周报丨国务院印发《“十五五”碳达峰行动方案》；多家锂电产业链上市公司发布半年度业绩预喜公告",
+      "url": "https://www.xinhuanet.com/energy/20260710/201de431cd7149acbde3c637cefd6759/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-10",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-a1c23c76f46b",
+      "title": "碳达峰是约束更是机遇",
+      "url": "https://www.xinhuanet.com/energy/20260710/a1c23c76f46b4597886f23c7d55d571d/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-10",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-395b11f10102",
       "title": "国家能源集团国神公司：一块煤的价值跃升",
@@ -46,7 +62,7 @@
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 7
   },
   "errors": []
 }
