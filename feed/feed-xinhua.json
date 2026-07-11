@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-10T22:26:05+00:00",
+  "generatedAt": "2026-07-11T22:20:42+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -43,26 +43,10 @@
       "summary": "",
       "publishedAt": "2026-07-09",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-26e5b6b1b388",
-      "title": "台达以ESG赋能“前行共好” 绘就零碳新局",
-      "url": "https://www.xinhuanet.com/energy/20260707/26e5b6b1b38845518c53942d671b67de/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-07",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-b5ad8d09dc27",
-      "title": "前5月电力市场交易电量同比增长24.8%",
-      "url": "https://www.xinhuanet.com/energy/20260707/b5ad8d09dc2743eda0ef8028f3bc880f/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-07",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 5
   },
   "errors": []
 }

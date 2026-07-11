@@ -1,7 +1,7 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-07-10T22:26:24+00:00",
+  "generatedAt": "2026-07-11T22:21:05+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -11,18 +11,10 @@
       "summary": "",
       "publishedAt": "2026-07-10",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-459937",
-      "title": "全国最小型“电力魔方”落地深圳",
-      "url": "https://www.chinapower.org.cn/detail/459937.html",
-      "summary": "",
-      "publishedAt": "2026-07-09",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 1
   },
   "errors": []
 }
