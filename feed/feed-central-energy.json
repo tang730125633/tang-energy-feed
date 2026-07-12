@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T22:21:06+00:00",
+  "generatedAt": "2026-07-12T22:21:54+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,24 @@
   ],
   "articles": [
     {
+      "id": "cpnn-t20260710_1901304",
+      "title": "国网江西电力：物联平台升级改造及关键业务割接工作完成",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260710_1901304.html",
+      "summary": "",
+      "publishedAt": "2026-07-10",
+      "source": "cpnn.com.cn",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260710_1901318",
+      "title": "大唐湖北新能源事业部：党建引领奋战“美莎克”防汛一线战场",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260710_1901318.html",
+      "summary": "",
+      "publishedAt": "2026-07-10",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
       "id": "nea-20260710-aee722aba74f45f0a26b8bdff01c9ef1-c",
       "title": "华中能源监管局赴国网华中分部开展省间互济交易与迎峰度夏电力保供调研",
       "url": "https://www.nea.gov.cn/20260710/aee722aba74f45f0a26b8bdff01c9ef1/c.html",
@@ -21,6 +39,15 @@
       "province": "华中"
     },
     {
+      "id": "cpnn-t20260709_1900756",
+      "title": "安徽高速沿线光伏电站装机容量达347.6兆瓦",
+      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260709_1900756.html",
+      "summary": "",
+      "publishedAt": "2026-07-09",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
       "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
       "title": "2026年“高质量发展能源行”网评引导活动在内蒙古鄂尔多斯启动",
       "url": "https://www.nea.gov.cn/20260707/dc812b7f06bb4f9b81108565d1122ac3/c.html",
@@ -28,6 +55,24 @@
       "publishedAt": "2026-07-07",
       "source": "nea.gov.cn",
       "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260703_1899743",
+      "title": "河南能源监管办开展油气管网设施公平开放情况现场监管",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260703_1899743.html",
+      "summary": "",
+      "publishedAt": "2026-07-03",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260702_1899437",
+      "title": "国网安徽电力张课：深耕信通赋能电网安全",
+      "url": "https://www.cpnn.com.cn/qiye/yingcai/202607/t20260702_1899437.html",
+      "summary": "",
+      "publishedAt": "2026-07-02",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
     },
     {
       "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
@@ -40,10 +85,13 @@
     }
   ],
   "stats": {
-    "totalArticles": 3,
+    "totalArticles": 8,
     "byProvince": {
+      "江西": 1,
+      "湖北": 2,
       "华中": 1,
-      "湖北": 1,
+      "安徽": 2,
+      "河南": 1,
       "湖南": 1
     }
   },
