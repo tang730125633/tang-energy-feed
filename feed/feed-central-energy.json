@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T22:21:54+00:00",
+  "generatedAt": "2026-07-13T22:23:49+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,51 @@
   ],
   "articles": [
     {
+      "id": "china5e-1206327",
+      "title": "国网车网技术公司率先行动 携手产业链各方共启交流V2G规模化应用新征程——交流V2G产业生态共建发布会在合肥召开",
+      "url": "https://www.china5e.com/news/news-1206327-1.html",
+      "summary": "",
+      "publishedAt": "2026-07-13",
+      "source": "china5e.com",
+      "province": "安徽"
+    },
+    {
+      "id": "china5e-1206288",
+      "title": "总投资10亿!湖南能源集团签约150MW风电项目",
+      "url": "https://www.china5e.com/news/news-1206288-1.html",
+      "summary": "",
+      "publishedAt": "2026-07-13",
+      "source": "china5e.com",
+      "province": "湖南"
+    },
+    {
+      "id": "cpnn-t20260713_1901651",
+      "title": "国家电投集团郑州燃机全力筑牢迎峰度夏能源保供坚固防线",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202607/t20260713_1901651.html",
+      "summary": "",
+      "publishedAt": "2026-07-13",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260713_1901873",
+      "title": "国网河南电科院：筑牢冗余灾备防线 护航电网迎峰度夏",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260713_1901873.html",
+      "summary": "",
+      "publishedAt": "2026-07-13",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260713_1901658",
+      "title": "皖能马鞍山发电公司：迎战台风 筑牢电力稳供“屏障”",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260713_1901658.html",
+      "summary": "",
+      "publishedAt": "2026-07-13",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
       "id": "cpnn-t20260710_1901304",
       "title": "国网江西电力：物联平台升级改造及关键业务割接工作完成",
       "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260710_1901304.html",
@@ -19,15 +64,6 @@
       "publishedAt": "2026-07-10",
       "source": "cpnn.com.cn",
       "province": "江西"
-    },
-    {
-      "id": "cpnn-t20260710_1901318",
-      "title": "大唐湖北新能源事业部：党建引领奋战“美莎克”防汛一线战场",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260710_1901318.html",
-      "summary": "",
-      "publishedAt": "2026-07-10",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
     },
     {
       "id": "nea-20260710-aee722aba74f45f0a26b8bdff01c9ef1-c",
@@ -57,15 +93,6 @@
       "province": "湖北"
     },
     {
-      "id": "cpnn-t20260703_1899743",
-      "title": "河南能源监管办开展油气管网设施公平开放情况现场监管",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260703_1899743.html",
-      "summary": "",
-      "publishedAt": "2026-07-03",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
       "id": "cpnn-t20260702_1899437",
       "title": "国网安徽电力张课：深耕信通赋能电网安全",
       "url": "https://www.cpnn.com.cn/qiye/yingcai/202607/t20260702_1899437.html",
@@ -85,14 +112,14 @@
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 11,
     "byProvince": {
+      "安徽": 4,
+      "湖南": 2,
+      "河南": 2,
       "江西": 1,
-      "湖北": 2,
       "华中": 1,
-      "安徽": 2,
-      "河南": 1,
-      "湖南": 1
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

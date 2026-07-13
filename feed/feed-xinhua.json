@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-12T22:21:36+00:00",
+  "generatedAt": "2026-07-13T22:23:29+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-c044605a5da3",
+      "title": "2026台达电力电子新技术研讨会 汇聚学术智慧 促进公开学术交流 助力能源转型与绿色低碳发展",
+      "url": "https://www.xinhuanet.com/energy/20260713/c044605a5da34ce2805693f7c985d0c6/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-13",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-201de431cd71",
       "title": "新华能源周报丨国务院印发《“十五五”碳达峰行动方案》；多家锂电产业链上市公司发布半年度业绩预喜公告",
@@ -19,34 +27,10 @@
       "summary": "",
       "publishedAt": "2026-07-10",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-395b11f10102",
-      "title": "国家能源集团国神公司：一块煤的价值跃升",
-      "url": "https://www.xinhuanet.com/energy/20260709/395b11f1010247d7aec3037685b58655/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-09",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-ec03f8d6f1f1",
-      "title": "以科普播撒绿色微光，港华燃气联合点亮慈善基金于深圳市罗湖区梅园实验学校打造能源科普基地",
-      "url": "https://www.xinhuanet.com/energy/20260709/ec03f8d6f1f1494aab0150534c052a6b/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-09",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-7d523c24137c",
-      "title": "国家电网公司牵头三项成果获国家科学技术奖",
-      "url": "https://www.xinhuanet.com/energy/20260709/7d523c24137c4dd2b24fccb8a5520745/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-09",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 3
   },
   "errors": []
 }
