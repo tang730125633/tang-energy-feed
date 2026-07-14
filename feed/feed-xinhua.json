@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-13T22:23:29+00:00",
+  "generatedAt": "2026-07-14T22:25:05+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-5fd86f3c3fa8",
+      "title": "闻讯而动 能源企业以实际行动诠释责任担当",
+      "url": "https://www.xinhuanet.com/energy/20260714/5fd86f3c3fa84d0ab0506ec3fd0452a2/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-14",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-c044605a5da3",
       "title": "2026台达电力电子新技术研讨会 汇聚学术智慧 促进公开学术交流 助力能源转型与绿色低碳发展",
@@ -11,26 +19,10 @@
       "summary": "",
       "publishedAt": "2026-07-13",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-201de431cd71",
-      "title": "新华能源周报丨国务院印发《“十五五”碳达峰行动方案》；多家锂电产业链上市公司发布半年度业绩预喜公告",
-      "url": "https://www.xinhuanet.com/energy/20260710/201de431cd7149acbde3c637cefd6759/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-10",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-a1c23c76f46b",
-      "title": "碳达峰是约束更是机遇",
-      "url": "https://www.xinhuanet.com/energy/20260710/a1c23c76f46b4597886f23c7d55d571d/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-10",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 2
   },
   "errors": []
 }

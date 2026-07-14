@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T22:23:49+00:00",
+  "generatedAt": "2026-07-14T22:25:31+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,49 +12,58 @@
   ],
   "articles": [
     {
-      "id": "china5e-1206327",
-      "title": "国网车网技术公司率先行动 携手产业链各方共启交流V2G规模化应用新征程——交流V2G产业生态共建发布会在合肥召开",
-      "url": "https://www.china5e.com/news/news-1206327-1.html",
+      "id": "china5e-1206374",
+      "title": "湖北9座换流站筑牢安全防线保障供电可靠",
+      "url": "https://www.china5e.com/news/news-1206374-1.html",
       "summary": "",
-      "publishedAt": "2026-07-13",
+      "publishedAt": "2026-07-14",
       "source": "china5e.com",
-      "province": "安徽"
+      "province": "湖北"
     },
     {
-      "id": "china5e-1206288",
-      "title": "总投资10亿!湖南能源集团签约150MW风电项目",
-      "url": "https://www.china5e.com/news/news-1206288-1.html",
+      "id": "china5e-1206363",
+      "title": "河南可再生能源装机规模超1亿千瓦",
+      "url": "https://www.china5e.com/news/news-1206363-1.html",
       "summary": "",
-      "publishedAt": "2026-07-13",
+      "publishedAt": "2026-07-14",
       "source": "china5e.com",
-      "province": "湖南"
+      "province": "河南"
     },
     {
-      "id": "cpnn-t20260713_1901651",
-      "title": "国家电投集团郑州燃机全力筑牢迎峰度夏能源保供坚固防线",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202607/t20260713_1901651.html",
+      "id": "china5e-1206371",
+      "title": "鄂尔多斯煤炭智能化产能占比达87%",
+      "url": "https://www.china5e.com/news/news-1206371-1.html",
       "summary": "",
-      "publishedAt": "2026-07-13",
+      "publishedAt": "2026-07-14",
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260714_1901929",
+      "title": "“豫”见新生——河南能源转型发展调研记",
+      "url": "https://www.cpnn.com.cn/news/zngc/202607/t20260714_1901929.html",
+      "summary": "",
+      "publishedAt": "2026-07-14",
       "source": "cpnn.com.cn",
       "province": "河南"
     },
     {
-      "id": "cpnn-t20260713_1901873",
-      "title": "国网河南电科院：筑牢冗余灾备防线 护航电网迎峰度夏",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260713_1901873.html",
+      "id": "cpnn-t20260714_1902076",
+      "title": "大唐湖北新能源事业部：援手战“巴威”守护地方重点企业",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260714_1902076.html",
       "summary": "",
-      "publishedAt": "2026-07-13",
+      "publishedAt": "2026-07-14",
       "source": "cpnn.com.cn",
-      "province": "河南"
+      "province": "湖北"
     },
     {
-      "id": "cpnn-t20260713_1901658",
-      "title": "皖能马鞍山发电公司：迎战台风 筑牢电力稳供“屏障”",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260713_1901658.html",
+      "id": "nea-20260714-8783d10767454928a3d74f1ad894fe3b-c",
+      "title": "华中能源监管局调研巴东县乡村振兴常态化定点帮扶工作",
+      "url": "https://www.nea.gov.cn/20260714/8783d10767454928a3d74f1ad894fe3b/c.html",
       "summary": "",
-      "publishedAt": "2026-07-13",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
+      "publishedAt": "2026-07-14",
+      "source": "nea.gov.cn",
+      "province": "华中"
     },
     {
       "id": "cpnn-t20260710_1901304",
@@ -64,24 +73,6 @@
       "publishedAt": "2026-07-10",
       "source": "cpnn.com.cn",
       "province": "江西"
-    },
-    {
-      "id": "nea-20260710-aee722aba74f45f0a26b8bdff01c9ef1-c",
-      "title": "华中能源监管局赴国网华中分部开展省间互济交易与迎峰度夏电力保供调研",
-      "url": "https://www.nea.gov.cn/20260710/aee722aba74f45f0a26b8bdff01c9ef1/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-10",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
-      "id": "cpnn-t20260709_1900756",
-      "title": "安徽高速沿线光伏电站装机容量达347.6兆瓦",
-      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260709_1900756.html",
-      "summary": "",
-      "publishedAt": "2026-07-09",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
     },
     {
       "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
@@ -112,14 +103,14 @@
     }
   ],
   "stats": {
-    "totalArticles": 11,
+    "totalArticles": 10,
     "byProvince": {
-      "安徽": 4,
-      "湖南": 2,
+      "湖北": 4,
       "河南": 2,
-      "江西": 1,
       "华中": 1,
-      "湖北": 1
+      "江西": 1,
+      "安徽": 1,
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
