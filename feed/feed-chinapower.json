@@ -1,9 +1,25 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-07-14T22:25:30+00:00",
+  "generatedAt": "2026-07-15T22:24:58+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-460050",
+      "title": "【中国电力报】中能观察｜电力发展“新”意浓",
+      "url": "https://www.chinapower.org.cn/detail/460050.html",
+      "summary": "",
+      "publishedAt": "2026-07-15",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-460049",
+      "title": "【中国电力报】2026年全国最大电力负荷有望冲破16亿千瓦",
+      "url": "https://www.chinapower.org.cn/detail/460049.html",
+      "summary": "",
+      "publishedAt": "2026-07-15",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-460030",
       "title": "中电联发布《中国电力行业年度发展报告2026》",
@@ -27,34 +43,10 @@
       "summary": "",
       "publishedAt": "2026-07-14",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460023",
-      "title": "山西电网15项迎峰度夏重点工程全部投运",
-      "url": "https://www.chinapower.org.cn/detail/460023.html",
-      "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460022",
-      "title": "2026年“鼎和杯”全国电力行业职工男子篮球比赛圆满落幕",
-      "url": "https://www.chinapower.org.cn/detail/460022.html",
-      "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460006",
-      "title": "吃粗粮 产清洁电 长征路上谱新篇",
-      "url": "https://www.chinapower.org.cn/detail/460006.html",
-      "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 5
   },
   "errors": []
 }

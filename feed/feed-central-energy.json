@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T22:25:31+00:00",
+  "generatedAt": "2026-07-15T22:24:58+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,30 +12,21 @@
   ],
   "articles": [
     {
-      "id": "china5e-1206374",
-      "title": "湖北9座换流站筑牢安全防线保障供电可靠",
-      "url": "https://www.china5e.com/news/news-1206374-1.html",
+      "id": "cpnn-t20260715_1902391",
+      "title": "华中能源监管局调研巴东县乡村振兴常态化定点帮扶工作",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260715_1902391.html",
       "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "china5e.com",
-      "province": "湖北"
+      "publishedAt": "2026-07-15",
+      "source": "cpnn.com.cn",
+      "province": "华中"
     },
     {
-      "id": "china5e-1206363",
-      "title": "河南可再生能源装机规模超1亿千瓦",
-      "url": "https://www.china5e.com/news/news-1206363-1.html",
+      "id": "cpnn-t20260715_1902205",
+      "title": "6033.8万千瓦！湖北电网用电负荷创历史新高",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202607/t20260715_1902205.html",
       "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "china5e.com",
-      "province": "河南"
-    },
-    {
-      "id": "china5e-1206371",
-      "title": "鄂尔多斯煤炭智能化产能占比达87%",
-      "url": "https://www.china5e.com/news/news-1206371-1.html",
-      "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "china5e.com",
+      "publishedAt": "2026-07-15",
+      "source": "cpnn.com.cn",
       "province": "湖北"
     },
     {
@@ -46,15 +37,6 @@
       "publishedAt": "2026-07-14",
       "source": "cpnn.com.cn",
       "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260714_1902076",
-      "title": "大唐湖北新能源事业部：援手战“巴威”守护地方重点企业",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260714_1902076.html",
-      "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
     },
     {
       "id": "nea-20260714-8783d10767454928a3d74f1ad894fe3b-c",
@@ -103,11 +85,11 @@
     }
   ],
   "stats": {
-    "totalArticles": 10,
+    "totalArticles": 8,
     "byProvince": {
-      "湖北": 4,
-      "河南": 2,
-      "华中": 1,
+      "华中": 2,
+      "湖北": 2,
+      "河南": 1,
       "江西": 1,
       "安徽": 1,
       "湖南": 1

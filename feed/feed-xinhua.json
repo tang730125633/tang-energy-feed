@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-14T22:25:05+00:00",
+  "generatedAt": "2026-07-15T22:24:33+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-b74ae7ed0b9f",
+      "title": "我国自研T1000级碳纤维实现量产",
+      "url": "https://www.xinhuanet.com/energy/20260715/b74ae7ed0b9f44cba814562d857c68fb/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-15",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-5fd86f3c3fa8",
       "title": "闻讯而动 能源企业以实际行动诠释责任担当",
@@ -22,7 +30,7 @@
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 3
   },
   "errors": []
 }
