@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:24:58+00:00",
+  "generatedAt": "2026-07-16T22:25:17+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -21,15 +21,6 @@
       "province": "华中"
     },
     {
-      "id": "cpnn-t20260715_1902205",
-      "title": "6033.8万千瓦！湖北电网用电负荷创历史新高",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202607/t20260715_1902205.html",
-      "summary": "",
-      "publishedAt": "2026-07-15",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
       "id": "cpnn-t20260714_1901929",
       "title": "“豫”见新生——河南能源转型发展调研记",
       "url": "https://www.cpnn.com.cn/news/zngc/202607/t20260714_1901929.html",
@@ -46,15 +37,6 @@
       "publishedAt": "2026-07-14",
       "source": "nea.gov.cn",
       "province": "华中"
-    },
-    {
-      "id": "cpnn-t20260710_1901304",
-      "title": "国网江西电力：物联平台升级改造及关键业务割接工作完成",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260710_1901304.html",
-      "summary": "",
-      "publishedAt": "2026-07-10",
-      "source": "cpnn.com.cn",
-      "province": "江西"
     },
     {
       "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
@@ -82,15 +64,23 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "湖南"
+    },
+    {
+      "id": "china5e-1206485",
+      "title": "6033.8万千瓦！湖北电网用电负荷创历史新高",
+      "url": "https://www.china5e.com/news/news-1206485-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 7,
     "byProvince": {
       "华中": 2,
-      "湖北": 2,
       "河南": 1,
-      "江西": 1,
+      "湖北": 2,
       "安徽": 1,
       "湖南": 1
     }

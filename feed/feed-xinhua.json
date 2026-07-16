@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-15T22:24:33+00:00",
+  "generatedAt": "2026-07-16T22:24:57+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-8327900d642e",
+      "title": "我国首个全链条绿色低碳乙烯工程投产",
+      "url": "https://www.xinhuanet.com/energy/20260716/8327900d642e441b986016d9ab3e4df4/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-16",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-b74ae7ed0b9f",
       "title": "我国自研T1000级碳纤维实现量产",
@@ -11,26 +19,10 @@
       "summary": "",
       "publishedAt": "2026-07-15",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-5fd86f3c3fa8",
-      "title": "闻讯而动 能源企业以实际行动诠释责任担当",
-      "url": "https://www.xinhuanet.com/energy/20260714/5fd86f3c3fa84d0ab0506ec3fd0452a2/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-c044605a5da3",
-      "title": "2026台达电力电子新技术研讨会 汇聚学术智慧 促进公开学术交流 助力能源转型与绿色低碳发展",
-      "url": "https://www.xinhuanet.com/energy/20260713/c044605a5da34ce2805693f7c985d0c6/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-13",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 2
   },
   "errors": []
 }
