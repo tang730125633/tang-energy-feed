@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:25:17+00:00",
+  "generatedAt": "2026-07-17T22:20:06+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,69 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "china5e-1206587",
+      "title": "昆仑润滑一城一策走进鄂尔多斯 昆仑天威D1柴油机油深耕能源重镇",
+      "url": "https://www.china5e.com/news/news-1206587-1.html",
+      "summary": "",
+      "publishedAt": "2026-07-17",
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "china5e-1206564",
+      "title": "6月江西省煤炭价格950.75元/吨，环比上涨3%",
+      "url": "https://www.china5e.com/news/news-1206564-1.html",
+      "summary": "",
+      "publishedAt": "2026-07-17",
+      "source": "china5e.com",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260717_1902863",
+      "title": "河南郑州：2028年新能源及智能网联汽车产量力争占80%",
+      "url": "https://www.cpnn.com.cn/news/xny/202607/t20260717_1902863.html",
+      "summary": "",
+      "publishedAt": "2026-07-17",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260717-86eb8c992cb74c5f8362712f5c1f4f37-c",
+      "title": "华中能源监管局扎实做好台风“巴威”防范应对工作",
+      "url": "https://www.nea.gov.cn/20260717/86eb8c992cb74c5f8362712f5c1f4f37/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-17",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
+      "id": "nea-20260717-edde0d8889574771a49a670ecc23722e-c",
+      "title": "河南能源监管办强化电力市场行为监测和运营风险防控工作",
+      "url": "https://www.nea.gov.cn/20260717/edde0d8889574771a49a670ecc23722e/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-17",
+      "source": "nea.gov.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260717-586b8f8caee04a8f9683bfbb819b4cf8-c",
+      "title": "湖南能源监管办多措并举强化迎峰度夏电力保供监管",
+      "url": "https://www.nea.gov.cn/20260717/586b8f8caee04a8f9683bfbb819b4cf8/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-17",
+      "source": "nea.gov.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "cpnn-t20260716_1902646",
+      "title": "多项机制迎调整！湖南发布电力市场新规 V2.0版",
+      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260716_1902646.html",
+      "summary": "",
+      "publishedAt": "2026-07-16",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
     {
       "id": "cpnn-t20260715_1902391",
       "title": "华中能源监管局调研巴东县乡村振兴常态化定点帮扶工作",
@@ -28,15 +91,6 @@
       "publishedAt": "2026-07-14",
       "source": "cpnn.com.cn",
       "province": "河南"
-    },
-    {
-      "id": "nea-20260714-8783d10767454928a3d74f1ad894fe3b-c",
-      "title": "华中能源监管局调研巴东县乡村振兴常态化定点帮扶工作",
-      "url": "https://www.nea.gov.cn/20260714/8783d10767454928a3d74f1ad894fe3b/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "nea.gov.cn",
-      "province": "华中"
     },
     {
       "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
@@ -64,25 +118,17 @@
       "publishedAt": "2026-03-31",
       "source": "nea.gov.cn",
       "province": "湖南"
-    },
-    {
-      "id": "china5e-1206485",
-      "title": "6033.8万千瓦！湖北电网用电负荷创历史新高",
-      "url": "https://www.china5e.com/news/news-1206485-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 12,
     "byProvince": {
-      "华中": 2,
-      "河南": 1,
       "湖北": 2,
-      "安徽": 1,
-      "湖南": 1
+      "江西": 1,
+      "河南": 3,
+      "华中": 2,
+      "湖南": 3,
+      "安徽": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
