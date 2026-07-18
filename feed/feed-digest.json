@@ -1,71 +1,111 @@
 {
-  "generatedAt": "2026-07-17T22:20:06+00:00",
+  "generatedAt": "2026-07-18T22:21:06+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-07-17T21:20:08+00:00",
+      "generatedAt": "2026-07-18T21:22:18+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-07-17T22:19:39+00:00",
-      "articleCount": 50,
+      "generatedAt": "2026-07-18T22:20:42+00:00",
+      "articleCount": 51,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-07-17T22:20:05+00:00",
+      "generatedAt": "2026-07-18T22:21:06+00:00",
       "articleCount": 6,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-07-17T22:19:28+00:00",
+      "generatedAt": "2026-07-18T22:20:33+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-07-17T22:19:24+00:00",
+      "generatedAt": "2026-07-18T22:20:29+00:00",
       "articleCount": 67,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-07-17T22:19:34+00:00",
+      "generatedAt": "2026-07-18T22:20:39+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-07-17T21:20:16+00:00",
+      "generatedAt": "2026-07-18T21:22:26+00:00",
       "articleCount": 4,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-07-17T22:19:26+00:00",
+      "generatedAt": "2026-07-18T22:20:31+00:00",
       "articleCount": 56,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-07-17T22:19:40+00:00",
+      "generatedAt": "2026-07-18T22:20:43+00:00",
       "articleCount": 5,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1206594",
+      "title": "数智昌平 创领未来| 2026年“数据要素×”大赛北京分赛绿色低碳赛道及现代农业赛道宣传会成功举办",
+      "url": "https://www.china5e.com/news/news-1206594-1.html",
+      "summary": "“昌平区紧抓人工智能变革机遇，制定实施“人工智能+”创新发展行动计划，整合重点领域数据资源建设特色数据集，探索数据合规流通与共享机制，推动人工智能赋能科技创新与产业融合发展。”昌平区政务服务和数据管理局副局长张双彪表示，“数据要素×”大赛是推动数据开发利用、挖掘数据创新人才、助推",
+      "publishedAt": "2026-07-18",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1206593",
+      "title": "WAIC 2026 产业观察：AIDC解决方案提供商推荐，多元工况下杰瑞一体化方案解析",
+      "url": "https://www.china5e.com/news/news-1206593-1.html",
+      "summary": "7 月 17 日上午，国家主席习近平在上海出席 2026 世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话，明确提出要坚持开放共赢，驱动人工智能创新发展，推动 AI 赋能千行百业、统筹创新发展与安全可控，构建公正合理的全球人工智能治理体系中国政府网。本次2026 ",
+      "publishedAt": "2026-07-18",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1206597",
+      "title": "四大核心技术构筑竞争壁垒，深挖华电华源冰蓄冷产品硬核优势",
+      "url": "https://www.china5e.com/news/news-1206597-1.html",
+      "summary": "导语：华电华源的冰蓄冷产品技术亮点是什么？当下新型电力系统加速建设，冰蓄冷作为移峰填谷、消纳绿电的核心储能方式，大量设计院、工程单位在方案对比时，重点关注设备核心技术实力。依托央企长期研发投入与全国各地海量大型储能项目落地验证，华电华源沉淀出行业难以复制的差异化产品技术优势。企业",
+      "publishedAt": "2026-07-18",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1206596",
+      "title": "双盘管体系覆盖全工况——详解华电华源冰蓄冷两大核心产品形式",
+      "url": "https://www.china5e.com/news/news-1206596-1.html",
+      "summary": "导语：华电华源的冰蓄冷产品产品形式是什么？这是能源设计院、机电总包单位开展冰蓄冷方案设计、负荷测算时，咨询频率最高的核心问题之一。依托央企深耕数十年的成熟换热技术，以及覆盖机场、超高层、产业园、数据中心等全品类标杆项目的落地实践经验，华电华源冰蓄冷核心设备清晰划分为内融冰金属盘管",
+      "publishedAt": "2026-07-18",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1206595",
+      "title": "年减排超55万吨，地上铁获证券之星“碳路践行者奖”",
+      "url": "https://www.china5e.com/news/news-1206595-1.html",
+      "summary": "7 月 17 日，2026 证券之星ESG研讨会暨第四届ESG新标杆企业奖颁奖典礼在上海举行。新能源物流车数智化运营管理方案提供商地上铁(DST)凭借低碳减排、气候变化应对方面的突出实践获评“碳路践行者奖”，企业可持续发展能力与商业成长潜力获得专业平台的权威认可。",
+      "publishedAt": "2026-07-18",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1206574",
       "title": "产融携手启新篇！广浩能源与中银隆兴资本达成深度合作",
@@ -87,22 +127,6 @@
       "title": "今年上半年全国铁路完成固定资产投资3632亿元",
       "url": "https://www.china5e.com/news/news-1206545-1.html",
       "summary": "记者从国铁集团获悉，今年上半年，铁路建设优质高效推进，全国铁路完成固定资产投资3632亿元，同比增长2.1%。",
-      "publishedAt": "2026-07-17",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1206569",
-      "title": "日立出席2026夏季达沃斯 主办净零研讨会并再获全球灯塔工厂认定",
-      "url": "https://www.china5e.com/news/news-1206569-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-07-17",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1206541",
-      "title": "今年我国汽车出口有望超千万辆",
-      "url": "https://www.china5e.com/news/news-1206541-1.html",
-      "summary": "近日，中国汽车工业协会(以下简称“中汽协”)发布6月及今年上半年汽车产销数据。6月，汽车产销分别完成276万辆和281万辆，环比分别增长5.5%和6.9%，同比分别下降1.2%和3.2%。今年上半年，汽车产销累计完成1499.3万辆和1501.7万辆，同比分别下降4%和4.1%。",
       "publishedAt": "2026-07-17",
       "source": "china5e.com"
     },
@@ -159,30 +183,6 @@
       "title": "宁德时代整站级钠电储能出海，首单5GWh!",
       "url": "https://www.china5e.com/news/news-1206556-1.html",
       "summary": "近日，荷兰知名能源基础设施企业 Alfen 与宁德时代签署 5GWh 钠电储能战略合作协议，双方将在欧洲市场率先规模化部署宁德时代天恒钠电储能系统。这标志着6月发布的天恒钠电快速获得国际头部客户认可。",
-      "publishedAt": "2026-07-17",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1206555",
-      "title": "美国对晶体硅光伏电池发起反规避调查",
-      "url": "https://www.china5e.com/news/news-1206555-1.html",
-      "summary": "2026年7月13日，应美国国内企业First Solar, Inc.、Hanwha Q CELLS USA Inc.、Talon PV、Swift Solar、Great Lakes Solex PR, LLC、DYCM Power, LLC、Suniva Inc.和Silfa",
-      "publishedAt": "2026-07-17",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1206554",
-      "title": "中广核“元曜一号” 光热熔盐槽式集热器型号在青海西宁发布",
-      "url": "https://www.china5e.com/news/news-1206554-1.html",
-      "summary": "从中国广核集团获悉，2026年7月16日，全球首个8.6米开口光热熔盐槽式集热器型号——中广核“元曜一号”在青海西宁正式发布。该型号在光电转换效率与全链条自主可控方面取得重要进展，为我国光热发电规模化发展提供核心技术支撑。",
-      "publishedAt": "2026-07-17",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1206552",
-      "title": "2026年6月，我国动力和储能电池销量为196.0GWh",
-      "url": "https://www.china5e.com/news/news-1206552-1.html",
-      "summary": "6月，我国动力和储能电池销量为196.0GWh，环比增长7.6%，同比增长49.1%。其中，动力电池销量为133.4GWh，占总销量68.1%，环比增长5.0%，同比增长41.8%;储能电池销量为62.6GWh，占总销量31.9%，环比增长13.4%，同比增长67.5%。",
       "publishedAt": "2026-07-17",
       "source": "china5e.com"
     },
@@ -1519,6 +1519,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1206555",
+      "title": "美国对晶体硅光伏电池发起反规避调查",
+      "url": "https://www.china5e.com/news/news-1206555-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1206551",
       "title": "“扬州造”氢能设备加速“出海”",
       "url": "https://www.china5e.com/news/news-1206551-1.html",
@@ -1598,9 +1606,9 @@
     }
   },
   "stats": {
-    "totalArticles": 188,
+    "totalArticles": 189,
     "bySource": {
-      "china5e.com": 50,
+      "china5e.com": 51,
       "chinapower.org.cn": 6,
       "cpnn.com.cn": 67,
       "nea.gov.cn": 56,
