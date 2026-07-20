@@ -1,9 +1,41 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-19T22:21:53+00:00",
+  "generatedAt": "2026-07-20T22:24:43+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-3fb1ce591b25",
+      "title": "巧用二氧化碳取地热",
+      "url": "https://www.xinhuanet.com/energy/20260720/3fb1ce591b254984b1154ed5ec3e0601/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-20",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-9b5175c25b82",
+      "title": "深耕转型实践 锻造央企品牌 雁宝能源以“绿境新生”重塑矿山发展新范式",
+      "url": "https://www.xinhuanet.com/energy/20260720/9b5175c25b8243e984972bb44eca19de/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-20",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-06a69643459b",
+      "title": "第六届储能安全研讨会在合肥成功举办",
+      "url": "https://www.xinhuanet.com/energy/20260720/06a69643459b4c90a944293f4562c138/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-20",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-e1672200906e",
+      "title": "国家能源集团国神公司牵头制定行业标准填补火电安全标准化实施空白",
+      "url": "https://www.xinhuanet.com/energy/20260720/e1672200906e4f8b85cad39eb596286f/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-20",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-05ceebc8a40a",
       "title": "国家电网：人工智能赋能高质量发展",
@@ -35,18 +67,10 @@
       "summary": "",
       "publishedAt": "2026-07-17",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-8327900d642e",
-      "title": "我国首个全链条绿色低碳乙烯工程投产",
-      "url": "https://www.xinhuanet.com/energy/20260716/8327900d642e441b986016d9ab3e4df4/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-16",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 8
   },
   "errors": []
 }
