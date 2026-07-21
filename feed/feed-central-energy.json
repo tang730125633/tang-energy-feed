@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:25:02+00:00",
+  "generatedAt": "2026-07-21T22:22:49+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,21 +12,30 @@
   ],
   "articles": [
     {
-      "id": "china5e-1206646",
-      "title": "多元协同·多能互补 共创全球能源新生态！2026世界新能源新材料大会定于9月20日在鄂尔多斯盛大举行！",
-      "url": "https://www.china5e.com/news/news-1206646-1.html",
+      "id": "china5e-1206733",
+      "title": "湖北省首个零碳工厂评价规范发布",
+      "url": "https://www.china5e.com/news/news-1206733-1.html",
       "summary": "",
-      "publishedAt": "2026-07-20",
+      "publishedAt": "2026-07-21",
       "source": "china5e.com",
       "province": "湖北"
     },
     {
-      "id": "cpnn-t20260720_1903317",
-      "title": "甘肃绿电助力华中地区迎峰度夏",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202607/t20260720_1903317.html",
+      "id": "cpnn-t20260721_1903434",
+      "title": "河南能源监管办全面维护河南电力市场运行秩序",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260721_1903434.html",
       "summary": "",
-      "publishedAt": "2026-07-20",
+      "publishedAt": "2026-07-21",
       "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260721-6bf1c1f0d90c43479def479d412fa1b2-c",
+      "title": "华中能源监管局迅速应对重庆彭水山体崩塌灾害 全力督导抢险救援电力保障工作",
+      "url": "https://www.nea.gov.cn/20260721/6bf1c1f0d90c43479def479d412fa1b2/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-21",
+      "source": "nea.gov.cn",
       "province": "华中"
     },
     {
@@ -39,15 +48,6 @@
       "province": "湖北"
     },
     {
-      "id": "cpnn-t20260720_1903238",
-      "title": "皖能铜陵发电全力迎战台风“巴威”保供电",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260720_1903238.html",
-      "summary": "",
-      "publishedAt": "2026-07-20",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
       "id": "xinhua-06a69643459b",
       "title": "第六届储能安全研讨会在合肥成功举办",
       "url": "https://www.xinhuanet.com/energy/20260720/06a69643459b4c90a944293f4562c138/c.html",
@@ -57,24 +57,6 @@
       "province": "安徽"
     },
     {
-      "id": "cpnn-t20260717_1902863",
-      "title": "河南郑州：2028年新能源及智能网联汽车产量力争占80%",
-      "url": "https://www.cpnn.com.cn/news/xny/202607/t20260717_1902863.html",
-      "summary": "",
-      "publishedAt": "2026-07-17",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "nea-20260717-86eb8c992cb74c5f8362712f5c1f4f37-c",
-      "title": "华中能源监管局扎实做好台风“巴威”防范应对工作",
-      "url": "https://www.nea.gov.cn/20260717/86eb8c992cb74c5f8362712f5c1f4f37/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-17",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
       "id": "cpnn-t20260716_1902646",
       "title": "多项机制迎调整！湖南发布电力市场新规 V2.0版",
       "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260716_1902646.html",
@@ -82,15 +64,6 @@
       "publishedAt": "2026-07-16",
       "source": "cpnn.com.cn",
       "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260714_1901929",
-      "title": "“豫”见新生——河南能源转型发展调研记",
-      "url": "https://www.cpnn.com.cn/news/zngc/202607/t20260714_1901929.html",
-      "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "cpnn.com.cn",
-      "province": "河南"
     },
     {
       "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
@@ -111,23 +84,23 @@
       "province": "安徽"
     },
     {
-      "id": "nea-20260331-203488b39d454d76a3c9f04fce97eaca-c",
-      "title": "国家能源局湖南监管办党组关于巡视“回头看”整改进展情况的通报",
-      "url": "https://www.nea.gov.cn/20260331/203488b39d454d76a3c9f04fce97eaca/c.html",
+      "id": "china5e-1206682",
+      "title": "甘肃绿电助力华中地区迎峰度夏",
+      "url": "https://www.china5e.com/news/news-1206682-1.html",
       "summary": "",
-      "publishedAt": "2026-03-31",
-      "source": "nea.gov.cn",
-      "province": "湖南"
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "华中"
     }
   ],
   "stats": {
-    "totalArticles": 12,
+    "totalArticles": 9,
     "byProvince": {
       "湖北": 3,
+      "河南": 1,
       "华中": 2,
-      "安徽": 3,
-      "河南": 2,
-      "湖南": 2
+      "安徽": 2,
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

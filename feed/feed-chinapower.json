@@ -1,9 +1,41 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-07-20T22:25:02+00:00",
+  "generatedAt": "2026-07-21T22:22:48+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-460250",
+      "title": "中国油气勘探开发发展报告（2026）",
+      "url": "https://www.chinapower.org.cn/detail/460250.html",
+      "summary": "",
+      "publishedAt": "2026-07-21",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-460243",
+      "title": "AI与电力的深度融合优化超大城市电网运行",
+      "url": "https://www.chinapower.org.cn/detail/460243.html",
+      "summary": "",
+      "publishedAt": "2026-07-21",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-460231",
+      "title": "南方区域电力交易机构“十禁十诺”正式发布",
+      "url": "https://www.chinapower.org.cn/detail/460231.html",
+      "summary": "",
+      "publishedAt": "2026-07-21",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-460230",
+      "title": "国家电网：推进人工智能技术与电网业务深度融合",
+      "url": "https://www.chinapower.org.cn/detail/460230.html",
+      "summary": "",
+      "publishedAt": "2026-07-21",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-460215",
       "title": "2026年电力行业电能质量发展论坛成功举办",
@@ -19,34 +51,10 @@
       "summary": "",
       "publishedAt": "2026-07-20",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460207",
-      "title": "【上海证券报】用电结构持续演变 我国新型电网建设与绿电扩容提速",
-      "url": "https://www.chinapower.org.cn/detail/460207.html",
-      "summary": "",
-      "publishedAt": "2026-07-20",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460201",
-      "title": "国家电网：人工智能赋能高质量发展",
-      "url": "https://www.chinapower.org.cn/detail/460201.html",
-      "summary": "",
-      "publishedAt": "2026-07-20",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460200",
-      "title": "战高温！南方区域富余电力“北上”苏浙川",
-      "url": "https://www.chinapower.org.cn/detail/460200.html",
-      "summary": "",
-      "publishedAt": "2026-07-20",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 6
   },
   "errors": []
 }

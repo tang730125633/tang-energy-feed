@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-20T22:24:43+00:00",
+  "generatedAt": "2026-07-21T22:22:30+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -35,42 +35,10 @@
       "summary": "",
       "publishedAt": "2026-07-20",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-05ceebc8a40a",
-      "title": "国家电网：人工智能赋能高质量发展",
-      "url": "https://www.xinhuanet.com/energy/20260717/05ceebc8a40a4e878e73584c4a7a27e0/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-17",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-cd1504f18cb7",
-      "title": "新华能源周报丨中国首个禁售燃油车省份确认；1-6月份全社会用电量同比增长5.3%",
-      "url": "https://www.xinhuanet.com/energy/20260717/cd1504f18cb743c2b40a9ba4e66faaa0/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-17",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-e1def4e7bcab",
-      "title": "新能源汽车三电系统感知质量研讨会暨团体标准启动会在京成功举办",
-      "url": "https://www.xinhuanet.com/energy/20260717/e1def4e7bcab45948c4c12a97286c86f/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-17",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-d4aabcd61b6f",
-      "title": "市场化交易电量占全社会用电量比重连续4年超60% 全国统一电力市场建设按下“加速键”",
-      "url": "https://www.xinhuanet.com/energy/20260717/d4aabcd61b6f47e6846beb15fc0120c7/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-17",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 8
+    "articleCount": 4
   },
   "errors": []
 }
