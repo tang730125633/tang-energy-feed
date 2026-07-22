@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-21T22:22:30+00:00",
+  "generatedAt": "2026-07-22T22:26:28+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-2a8cc01f3663",
+      "title": "鹏辉能源：预计上半年实现归母净利润8亿元至8.66亿元 同比实现扭亏为盈",
+      "url": "https://www.xinhuanet.com/energy/20260722/2a8cc01f3663411b97d15e90c91f0157/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-22",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-bf3a1ee70684",
+      "title": "远景连续两年登上标普全球能源 Tier 1清洁能源技术企业榜单，三大业务入选",
+      "url": "https://www.xinhuanet.com/energy/20260722/bf3a1ee706844d2c99d8668d032c78a0/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-22",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-3fb1ce591b25",
       "title": "巧用二氧化碳取地热",
@@ -38,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 6
   },
   "errors": []
 }

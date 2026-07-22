@@ -1,9 +1,17 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-07-21T22:22:48+00:00",
+  "generatedAt": "2026-07-22T22:26:53+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-460264",
+      "title": "国家电网公司上半年各级电网建设加力提速",
+      "url": "https://www.chinapower.org.cn/detail/460264.html",
+      "summary": "",
+      "publishedAt": "2026-07-22",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-460250",
       "title": "中国油气勘探开发发展报告（2026）",
@@ -35,26 +43,10 @@
       "summary": "",
       "publishedAt": "2026-07-21",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460215",
-      "title": "2026年电力行业电能质量发展论坛成功举办",
-      "url": "https://www.chinapower.org.cn/detail/460215.html",
-      "summary": "",
-      "publishedAt": "2026-07-20",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460212",
-      "title": "内蒙古公司白音华蒙东煤业公司上半年煤炭外运同比增长15.93%",
-      "url": "https://www.chinapower.org.cn/detail/460212.html",
-      "summary": "",
-      "publishedAt": "2026-07-20",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 5
   },
   "errors": []
 }

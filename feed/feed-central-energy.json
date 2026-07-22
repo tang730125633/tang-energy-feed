@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T22:22:49+00:00",
+  "generatedAt": "2026-07-22T22:26:54+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,33 @@
   ],
   "articles": [
     {
+      "id": "cpnn-t20260722_1903683",
+      "title": "华中能源监管局迅速应对重庆彭水山体崩塌灾害",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260722_1903683.html",
+      "summary": "",
+      "publishedAt": "2026-07-22",
+      "source": "cpnn.com.cn",
+      "province": "华中"
+    },
+    {
+      "id": "cpnn-t20260722_1903814",
+      "title": "大唐河南发电金日锋调研乡村振兴工作并慰问驻村干部",
+      "url": "https://www.cpnn.com.cn/qiye/guanli/202607/t20260722_1903814.html",
+      "summary": "",
+      "publishedAt": "2026-07-22",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260722_1903763",
+      "title": "皖能马鞍山发电：劳动竞赛激发保供“源动力”",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202607/t20260722_1903763.html",
+      "summary": "",
+      "publishedAt": "2026-07-22",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
       "id": "china5e-1206733",
       "title": "湖北省首个零碳工厂评价规范发布",
       "url": "https://www.china5e.com/news/news-1206733-1.html",
@@ -19,15 +46,6 @@
       "publishedAt": "2026-07-21",
       "source": "china5e.com",
       "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260721_1903434",
-      "title": "河南能源监管办全面维护河南电力市场运行秩序",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260721_1903434.html",
-      "summary": "",
-      "publishedAt": "2026-07-21",
-      "source": "cpnn.com.cn",
-      "province": "河南"
     },
     {
       "id": "nea-20260721-6bf1c1f0d90c43479def479d412fa1b2-c",
@@ -57,15 +75,6 @@
       "province": "安徽"
     },
     {
-      "id": "cpnn-t20260716_1902646",
-      "title": "多项机制迎调整！湖南发布电力市场新规 V2.0版",
-      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260716_1902646.html",
-      "summary": "",
-      "publishedAt": "2026-07-16",
-      "source": "cpnn.com.cn",
-      "province": "湖南"
-    },
-    {
       "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
       "title": "2026年“高质量发展能源行”网评引导活动在内蒙古鄂尔多斯启动",
       "url": "https://www.nea.gov.cn/20260707/dc812b7f06bb4f9b81108565d1122ac3/c.html",
@@ -91,16 +100,24 @@
       "publishedAt": null,
       "source": "china5e.com",
       "province": "华中"
+    },
+    {
+      "id": "china5e-1206766",
+      "title": "河南南阳：供电赋能光储充 绿电铺就低碳路",
+      "url": "https://www.china5e.com/news/news-1206766-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 9,
+    "totalArticles": 11,
     "byProvince": {
-      "湖北": 3,
-      "河南": 1,
-      "华中": 2,
-      "安徽": 2,
-      "湖南": 1
+      "华中": 3,
+      "河南": 2,
+      "安徽": 3,
+      "湖北": 3
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
