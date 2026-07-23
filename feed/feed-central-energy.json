@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T22:26:54+00:00",
+  "generatedAt": "2026-07-23T22:27:07+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,11 +12,29 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260722_1903683",
-      "title": "华中能源监管局迅速应对重庆彭水山体崩塌灾害",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260722_1903683.html",
+      "id": "china5e-1206825",
+      "title": "数据显示：江西氢能产业向“新”求“质” 聚链成势",
+      "url": "https://www.china5e.com/news/news-1206825-1.html",
       "summary": "",
-      "publishedAt": "2026-07-22",
+      "publishedAt": "2026-07-23",
+      "source": "china5e.com",
+      "province": "江西"
+    },
+    {
+      "id": "china5e-1206859",
+      "title": "鄂西页岩气勘探实现跨区域新突破",
+      "url": "https://www.china5e.com/news/news-1206859-1.html",
+      "summary": "",
+      "publishedAt": "2026-07-23",
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260723_1903926",
+      "title": "华中能源监管局保障西藏政务重要用户可靠供电",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260723_1903926.html",
+      "summary": "",
+      "publishedAt": "2026-07-23",
       "source": "cpnn.com.cn",
       "province": "华中"
     },
@@ -28,15 +46,6 @@
       "publishedAt": "2026-07-22",
       "source": "cpnn.com.cn",
       "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260722_1903763",
-      "title": "皖能马鞍山发电：劳动竞赛激发保供“源动力”",
-      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202607/t20260722_1903763.html",
-      "summary": "",
-      "publishedAt": "2026-07-22",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
     },
     {
       "id": "china5e-1206733",
@@ -57,15 +66,6 @@
       "province": "华中"
     },
     {
-      "id": "cpnn-t20260720_1903338",
-      "title": "湖北省首个零碳工厂评价规范发布",
-      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260720_1903338.html",
-      "summary": "",
-      "publishedAt": "2026-07-20",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
       "id": "xinhua-06a69643459b",
       "title": "第六届储能安全研讨会在合肥成功举办",
       "url": "https://www.xinhuanet.com/energy/20260720/06a69643459b4c90a944293f4562c138/c.html",
@@ -82,42 +82,16 @@
       "publishedAt": "2026-07-07",
       "source": "nea.gov.cn",
       "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260702_1899437",
-      "title": "国网安徽电力张课：深耕信通赋能电网安全",
-      "url": "https://www.cpnn.com.cn/qiye/yingcai/202607/t20260702_1899437.html",
-      "summary": "",
-      "publishedAt": "2026-07-02",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "china5e-1206682",
-      "title": "甘肃绿电助力华中地区迎峰度夏",
-      "url": "https://www.china5e.com/news/news-1206682-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "华中"
-    },
-    {
-      "id": "china5e-1206766",
-      "title": "河南南阳：供电赋能光储充 绿电铺就低碳路",
-      "url": "https://www.china5e.com/news/news-1206766-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 11,
+    "totalArticles": 8,
     "byProvince": {
-      "华中": 3,
-      "河南": 2,
-      "安徽": 3,
-      "湖北": 3
+      "江西": 1,
+      "湖北": 3,
+      "华中": 2,
+      "河南": 1,
+      "安徽": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

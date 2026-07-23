@@ -1,9 +1,33 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-22T22:26:28+00:00",
+  "generatedAt": "2026-07-23T22:26:37+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-76276a1371da",
+      "title": "国家电网公司连续22年获中央企业负责人经营业绩考核A级",
+      "url": "https://www.xinhuanet.com/energy/20260723/76276a1371da471691f4a72537b3e17e/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-23",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-85e60523f530",
+      "title": "国网杭州：人工智能赋能电网迎峰度夏",
+      "url": "https://www.xinhuanet.com/energy/20260723/85e60523f53049baad2db96057ff9108/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-23",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-aaab3dff82f0",
+      "title": "战高温斗暴雨 国家管网集团筑牢能源“大动脉”安全防线",
+      "url": "https://www.xinhuanet.com/energy/20260723/aaab3dff82f04056868d9d9e69b12f24/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-23",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-2a8cc01f3663",
       "title": "鹏辉能源：预计上半年实现归母净利润8亿元至8.66亿元 同比实现扭亏为盈",
@@ -43,18 +67,10 @@
       "summary": "",
       "publishedAt": "2026-07-20",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-e1672200906e",
-      "title": "国家能源集团国神公司牵头制定行业标准填补火电安全标准化实施空白",
-      "url": "https://www.xinhuanet.com/energy/20260720/e1672200906e4f8b85cad39eb596286f/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-20",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 8
   },
   "errors": []
 }
