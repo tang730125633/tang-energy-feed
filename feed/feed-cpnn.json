@@ -1,37 +1,213 @@
 {
   "source": "cpnn.com.cn",
   "sourceName": "电网头条（中国能源传媒集团）",
-  "generatedAt": "2026-07-23T22:26:22+00:00",
+  "generatedAt": "2026-07-24T22:27:30+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "cpnn-t20260724_1904427",
+      "title": "国家能源局召开2026年第二次能源监管工作例会",
+      "url": "https://www.cpnn.com.cn/news/nytt/202607/t20260724_1904427.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904317",
+      "title": "国家能源局发布2026年6月全国可再生能源绿色电力证书核发及交易数据",
+      "url": "https://www.cpnn.com.cn/news/nytt/202607/t20260724_1904317.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904316",
+      "title": "国家能源局有关负责同志就《中国绿证价格指数》答记者问",
+      "url": "https://www.cpnn.com.cn/news/nytt/202607/t20260724_1904316.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904336",
+      "title": "国家电网上半年固定资产投资超3100亿元",
+      "url": "https://www.cpnn.com.cn/news/hy/202607/t20260724_1904336.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904239",
+      "title": "贵州能源监管办深入推进非电网直供电小区用电治理",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260724_1904239.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904235",
+      "title": "四川能源监管办开展独立储能电站迎峰度夏保供调研督导",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260724_1904235.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904213",
+      "title": "中广核韩国大山二期557兆瓦气电项目商运发电",
+      "url": "https://www.cpnn.com.cn/news/nyqy/202607/t20260724_1904213.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904335",
+      "title": "重庆绿电交易进入“小时级”精准时代",
+      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260724_1904335.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904231",
+      "title": "更新新能源城市公交车 四川每辆补贴10万元",
+      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260724_1904231.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904415",
+      "title": "“解码‘十五五’ 新型能源体系顶层布局⑨”丨坚持集约协同，推动清洁能源基地规模化发展",
+      "url": "https://www.cpnn.com.cn/news/baogao2023/202607/t20260724_1904415.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904414",
+      "title": "“解码‘十五五’ 新型能源体系顶层布局⑩”丨着力推动化石能源绿色低碳转型发展",
+      "url": "https://www.cpnn.com.cn/news/baogao2023/202607/t20260724_1904414.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904216",
+      "title": "《可再生能源发展“十五五”规划》系列解读①丨可再生能源“扩量提质”的顶层设计与实施路径",
+      "url": "https://www.cpnn.com.cn/news/baogao2023/202607/t20260724_1904216.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904215",
+      "title": "《可再生能源发展“十五五”规划》系列解读②丨坚持电与非电并举，以新能源扩量提质 为碳达峰碳中和提供坚强可靠支撑",
+      "url": "https://www.cpnn.com.cn/news/baogao2023/202607/t20260724_1904215.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904214",
+      "title": "《可再生能源发展“十五五”规划》系列解读③丨可再生能源高质量发展为能源强国建设奠定坚实基础",
+      "url": "https://www.cpnn.com.cn/news/baogao2023/202607/t20260724_1904214.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904381",
+      "title": "塔山发电：动静环改造提高磨煤机运转效能",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202607/t20260724_1904381.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904380",
+      "title": "嘉峪关市成功举行2026年防汛抗震暨电力设施抢修政企联动应急救援综合演练",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202607/t20260724_1904380.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904382",
+      "title": "南网曲靖供电局：政策宣讲进企业 绿电赋能优服务",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260724_1904382.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904378",
+      "title": "交直流融合重构新型电力系统",
+      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202607/t20260724_1904378.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904360",
+      "title": "中裕能源携手中国兵器旗下华鑫智感达成战略合作",
+      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202607/t20260724_1904360.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904357",
+      "title": "国家能源集团新朔铁路打通内蒙古高附加值铁合金铁海联运新通道",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202607/t20260724_1904357.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904358",
+      "title": "中裕能源出席中燃协安全委委员大会暨2026年度燃气安全交流研讨会",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202607/t20260724_1904358.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904361",
+      "title": "国家电投上海电力田集电厂：逆势突围 勇拓燃料管理“掘金路”",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202607/t20260724_1904361.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904364",
+      "title": "兰州倚能电力：精细管理强合同 合规经营提质效",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202607/t20260724_1904364.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904379",
+      "title": "戎装映初心 笔墨写忠诚——记贵州电网公司优秀党务工作者李先明",
+      "url": "https://www.cpnn.com.cn/qiye/yingcai/202607/t20260724_1904379.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260724_1904366",
+      "title": "国网浙江电力方案获联合国SDG加速器中国区第一并晋级全球赛",
+      "url": "https://www.cpnn.com.cn/qiye/rongyu/202607/t20260724_1904366.html",
+      "summary": "",
+      "publishedAt": "2026-07-24",
+      "source": "cpnn.com.cn"
+    },
     {
       "id": "cpnn-t20260723_1903941",
       "title": "四个关键词 解码“十五五”可再生能源发展新蓝图",
       "url": "https://www.cpnn.com.cn/news/xwtt/202607/t20260723_1903941.html",
-      "summary": "",
-      "publishedAt": "2026-07-23",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260723_1903939",
-      "title": "一图读懂 | 《可再生能源发展“十五五”规划》",
-      "url": "https://www.cpnn.com.cn/news/nytt/202607/t20260723_1903939.html",
-      "summary": "",
-      "publishedAt": "2026-07-23",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260723_1903938",
-      "title": "《可再生能源发展“十五五”规划》答记者问",
-      "url": "https://www.cpnn.com.cn/news/nytt/202607/t20260723_1903938.html",
-      "summary": "",
-      "publishedAt": "2026-07-23",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260723_1903919",
-      "title": "国家发展改革委 国家能源局印发 《可再生能源发展“十五五”规划》",
-      "url": "https://www.cpnn.com.cn/news/nytt/202607/t20260723_1903919.html",
       "summary": "",
       "publishedAt": "2026-07-23",
       "source": "cpnn.com.cn"
@@ -56,22 +232,6 @@
       "id": "cpnn-t20260723_1903927",
       "title": "山西能源监管办保电网稳定运行和电力可靠供应",
       "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260723_1903927.html",
-      "summary": "",
-      "publishedAt": "2026-07-23",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260723_1903926",
-      "title": "华中能源监管局保障西藏政务重要用户可靠供电",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260723_1903926.html",
-      "summary": "",
-      "publishedAt": "2026-07-23",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260723_1903924",
-      "title": "东北能源监管局召开青年理论学习小组集体学习",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202607/t20260723_1903924.html",
       "summary": "",
       "publishedAt": "2026-07-23",
       "source": "cpnn.com.cn"
@@ -133,14 +293,6 @@
       "source": "cpnn.com.cn"
     },
     {
-      "id": "cpnn-t20260723_1903921",
-      "title": "电力护航乐东海水养殖绿色转型",
-      "url": "https://www.cpnn.com.cn/news/nyqy/202607/t20260723_1903921.html",
-      "summary": "",
-      "publishedAt": "2026-07-23",
-      "source": "cpnn.com.cn"
-    },
-    {
       "id": "cpnn-t20260723_1904134",
       "title": "拉美储能“热土”：智利市场机遇与挑战",
       "url": "https://www.cpnn.com.cn/news/gj/202607/t20260723_1904134.html",
@@ -149,17 +301,9 @@
       "source": "cpnn.com.cn"
     },
     {
-      "id": "cpnn-t20260723_1904095",
-      "title": "国网魏县供电：紧盯防汛关键期 筑牢电网安全堤",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202607/t20260723_1904095.html",
-      "summary": "",
-      "publishedAt": "2026-07-23",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260723_1904080",
-      "title": "国网岷县供电电力护航文旅旺狼渡滩草原迎盛夏旅游热",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202607/t20260723_1904080.html",
+      "id": "cpnn-t20260723_1904076",
+      "title": "国网甘肃电力营销事业部：党建赋能聚合力研学深耕提质效",
+      "url": "https://www.cpnn.com.cn/qiye/guanli/202607/t20260723_1904076.html",
       "summary": "",
       "publishedAt": "2026-07-23",
       "source": "cpnn.com.cn"
@@ -173,9 +317,25 @@
       "source": "cpnn.com.cn"
     },
     {
+      "id": "cpnn-t20260723_1904075",
+      "title": "南方电网联合华为发布“大瓦特·知音”AI白皮书",
+      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202607/t20260723_1904075.html",
+      "summary": "",
+      "publishedAt": "2026-07-23",
+      "source": "cpnn.com.cn"
+    },
+    {
       "id": "cpnn-t20260723_1904093",
-      "title": "道达尔能源科碧恩推出Luminy:registered: FOAM 50F可堆肥发泡材料",
+      "title": "道达尔能源科碧恩推出可堆肥发泡材料",
       "url": "https://www.cpnn.com.cn/qiye/jishu2023/202607/t20260723_1904093.html",
+      "summary": "",
+      "publishedAt": "2026-07-23",
+      "source": "cpnn.com.cn"
+    },
+    {
+      "id": "cpnn-t20260723_1904072",
+      "title": "国能菏泽发电：消夏文化节启幕激活干事创业新动能",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202607/t20260723_1904072.html",
       "summary": "",
       "publishedAt": "2026-07-23",
       "source": "cpnn.com.cn"
@@ -189,33 +349,9 @@
       "source": "cpnn.com.cn"
     },
     {
-      "id": "cpnn-t20260722_1903676",
-      "title": "国家电网公司上半年各级电网建设加力提速",
-      "url": "https://www.cpnn.com.cn/news/hy/202607/t20260722_1903676.html",
-      "summary": "",
-      "publishedAt": "2026-07-22",
-      "source": "cpnn.com.cn"
-    },
-    {
       "id": "cpnn-t20260722_1903757",
       "title": "国家级零碳工厂、零碳算力设施建设工作启动",
       "url": "https://www.cpnn.com.cn/news/hg/202607/t20260722_1903757.html",
-      "summary": "",
-      "publishedAt": "2026-07-22",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260722_1903862",
-      "title": "广西南宁：新能源汽车投诉增幅明显",
-      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260722_1903862.html",
-      "summary": "",
-      "publishedAt": "2026-07-22",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260722_1903861",
-      "title": "四川首座“构网型”全钒液流电池储能电站正式并网投运",
-      "url": "https://www.cpnn.com.cn/news/dfny/202607/t20260722_1903861.html",
       "summary": "",
       "publishedAt": "2026-07-22",
       "source": "cpnn.com.cn"
@@ -248,22 +384,6 @@
       "id": "cpnn-t20260722_1903816",
       "title": "大唐陕西新能源公司：靶向施治 以“小切口”破题基层监督",
       "url": "https://www.cpnn.com.cn/qiye/guanli/202607/t20260722_1903816.html",
-      "summary": "",
-      "publishedAt": "2026-07-22",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260722_1903814",
-      "title": "大唐河南发电金日锋调研乡村振兴工作并慰问驻村干部",
-      "url": "https://www.cpnn.com.cn/qiye/guanli/202607/t20260722_1903814.html",
-      "summary": "",
-      "publishedAt": "2026-07-22",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260722_1903766",
-      "title": "国电投通辽发电总厂制粉分场党支部获评优秀称号",
-      "url": "https://www.cpnn.com.cn/qiye/guanli/202607/t20260722_1903766.html",
       "summary": "",
       "publishedAt": "2026-07-22",
       "source": "cpnn.com.cn"
@@ -341,14 +461,6 @@
       "source": "cpnn.com.cn"
     },
     {
-      "id": "cpnn-t20260721_1903478",
-      "title": "华为在WAIC电力峰会上提出超节点+智能体路径",
-      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202607/t20260721_1903478.html",
-      "summary": "",
-      "publishedAt": "2026-07-21",
-      "source": "cpnn.com.cn"
-    },
-    {
       "id": "cpnn-t20260721_1903472",
       "title": "大唐山西新能源公司李天雨：青春逐光践初心 深耕现货显担当",
       "url": "https://www.cpnn.com.cn/qiye/yingcai/202607/t20260721_1903472.html",
@@ -370,22 +482,6 @@
       "url": "https://www.cpnn.com.cn/news/xny/202607/t20260720_1903152.html",
       "summary": "",
       "publishedAt": "2026-07-20",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260717_1902925",
-      "title": "南方能源观察：大型清洁能源基地如何深度融入全国统一电力市场",
-      "url": "https://www.cpnn.com.cn/news/baogao2023/202607/t20260717_1902925.html",
-      "summary": "",
-      "publishedAt": "2026-07-17",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260717_1902911",
-      "title": "证券日报：算力储能需求成为锂价新变量",
-      "url": "https://www.cpnn.com.cn/news/baogao2023/202607/t20260717_1902911.html",
-      "summary": "",
-      "publishedAt": "2026-07-17",
       "source": "cpnn.com.cn"
     },
     {
@@ -416,14 +512,6 @@
       "id": "cpnn-t20260716_1902666",
       "title": "科技创新再登顶 中南电力攻克柔性直流世界级难题",
       "url": "https://www.cpnn.com.cn/news/kj/202607/t20260716_1902666.html",
-      "summary": "",
-      "publishedAt": "2026-07-16",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260716_1902512",
-      "title": "人民网：护航夏季用能安全 新能源保供能力提质升级",
-      "url": "https://www.cpnn.com.cn/news/baogao2023/202607/t20260716_1902512.html",
       "summary": "",
       "publishedAt": "2026-07-16",
       "source": "cpnn.com.cn"
@@ -501,14 +589,6 @@
       "source": "cpnn.com.cn"
     },
     {
-      "id": "cpnn-t20260714_1901962",
-      "title": "国务院国资委党委表彰中央企业“两优一先”国家能源集团4集体5个人获殊荣",
-      "url": "https://www.cpnn.com.cn/qiye/rongyu/202607/t20260714_1901962.html",
-      "summary": "",
-      "publishedAt": "2026-07-14",
-      "source": "cpnn.com.cn"
-    },
-    {
       "id": "cpnn-t20260713_1901710",
       "title": "迎战极端天气 能源保供“硬核”作答",
       "url": "https://www.cpnn.com.cn/news/xwtt/202607/t20260713_1901710.html",
@@ -522,22 +602,6 @@
       "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202607/t20260713_1901644.html",
       "summary": "",
       "publishedAt": "2026-07-13",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260710_1901390",
-      "title": "《能源领域节能降碳行动计划（2026—2028年）》印发",
-      "url": "https://www.cpnn.com.cn/news/xwtt/202607/t20260710_1901390.html",
-      "summary": "",
-      "publishedAt": "2026-07-10",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260710_1901053",
-      "title": "金观平：碳达峰是约束更是机遇",
-      "url": "https://www.cpnn.com.cn/news/baogao2023/202607/t20260710_1901053.html",
-      "summary": "",
-      "publishedAt": "2026-07-10",
       "source": "cpnn.com.cn"
     },
     {
@@ -570,22 +634,6 @@
       "url": "https://www.cpnn.com.cn/qiye/rongyu/202607/t20260708_1900570.html",
       "summary": "",
       "publishedAt": "2026-07-08",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260602_1892334",
-      "title": "杭州平晟电力：“电”亮童心 “育蕾”花开",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202606/t20260602_1892334.html",
-      "summary": "",
-      "publishedAt": "2026-06-02",
-      "source": "cpnn.com.cn"
-    },
-    {
-      "id": "cpnn-t20260428_1884295",
-      "title": "汛期将至，4月23日，大唐岩滩水力发电有限责任公司组织开展超标准洪水防洪调度应急预案实战化、全面性演练，以实景实训锤炼公司应急队伍。",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202604/t20260428_1884295.html",
-      "summary": "",
-      "publishedAt": "2026-04-28",
       "source": "cpnn.com.cn"
     },
     {
@@ -622,7 +670,7 @@
     }
   ],
   "stats": {
-    "articleCount": 77
+    "articleCount": 83
   },
   "errors": []
 }
