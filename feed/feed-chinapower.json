@@ -1,9 +1,17 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-07-24T22:28:02+00:00",
+  "generatedAt": "2026-07-25T22:33:54+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-460362",
+      "title": "三峡集团与南方电网公司座谈",
+      "url": "https://www.chinapower.org.cn/detail/460362.html",
+      "summary": "",
+      "publishedAt": "2026-07-26",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-460352",
       "title": "三峡集团与南方电网公司座谈",
@@ -22,7 +30,7 @@
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 3
   },
   "errors": []
 }
