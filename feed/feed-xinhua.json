@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-25T22:33:23+00:00",
+  "generatedAt": "2026-07-26T22:24:15+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -59,18 +59,10 @@
       "summary": "",
       "publishedAt": "2026-07-23",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-2a8cc01f3663",
-      "title": "鹏辉能源：预计上半年实现归母净利润8亿元至8.66亿元 同比实现扭亏为盈",
-      "url": "https://www.xinhuanet.com/energy/20260722/2a8cc01f3663411b97d15e90c91f0157/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-22",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 8
+    "articleCount": 7
   },
   "errors": []
 }

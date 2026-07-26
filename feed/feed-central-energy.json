@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T22:33:55+00:00",
+  "generatedAt": "2026-07-26T22:24:32+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -30,12 +30,12 @@
       "province": "湖南"
     },
     {
-      "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
-      "title": "2026年“高质量发展能源行”网评引导活动在内蒙古鄂尔多斯启动",
-      "url": "https://www.nea.gov.cn/20260707/dc812b7f06bb4f9b81108565d1122ac3/c.html",
+      "id": "china5e-1206859",
+      "title": "鄂西页岩气勘探实现跨区域新突破",
+      "url": "https://www.china5e.com/news/news-1206859-1.html",
       "summary": "",
-      "publishedAt": "2026-07-07",
-      "source": "nea.gov.cn",
+      "publishedAt": "2026-07-23",
+      "source": "china5e.com",
       "province": "湖北"
     },
     {
@@ -43,17 +43,26 @@
       "title": "湖北省首个零碳工厂评价规范发布",
       "url": "https://www.china5e.com/news/news-1206733-1.html",
       "summary": "",
-      "publishedAt": null,
+      "publishedAt": "2026-07-21",
       "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
+      "title": "2026年“高质量发展能源行”网评引导活动在内蒙古鄂尔多斯启动",
+      "url": "https://www.nea.gov.cn/20260707/dc812b7f06bb4f9b81108565d1122ac3/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-07",
+      "source": "nea.gov.cn",
       "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 4,
+    "totalArticles": 5,
     "byProvince": {
       "华中": 1,
       "湖南": 1,
-      "湖北": 2
+      "湖北": 3
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
