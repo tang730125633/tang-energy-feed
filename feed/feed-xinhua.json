@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-26T22:24:15+00:00",
+  "generatedAt": "2026-07-27T22:27:17+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-11970d748880",
+      "title": "光伏行业成本核算团体标准发布——以统一标尺引导行业有序竞争",
+      "url": "https://www.xinhuanet.com/energy/20260727/11970d7488804242aff25fdd14e07aba/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-27",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-fb5a81d71f01",
       "title": "新华能源周报丨《可再生能源发展“十五五”规划》发布；上半年全国完成水利建设投资5151亿元",
@@ -35,34 +43,10 @@
       "summary": "",
       "publishedAt": "2026-07-24",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-76276a1371da",
-      "title": "国家电网公司连续22年获中央企业负责人经营业绩考核A级",
-      "url": "https://www.xinhuanet.com/energy/20260723/76276a1371da471691f4a72537b3e17e/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-23",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-85e60523f530",
-      "title": "国网杭州：人工智能赋能电网迎峰度夏",
-      "url": "https://www.xinhuanet.com/energy/20260723/85e60523f53049baad2db96057ff9108/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-23",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-aaab3dff82f0",
-      "title": "战高温斗暴雨 国家管网集团筑牢能源“大动脉”安全防线",
-      "url": "https://www.xinhuanet.com/energy/20260723/aaab3dff82f04056868d9d9e69b12f24/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-23",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 5
   },
   "errors": []
 }
