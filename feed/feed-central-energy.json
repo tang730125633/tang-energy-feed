@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T22:27:34+00:00",
+  "generatedAt": "2026-07-28T22:29:08+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,31 +12,22 @@
   ],
   "articles": [
     {
-      "id": "china5e-1206982",
-      "title": "国网武汉江岸供电中心：实景研学强纪铸魂 校准党员干部政绩坐标",
-      "url": "https://www.china5e.com/news/news-1206982-1.html",
+      "id": "china5e-1207007",
+      "title": "内蒙古鄂尔多斯发布零碳机场技术成果",
+      "url": "https://www.china5e.com/news/news-1207007-1.html",
       "summary": "",
-      "publishedAt": "2026-07-27",
+      "publishedAt": "2026-07-28",
       "source": "china5e.com",
       "province": "湖北"
     },
     {
-      "id": "china5e-1206978",
-      "title": "不打烊的监督：国网武汉江岸供电中心紧盯夜间负荷排查电网“发热点”",
-      "url": "https://www.china5e.com/news/news-1206978-1.html",
+      "id": "nea-20260728-6b6d724b03234b08bfd9ccb76bacca6d-c",
+      "title": "华中能源监管局向湖北省常务副省长汇报工作",
+      "url": "https://www.nea.gov.cn/20260728/6b6d724b03234b08bfd9ccb76bacca6d/c.html",
       "summary": "",
-      "publishedAt": "2026-07-27",
-      "source": "china5e.com",
+      "publishedAt": "2026-07-28",
+      "source": "nea.gov.cn",
       "province": "湖北"
-    },
-    {
-      "id": "china5e-1206962",
-      "title": "6月安徽规上原煤产量842.1万吨 同比下降5.2%",
-      "url": "https://www.china5e.com/news/news-1206962-1.html",
-      "summary": "",
-      "publishedAt": "2026-07-27",
-      "source": "china5e.com",
-      "province": "安徽"
     },
     {
       "id": "china5e-1206969",
@@ -84,15 +75,6 @@
       "province": "湖北"
     },
     {
-      "id": "nea-20260724-e64cfbd88dfd4f41a8952eadc7a04f1e-c",
-      "title": "华中能源监管局积极协调保障西藏政务重要用户可靠供电",
-      "url": "https://www.nea.gov.cn/20260724/e64cfbd88dfd4f41a8952eadc7a04f1e/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-24",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
       "id": "china5e-1206733",
       "title": "湖北省首个零碳工厂评价规范发布",
       "url": "https://www.china5e.com/news/news-1206733-1.html",
@@ -109,16 +91,33 @@
       "publishedAt": "2026-07-07",
       "source": "nea.gov.cn",
       "province": "湖北"
+    },
+    {
+      "id": "china5e-1206962",
+      "title": "6月安徽规上原煤产量842.1万吨 同比下降5.2%",
+      "url": "https://www.china5e.com/news/news-1206962-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "安徽"
+    },
+    {
+      "id": "ne21-229407",
+      "title": "支持企业配套建分布式光伏！鄂尔多斯盆地东部区域煤层气增储上产行动方案公布",
+      "url": "https://www.ne21.com/news/show-229407.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com",
+      "province": "湖北"
     }
   ],
   "stats": {
     "totalArticles": 11,
     "byProvince": {
-      "湖北": 7,
-      "安徽": 1,
+      "湖北": 8,
       "湖南": 1,
       "河南": 1,
-      "华中": 1
+      "安徽": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
