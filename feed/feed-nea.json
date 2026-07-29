@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-07-28T22:25:54+00:00",
+  "generatedAt": "2026-07-29T22:23:42+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -80,14 +80,6 @@
       "id": "nea-20260728-177188c5b0a749f8962faec48467b6b6-c",
       "title": "云南能源监管办召开用电侧经营主体座谈会",
       "url": "https://www.nea.gov.cn/20260728/177188c5b0a749f8962faec48467b6b6/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-28",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260728-57803ddd7c394bd39b74123a16be5ed3-c",
-      "title": "贵州能源监管办进一步完善廉政风险防控措施",
-      "url": "https://www.nea.gov.cn/20260728/57803ddd7c394bd39b74123a16be5ed3/c.html",
       "summary": "",
       "publishedAt": "2026-07-28",
       "source": "nea.gov.cn"
@@ -406,7 +398,7 @@
     }
   ],
   "stats": {
-    "articleCount": 50
+    "articleCount": 49
   },
   "errors": []
 }

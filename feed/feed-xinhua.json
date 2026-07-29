@@ -1,20 +1,28 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-28T22:28:49+00:00",
+  "generatedAt": "2026-07-29T22:26:34+00:00",
   "lookbackHours": 72,
   "articles": [
     {
-      "id": "xinhua-11970d748880",
-      "title": "光伏行业成本核算团体标准发布——以统一标尺引导行业有序竞争",
-      "url": "https://www.xinhuanet.com/energy/20260727/11970d7488804242aff25fdd14e07aba/c.html",
+      "id": "xinhua-8b06bf3f0650",
+      "title": "国家能源集团上半年经营业绩稳中有进 能源保供“压舱石”作用持续彰显",
+      "url": "https://www.xinhuanet.com/energy/20260729/8b06bf3f0650491eae9e8ba8cf4a275d/c.html",
       "summary": "",
-      "publishedAt": "2026-07-27",
+      "publishedAt": "2026-07-29",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-2406ee13c771",
+      "title": "能源强国建设系列谈丨国家管网研究总院张对红：从“新型能源质能网”看见管网更多可能",
+      "url": "https://www.xinhuanet.com/energy/20260729/2406ee13c7714fe98a22d773eec46765/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-29",
       "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 1
+    "articleCount": 2
   },
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T22:29:08+00:00",
+  "generatedAt": "2026-07-29T22:26:54+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,12 +12,30 @@
   ],
   "articles": [
     {
+      "id": "china5e-1207080",
+      "title": "国家能源局印发行动方案加快鄂尔多斯盆地东部区域煤层气勘探开发",
+      "url": "https://www.china5e.com/news/news-1207080-1.html",
+      "summary": "",
+      "publishedAt": "2026-07-29",
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
       "id": "china5e-1207007",
       "title": "内蒙古鄂尔多斯发布零碳机场技术成果",
       "url": "https://www.china5e.com/news/news-1207007-1.html",
       "summary": "",
       "publishedAt": "2026-07-28",
       "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260728_1904910",
+      "title": "国网武汉供电：汲取科创精神赋能电网发展",
+      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202607/t20260728_1904910.html",
+      "summary": "",
+      "publishedAt": "2026-07-28",
+      "source": "cpnn.com.cn",
       "province": "湖北"
     },
     {
@@ -28,15 +46,6 @@
       "publishedAt": "2026-07-28",
       "source": "nea.gov.cn",
       "province": "湖北"
-    },
-    {
-      "id": "china5e-1206969",
-      "title": "“三湘蓝大片”持续刷屏 全省PM2.5浓度同比改善19.9%",
-      "url": "https://www.china5e.com/news/news-1206969-1.html",
-      "summary": "",
-      "publishedAt": "2026-07-27",
-      "source": "china5e.com",
-      "province": "湖南"
     },
     {
       "id": "cpnn-t20260727_1904873",
@@ -91,33 +100,13 @@
       "publishedAt": "2026-07-07",
       "source": "nea.gov.cn",
       "province": "湖北"
-    },
-    {
-      "id": "china5e-1206962",
-      "title": "6月安徽规上原煤产量842.1万吨 同比下降5.2%",
-      "url": "https://www.china5e.com/news/news-1206962-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "安徽"
-    },
-    {
-      "id": "ne21-229407",
-      "title": "支持企业配套建分布式光伏！鄂尔多斯盆地东部区域煤层气增储上产行动方案公布",
-      "url": "https://www.ne21.com/news/show-229407.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com",
-      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 11,
+    "totalArticles": 10,
     "byProvince": {
-      "湖北": 8,
-      "湖南": 1,
-      "河南": 1,
-      "安徽": 1
+      "湖北": 9,
+      "河南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
