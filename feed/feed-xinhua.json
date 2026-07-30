@@ -1,9 +1,81 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-07-29T22:26:34+00:00",
+  "generatedAt": "2026-07-30T22:27:29+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-59e0942c1ba0",
+      "title": "国家能源局：今年上半年我国市场交易电量规模达36848亿千瓦时 同比增长24.2%",
+      "url": "https://www.xinhuanet.com/energy/20260730/59e0942c1ba04d6da9218ab855091973/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-02deafccdcb3",
+      "title": "国家能源局：我国电动汽车充电基础设施总数达到2305.7万个 同比增长43.2%",
+      "url": "https://www.xinhuanet.com/energy/20260730/02deafccdcb34cdea38c7dc3be4890ad/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-0ec02b4acd1d",
+      "title": "国家能源局：今年上半年全国可再生能源新增装机1.17亿千瓦 占全部新增装机的73.9%",
+      "url": "https://www.xinhuanet.com/energy/20260730/0ec02b4acd1d46318e698f6e5f812993/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-b1492fb0a09b",
+      "title": "国家能源局：迎峰度夏期间全国各地电力供应形势总体平稳",
+      "url": "https://www.xinhuanet.com/energy/20260730/b1492fb0a09b4677be5384a22d109ec7/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-6715ec1b471e",
+      "title": "国家能源局发布《中国新型储能发展报告（2026）》",
+      "url": "https://www.xinhuanet.com/energy/20260730/6715ec1b471e4d10ac2e0a0b07bc18c2/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-05cc9b249fb7",
+      "title": "国家能源局：今年上半年我国能源领域有效投资稳步增长 绿色低碳转型步伐加快",
+      "url": "https://www.xinhuanet.com/energy/20260730/05cc9b249fb7481d85fd000b93f1e105/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-3f924f263ac5",
+      "title": "打好保供“组合拳” 满格电力护航迎峰度夏",
+      "url": "https://www.xinhuanet.com/energy/20260730/3f924f263ac545809e029b81e0dd30ec/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-711e097b1d73",
+      "title": "国家能源集团人工智能赋能全产业链转型升级",
+      "url": "https://www.xinhuanet.com/energy/20260730/711e097b1d734cfc86dbeee8a927b51a/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-c4e245a6ed93",
+      "title": "国家能源局关于印发《鄂尔多斯盆地东部区域煤层气增储上产行动方案（2026—2030年）》的通知",
+      "url": "https://www.xinhuanet.com/energy/20260730/c4e245a6ed9347dc9c492c95b5896ca7/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-8b06bf3f0650",
       "title": "国家能源集团上半年经营业绩稳中有进 能源保供“压舱石”作用持续彰显",
@@ -22,7 +94,7 @@
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 11
   },
   "errors": []
 }

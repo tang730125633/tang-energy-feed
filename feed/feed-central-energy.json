@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T22:26:54+00:00",
+  "generatedAt": "2026-07-30T22:27:51+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,40 @@
   ],
   "articles": [
     {
-      "id": "china5e-1207080",
-      "title": "国家能源局印发行动方案加快鄂尔多斯盆地东部区域煤层气勘探开发",
-      "url": "https://www.china5e.com/news/news-1207080-1.html",
+      "id": "china5e-1207144",
+      "title": "鄂西页岩气勘探实现新突破",
+      "url": "https://www.china5e.com/news/news-1207144-1.html",
       "summary": "",
-      "publishedAt": "2026-07-29",
+      "publishedAt": "2026-07-30",
       "source": "china5e.com",
       "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260730_1905565",
+      "title": "国家能源集团安徽公司年累计发电量超300亿千瓦时",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202607/t20260730_1905565.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
+      "id": "xinhua-c4e245a6ed93",
+      "title": "国家能源局关于印发《鄂尔多斯盆地东部区域煤层气增储上产行动方案（2026—2030年）》的通知",
+      "url": "https://www.xinhuanet.com/energy/20260730/c4e245a6ed9347dc9c492c95b5896ca7/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-30",
+      "source": "xinhuanet.com",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260729_1905294",
+      "title": "安徽新能源公司斩获第八届全国设备管理与技术创新成果一等奖",
+      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202607/t20260729_1905294.html",
+      "summary": "",
+      "publishedAt": "2026-07-29",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
     },
     {
       "id": "china5e-1207007",
@@ -48,48 +75,12 @@
       "province": "湖北"
     },
     {
-      "id": "cpnn-t20260727_1904873",
-      "title": "国家能源局有关负责同志就《鄂尔多斯盆地东部区域煤层气增储上产行动方案（2026—2030年）》答记者问",
-      "url": "https://www.cpnn.com.cn/news/nytt/202607/t20260727_1904873.html",
-      "summary": "",
-      "publishedAt": "2026-07-27",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260727_1904872",
-      "title": "国家能源局印发《鄂尔多斯盆地东部区域煤层气增储上产行动方案（2026—2030年）》",
-      "url": "https://www.cpnn.com.cn/news/nytt/202607/t20260727_1904872.html",
-      "summary": "",
-      "publishedAt": "2026-07-27",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260727_1904760",
-      "title": "国网河南电科院：AI创新成果赋能电力系统数字化建设",
-      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202607/t20260727_1904760.html",
-      "summary": "",
-      "publishedAt": "2026-07-27",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
       "id": "nea-20260727-e7d7025f1f3f42598679f2ea50c4f4e7-c",
       "title": "国家能源局有关负责同志就《鄂尔多斯盆地东部区域煤层气增储上产行动方案（2026—2030年）》答记者问",
       "url": "https://www.nea.gov.cn/20260727/e7d7025f1f3f42598679f2ea50c4f4e7/c.html",
       "summary": "",
       "publishedAt": "2026-07-27",
       "source": "nea.gov.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "china5e-1206733",
-      "title": "湖北省首个零碳工厂评价规范发布",
-      "url": "https://www.china5e.com/news/news-1206733-1.html",
-      "summary": "",
-      "publishedAt": "2026-07-21",
-      "source": "china5e.com",
       "province": "湖北"
     },
     {
@@ -100,13 +91,31 @@
       "publishedAt": "2026-07-07",
       "source": "nea.gov.cn",
       "province": "湖北"
+    },
+    {
+      "id": "china5e-1207080",
+      "title": "国家能源局印发行动方案加快鄂尔多斯盆地东部区域煤层气勘探开发",
+      "url": "https://www.china5e.com/news/news-1207080-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "ne21-229489",
+      "title": "远景新型电力系统，助力鄂尔多斯建成全球首个“零碳机场”",
+      "url": "https://www.ne21.com/news/show-229489.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com",
+      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 10,
+    "totalArticles": 11,
     "byProvince": {
       "湖北": 9,
-      "河南": 1
+      "安徽": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
