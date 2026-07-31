@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T22:27:51+00:00",
+  "generatedAt": "2026-07-31T22:25:30+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,30 +12,21 @@
   ],
   "articles": [
     {
+      "id": "nea-20260731-4a27f547922b41a889e6b3c03d6b0564-c",
+      "title": "华中能源监管局开展2026年天然气市场体系建设现场监管",
+      "url": "https://www.nea.gov.cn/20260731/4a27f547922b41a889e6b3c03d6b0564/c.html",
+      "summary": "",
+      "publishedAt": "2026-07-31",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
       "id": "china5e-1207144",
       "title": "鄂西页岩气勘探实现新突破",
       "url": "https://www.china5e.com/news/news-1207144-1.html",
       "summary": "",
       "publishedAt": "2026-07-30",
       "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260730_1905565",
-      "title": "国家能源集团安徽公司年累计发电量超300亿千瓦时",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202607/t20260730_1905565.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "xinhua-c4e245a6ed93",
-      "title": "国家能源局关于印发《鄂尔多斯盆地东部区域煤层气增储上产行动方案（2026—2030年）》的通知",
-      "url": "https://www.xinhuanet.com/energy/20260730/c4e245a6ed9347dc9c492c95b5896ca7/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "xinhuanet.com",
       "province": "湖北"
     },
     {
@@ -57,24 +48,6 @@
       "province": "湖北"
     },
     {
-      "id": "cpnn-t20260728_1904910",
-      "title": "国网武汉供电：汲取科创精神赋能电网发展",
-      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202607/t20260728_1904910.html",
-      "summary": "",
-      "publishedAt": "2026-07-28",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "nea-20260728-6b6d724b03234b08bfd9ccb76bacca6d-c",
-      "title": "华中能源监管局向湖北省常务副省长汇报工作",
-      "url": "https://www.nea.gov.cn/20260728/6b6d724b03234b08bfd9ccb76bacca6d/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-28",
-      "source": "nea.gov.cn",
-      "province": "湖北"
-    },
-    {
       "id": "nea-20260727-e7d7025f1f3f42598679f2ea50c4f4e7-c",
       "title": "国家能源局有关负责同志就《鄂尔多斯盆地东部区域煤层气增储上产行动方案（2026—2030年）》答记者问",
       "url": "https://www.nea.gov.cn/20260727/e7d7025f1f3f42598679f2ea50c4f4e7/c.html",
@@ -82,40 +55,14 @@
       "publishedAt": "2026-07-27",
       "source": "nea.gov.cn",
       "province": "湖北"
-    },
-    {
-      "id": "nea-20260707-dc812b7f06bb4f9b81108565d1122ac3-c",
-      "title": "2026年“高质量发展能源行”网评引导活动在内蒙古鄂尔多斯启动",
-      "url": "https://www.nea.gov.cn/20260707/dc812b7f06bb4f9b81108565d1122ac3/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-07",
-      "source": "nea.gov.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "china5e-1207080",
-      "title": "国家能源局印发行动方案加快鄂尔多斯盆地东部区域煤层气勘探开发",
-      "url": "https://www.china5e.com/news/news-1207080-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
-      "id": "ne21-229489",
-      "title": "远景新型电力系统，助力鄂尔多斯建成全球首个“零碳机场”",
-      "url": "https://www.ne21.com/news/show-229489.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com",
-      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 11,
+    "totalArticles": 5,
     "byProvince": {
-      "湖北": 9,
-      "安徽": 2
+      "华中": 1,
+      "湖北": 3,
+      "安徽": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
