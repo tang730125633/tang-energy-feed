@@ -1,7 +1,7 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-07-31T22:25:30+00:00",
+  "generatedAt": "2026-08-01T22:22:48+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -11,18 +11,10 @@
       "summary": "",
       "publishedAt": "2026-07-30",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460466",
-      "title": "中国电力新源智储入选“北京市基础级智能工厂”",
-      "url": "https://www.chinapower.org.cn/detail/460466.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 1
   },
   "errors": []
 }

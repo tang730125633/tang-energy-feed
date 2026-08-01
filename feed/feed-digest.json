@@ -1,71 +1,79 @@
 {
-  "generatedAt": "2026-07-31T22:25:30+00:00",
+  "generatedAt": "2026-08-01T22:22:49+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-07-31T21:27:15+00:00",
+      "generatedAt": "2026-08-01T21:21:42+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-07-31T22:25:08+00:00",
+      "generatedAt": "2026-08-01T22:22:28+00:00",
       "articleCount": 48,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-07-31T22:25:30+00:00",
-      "articleCount": 2,
+      "generatedAt": "2026-08-01T22:22:48+00:00",
+      "articleCount": 1,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-07-31T22:24:59+00:00",
+      "generatedAt": "2026-08-01T22:22:19+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-07-31T22:24:56+00:00",
+      "generatedAt": "2026-08-01T22:22:17+00:00",
       "articleCount": 86,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-07-31T22:25:05+00:00",
+      "generatedAt": "2026-08-01T22:22:25+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-07-31T21:27:23+00:00",
+      "generatedAt": "2026-08-01T21:21:51+00:00",
       "articleCount": 1,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-07-31T22:24:58+00:00",
+      "generatedAt": "2026-08-01T22:22:18+00:00",
       "articleCount": 54,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-07-31T22:25:09+00:00",
+      "generatedAt": "2026-08-01T22:22:28+00:00",
       "articleCount": 11,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1207222",
+      "title": "从256通道到高保真成像：涡流阵列探伤仪NORTEC™ 700用硬核实力定义涡流检测新高度",
+      "url": "https://www.china5e.com/news/news-1207222-1.html",
+      "summary": "一线检测中，因设备设置不一致导致的重复检测占据了显著的时间。而重复检测的背后，往往不是操作失误，而是不同设备、不同探头、不同参数之间的兼容性问题。2026年7月30日，苏州无损检测创新大会现场，EVIDENT发布的新品NORTEC™ 700涡流阵列探伤仪对这个存在已久的问题提供了",
+      "publishedAt": "2026-08-01",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1207210",
       "title": "招商热度持续攀升！2026太原能博会释放强烈信号：能源转型看山西",
@@ -95,14 +103,6 @@
       "title": "稳中求进每月看丨千帆竞发正逢时——7月全国各地经济社会发展观察",
       "url": "https://www.china5e.com/news/news-1207169-1.html",
       "summary": "科技创新中，人工智能逐渐改变着生产生活场景;就业保障上，挖潜力拓空间促稳定;暑期消费里，新场景、新业态激发着夏日经济活力;对外贸易中，一组组亮眼数字提振着发展信心……7月以来，全国各地奋楫争先，锐意进取，新旧动能转换正引领我国经济高质量发展稳步前行。",
-      "publishedAt": "2026-07-31",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1207167",
-      "title": "国家能源局举行新闻发布会 介绍2026年上半年全国能源形势",
-      "url": "https://www.china5e.com/news/news-1207167-1.html",
-      "summary": "国家能源局举行新闻发布会，介绍2026年上半年全国能源形势及能源转型成效、可再生能源并网运行、迎峰度夏能源电力保供、电动汽车充电基础设施建设情况，发布《中国新型储能发展报告(2026)》并回答记者提问。",
       "publishedAt": "2026-07-31",
       "source": "china5e.com"
     },
@@ -656,14 +656,6 @@
       "id": "chinapower-460476",
       "title": "中电联发布《2026年上半年全国电力供需形势分析预测报告》",
       "url": "https://www.chinapower.org.cn/detail/460476.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460466",
-      "title": "中国电力新源智储入选“北京市基础级智能工厂”",
-      "url": "https://www.chinapower.org.cn/detail/460466.html",
       "summary": "",
       "publishedAt": "2026-07-30",
       "source": "chinapower.org.cn"
@@ -1703,13 +1695,13 @@
     }
   },
   "stats": {
-    "totalArticles": 202,
+    "totalArticles": 201,
     "bySource": {
       "china5e.com": 48,
       "cpnn.com.cn": 86,
       "nea.gov.cn": 54,
       "xinhuanet.com": 11,
-      "chinapower.org.cn": 2,
+      "chinapower.org.cn": 1,
       "ne21.com": 1
     },
     "byProvince": {
