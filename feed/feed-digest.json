@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-08-01T22:22:49+00:00",
+  "generatedAt": "2026-08-02T22:23:15+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-08-01T21:21:42+00:00",
+      "generatedAt": "2026-08-02T21:21:53+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-08-01T22:22:28+00:00",
+      "generatedAt": "2026-08-02T22:22:55+00:00",
       "articleCount": 48,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-08-01T22:22:48+00:00",
-      "articleCount": 1,
+      "generatedAt": "2026-08-02T22:23:15+00:00",
+      "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-08-01T22:22:19+00:00",
+      "generatedAt": "2026-08-02T22:22:47+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-08-01T22:22:17+00:00",
+      "generatedAt": "2026-08-02T22:22:44+00:00",
       "articleCount": 86,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-08-01T22:22:25+00:00",
+      "generatedAt": "2026-08-02T22:22:53+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-08-01T21:21:51+00:00",
+      "generatedAt": "2026-08-02T21:22:01+00:00",
       "articleCount": 1,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-08-01T22:22:18+00:00",
+      "generatedAt": "2026-08-02T22:22:45+00:00",
       "articleCount": 54,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-08-01T22:22:28+00:00",
+      "generatedAt": "2026-08-02T22:22:56+00:00",
       "articleCount": 11,
       "hasErrors": false
     }
@@ -651,14 +651,6 @@
       "summary": "",
       "publishedAt": "2026-07-30",
       "source": "china5e.com"
-    },
-    {
-      "id": "chinapower-460476",
-      "title": "中电联发布《2026年上半年全国电力供需形势分析预测报告》",
-      "url": "https://www.chinapower.org.cn/detail/460476.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "chinapower.org.cn"
     },
     {
       "id": "cpnn-t20260730_1905530",
@@ -1695,13 +1687,12 @@
     }
   },
   "stats": {
-    "totalArticles": 201,
+    "totalArticles": 200,
     "bySource": {
       "china5e.com": 48,
       "cpnn.com.cn": 86,
       "nea.gov.cn": 54,
       "xinhuanet.com": 11,
-      "chinapower.org.cn": 1,
       "ne21.com": 1
     },
     "byProvince": {
