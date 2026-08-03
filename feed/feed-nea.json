@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-08-02T22:22:45+00:00",
+  "generatedAt": "2026-08-03T22:26:38+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260803-f90e2bdec3744f3c90898ca65e31e597-c",
+      "title": "国家发展改革委 国家能源局关于印发《新型电力系统建设“十五五”规划》的通知",
+      "url": "https://www.nea.gov.cn/20260803/f90e2bdec3744f3c90898ca65e31e597/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-03",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260731-abb5fb7f81ee475fa7d07923c8178e70-c",
       "title": "国家能源局综合司关于就部分规范性文件废止和延长有效期公开征求意见的函",
@@ -96,30 +104,6 @@
       "id": "nea-20260731-26132c5c57b44a818e8526ab247ebed6-c",
       "title": "甘肃能源监管办组织召开2026年上半年电力厂网联席会议",
       "url": "https://www.nea.gov.cn/20260731/26132c5c57b44a818e8526ab247ebed6/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-31",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260731-7a9b17c504594fd9bee537848473e7c7-c",
-      "title": "新疆能源监管办强化迎峰度夏 电力保供监管",
-      "url": "https://www.nea.gov.cn/20260731/7a9b17c504594fd9bee537848473e7c7/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-31",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260731-19b20005d3f44d4abdc8a92977746e83-c",
-      "title": "江苏能源监管办扎实推动供电质量提升专项行动走深走实 助力新质生产力发展",
-      "url": "https://www.nea.gov.cn/20260731/19b20005d3f44d4abdc8a92977746e83/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-31",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260731-9678fb584630453e894e706e0932a091-c",
-      "title": "福建能源监管办通报投诉申诉典型案例",
-      "url": "https://www.nea.gov.cn/20260731/9678fb584630453e894e706e0932a091/c.html",
       "summary": "",
       "publishedAt": "2026-07-31",
       "source": "nea.gov.cn"
@@ -438,7 +422,7 @@
     }
   ],
   "stats": {
-    "articleCount": 54
+    "articleCount": 52
   },
   "errors": []
 }

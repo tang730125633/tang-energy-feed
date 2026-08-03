@@ -1,9 +1,33 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-02T22:22:56+00:00",
+  "generatedAt": "2026-08-03T22:32:14+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-cdddda1dfcf5",
+      "title": "能源勘探一线的巾帼答卷——记中国石油东方物探五位女性科技工作者",
+      "url": "https://www.xinhuanet.com/energy/20260803/cdddda1dfcf54b768f085c4baf54ddca/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-03",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-dfe513dab45c",
+      "title": "《新型电力系统建设“十五五”规划》发布",
+      "url": "https://www.xinhuanet.com/energy/20260803/dfe513dab45c41d19156cc11ac58f9c6/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-03",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-e44300c68420",
+      "title": "多源稳供、数智护航——能源一线鏖战盛夏筑牢民生防线",
+      "url": "https://www.xinhuanet.com/energy/20260803/e44300c684204edab7a1e12aee8965c3/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-03",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-23d2e1f19ae6",
       "title": "新华能源周报丨《国家应对气候变化“十五五”规划》发布；两部门：调整部分能源资源行业企业城镇土地使用税；世界首台630℃超超临界煤电机组投运",
@@ -37,64 +61,16 @@
       "source": "xinhuanet.com"
     },
     {
-      "id": "xinhua-59e0942c1ba0",
-      "title": "国家能源局：今年上半年我国市场交易电量规模达36848亿千瓦时 同比增长24.2%",
-      "url": "https://www.xinhuanet.com/energy/20260730/59e0942c1ba04d6da9218ab855091973/c.html",
+      "id": "xinhua-824c3bd8bab3",
+      "title": "智能赋电 创变未来：“AI+电力”双向奔赴 锻造能源强国建设新引擎",
+      "url": "https://www.xinhuanet.com/energy/20260803/824c3bd8bab34f03a3a932debc21f7fd/c.html",
       "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-02deafccdcb3",
-      "title": "国家能源局：我国电动汽车充电基础设施总数达到2305.7万个 同比增长43.2%",
-      "url": "https://www.xinhuanet.com/energy/20260730/02deafccdcb34cdea38c7dc3be4890ad/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-0ec02b4acd1d",
-      "title": "国家能源局：今年上半年全国可再生能源新增装机1.17亿千瓦 占全部新增装机的73.9%",
-      "url": "https://www.xinhuanet.com/energy/20260730/0ec02b4acd1d46318e698f6e5f812993/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-b1492fb0a09b",
-      "title": "国家能源局：迎峰度夏期间全国各地电力供应形势总体平稳",
-      "url": "https://www.xinhuanet.com/energy/20260730/b1492fb0a09b4677be5384a22d109ec7/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-6715ec1b471e",
-      "title": "国家能源局发布《中国新型储能发展报告（2026）》",
-      "url": "https://www.xinhuanet.com/energy/20260730/6715ec1b471e4d10ac2e0a0b07bc18c2/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-05cc9b249fb7",
-      "title": "国家能源局：今年上半年我国能源领域有效投资稳步增长 绿色低碳转型步伐加快",
-      "url": "https://www.xinhuanet.com/energy/20260730/05cc9b249fb7481d85fd000b93f1e105/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-3f924f263ac5",
-      "title": "打好保供“组合拳” 满格电力护航迎峰度夏",
-      "url": "https://www.xinhuanet.com/energy/20260730/3f924f263ac545809e029b81e0dd30ec/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
+      "publishedAt": "2026-08-03",
       "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 11
+    "articleCount": 8
   },
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T22:23:15+00:00",
+  "generatedAt": "2026-08-03T22:32:34+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,15 @@
   ],
   "articles": [
     {
+      "id": "cpnn-t20260803_1905988",
+      "title": "大唐湖北新能源事业部：技术功效赋能护航夏季安全保供",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202608/t20260803_1905988.html",
+      "summary": "",
+      "publishedAt": "2026-08-03",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
       "id": "nea-20260731-4a27f547922b41a889e6b3c03d6b0564-c",
       "title": "华中能源监管局开展2026年天然气市场体系建设现场监管",
       "url": "https://www.nea.gov.cn/20260731/4a27f547922b41a889e6b3c03d6b0564/c.html",
@@ -19,24 +28,6 @@
       "publishedAt": "2026-07-31",
       "source": "nea.gov.cn",
       "province": "华中"
-    },
-    {
-      "id": "china5e-1207144",
-      "title": "鄂西页岩气勘探实现新突破",
-      "url": "https://www.china5e.com/news/news-1207144-1.html",
-      "summary": "",
-      "publishedAt": "2026-07-30",
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260729_1905294",
-      "title": "安徽新能源公司斩获第八届全国设备管理与技术创新成果一等奖",
-      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202607/t20260729_1905294.html",
-      "summary": "",
-      "publishedAt": "2026-07-29",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
     },
     {
       "id": "china5e-1207007",
@@ -58,11 +49,10 @@
     }
   ],
   "stats": {
-    "totalArticles": 5,
+    "totalArticles": 4,
     "byProvince": {
-      "华中": 1,
       "湖北": 3,
-      "安徽": 1
+      "华中": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
