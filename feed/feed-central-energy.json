@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T22:32:34+00:00",
+  "generatedAt": "2026-08-04T22:28:24+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,51 @@
   ],
   "articles": [
     {
+      "id": "china5e-1207320",
+      "title": "1000千伏赣江-赣南特高压交流输变电工程获得核准",
+      "url": "https://www.china5e.com/news/news-1207320-1.html",
+      "summary": "",
+      "publishedAt": "2026-08-04",
+      "source": "china5e.com",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260804_1906225",
+      "title": "《湖南省能源发展报告2026》在长沙发布",
+      "url": "https://www.cpnn.com.cn/news/dfny/202608/t20260804_1906225.html",
+      "summary": "",
+      "publishedAt": "2026-08-04",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "nea-20260804-eeffcf3b2618419bb3ee3999dae55cc1-c",
+      "title": "华中能源监管局聚焦“监管为民” 巩固提升12398热线工作质效",
+      "url": "https://www.nea.gov.cn/20260804/eeffcf3b2618419bb3ee3999dae55cc1/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-04",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
+      "id": "nea-20260804-76aa1fdb90cf45b9a6872efe09a5c50b-c",
+      "title": "河南能源监管办强化监管推动抽水蓄能建设项目投产见效",
+      "url": "https://www.nea.gov.cn/20260804/76aa1fdb90cf45b9a6872efe09a5c50b/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-04",
+      "source": "nea.gov.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260804-63e833227c5c481fbfdec608309e40ff-c",
+      "title": "贵州能源监管办实地推进湘黔电力灵活互济工程建设",
+      "url": "https://www.nea.gov.cn/20260804/63e833227c5c481fbfdec608309e40ff/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-04",
+      "source": "nea.gov.cn",
+      "province": "湖南"
+    },
+    {
       "id": "cpnn-t20260803_1905988",
       "title": "大唐湖北新能源事业部：技术功效赋能护航夏季安全保供",
       "url": "https://www.cpnn.com.cn/qiye/anquan/202608/t20260803_1905988.html",
@@ -19,15 +64,6 @@
       "publishedAt": "2026-08-03",
       "source": "cpnn.com.cn",
       "province": "湖北"
-    },
-    {
-      "id": "nea-20260731-4a27f547922b41a889e6b3c03d6b0564-c",
-      "title": "华中能源监管局开展2026年天然气市场体系建设现场监管",
-      "url": "https://www.nea.gov.cn/20260731/4a27f547922b41a889e6b3c03d6b0564/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-31",
-      "source": "nea.gov.cn",
-      "province": "华中"
     },
     {
       "id": "china5e-1207007",
@@ -49,10 +85,13 @@
     }
   ],
   "stats": {
-    "totalArticles": 4,
+    "totalArticles": 8,
     "byProvince": {
-      "湖北": 3,
-      "华中": 1
+      "江西": 1,
+      "湖南": 2,
+      "华中": 1,
+      "河南": 1,
+      "湖北": 3
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
