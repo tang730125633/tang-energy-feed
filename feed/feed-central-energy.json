@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T22:28:24+00:00",
+  "generatedAt": "2026-08-05T23:09:32+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "china5e-1207320",
-      "title": "1000千伏赣江-赣南特高压交流输变电工程获得核准",
-      "url": "https://www.china5e.com/news/news-1207320-1.html",
+      "id": "china5e-1207346",
+      "title": "鄂尔多斯盆地再添大型深层煤层气田",
+      "url": "https://www.china5e.com/news/news-1207346-1.html",
       "summary": "",
-      "publishedAt": "2026-08-04",
+      "publishedAt": "2026-08-05",
       "source": "china5e.com",
-      "province": "江西"
+      "province": "湖北"
     },
     {
       "id": "cpnn-t20260804_1906225",
@@ -39,42 +39,6 @@
       "province": "华中"
     },
     {
-      "id": "nea-20260804-76aa1fdb90cf45b9a6872efe09a5c50b-c",
-      "title": "河南能源监管办强化监管推动抽水蓄能建设项目投产见效",
-      "url": "https://www.nea.gov.cn/20260804/76aa1fdb90cf45b9a6872efe09a5c50b/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "nea.gov.cn",
-      "province": "河南"
-    },
-    {
-      "id": "nea-20260804-63e833227c5c481fbfdec608309e40ff-c",
-      "title": "贵州能源监管办实地推进湘黔电力灵活互济工程建设",
-      "url": "https://www.nea.gov.cn/20260804/63e833227c5c481fbfdec608309e40ff/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "nea.gov.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260803_1905988",
-      "title": "大唐湖北新能源事业部：技术功效赋能护航夏季安全保供",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202608/t20260803_1905988.html",
-      "summary": "",
-      "publishedAt": "2026-08-03",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "china5e-1207007",
-      "title": "内蒙古鄂尔多斯发布零碳机场技术成果",
-      "url": "https://www.china5e.com/news/news-1207007-1.html",
-      "summary": "",
-      "publishedAt": "2026-07-28",
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
       "id": "nea-20260727-e7d7025f1f3f42598679f2ea50c4f4e7-c",
       "title": "国家能源局有关负责同志就《鄂尔多斯盆地东部区域煤层气增储上产行动方案（2026—2030年）》答记者问",
       "url": "https://www.nea.gov.cn/20260727/e7d7025f1f3f42598679f2ea50c4f4e7/c.html",
@@ -85,13 +49,11 @@
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 4,
     "byProvince": {
-      "江西": 1,
-      "湖南": 2,
-      "华中": 1,
-      "河南": 1,
-      "湖北": 3
+      "湖北": 2,
+      "湖南": 1,
+      "华中": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

@@ -1,9 +1,33 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-08-04T22:28:24+00:00",
+  "generatedAt": "2026-08-05T23:09:32+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-460608",
+      "title": "雪域追风筑绿电",
+      "url": "https://www.chinapower.org.cn/detail/460608.html",
+      "summary": "",
+      "publishedAt": "2026-08-05",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-460604",
+      "title": "青海电网七月外送电创两项新高",
+      "url": "https://www.chinapower.org.cn/detail/460604.html",
+      "summary": "",
+      "publishedAt": "2026-08-05",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-460603",
+      "title": "上半年京津冀省间绿电交易电量突破300亿千瓦时",
+      "url": "https://www.chinapower.org.cn/detail/460603.html",
+      "summary": "",
+      "publishedAt": "2026-08-05",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-460582",
       "title": "2026年电力行业职业技能竞赛（无损检测员）在苏州成功举办",
@@ -46,7 +70,7 @@
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 8
   },
   "errors": []
 }
