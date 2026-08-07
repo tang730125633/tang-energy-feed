@@ -1,9 +1,17 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-08-05T23:09:32+00:00",
+  "generatedAt": "2026-08-07T01:31:24+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-460628",
+      "title": "【中国电力报】电力工程有了全周期、全要素动态量化质量评价体系",
+      "url": "https://www.chinapower.org.cn/detail/460628.html",
+      "summary": "",
+      "publishedAt": "2026-08-06",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-460608",
       "title": "雪域追风筑绿电",
@@ -27,50 +35,10 @@
       "summary": "",
       "publishedAt": "2026-08-05",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460582",
-      "title": "2026年电力行业职业技能竞赛（无损检测员）在苏州成功举办",
-      "url": "https://www.chinapower.org.cn/detail/460582.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460577",
-      "title": "【中国发展网】中电联：预计下半年全国电力供需形势总体平衡",
-      "url": "https://www.chinapower.org.cn/detail/460577.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460576",
-      "title": "【中国电力报】144载电光流转，算电协同启绘新篇",
-      "url": "https://www.chinapower.org.cn/detail/460576.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460566",
-      "title": "中电联成功举办2026年“7·26电力主题日”活动",
-      "url": "https://www.chinapower.org.cn/detail/460566.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460564",
-      "title": "华北电力大学留学生走进库布其大基地",
-      "url": "https://www.chinapower.org.cn/detail/460564.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 8
+    "articleCount": 4
   },
   "errors": []
 }

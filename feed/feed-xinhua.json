@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-05T23:09:05+00:00",
+  "generatedAt": "2026-08-07T01:31:05+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-f0a0b7aa03d6",
+      "title": "上海虹桥枢纽闪充站投用 新能源车充电可享自助购物休憩",
+      "url": "https://www.xinhuanet.com/energy/20260806/f0a0b7aa03d641a0a0fc40d74d6d4bd5/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-06",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-285134920b36",
       "title": "国神公司煤炭产销超3000万吨 提质增效结硕果",
@@ -27,34 +35,10 @@
       "summary": "",
       "publishedAt": "2026-08-04",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-cdddda1dfcf5",
-      "title": "能源勘探一线的巾帼答卷——记中国石油东方物探五位女性科技工作者",
-      "url": "https://www.xinhuanet.com/energy/20260803/cdddda1dfcf54b768f085c4baf54ddca/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-03",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-dfe513dab45c",
-      "title": "《新型电力系统建设“十五五”规划》发布",
-      "url": "https://www.xinhuanet.com/energy/20260803/dfe513dab45c41d19156cc11ac58f9c6/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-03",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-e44300c68420",
-      "title": "多源稳供、数智护航——能源一线鏖战盛夏筑牢民生防线",
-      "url": "https://www.xinhuanet.com/energy/20260803/e44300c684204edab7a1e12aee8965c3/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-03",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 4
   },
   "errors": []
 }

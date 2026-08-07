@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T23:09:32+00:00",
+  "generatedAt": "2026-08-07T01:31:24+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,22 +12,22 @@
   ],
   "articles": [
     {
-      "id": "china5e-1207346",
-      "title": "鄂尔多斯盆地再添大型深层煤层气田",
-      "url": "https://www.china5e.com/news/news-1207346-1.html",
+      "id": "cpnn-t20260806_1906611",
+      "title": "湖南能源集团有限公司胡瑞连被查",
+      "url": "https://www.cpnn.com.cn/news/renshi2023/202608/t20260806_1906611.html",
       "summary": "",
-      "publishedAt": "2026-08-05",
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260804_1906225",
-      "title": "《湖南省能源发展报告2026》在长沙发布",
-      "url": "https://www.cpnn.com.cn/news/dfny/202608/t20260804_1906225.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
+      "publishedAt": "2026-08-06",
       "source": "cpnn.com.cn",
       "province": "湖南"
+    },
+    {
+      "id": "cpnn-t20260805_1906422",
+      "title": "大唐巩义发电斩获河南省电力燃料采制化技能竞赛全能一等奖",
+      "url": "https://www.cpnn.com.cn/qiye/rongyu/202608/t20260805_1906422.html",
+      "summary": "",
+      "publishedAt": "2026-08-05",
+      "source": "cpnn.com.cn",
+      "province": "河南"
     },
     {
       "id": "nea-20260804-eeffcf3b2618419bb3ee3999dae55cc1-c",
@@ -46,14 +46,24 @@
       "publishedAt": "2026-07-27",
       "source": "nea.gov.cn",
       "province": "湖北"
+    },
+    {
+      "id": "ne21-229677",
+      "title": "实力护航 | 今朝时代助力河南安阳首台“超级电容+锂电池”混合储能调频项目成功并网",
+      "url": "https://www.ne21.com/news/show-229677.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com",
+      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 4,
+    "totalArticles": 5,
     "byProvince": {
-      "湖北": 2,
       "湖南": 1,
-      "华中": 1
+      "河南": 2,
+      "华中": 1,
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

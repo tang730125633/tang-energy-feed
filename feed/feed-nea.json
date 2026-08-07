@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-08-05T23:06:10+00:00",
+  "generatedAt": "2026-08-07T01:30:53+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260806-fd7a03cac86e4985bb7f51c7f6c6bdb0-c",
+      "title": "中国核电发展报告（2026）",
+      "url": "https://www.nea.gov.cn/20260806/fd7a03cac86e4985bb7f51c7f6c6bdb0/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-06",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260805-96c7a438f9544f349d189d2ef4547eab-c",
       "title": "培育能源转型新动能 打造绿色燃料新蓝海",
@@ -382,7 +390,7 @@
     }
   ],
   "stats": {
-    "articleCount": 47
+    "articleCount": 48
   },
   "errors": []
 }
