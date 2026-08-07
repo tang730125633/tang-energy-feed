@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T01:31:24+00:00",
+  "generatedAt": "2026-08-07T22:43:25+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,24 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260807_1906946",
+      "title": "河南省新能源电力消纳供电服务标准化试点完成建设",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202608/t20260807_1906946.html",
+      "summary": "",
+      "publishedAt": "2026-08-07",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260807-fd386db020724883b236fec4ac6e6a3e-c",
+      "title": "2026年华中区域跨省跨区大电网安全生产风险现场检查工作正式启动",
+      "url": "https://www.nea.gov.cn/20260807/fd386db020724883b236fec4ac6e6a3e/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-07",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
     {
       "id": "cpnn-t20260806_1906611",
       "title": "湖南能源集团有限公司胡瑞连被查",
@@ -30,15 +48,6 @@
       "province": "河南"
     },
     {
-      "id": "nea-20260804-eeffcf3b2618419bb3ee3999dae55cc1-c",
-      "title": "华中能源监管局聚焦“监管为民” 巩固提升12398热线工作质效",
-      "url": "https://www.nea.gov.cn/20260804/eeffcf3b2618419bb3ee3999dae55cc1/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
       "id": "nea-20260727-e7d7025f1f3f42598679f2ea50c4f4e7-c",
       "title": "国家能源局有关负责同志就《鄂尔多斯盆地东部区域煤层气增储上产行动方案（2026—2030年）》答记者问",
       "url": "https://www.nea.gov.cn/20260727/e7d7025f1f3f42598679f2ea50c4f4e7/c.html",
@@ -46,23 +55,14 @@
       "publishedAt": "2026-07-27",
       "source": "nea.gov.cn",
       "province": "湖北"
-    },
-    {
-      "id": "ne21-229677",
-      "title": "实力护航 | 今朝时代助力河南安阳首台“超级电容+锂电池”混合储能调频项目成功并网",
-      "url": "https://www.ne21.com/news/show-229677.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com",
-      "province": "河南"
     }
   ],
   "stats": {
     "totalArticles": 5,
     "byProvince": {
-      "湖南": 1,
       "河南": 2,
       "华中": 1,
+      "湖南": 1,
       "湖北": 1
     }
   },

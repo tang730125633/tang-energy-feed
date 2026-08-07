@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-07T01:31:05+00:00",
+  "generatedAt": "2026-08-07T22:42:59+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-f4dec12a7c4f",
+      "title": "新华能源周报｜多项能源“十五五”配套政策密集出台；风光储、海上风电装备、地方保供项目加速落地",
+      "url": "https://www.xinhuanet.com/energy/20260807/f4dec12a7c4f4be29c264f22515e8b03/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-07",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-794d71a87691",
+      "title": "中国石油满格发力保障迎峰度夏能源供给",
+      "url": "https://www.xinhuanet.com/energy/20260807/794d71a8769149deb21a9c7312a92839/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-07",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-f0a0b7aa03d6",
       "title": "上海虹桥枢纽闪充站投用 新能源车充电可享自助购物休憩",
@@ -38,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 6
   },
   "errors": []
 }
