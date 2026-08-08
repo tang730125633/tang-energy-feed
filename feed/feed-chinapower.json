@@ -1,7 +1,7 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-08-07T22:43:25+00:00",
+  "generatedAt": "2026-08-08T22:35:53+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -35,18 +35,10 @@
       "summary": "",
       "publishedAt": "2026-08-07",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-460628",
-      "title": "【中国电力报】电力工程有了全周期、全要素动态量化质量评价体系",
-      "url": "https://www.chinapower.org.cn/detail/460628.html",
-      "summary": "",
-      "publishedAt": "2026-08-06",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 4
   },
   "errors": []
 }

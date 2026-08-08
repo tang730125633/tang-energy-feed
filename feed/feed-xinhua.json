@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-07T22:42:59+00:00",
+  "generatedAt": "2026-08-08T22:35:27+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -27,34 +27,10 @@
       "summary": "",
       "publishedAt": "2026-08-06",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-285134920b36",
-      "title": "国神公司煤炭产销超3000万吨 提质增效结硕果",
-      "url": "https://www.xinhuanet.com/energy/20260804/285134920b364943a2aedc38b5e50690/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-1e947b92fea5",
-      "title": "向“绿”生，向“优”行，向“市”闯——国电电力在晋企业高质量发展转型调研纪实",
-      "url": "https://www.xinhuanet.com/energy/20260804/1e947b92fea54cbf83f3bc24a92a0e2c/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-da10dd9d0c15",
-      "title": "直面酷暑“烤”验 电力工人汗流浃背保障供电",
-      "url": "https://www.xinhuanet.com/energy/20260804/da10dd9d0c154427b267ba0ecc037479/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 3
   },
   "errors": []
 }

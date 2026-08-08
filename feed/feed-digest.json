@@ -1,71 +1,87 @@
 {
-  "generatedAt": "2026-08-07T22:43:25+00:00",
+  "generatedAt": "2026-08-08T22:35:53+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-08-07T21:46:10+00:00",
+      "generatedAt": "2026-08-08T21:36:05+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-08-07T22:42:58+00:00",
+      "generatedAt": "2026-08-08T22:35:26+00:00",
       "articleCount": 53,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-08-07T22:43:25+00:00",
-      "articleCount": 5,
+      "generatedAt": "2026-08-08T22:35:53+00:00",
+      "articleCount": 4,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-08-07T22:42:49+00:00",
+      "generatedAt": "2026-08-08T22:35:16+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-08-07T22:42:46+00:00",
+      "generatedAt": "2026-08-08T22:35:13+00:00",
       "articleCount": 81,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-08-07T22:42:56+00:00",
+      "generatedAt": "2026-08-08T22:35:23+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-08-07T21:46:18+00:00",
+      "generatedAt": "2026-08-08T21:36:14+00:00",
       "articleCount": 5,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-08-07T22:42:47+00:00",
-      "articleCount": 53,
+      "generatedAt": "2026-08-08T22:35:14+00:00",
+      "articleCount": 52,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-08-07T22:42:59+00:00",
-      "articleCount": 6,
+      "generatedAt": "2026-08-08T22:35:27+00:00",
+      "articleCount": 3,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1207510",
+      "title": "从愿景到行动｜2026国际氢能创新先锋赛项目路演在常州成功举办",
+      "url": "https://www.china5e.com/news/news-1207510-1.html",
+      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
+      "publishedAt": "2026-08-09",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1207509",
+      "title": "重庆石柱：薪火相传启新程 师徒结对育新人",
+      "url": "https://www.china5e.com/news/news-1207509-1.html",
+      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
+      "publishedAt": "2026-08-08",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1207505",
       "title": "ERP软件怎么选？从经营视角看鼎捷数智的产品能力与行业适配价值",
@@ -139,14 +155,6 @@
       "source": "china5e.com"
     },
     {
-      "id": "china5e-1207498",
-      "title": "国能青海海西公司工会深耕职工关爱 凝聚发展动能",
-      "url": "https://www.china5e.com/news/news-1207498-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-07",
-      "source": "china5e.com"
-    },
-    {
       "id": "china5e-1207506",
       "title": "客观评测华电华源水蓄冷：多结构储罐产品形式、五大核心技术及全链条竞争优势",
       "url": "https://www.china5e.com/news/news-1207506-1.html",
@@ -175,14 +183,6 @@
       "title": "电动车锂电池行业发展与创业机遇分析",
       "url": "https://www.china5e.com/news/news-1207492-1.html",
       "summary": "2026年电动车锂电池赛道持续走热，凭借刚需属性明确、市场存量庞大、创业启动成本相对可控的特点，成为当下较高性价比的实体创业蓝海，锂电替换市场长期需求稳定，增长空间可观。",
-      "publishedAt": "2026-08-07",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1207491",
-      "title": "尊界时代旗舰MPV登陆市场，售价64.8万元起重塑超豪华出行标杆",
-      "url": "https://www.china5e.com/news/news-1207491-1.html",
-      "summary": "此前，尊界S800以连续10个月稳居百万豪车销冠的成绩，证明了中国品牌在超高端轿车领域的实力。如今，尊界V800与V680双车并进，目标直指MPV品类的王座。如果说S800是敲门砖，那么此次登场的尊界V800、尊界V680，则是在重新定义何为这个时代的顶级移动空间。",
       "publishedAt": "2026-08-07",
       "source": "china5e.com"
     },
@@ -701,14 +701,6 @@
       "source": "china5e.com"
     },
     {
-      "id": "chinapower-460628",
-      "title": "【中国电力报】电力工程有了全周期、全要素动态量化质量评价体系",
-      "url": "https://www.chinapower.org.cn/detail/460628.html",
-      "summary": "",
-      "publishedAt": "2026-08-06",
-      "source": "chinapower.org.cn"
-    },
-    {
       "id": "cpnn-t20260806_1906777",
       "title": "全球首座16兆瓦张力腿浮式风电平台“海油安澜号”正式投运",
       "url": "https://www.cpnn.com.cn/news/xwtt/202608/t20260806_1906777.html",
@@ -1103,30 +1095,6 @@
       "source": "cpnn.com.cn"
     },
     {
-      "id": "xinhua-285134920b36",
-      "title": "国神公司煤炭产销超3000万吨 提质增效结硕果",
-      "url": "https://www.xinhuanet.com/energy/20260804/285134920b364943a2aedc38b5e50690/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-1e947b92fea5",
-      "title": "向“绿”生，向“优”行，向“市”闯——国电电力在晋企业高质量发展转型调研纪实",
-      "url": "https://www.xinhuanet.com/energy/20260804/1e947b92fea54cbf83f3bc24a92a0e2c/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-da10dd9d0c15",
-      "title": "直面酷暑“烤”验 电力工人汗流浃背保障供电",
-      "url": "https://www.xinhuanet.com/energy/20260804/da10dd9d0c154427b267ba0ecc037479/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-04",
-      "source": "xinhuanet.com"
-    },
-    {
       "id": "china5e-1207292",
       "title": "2026年AI驱动型碳管理平台推荐：从数据采集到智能决策的全链路产品对比",
       "url": "https://www.china5e.com/news/news-1207292-1.html",
@@ -1496,14 +1464,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260520-99326d59f0404dc49577f0bfc7f3d930-c",
-      "title": "国家能源局有关负责同志就《关于有序推动多用户绿电直连发展有关事项的通知》答记者问",
-      "url": "https://www.nea.gov.cn/20260520/99326d59f0404dc49577f0bfc7f3d930/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-20",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20250422-1a5f2975d3fc4d35a3a10cb90ae7642c-c",
       "title": "2024年分布式光伏备案接网推进情况监管典型案例",
       "url": "https://www.nea.gov.cn/20250422/1a5f2975d3fc4d35a3a10cb90ae7642c/c.html",
@@ -1711,13 +1671,13 @@
     }
   },
   "stats": {
-    "totalArticles": 203,
+    "totalArticles": 198,
     "bySource": {
       "china5e.com": 53,
-      "chinapower.org.cn": 5,
+      "chinapower.org.cn": 4,
       "cpnn.com.cn": 81,
-      "nea.gov.cn": 53,
-      "xinhuanet.com": 6,
+      "nea.gov.cn": 52,
+      "xinhuanet.com": 3,
       "ne21.com": 5
     },
     "byProvince": {

@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-08-07T22:42:47+00:00",
+  "generatedAt": "2026-08-08T22:35:14+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -397,14 +397,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260520-99326d59f0404dc49577f0bfc7f3d930-c",
-      "title": "国家能源局有关负责同志就《关于有序推动多用户绿电直连发展有关事项的通知》答记者问",
-      "url": "https://www.nea.gov.cn/20260520/99326d59f0404dc49577f0bfc7f3d930/c.html",
-      "summary": "",
-      "publishedAt": "2026-05-20",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20250422-1a5f2975d3fc4d35a3a10cb90ae7642c-c",
       "title": "2024年分布式光伏备案接网推进情况监管典型案例",
       "url": "https://www.nea.gov.cn/20250422/1a5f2975d3fc4d35a3a10cb90ae7642c/c.html",
@@ -430,7 +422,7 @@
     }
   ],
   "stats": {
-    "articleCount": 53
+    "articleCount": 52
   },
   "errors": []
 }
