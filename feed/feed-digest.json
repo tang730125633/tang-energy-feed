@@ -1,71 +1,79 @@
 {
-  "generatedAt": "2026-08-08T22:35:53+00:00",
+  "generatedAt": "2026-08-09T22:42:52+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-08-08T21:36:05+00:00",
+      "generatedAt": "2026-08-09T21:39:01+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-08-08T22:35:26+00:00",
-      "articleCount": 53,
+      "generatedAt": "2026-08-09T22:42:30+00:00",
+      "articleCount": 54,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-08-08T22:35:53+00:00",
+      "generatedAt": "2026-08-09T22:42:52+00:00",
       "articleCount": 4,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-08-08T22:35:16+00:00",
+      "generatedAt": "2026-08-09T22:36:58+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-08-08T22:35:13+00:00",
+      "generatedAt": "2026-08-09T22:36:55+00:00",
       "articleCount": 81,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-08-08T22:35:23+00:00",
+      "generatedAt": "2026-08-09T22:37:04+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-08-08T21:36:14+00:00",
+      "generatedAt": "2026-08-09T21:39:08+00:00",
       "articleCount": 5,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-08-08T22:35:14+00:00",
-      "articleCount": 52,
+      "generatedAt": "2026-08-09T22:36:56+00:00",
+      "articleCount": 51,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-08-08T22:35:27+00:00",
+      "generatedAt": "2026-08-09T22:42:32+00:00",
       "articleCount": 3,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1207511",
+      "title": "金能电力180套断路器监测装置14天极速交付，为电网保供抢出“黄金窗口”",
+      "url": "https://www.china5e.com/news/news-1207511-1.html",
+      "summary": "近日，金能电力承接的黑龙江电网180套高压断路器在线监测装置项目圆满完成交付验收。从下单到出厂发货仅用14天，较原定34天周期缩短近六成，在行业内同类订单中交付效率表现突出。这批装置已全部部署于项目关键配电节点，在秋冬负荷攀升前，为客户设备隐患排查与运维升级抢出了宝贵的“时间窗口",
+      "publishedAt": "2026-08-09",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1207510",
       "title": "从愿景到行动｜2026国际氢能创新先锋赛项目路演在常州成功举办",
@@ -73,6 +81,15 @@
       "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
       "publishedAt": "2026-08-09",
       "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1207512",
+      "title": "三废治理绘生态画卷 走出绿色转型新路——鄂尔多斯市昊华精煤有限责任公司全链条治污打造北疆花园式矿山样板",
+      "url": "https://www.china5e.com/news/news-1207512-1.html",
+      "summary": "走进内蒙古鄂尔多斯市伊金霍洛旗昊华精煤矿区，主干道两侧林木葱郁、绿地错落有致，生产厂区干净整洁，彻底打破大众对传统煤矿扬尘弥漫的刻板印象。作为北京昊华能源旗下国有现代化骨干矿井，鄂尔多斯市昊华精煤有限责任公司锚定清洁生产发展方向，聚焦废水、废气、固废实施全域综合治理，全方位升级环",
+      "publishedAt": "2026-08-09",
+      "source": "china5e.com",
+      "province": "湖北"
     },
     {
       "id": "china5e-1207509",
@@ -142,14 +159,6 @@
       "id": "china5e-1207503",
       "title": "国网邯郸市永年区供电公司：入户宣讲除隐患 高温护航保民安",
       "url": "https://www.china5e.com/news/news-1207503-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-07",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1207499",
-      "title": "万州宝塔变电站建设完成七成 预计十月投运",
-      "url": "https://www.china5e.com/news/news-1207499-1.html",
       "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
       "publishedAt": "2026-08-07",
       "source": "china5e.com"
@@ -247,14 +256,6 @@
       "title": "指数价格5天连涨17元!神华外购煤连续上调!高温旺季托举，动力煤震荡走强",
       "url": "https://www.china5e.com/news/news-1207476-1.html",
       "summary": "今日国内动力煤现货市场震荡走强，CCI指数全线收涨，叠加神华外购煤连续多轮上调，成为煤价上行核心风向标，市场高热值煤支撑强劲，低热值煤同步跟涨。",
-      "publishedAt": "2026-08-07",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1207475",
-      "title": "MTB：5亿吨煤炭不烧了，拿去做衣服了",
-      "url": "https://www.china5e.com/news/news-1207475-1.html",
-      "summary": "说到煤炭，绝大多数人的第一反应是两个字：烧掉。烧煤发电、烧煤炼钢、烧煤取暖。但2026年，煤炭需求结构正在发生一个很多人没注意到的重大变化，今年化工耗煤增20%，煤炭最大新买家来了。",
       "publishedAt": "2026-08-07",
       "source": "china5e.com"
     },
@@ -1448,14 +1449,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260630-2873fa450d2e4317b33d40285b5ed576-c",
-      "title": "国家能源局有关负责同志就《能源行业数据分类分级指南（2026年版）》答记者问",
-      "url": "https://www.nea.gov.cn/20260630/2873fa450d2e4317b33d40285b5ed576/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-30",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260609-2d1bf220b5a642e2b1199a015bd6cf13-c",
       "title": "2025年度中国电力市场发展报告",
       "url": "https://www.nea.gov.cn/20260609/2d1bf220b5a642e2b1199a015bd6cf13/c.html",
@@ -1592,6 +1585,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1207475",
+      "title": "MTB：5亿吨煤炭不烧了，拿去做衣服了",
+      "url": "https://www.china5e.com/news/news-1207475-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1207423",
       "title": "接力保供，“疆煤”燃动十九省",
       "url": "https://www.china5e.com/news/news-1207423-1.html",
@@ -1673,18 +1674,18 @@
   "stats": {
     "totalArticles": 198,
     "bySource": {
-      "china5e.com": 53,
+      "china5e.com": 54,
       "chinapower.org.cn": 4,
       "cpnn.com.cn": 81,
-      "nea.gov.cn": 52,
+      "nea.gov.cn": 51,
       "xinhuanet.com": 3,
       "ne21.com": 5
     },
     "byProvince": {
+      "湖北": 2,
       "河南": 2,
       "华中": 1,
-      "湖南": 1,
-      "湖北": 1
+      "湖南": 1
     }
   },
   "errors": [

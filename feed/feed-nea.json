@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-08-08T22:35:14+00:00",
+  "generatedAt": "2026-08-09T22:36:56+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -381,14 +381,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260630-2873fa450d2e4317b33d40285b5ed576-c",
-      "title": "国家能源局有关负责同志就《能源行业数据分类分级指南（2026年版）》答记者问",
-      "url": "https://www.nea.gov.cn/20260630/2873fa450d2e4317b33d40285b5ed576/c.html",
-      "summary": "",
-      "publishedAt": "2026-06-30",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260609-2d1bf220b5a642e2b1199a015bd6cf13-c",
       "title": "2025年度中国电力市场发展报告",
       "url": "https://www.nea.gov.cn/20260609/2d1bf220b5a642e2b1199a015bd6cf13/c.html",
@@ -422,7 +414,7 @@
     }
   ],
   "stats": {
-    "articleCount": 52
+    "articleCount": 51
   },
   "errors": []
 }

@@ -1,13 +1,29 @@
 {
   "source": "china5e.com",
   "sourceName": "中国能源网",
-  "generatedAt": "2026-08-08T22:35:26+00:00",
+  "generatedAt": "2026-08-09T22:42:30+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "china5e-1207511",
+      "title": "金能电力180套断路器监测装置14天极速交付，为电网保供抢出“黄金窗口”",
+      "url": "https://www.china5e.com/news/news-1207511-1.html",
+      "summary": "",
+      "publishedAt": "2026-08-09",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1207510",
       "title": "从愿景到行动｜2026国际氢能创新先锋赛项目路演在常州成功举办",
       "url": "https://www.china5e.com/news/news-1207510-1.html",
+      "summary": "",
+      "publishedAt": "2026-08-09",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1207512",
+      "title": "三废治理绘生态画卷 走出绿色转型新路——鄂尔多斯市昊华精煤有限责任公司全链条治污打造北疆花园式矿山样板",
+      "url": "https://www.china5e.com/news/news-1207512-1.html",
       "summary": "",
       "publishedAt": "2026-08-09",
       "source": "china5e.com"
@@ -80,14 +96,6 @@
       "id": "china5e-1207503",
       "title": "国网邯郸市永年区供电公司：入户宣讲除隐患 高温护航保民安",
       "url": "https://www.china5e.com/news/news-1207503-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-07",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1207499",
-      "title": "万州宝塔变电站建设完成七成 预计十月投运",
-      "url": "https://www.china5e.com/news/news-1207499-1.html",
       "summary": "",
       "publishedAt": "2026-08-07",
       "source": "china5e.com"
@@ -184,14 +192,6 @@
       "id": "china5e-1207476",
       "title": "指数价格5天连涨17元!神华外购煤连续上调!高温旺季托举，动力煤震荡走强",
       "url": "https://www.china5e.com/news/news-1207476-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-07",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1207475",
-      "title": "MTB：5亿吨煤炭不烧了，拿去做衣服了",
-      "url": "https://www.china5e.com/news/news-1207475-1.html",
       "summary": "",
       "publishedAt": "2026-08-07",
       "source": "china5e.com"
@@ -405,6 +405,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1207475",
+      "title": "MTB：5亿吨煤炭不烧了，拿去做衣服了",
+      "url": "https://www.china5e.com/news/news-1207475-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1207423",
       "title": "接力保供，“疆煤”燃动十九省",
       "url": "https://www.china5e.com/news/news-1207423-1.html",
@@ -430,7 +438,7 @@
     }
   ],
   "stats": {
-    "articleCount": 53
+    "articleCount": 54
   },
   "errors": []
 }
