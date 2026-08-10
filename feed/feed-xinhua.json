@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-09T22:42:32+00:00",
+  "generatedAt": "2026-08-10T22:44:51+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-00d5e6c4e7c5",
+      "title": "充电基建迈入“服务升维”新周期 车网互动5年内有望规模化落地——专访中国汽车工业协会充换电分会副秘书长王磊",
+      "url": "https://www.xinhuanet.com/energy/20260810/00d5e6c4e7c54a688b34d8485f1bd092/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-10",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-57cbd9296dcc",
+      "title": "充电桩行业进入\"运营为王\"阶段——访星星充电中国区总裁张荣纪",
+      "url": "https://www.xinhuanet.com/energy/20260810/57cbd9296dcc48938457df2c7809ee8f/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-10",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-f4dec12a7c4f",
       "title": "新华能源周报｜多项能源“十五五”配套政策密集出台；风光储、海上风电装备、地方保供项目加速落地",
@@ -19,18 +35,10 @@
       "summary": "",
       "publishedAt": "2026-08-07",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-f0a0b7aa03d6",
-      "title": "上海虹桥枢纽闪充站投用 新能源车充电可享自助购物休憩",
-      "url": "https://www.xinhuanet.com/energy/20260806/f0a0b7aa03d641a0a0fc40d74d6d4bd5/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-06",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 4
   },
   "errors": []
 }

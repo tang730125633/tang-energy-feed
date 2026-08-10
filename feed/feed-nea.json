@@ -1,9 +1,33 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-08-09T22:36:56+00:00",
+  "generatedAt": "2026-08-10T22:44:39+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260810-78279aaa5a884a5fbdcf771fccbdf417-c",
+      "title": "国家发展改革委 国家能源局关于印发《煤炭工业发展“十五五”规划》的通知",
+      "url": "https://www.nea.gov.cn/20260810/78279aaa5a884a5fbdcf771fccbdf417/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-10",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260810-c509d87dc997466bbdaeebbe70a3777d-c",
+      "title": "国家发展改革委 国家能源局有关负责同志就《煤炭工业发展“十五五”规划》答记者问",
+      "url": "https://www.nea.gov.cn/20260810/c509d87dc997466bbdaeebbe70a3777d/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-10",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260810-42f9b8380c36470e807ad912be7117b2-c",
+      "title": "聚焦系统重大风险 提升电网运行韧性",
+      "url": "https://www.nea.gov.cn/20260810/42f9b8380c36470e807ad912be7117b2/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-10",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260807-d642247193994b779ae516e739fda224-c",
       "title": "电力安全生产“十五五”行动计划",
@@ -88,30 +112,6 @@
       "id": "nea-20260807-f0128f2f7a5d4fd4b8f3a27ea16b0354-c",
       "title": "浙江在全国率先开展电力市场运营突发场景综合应急演练",
       "url": "https://www.nea.gov.cn/20260807/f0128f2f7a5d4fd4b8f3a27ea16b0354/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-07",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260807-1c318e46f2db4900a79dc63a5d9e54dd-c",
-      "title": "江苏能源监管办赴大唐吕四港电厂开展迎峰度夏电力保供和电力建设工程安全生产现场督查",
-      "url": "https://www.nea.gov.cn/20260807/1c318e46f2db4900a79dc63a5d9e54dd/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-07",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260807-ed56edbef9e548eeab83a40c6b620d56-c",
-      "title": "福建能源监管办开展2026年油气管网设施公平开放情况现场监管",
-      "url": "https://www.nea.gov.cn/20260807/ed56edbef9e548eeab83a40c6b620d56/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-07",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260807-6ede1779b07c425481e8686d126e768f-c",
-      "title": "云南能源监管办召开2026年半年度供电服务保障重点工作推进会",
-      "url": "https://www.nea.gov.cn/20260807/6ede1779b07c425481e8686d126e768f/c.html",
       "summary": "",
       "publishedAt": "2026-08-07",
       "source": "nea.gov.cn"
@@ -285,14 +285,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260727-e7d7025f1f3f42598679f2ea50c4f4e7-c",
-      "title": "国家能源局有关负责同志就《鄂尔多斯盆地东部区域煤层气增储上产行动方案（2026—2030年）》答记者问",
-      "url": "https://www.nea.gov.cn/20260727/e7d7025f1f3f42598679f2ea50c4f4e7/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-27",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260724-808ea736bb9741909dd46f8cb32ea0de-c",
       "title": "国家能源局正式发布中国绿证价格指数",
       "url": "https://www.nea.gov.cn/20260724/808ea736bb9741909dd46f8cb32ea0de/c.html",
@@ -344,14 +336,6 @@
       "id": "nea-20260710-4acf5873e20149cdbc52c709b16b30ff-c",
       "title": "国家能源局关于印发《能源领域节能降碳行动计划（2026—2028年）》的通知",
       "url": "https://www.nea.gov.cn/20260710/4acf5873e20149cdbc52c709b16b30ff/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-10",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260710-9e1f8e0239dd4ffead04b9a31fe387d5-c",
-      "title": "国家能源局有关负责同志就《能源领域节能降碳行动计划（2026—2028年）》答记者问",
-      "url": "https://www.nea.gov.cn/20260710/9e1f8e0239dd4ffead04b9a31fe387d5/c.html",
       "summary": "",
       "publishedAt": "2026-07-10",
       "source": "nea.gov.cn"
@@ -414,7 +398,7 @@
     }
   ],
   "stats": {
-    "articleCount": 51
+    "articleCount": 49
   },
   "errors": []
 }
