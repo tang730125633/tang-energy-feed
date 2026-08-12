@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T22:51:37+00:00",
+  "generatedAt": "2026-08-12T22:49:23+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,31 +12,31 @@
   ],
   "articles": [
     {
-      "id": "china5e-1207610",
-      "title": "站上“风口”，湖南风电产业御风而上",
-      "url": "https://www.china5e.com/news/news-1207610-1.html",
+      "id": "cpnn-t20260812_1907819",
+      "title": "长江水如何化身“天然空调”探访武汉滨江地下能源站",
+      "url": "https://www.cpnn.com.cn/news/dfny/202608/t20260812_1907819.html",
       "summary": "",
-      "publishedAt": "2026-08-11",
-      "source": "china5e.com",
-      "province": "湖南"
+      "publishedAt": "2026-08-12",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
     },
     {
-      "id": "cpnn-t20260811_1907555",
-      "title": "国家能源集团贯通疆煤入华中新通道",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202608/t20260811_1907555.html",
+      "id": "cpnn-t20260812_1907956",
+      "title": "国网湖北电科院“黑科技”助力船舶岸电首次接入湖北虚拟电厂",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202608/t20260812_1907956.html",
       "summary": "",
-      "publishedAt": "2026-08-11",
+      "publishedAt": "2026-08-12",
       "source": "cpnn.com.cn",
-      "province": "华中"
+      "province": "湖北"
     },
     {
-      "id": "cpnn-t20260807_1906946",
-      "title": "河南省新能源电力消纳供电服务标准化试点完成建设",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202608/t20260807_1906946.html",
+      "id": "cpnn-t20260812_1907954",
+      "title": "国网湖北超高压公司：毫米级精工筑电网打通恩施山区清洁能源外送大动脉",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202608/t20260812_1907954.html",
       "summary": "",
-      "publishedAt": "2026-08-07",
+      "publishedAt": "2026-08-12",
       "source": "cpnn.com.cn",
-      "province": "河南"
+      "province": "湖北"
     },
     {
       "id": "nea-20260807-fd386db020724883b236fec4ac6e6a3e-c",
@@ -48,21 +48,21 @@
       "province": "华中"
     },
     {
-      "id": "cpnn-t20260806_1906611",
-      "title": "湖南能源集团有限公司胡瑞连被查",
-      "url": "https://www.cpnn.com.cn/news/renshi2023/202608/t20260806_1906611.html",
+      "id": "china5e-1207610",
+      "title": "站上“风口”，湖南风电产业御风而上",
+      "url": "https://www.china5e.com/news/news-1207610-1.html",
       "summary": "",
-      "publishedAt": "2026-08-06",
-      "source": "cpnn.com.cn",
+      "publishedAt": null,
+      "source": "china5e.com",
       "province": "湖南"
     }
   ],
   "stats": {
     "totalArticles": 5,
     "byProvince": {
-      "湖南": 2,
-      "华中": 2,
-      "河南": 1
+      "湖北": 3,
+      "华中": 1,
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
