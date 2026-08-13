@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T22:49:23+00:00",
+  "generatedAt": "2026-08-13T22:50:45+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,31 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260812_1907819",
-      "title": "长江水如何化身“天然空调”探访武汉滨江地下能源站",
-      "url": "https://www.cpnn.com.cn/news/dfny/202608/t20260812_1907819.html",
+      "id": "china5e-1207714",
+      "title": "安徽：完善非电网直供电政策，光储供电损益双方共享共摊",
+      "url": "https://www.china5e.com/news/news-1207714-1.html",
       "summary": "",
-      "publishedAt": "2026-08-12",
+      "publishedAt": "2026-08-13",
+      "source": "china5e.com",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260813_1908079",
+      "title": "湖南能源监管办组织电力零售市场专题研讨",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202608/t20260813_1908079.html",
+      "summary": "",
+      "publishedAt": "2026-08-13",
       "source": "cpnn.com.cn",
-      "province": "湖北"
+      "province": "湖南"
+    },
+    {
+      "id": "cpnn-t20260813_1908229",
+      "title": "中国电建江西院承建的全国最大构网型高压级联独立储能电站一次并网成功",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202608/t20260813_1908229.html",
+      "summary": "",
+      "publishedAt": "2026-08-13",
+      "source": "cpnn.com.cn",
+      "province": "江西"
     },
     {
       "id": "cpnn-t20260812_1907956",
@@ -46,23 +64,16 @@
       "publishedAt": "2026-08-07",
       "source": "nea.gov.cn",
       "province": "华中"
-    },
-    {
-      "id": "china5e-1207610",
-      "title": "站上“风口”，湖南风电产业御风而上",
-      "url": "https://www.china5e.com/news/news-1207610-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖南"
     }
   ],
   "stats": {
-    "totalArticles": 5,
+    "totalArticles": 6,
     "byProvince": {
-      "湖北": 3,
-      "华中": 1,
-      "湖南": 1
+      "安徽": 1,
+      "湖南": 1,
+      "江西": 1,
+      "湖北": 2,
+      "华中": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

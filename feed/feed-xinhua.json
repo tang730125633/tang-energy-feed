@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-12T22:49:03+00:00",
+  "generatedAt": "2026-08-13T22:50:22+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -13,32 +13,56 @@
       "source": "xinhuanet.com"
     },
     {
+      "id": "xinhua-6ecfcb535a53",
+      "title": "一图读懂《中国新型储能发展报告（2026）》",
+      "url": "https://www.xinhuanet.com/energy/20260813/6ecfcb535a534a0794266cdf2bf04ccb/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-13",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-b7157d6fafeb",
+      "title": "一图读懂《中国氢能发展报告（2026）》",
+      "url": "https://www.xinhuanet.com/energy/20260813/b7157d6fafeb461481e864e3bf3a5106/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-13",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-bc6f82023f5a",
+      "title": "从“黄金人”到新生代 以硬核本领接续筑牢能源安全生命线——走进江苏核电田湾核电基地建设一线",
+      "url": "https://www.xinhuanet.com/energy/20260813/bc6f82023f5a490f91e2984328c33234/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-13",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-41789bac21cd",
+      "title": "大同新能源发电装机占比达57%",
+      "url": "https://www.xinhuanet.com/energy/20260813/41789bac21cd4bbc8430c077550b4e42/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-13",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-664c250f4a0c",
+      "title": "煤电发电量占比跌破半数不是终点",
+      "url": "https://www.xinhuanet.com/energy/20260813/664c250f4a0c4fd49373a4819a2f68a6/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-13",
+      "source": "xinhuanet.com"
+    },
+    {
       "id": "xinhua-dc66a4b05ac4",
       "title": "未来五年，煤炭工业如何发展？",
       "url": "https://www.xinhuanet.com/energy/20260811/dc66a4b05ac44e848f61b0ed6a5f6aa4/c.html",
       "summary": "",
       "publishedAt": "2026-08-11",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-57cbd9296dcc",
-      "title": "充电桩行业进入\"运营为王\"阶段——访星星充电中国区总裁张荣纪",
-      "url": "https://www.xinhuanet.com/energy/20260810/57cbd9296dcc48938457df2c7809ee8f/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-10",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-00d5e6c4e7c5",
-      "title": "充电基建迈入“服务升维”新周期 车网互动5年内有望规模化落地——专访中国汽车工业协会充换电分会副秘书长王磊",
-      "url": "https://www.xinhuanet.com/energy/20260810/00d5e6c4e7c54a688b34d8485f1bd092/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-10",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 7
   },
   "errors": []
 }
