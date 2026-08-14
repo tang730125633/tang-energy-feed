@@ -1,9 +1,17 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-08-13T22:50:44+00:00",
+  "generatedAt": "2026-08-14T22:29:39+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-461356",
+      "title": "海南电力气象中心揭牌成立",
+      "url": "https://www.chinapower.org.cn/detail/461356.html",
+      "summary": "",
+      "publishedAt": "2026-08-14",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-461327",
       "title": "【央视财经】8000亿度电去哪儿？“十五五”筑牢中国AI“绿电底座”",
@@ -46,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 6
   },
   "errors": []
 }

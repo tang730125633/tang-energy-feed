@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T22:50:45+00:00",
+  "generatedAt": "2026-08-14T22:29:39+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,22 +12,13 @@
   ],
   "articles": [
     {
-      "id": "china5e-1207714",
-      "title": "安徽：完善非电网直供电政策，光储供电损益双方共享共摊",
-      "url": "https://www.china5e.com/news/news-1207714-1.html",
+      "id": "china5e-1207794",
+      "title": "7月江西省煤炭价格938.66元/吨，环比下跌1.3%",
+      "url": "https://www.china5e.com/news/news-1207794-1.html",
       "summary": "",
-      "publishedAt": "2026-08-13",
+      "publishedAt": "2026-08-14",
       "source": "china5e.com",
-      "province": "安徽"
-    },
-    {
-      "id": "cpnn-t20260813_1908079",
-      "title": "湖南能源监管办组织电力零售市场专题研讨",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202608/t20260813_1908079.html",
-      "summary": "",
-      "publishedAt": "2026-08-13",
-      "source": "cpnn.com.cn",
-      "province": "湖南"
+      "province": "江西"
     },
     {
       "id": "cpnn-t20260813_1908229",
@@ -39,24 +30,6 @@
       "province": "江西"
     },
     {
-      "id": "cpnn-t20260812_1907956",
-      "title": "国网湖北电科院“黑科技”助力船舶岸电首次接入湖北虚拟电厂",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202608/t20260812_1907956.html",
-      "summary": "",
-      "publishedAt": "2026-08-12",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260812_1907954",
-      "title": "国网湖北超高压公司：毫米级精工筑电网打通恩施山区清洁能源外送大动脉",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202608/t20260812_1907954.html",
-      "summary": "",
-      "publishedAt": "2026-08-12",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
       "id": "nea-20260807-fd386db020724883b236fec4ac6e6a3e-c",
       "title": "2026年华中区域跨省跨区大电网安全生产风险现场检查工作正式启动",
       "url": "https://www.nea.gov.cn/20260807/fd386db020724883b236fec4ac6e6a3e/c.html",
@@ -64,16 +37,23 @@
       "publishedAt": "2026-08-07",
       "source": "nea.gov.cn",
       "province": "华中"
+    },
+    {
+      "id": "china5e-1207714",
+      "title": "安徽：完善非电网直供电政策，光储供电损益双方共享共摊",
+      "url": "https://www.china5e.com/news/news-1207714-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "安徽"
     }
   ],
   "stats": {
-    "totalArticles": 6,
+    "totalArticles": 4,
     "byProvince": {
-      "安徽": 1,
-      "湖南": 1,
-      "江西": 1,
-      "湖北": 2,
-      "华中": 1
+      "江西": 2,
+      "华中": 1,
+      "安徽": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

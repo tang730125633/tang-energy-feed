@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-13T22:50:22+00:00",
+  "generatedAt": "2026-08-14T22:29:20+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -10,6 +10,38 @@
       "url": "https://www.xinhuanet.com/energy/20260812/96a60ab295e243a793a002c2ed93a857/c.html",
       "summary": "",
       "publishedAt": "2026-08-12",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-81d4a43d5f75",
+      "title": "国电电力廊坊热电二期4号机组通过168小时试运行",
+      "url": "https://www.xinhuanet.com/energy/20260814/81d4a43d5f754c65a7c701277b8e2703/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-14",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-b86f74edd229",
+      "title": "新华能源周报丨《煤炭工业发展“十五五”规划》发布；亚洲首个柔直海上风电项目累计发电量超100亿千瓦时；南水北调东中线一期工程调水超900亿立方米",
+      "url": "https://www.xinhuanet.com/energy/20260814/b86f74edd2294fa9867668d422518219/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-14",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-7fa232ba7102",
+      "title": "全国碳排放权交易市场累计成交量超九亿吨",
+      "url": "https://www.xinhuanet.com/energy/20260814/7fa232ba71024e26ab255fe9078cef09/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-14",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-86342a10b7cd",
+      "title": "28%市占率登顶全球户储电芯 看懂鹏辉能源的“慢”思维",
+      "url": "https://www.xinhuanet.com/energy/20260814/86342a10b7cd456ea4af76f429a2a060/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-14",
       "source": "xinhuanet.com"
     },
     {
@@ -51,18 +83,10 @@
       "summary": "",
       "publishedAt": "2026-08-13",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-dc66a4b05ac4",
-      "title": "未来五年，煤炭工业如何发展？",
-      "url": "https://www.xinhuanet.com/energy/20260811/dc66a4b05ac44e848f61b0ed6a5f6aa4/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-11",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 10
   },
   "errors": []
 }
