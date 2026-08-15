@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-14T22:29:20+00:00",
+  "generatedAt": "2026-08-15T22:27:45+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -10,6 +10,14 @@
       "url": "https://www.xinhuanet.com/energy/20260812/96a60ab295e243a793a002c2ed93a857/c.html",
       "summary": "",
       "publishedAt": "2026-08-12",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-8cf803a18fa9",
+      "title": "厚植中国式现代化绿色底色——能源企业全域生态实践答卷",
+      "url": "https://www.xinhuanet.com/energy/20260814/8cf803a18fa945e590abb97798f3cee7/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-14",
       "source": "xinhuanet.com"
     },
     {
@@ -86,7 +94,7 @@
     }
   ],
   "stats": {
-    "articleCount": 10
+    "articleCount": 11
   },
   "errors": []
 }

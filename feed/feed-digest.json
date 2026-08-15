@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:29:39+00:00",
+  "generatedAt": "2026-08-15T22:28:11+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
@@ -11,35 +11,35 @@
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-08-14T22:29:19+00:00",
+      "generatedAt": "2026-08-15T22:27:44+00:00",
       "articleCount": 54,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-08-14T22:29:39+00:00",
+      "generatedAt": "2026-08-15T22:28:11+00:00",
       "articleCount": 6,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-08-14T22:29:10+00:00",
+      "generatedAt": "2026-08-15T22:27:35+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-08-14T22:29:07+00:00",
+      "generatedAt": "2026-08-15T22:27:32+00:00",
       "articleCount": 77,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-08-14T22:29:16+00:00",
+      "generatedAt": "2026-08-15T22:27:41+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
@@ -53,19 +53,44 @@
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-08-14T22:29:08+00:00",
+      "generatedAt": "2026-08-15T22:27:33+00:00",
       "articleCount": 49,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-08-14T22:29:20+00:00",
-      "articleCount": 10,
+      "generatedAt": "2026-08-15T22:27:45+00:00",
+      "articleCount": 11,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1207822",
+      "title": "润泽山河 行者无疆：昆仑润滑一城一策汽油机油推广活动走进赣州",
+      "url": "https://www.china5e.com/news/news-1207822-1.html",
+      "summary": "8月12日，以“润泽山河 行者无疆”为主题的昆仑润滑“一城一策”推广活动在四省通衢的赣州举行。此次活动聚焦乘用车市场，深度推广昆仑天润API SQ标准汽油机油全系产品。来自江西地区的200余名经销商、终端客户及行业代表齐聚赣州，围绕丘陵山区复杂工况下的润滑技术需求与市场机遇展开深",
+      "publishedAt": "2026-08-15",
+      "source": "china5e.com",
+      "province": "江西"
+    },
+    {
+      "id": "china5e-1207821",
+      "title": "润泽山河 行者无疆：昆仑润滑一城一策柴油机油推广活动走进昌吉",
+      "url": "https://www.china5e.com/news/news-1207821-1.html",
+      "summary": "8月11日，以“润泽山河 行者无疆”为主题的昆仑润滑“一城一策”柴油机油推广活动在新疆昌吉州举行。本站活动聚焦商用车及工程机械市场，深度推广昆仑天威系列柴油机油产品。来自乌鲁木齐、昌吉地区的100余位矿山车队、物流运输行业及终端用户代表齐聚一堂，围绕自主柴油机油标准落地与丝绸之路",
+      "publishedAt": "2026-08-15",
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1207820",
+      "title": "润泽山河 行者无疆：昆仑润滑一城一策汽油机油推广活动走进成都",
+      "url": "https://www.china5e.com/news/news-1207820-1.html",
+      "summary": "8月11日，以“润泽山河 行者无疆”为主题的昆仑润滑“一城一策”推广活动在成都举行。此次活动聚焦乘用车市场，深度推广昆仑天润API SQ标准汽油机油全系产品。来自西南地区的200余位经销商、终端客户及行业代表齐聚蓉城，围绕绿色低碳趋势下汽油机油技术突破与区域市场新机遇进行了深入交",
+      "publishedAt": "2026-08-15",
+      "source": "china5e.com"
+    },
     {
       "id": "china5e-1207808",
       "title": "东高未来能源获欧洲顶级创新奖 全栈自研4S构网技术获权威认证",
@@ -148,7 +173,7 @@
     },
     {
       "id": "china5e-1207818",
-      "title": "重卡充电桩与重卡超充：新能源商用车的核心基础设施",
+      "title": "重卡补能新时代，深圳科华以高可靠超充技术驱动商用车绿色转型",
       "url": "https://www.china5e.com/news/news-1207818-1.html",
       "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
       "publishedAt": "2026-08-14",
@@ -199,30 +224,6 @@
       "title": "国际油价，跌超2%",
       "url": "https://www.china5e.com/news/news-1207799-1.html",
       "summary": "央视财经记者获悉，由于国际能源署和欧佩克相继下调今年全球石油需求前景，市场担忧需求疲软可能压缩供需缺口。",
-      "publishedAt": "2026-08-14",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1207798",
-      "title": "国内油价将迎来年内第5次下跌!",
-      "url": "https://www.china5e.com/news/news-1207798-1.html",
-      "summary": "综合测算预计国内汽油下调250元/吨，柴油下调240元/吨。换算成日常加油参考，92号汽油预计每升下降0.2元，95号汽油每升下调0.21元，0号柴油每升同样下调0.21元。",
-      "publishedAt": "2026-08-14",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1207769",
-      "title": "国际能源署下调2026年全球石油需求预期",
-      "url": "https://www.china5e.com/news/news-1207769-1.html",
-      "summary": "国际能源署12日发布最新月度石油报告说，受霍尔木兹海峡持续封锁和燃料价格高企影响，全球石油消费继续受到抑制，预计2026年全球石油需求将日均减少160万桶，较上月报告预测的降幅扩大51万桶，2027年全球石油需求有望日均增加240万桶。",
-      "publishedAt": "2026-08-14",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1207762",
-      "title": "“十五五”首条千万吨级输油管道投产",
-      "url": "https://www.china5e.com/news/news-1207762-1.html",
-      "summary": "记者从国家管网集团获悉，8月13日，国家石油天然气基础设施重点项目——连云港至仪征原油管道工程连云港至淮安段(以下简称“连仪管道连淮段”)成功投产。作为我国“十五五”开局投产的首条千万吨级原油管道，其对优化我国中东部地区供能结构、完善油气“全国一张网”布局具有重要意义。",
       "publishedAt": "2026-08-14",
       "source": "china5e.com"
     },
@@ -442,6 +443,14 @@
       "summary": "",
       "publishedAt": "2026-08-14",
       "source": "cpnn.com.cn"
+    },
+    {
+      "id": "xinhua-8cf803a18fa9",
+      "title": "厚植中国式现代化绿色底色——能源企业全域生态实践答卷",
+      "url": "https://www.xinhuanet.com/energy/20260814/8cf803a18fa945e590abb97798f3cee7/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-14",
+      "source": "xinhuanet.com"
     },
     {
       "id": "xinhua-81d4a43d5f75",
@@ -1670,17 +1679,17 @@
     }
   },
   "stats": {
-    "totalArticles": 198,
+    "totalArticles": 199,
     "bySource": {
       "china5e.com": 54,
       "chinapower.org.cn": 6,
       "cpnn.com.cn": 77,
-      "xinhuanet.com": 10,
+      "xinhuanet.com": 11,
       "nea.gov.cn": 49,
       "ne21.com": 2
     },
     "byProvince": {
-      "江西": 2,
+      "江西": 3,
       "华中": 1,
       "安徽": 1
     }

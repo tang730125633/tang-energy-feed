@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:29:39+00:00",
+  "generatedAt": "2026-08-15T22:28:11+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,15 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "china5e-1207822",
+      "title": "润泽山河 行者无疆：昆仑润滑一城一策汽油机油推广活动走进赣州",
+      "url": "https://www.china5e.com/news/news-1207822-1.html",
+      "summary": "",
+      "publishedAt": "2026-08-15",
+      "source": "china5e.com",
+      "province": "江西"
+    },
     {
       "id": "china5e-1207794",
       "title": "7月江西省煤炭价格938.66元/吨，环比下跌1.3%",
@@ -49,9 +58,9 @@
     }
   ],
   "stats": {
-    "totalArticles": 4,
+    "totalArticles": 5,
     "byProvince": {
-      "江西": 2,
+      "江西": 3,
       "华中": 1,
       "安徽": 1
     }
