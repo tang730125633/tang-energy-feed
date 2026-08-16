@@ -1,17 +1,9 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-15T22:27:45+00:00",
+  "generatedAt": "2026-08-16T22:27:30+00:00",
   "lookbackHours": 72,
   "articles": [
-    {
-      "id": "xinhua-96a60ab295e2",
-      "title": "国家发展改革委 国家能源局关于印发《煤炭工业发展“十五五”规划》的通知",
-      "url": "https://www.xinhuanet.com/energy/20260812/96a60ab295e243a793a002c2ed93a857/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-12",
-      "source": "xinhuanet.com"
-    },
     {
       "id": "xinhua-8cf803a18fa9",
       "title": "厚植中国式现代化绿色底色——能源企业全域生态实践答卷",
@@ -94,7 +86,7 @@
     }
   ],
   "stats": {
-    "articleCount": 11
+    "articleCount": 10
   },
   "errors": []
 }
