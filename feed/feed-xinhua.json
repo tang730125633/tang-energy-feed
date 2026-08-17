@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-16T22:27:30+00:00",
+  "generatedAt": "2026-08-17T22:34:11+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-d6cbbb3790e6",
+      "title": "国家电网“绿电方舟”亮相首个生态环境志愿服务月活动",
+      "url": "https://www.xinhuanet.com/energy/20260817/d6cbbb3790e64a219852026a1a849ebc/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-17",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-8cf803a18fa9",
       "title": "厚植中国式现代化绿色底色——能源企业全域生态实践答卷",
@@ -43,50 +51,10 @@
       "summary": "",
       "publishedAt": "2026-08-14",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-6ecfcb535a53",
-      "title": "一图读懂《中国新型储能发展报告（2026）》",
-      "url": "https://www.xinhuanet.com/energy/20260813/6ecfcb535a534a0794266cdf2bf04ccb/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-13",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-b7157d6fafeb",
-      "title": "一图读懂《中国氢能发展报告（2026）》",
-      "url": "https://www.xinhuanet.com/energy/20260813/b7157d6fafeb461481e864e3bf3a5106/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-13",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-bc6f82023f5a",
-      "title": "从“黄金人”到新生代 以硬核本领接续筑牢能源安全生命线——走进江苏核电田湾核电基地建设一线",
-      "url": "https://www.xinhuanet.com/energy/20260813/bc6f82023f5a490f91e2984328c33234/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-13",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-41789bac21cd",
-      "title": "大同新能源发电装机占比达57%",
-      "url": "https://www.xinhuanet.com/energy/20260813/41789bac21cd4bbc8430c077550b4e42/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-13",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-664c250f4a0c",
-      "title": "煤电发电量占比跌破半数不是终点",
-      "url": "https://www.xinhuanet.com/energy/20260813/664c250f4a0c4fd49373a4819a2f68a6/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-13",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 10
+    "articleCount": 6
   },
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T22:27:49+00:00",
+  "generatedAt": "2026-08-17T22:34:44+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,57 +12,58 @@
   ],
   "articles": [
     {
-      "id": "china5e-1207822",
-      "title": "润泽山河 行者无疆：昆仑润滑一城一策汽油机油推广活动走进赣州",
-      "url": "https://www.china5e.com/news/news-1207822-1.html",
+      "id": "cpnn-t20260817_1908822",
+      "title": "湖南连续三年实现“电力零停电”",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202608/t20260817_1908822.html",
       "summary": "",
-      "publishedAt": "2026-08-15",
-      "source": "china5e.com",
-      "province": "江西"
-    },
-    {
-      "id": "china5e-1207794",
-      "title": "7月江西省煤炭价格938.66元/吨，环比下跌1.3%",
-      "url": "https://www.china5e.com/news/news-1207794-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-14",
-      "source": "china5e.com",
-      "province": "江西"
-    },
-    {
-      "id": "cpnn-t20260813_1908229",
-      "title": "中国电建江西院承建的全国最大构网型高压级联独立储能电站一次并网成功",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202608/t20260813_1908229.html",
-      "summary": "",
-      "publishedAt": "2026-08-13",
+      "publishedAt": "2026-08-17",
       "source": "cpnn.com.cn",
-      "province": "江西"
+      "province": "湖南"
     },
     {
-      "id": "nea-20260807-fd386db020724883b236fec4ac6e6a3e-c",
-      "title": "2026年华中区域跨省跨区大电网安全生产风险现场检查工作正式启动",
-      "url": "https://www.nea.gov.cn/20260807/fd386db020724883b236fec4ac6e6a3e/c.html",
+      "id": "nea-20260817-a24b815a537e444b8b0eb60817026d06-c",
+      "title": "华中能源监管局推动新型经营主体参与电力市场取得新进展",
+      "url": "https://www.nea.gov.cn/20260817/a24b815a537e444b8b0eb60817026d06/c.html",
       "summary": "",
-      "publishedAt": "2026-08-07",
+      "publishedAt": "2026-08-17",
       "source": "nea.gov.cn",
       "province": "华中"
     },
     {
-      "id": "china5e-1207714",
-      "title": "安徽：完善非电网直供电政策，光储供电损益双方共享共摊",
-      "url": "https://www.china5e.com/news/news-1207714-1.html",
+      "id": "china5e-1207844",
+      "title": "2026上半年各省光伏装机数据出炉，江苏、河南、四川领衔",
+      "url": "https://www.china5e.com/news/news-1207844-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
-      "province": "安徽"
+      "province": "河南"
+    },
+    {
+      "id": "china5e-1207007",
+      "title": "内蒙古鄂尔多斯发布零碳机场技术成果",
+      "url": "https://www.china5e.com/news/news-1207007-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "china5e-1206733",
+      "title": "湖北省首个零碳工厂评价规范发布",
+      "url": "https://www.china5e.com/news/news-1206733-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
     }
   ],
   "stats": {
     "totalArticles": 5,
     "byProvince": {
-      "江西": 3,
+      "湖南": 1,
       "华中": 1,
-      "安徽": 1
+      "河南": 1,
+      "湖北": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
