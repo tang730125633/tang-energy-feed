@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T22:30:10+00:00",
+  "generatedAt": "2026-08-19T22:30:32+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,24 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "china5e-1208007",
+      "title": "江城育铁军 数智兴家国 ——平台仅两载 阅历积半生 解码芜湖市数字经济研究院成长样本",
+      "url": "https://www.china5e.com/news/news-1208007-1.html",
+      "summary": "",
+      "publishedAt": "2026-08-19",
+      "source": "china5e.com",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260819_1909570",
+      "title": "大唐湖北新能源事业部：“12A”场站井喷解码提质之道",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202608/t20260819_1909570.html",
+      "summary": "",
+      "publishedAt": "2026-08-19",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
     {
       "id": "china5e-1207908",
       "title": "湖南举报生态环境违法行为奖励升级",
@@ -46,24 +64,16 @@
       "publishedAt": "2026-08-18",
       "source": "nea.gov.cn",
       "province": "湖南"
-    },
-    {
-      "id": "china5e-1207869",
-      "title": "安徽国盛量子获国家电网数千万元战略融资",
-      "url": "https://www.china5e.com/news/news-1207869-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "安徽"
     }
   ],
   "stats": {
-    "totalArticles": 5,
+    "totalArticles": 6,
     "byProvince": {
+      "安徽": 1,
+      "湖北": 1,
       "湖南": 2,
       "江西": 1,
-      "华中": 1,
-      "安徽": 1
+      "华中": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
