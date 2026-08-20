@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T22:30:32+00:00",
+  "generatedAt": "2026-08-20T22:36:08+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,12 +12,21 @@
   ],
   "articles": [
     {
-      "id": "china5e-1208007",
-      "title": "江城育铁军 数智兴家国 ——平台仅两载 阅历积半生 解码芜湖市数字经济研究院成长样本",
-      "url": "https://www.china5e.com/news/news-1208007-1.html",
+      "id": "china5e-1208039",
+      "title": "氢环郑州经开区生物(沼气)制加氢一体站项目正式开工",
+      "url": "https://www.china5e.com/news/news-1208039-1.html",
       "summary": "",
-      "publishedAt": "2026-08-19",
+      "publishedAt": "2026-08-20",
       "source": "china5e.com",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260820_1909832",
+      "title": "国网安徽电力：为虚拟电厂全生命周期“建体系、优服务”",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202608/t20260820_1909832.html",
+      "summary": "",
+      "publishedAt": "2026-08-20",
+      "source": "cpnn.com.cn",
       "province": "安徽"
     },
     {
@@ -64,15 +73,25 @@
       "publishedAt": "2026-08-18",
       "source": "nea.gov.cn",
       "province": "湖南"
+    },
+    {
+      "id": "ne21-230088",
+      "title": "江西省增量新能源项目机制电价竞价实施细则（修订版）印发",
+      "url": "https://www.ne21.com/news/show-230088.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com",
+      "province": "江西"
     }
   ],
   "stats": {
-    "totalArticles": 6,
+    "totalArticles": 8,
     "byProvince": {
+      "河南": 1,
       "安徽": 1,
       "湖北": 1,
       "湖南": 2,
-      "江西": 1,
+      "江西": 2,
       "华中": 1
     }
   },

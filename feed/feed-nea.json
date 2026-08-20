@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-08-19T22:30:03+00:00",
+  "generatedAt": "2026-08-20T22:32:56+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -72,22 +72,6 @@
       "id": "nea-20260818-34267160d5914433bd0601a409994900-c",
       "title": "湖南能源监管办组织电力零售市场专题研讨",
       "url": "https://www.nea.gov.cn/20260818/34267160d5914433bd0601a409994900/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-18",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260818-6490243a7ac84e70975868ade18d0947-c",
-      "title": "云南能源监管办多措并举协同做好区域电力现货市场转正准备工作",
-      "url": "https://www.nea.gov.cn/20260818/6490243a7ac84e70975868ade18d0947/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-18",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260818-fd22216f3154407c80c02e02950066d9-c",
-      "title": "贵州能源监管办开展电力建设工程安全质量专项督导检查",
-      "url": "https://www.nea.gov.cn/20260818/fd22216f3154407c80c02e02950066d9/c.html",
       "summary": "",
       "publishedAt": "2026-08-18",
       "source": "nea.gov.cn"
@@ -422,7 +406,7 @@
     }
   ],
   "stats": {
-    "articleCount": 52
+    "articleCount": 50
   },
   "errors": []
 }
