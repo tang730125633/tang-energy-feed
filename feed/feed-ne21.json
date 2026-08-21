@@ -1,44 +1,13 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-08-20T21:34:13+00:00",
+  "generatedAt": "2026-08-21T21:31:04+00:00",
   "lookbackHours": 48,
-  "articles": [
-    {
-      "id": "ne21-230092",
-      "title": "1.99MW/8.35MWh！瑞浦兰钧日本首个储能项目正式并网投运",
-      "url": "https://www.ne21.com/news/show-230092.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-230091",
-      "title": "明阳智能预中标225MW风电项目",
-      "url": "https://www.ne21.com/news/show-230091.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-230089",
-      "title": "华电1.3GW风电机组年度框采中标结果公示！",
-      "url": "https://www.ne21.com/news/show-230089.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    },
-    {
-      "id": "ne21-230088",
-      "title": "江西省增量新能源项目机制电价竞价实施细则（修订版）印发",
-      "url": "https://www.ne21.com/news/show-230088.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
-    }
-  ],
+  "articles": [],
   "stats": {
-    "articleCount": 4
+    "articleCount": 0
   },
-  "errors": []
+  "errors": [
+    "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
+  ]
 }
