@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-20T22:35:49+00:00",
+  "generatedAt": "2026-08-21T22:30:22+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-fd2544841f92",
+      "title": "江苏光伏发电累计装机容量突破1亿千瓦",
+      "url": "https://www.xinhuanet.com/energy/20260821/fd2544841f924069be41b957de992979/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-21",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-c4bf7255a2ea",
+      "title": "中国电力、中电国际获穆迪“A1/稳定”、标普“A/稳定”国际信用评级",
+      "url": "https://www.xinhuanet.com/energy/20260821/c4bf7255a2ea4c748ca839f734964e00/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-21",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-7cf705f52422",
       "title": "国家电网公司成功发行149亿元“点心债”",
@@ -26,22 +42,6 @@
       "url": "https://www.xinhuanet.com/energy/20260818/382c51301f014eada9bbb966431b409b/c.html",
       "summary": "",
       "publishedAt": "2026-08-18",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-9ed1ea9507d8",
-      "title": "国电电力上半年利润总额突破70亿元",
-      "url": "https://www.xinhuanet.com/energy/20260818/9ed1ea9507d8435aafd0f5058ec5041c/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-18",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-d6cbbb3790e6",
-      "title": "国家电网“绿电方舟”亮相首个生态环境志愿服务月活动",
-      "url": "https://www.xinhuanet.com/energy/20260817/d6cbbb3790e64a219852026a1a849ebc/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-17",
       "source": "xinhuanet.com"
     }
   ],

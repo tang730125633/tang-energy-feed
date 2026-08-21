@@ -1,28 +1,36 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-08-20T22:36:08+00:00",
+  "generatedAt": "2026-08-21T22:30:45+00:00",
   "lookbackHours": 48,
   "articles": [
     {
-      "id": "chinapower-461446",
-      "title": "国家电网公司牵头制定国家标准《构网型变流器通用技术规范》获批发布",
-      "url": "https://www.chinapower.org.cn/detail/461446.html",
+      "id": "chinapower-461505",
+      "title": "2026年7月全国电力消费系列指数（CNECI）情况",
+      "url": "https://www.chinapower.org.cn/detail/461505.html",
       "summary": "",
-      "publishedAt": "2026-08-20",
+      "publishedAt": "2026-08-22",
       "source": "chinapower.org.cn"
     },
     {
-      "id": "chinapower-461441",
-      "title": "今年前7月浙江绿电交易成交电量超80亿千瓦时",
-      "url": "https://www.chinapower.org.cn/detail/461441.html",
+      "id": "chinapower-461485",
+      "title": "藏粤直流工程实现国内首次海拔4000米以上电力无人机规模化吊运",
+      "url": "https://www.chinapower.org.cn/detail/461485.html",
       "summary": "",
-      "publishedAt": "2026-08-20",
+      "publishedAt": "2026-08-21",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-461484",
+      "title": "南方电网印发“人工智能+”高质量发展行动意见 布局电力AI发展新蓝图",
+      "url": "https://www.chinapower.org.cn/detail/461484.html",
+      "summary": "",
+      "publishedAt": "2026-08-21",
       "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 3
   },
   "errors": []
 }
