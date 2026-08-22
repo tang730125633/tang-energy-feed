@@ -1,7 +1,7 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-08-21T22:30:45+00:00",
+  "generatedAt": "2026-08-22T22:28:00+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -11,26 +11,10 @@
       "summary": "",
       "publishedAt": "2026-08-22",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-461485",
-      "title": "藏粤直流工程实现国内首次海拔4000米以上电力无人机规模化吊运",
-      "url": "https://www.chinapower.org.cn/detail/461485.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-461484",
-      "title": "南方电网印发“人工智能+”高质量发展行动意见 布局电力AI发展新蓝图",
-      "url": "https://www.chinapower.org.cn/detail/461484.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 1
   },
   "errors": []
 }

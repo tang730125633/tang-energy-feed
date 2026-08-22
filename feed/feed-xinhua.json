@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-21T22:30:22+00:00",
+  "generatedAt": "2026-08-22T22:27:45+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -35,18 +35,10 @@
       "summary": "",
       "publishedAt": "2026-08-19",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-382c51301f01",
-      "title": "关于印发《石油天然气发展“十五五”规划》的通知",
-      "url": "https://www.xinhuanet.com/energy/20260818/382c51301f014eada9bbb966431b409b/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-18",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 4
   },
   "errors": []
 }

@@ -1,71 +1,79 @@
 {
-  "generatedAt": "2026-08-21T22:30:45+00:00",
+  "generatedAt": "2026-08-22T22:28:00+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-08-21T21:31:03+00:00",
+      "generatedAt": "2026-08-22T21:27:27+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-08-21T22:30:21+00:00",
+      "generatedAt": "2026-08-22T22:27:43+00:00",
       "articleCount": 50,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-08-21T22:30:45+00:00",
-      "articleCount": 3,
+      "generatedAt": "2026-08-22T22:28:00+00:00",
+      "articleCount": 1,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-08-21T22:30:11+00:00",
+      "generatedAt": "2026-08-22T22:27:35+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-08-21T22:30:08+00:00",
+      "generatedAt": "2026-08-22T22:27:33+00:00",
       "articleCount": 93,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-08-21T22:30:18+00:00",
+      "generatedAt": "2026-08-22T22:27:41+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-08-21T21:31:04+00:00",
-      "articleCount": 0,
-      "hasErrors": true
+      "generatedAt": "2026-08-22T21:27:34+00:00",
+      "articleCount": 2,
+      "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-08-21T22:30:09+00:00",
+      "generatedAt": "2026-08-22T22:27:34+00:00",
       "articleCount": 50,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-08-21T22:30:22+00:00",
-      "articleCount": 5,
+      "generatedAt": "2026-08-22T22:27:45+00:00",
+      "articleCount": 4,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "china5e-1208125",
+      "title": "科创筑梦乡村少年！“至美石化·长城杯”夏令营 解锁能源科技新体验",
+      "url": "https://www.china5e.com/news/news-1208125-1.html",
+      "summary": "活动深耕教育帮扶初心，重点传承新时代科学家精神，让扎根乡野的少年学子汲取榜样力量、树立报国志向。研学期间，营员们走进院士精神展馆，近距离追寻石化领域老一辈科研工作者深耕科研、潜心攻关、无私奉献的奋斗足迹。中国工程院院士、中国石化首席科学家孙丽丽寄语乡村学子，勉励大家立大志、求真知",
+      "publishedAt": "2026-08-22",
+      "source": "china5e.com"
+    },
     {
       "id": "chinapower-461505",
       "title": "2026年7月全国电力消费系列指数（CNECI）情况",
@@ -276,22 +284,6 @@
       "source": "china5e.com"
     },
     {
-      "id": "chinapower-461485",
-      "title": "藏粤直流工程实现国内首次海拔4000米以上电力无人机规模化吊运",
-      "url": "https://www.chinapower.org.cn/detail/461485.html",
-      "summary": "近日，南网通航公司联合国网湖南送变电公司在藏东南至粤港澳大湾区±800千伏特高压直流输电工程（以下简称“藏粤直流工程”）西藏段建设项目中,完成国内首次海拔4000米以上区域电力物资无人机规模化吊运作业。该项目位于西藏昌都，平均海拔4500米，地处怒江、澜沧江、金沙江三江交汇核心区",
-      "publishedAt": "2026-08-21",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-461484",
-      "title": "南方电网印发“人工智能+”高质量发展行动意见 布局电力AI发展新蓝图",
-      "url": "https://www.chinapower.org.cn/detail/461484.html",
-      "summary": "近日，南方电网印发《公司推动“人工智能+”高质量发展行动意见》（以下简称《意见》），全面对接国家“人工智能+”系列顶层政策部署，系统性打通算力、模型、数据、场景、安全、产业全链条发展路径，着力破解电力行业人工智能应用碎片化、自主化底座薄弱、规模化落地难、产业协同不足等瓶颈，以智能",
-      "publishedAt": "2026-08-21",
-      "source": "chinapower.org.cn"
-    },
-    {
       "id": "cpnn-t20260821_1910184",
       "title": "亚太经合组织零碳工业园区研讨会在大连举办",
       "url": "https://www.cpnn.com.cn/news/hy/202608/t20260821_1910184.html",
@@ -311,7 +303,7 @@
       "id": "cpnn-t20260821_1910096",
       "title": "APEC能源智库论坛在大连举办",
       "url": "https://www.cpnn.com.cn/news/hy/202608/t20260821_1910096.html",
-      "summary": "",
+      "summary": "论坛致力于搭建高水平能源智库交流平台，凝聚各方智慧，促进APEC各经济体深度对话与务实合作。与会嘉宾表示，能源是亚太经济繁荣的基石，面对复杂多变的国际能源形势，亚太各经济体应通过机制化合作进一步消除壁垒，统筹能源安全与绿色转型，加强关键核心技术协同创新，推动区域能源市场互联互通，",
       "publishedAt": "2026-08-21",
       "source": "cpnn.com.cn"
     },
@@ -1008,14 +1000,6 @@
       "province": "湖南"
     },
     {
-      "id": "china5e-1207907",
-      "title": "最高法发布海洋生态环境司法保护典型案例",
-      "url": "https://www.china5e.com/news/news-1207907-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-18",
-      "source": "china5e.com"
-    },
-    {
       "id": "cpnn-t20260818_1909337",
       "title": "全国首个光伏装机规模突破1亿千瓦的省份诞生",
       "url": "https://www.cpnn.com.cn/news/xwtt/202608/t20260818_1909337.html",
@@ -1119,14 +1103,6 @@
       "summary": "",
       "publishedAt": "2026-08-18",
       "source": "cpnn.com.cn"
-    },
-    {
-      "id": "xinhua-382c51301f01",
-      "title": "关于印发《石油天然气发展“十五五”规划》的通知",
-      "url": "https://www.xinhuanet.com/energy/20260818/382c51301f014eada9bbb966431b409b/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-18",
-      "source": "xinhuanet.com"
     },
     {
       "id": "china5e-1207835",
@@ -1679,6 +1655,22 @@
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com"
+    },
+    {
+      "id": "ne21-230134",
+      "title": "别墅光伏安装案例多的品牌有哪些推荐？读懂海尔新能源，看实景项目实力",
+      "url": "https://www.ne21.com/news/show-230134.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-230133",
+      "title": "极氪7X 105km/h后碰拆车验证，金砖电池经得起“甄”考验",
+      "url": "https://www.ne21.com/news/show-230133.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
     }
   ],
   "copper": {
@@ -1696,13 +1688,14 @@
     }
   },
   "stats": {
-    "totalArticles": 201,
+    "totalArticles": 200,
     "bySource": {
-      "chinapower.org.cn": 3,
       "china5e.com": 50,
+      "chinapower.org.cn": 1,
       "cpnn.com.cn": 93,
       "nea.gov.cn": 50,
-      "xinhuanet.com": 5
+      "xinhuanet.com": 4,
+      "ne21.com": 2
     },
     "byProvince": {
       "湖北": 2,
@@ -1723,12 +1716,6 @@
       "source": "iesplaza.com",
       "errors": [
         "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-      ]
-    },
-    {
-      "source": "ne21.com",
-      "errors": [
-        "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
       ]
     }
   ]
