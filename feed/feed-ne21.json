@@ -1,13 +1,28 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-08-21T21:31:04+00:00",
+  "generatedAt": "2026-08-22T21:27:34+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "ne21-230134",
+      "title": "别墅光伏安装案例多的品牌有哪些推荐？读懂海尔新能源，看实景项目实力",
+      "url": "https://www.ne21.com/news/show-230134.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-230133",
+      "title": "极氪7X 105km/h后碰拆车验证，金砖电池经得起“甄”考验",
+      "url": "https://www.ne21.com/news/show-230133.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 2
   },
-  "errors": [
-    "Playwright navigation failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ne21.com/\nCall log:\nnavigating to \"https://www.ne21.com/\", waiting until \"domcontentloaded\"\n"
-  ]
+  "errors": []
 }
