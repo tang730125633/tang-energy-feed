@@ -1,71 +1,79 @@
 {
-  "generatedAt": "2026-08-22T22:28:00+00:00",
+  "generatedAt": "2026-08-23T22:28:12+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-08-22T21:27:27+00:00",
+      "generatedAt": "2026-08-23T21:27:09+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-08-22T22:27:43+00:00",
+      "generatedAt": "2026-08-23T22:27:47+00:00",
       "articleCount": 50,
       "hasErrors": false
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-08-22T22:28:00+00:00",
+      "generatedAt": "2026-08-23T22:28:12+00:00",
       "articleCount": 1,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-08-22T22:27:35+00:00",
+      "generatedAt": "2026-08-23T22:27:37+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-08-22T22:27:33+00:00",
-      "articleCount": 93,
+      "generatedAt": "2026-08-23T22:27:35+00:00",
+      "articleCount": 94,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-08-22T22:27:41+00:00",
+      "generatedAt": "2026-08-23T22:27:44+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-08-22T21:27:34+00:00",
+      "generatedAt": "2026-08-23T21:27:18+00:00",
       "articleCount": 2,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-08-22T22:27:34+00:00",
+      "generatedAt": "2026-08-23T22:27:36+00:00",
       "articleCount": 50,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-08-22T22:27:45+00:00",
-      "articleCount": 4,
+      "generatedAt": "2026-08-23T22:27:49+00:00",
+      "articleCount": 2,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260823_1910204",
+      "title": "把“一定要将光伏产业做好”落到实处 在能源绿色低碳转型之路上干出实绩",
+      "url": "https://www.cpnn.com.cn/news/nyqy/202608/t20260823_1910204.html",
+      "summary": "2016年8月23日，习近平总书记来到国家电投集团黄河公司，对一线员工留下深情叮嘱与殷切希望：“青海有充足的太阳能光照资源、丰富的荒漠化土地资源，你们有产业优势、技术优势、人才优势、资金优势，一定要将光伏产业做好。”",
+      "publishedAt": "2026-08-23",
+      "source": "cpnn.com.cn"
+    },
     {
       "id": "china5e-1208125",
       "title": "科创筑梦乡村少年！“至美石化·长城杯”夏令营 解锁能源科技新体验",
@@ -303,7 +311,7 @@
       "id": "cpnn-t20260821_1910096",
       "title": "APEC能源智库论坛在大连举办",
       "url": "https://www.cpnn.com.cn/news/hy/202608/t20260821_1910096.html",
-      "summary": "论坛致力于搭建高水平能源智库交流平台，凝聚各方智慧，促进APEC各经济体深度对话与务实合作。与会嘉宾表示，能源是亚太经济繁荣的基石，面对复杂多变的国际能源形势，亚太各经济体应通过机制化合作进一步消除壁垒，统筹能源安全与绿色转型，加强关键核心技术协同创新，推动区域能源市场互联互通，",
+      "summary": "",
       "publishedAt": "2026-08-21",
       "source": "cpnn.com.cn"
     },
@@ -965,22 +973,6 @@
       "summary": "",
       "publishedAt": "2026-08-19",
       "source": "cpnn.com.cn"
-    },
-    {
-      "id": "xinhua-7cf705f52422",
-      "title": "国家电网公司成功发行149亿元“点心债”",
-      "url": "https://www.xinhuanet.com/energy/20260819/7cf705f5242246268cadb59f675d2b08/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-19",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-fcb2e2fce002",
-      "title": "首套响应驱动稳控装置支撑新能源安全高效消纳",
-      "url": "https://www.xinhuanet.com/energy/20260819/fcb2e2fce0024df887e332b53c68b009/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-19",
-      "source": "xinhuanet.com"
     },
     {
       "id": "china5e-1207943",
@@ -1688,13 +1680,13 @@
     }
   },
   "stats": {
-    "totalArticles": 200,
+    "totalArticles": 199,
     "bySource": {
+      "cpnn.com.cn": 94,
       "china5e.com": 50,
       "chinapower.org.cn": 1,
-      "cpnn.com.cn": 93,
       "nea.gov.cn": 50,
-      "xinhuanet.com": 4,
+      "xinhuanet.com": 2,
       "ne21.com": 2
     },
     "byProvince": {

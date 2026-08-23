@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-22T22:27:45+00:00",
+  "generatedAt": "2026-08-23T22:27:49+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -19,26 +19,10 @@
       "summary": "",
       "publishedAt": "2026-08-21",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-7cf705f52422",
-      "title": "国家电网公司成功发行149亿元“点心债”",
-      "url": "https://www.xinhuanet.com/energy/20260819/7cf705f5242246268cadb59f675d2b08/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-19",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-fcb2e2fce002",
-      "title": "首套响应驱动稳控装置支撑新能源安全高效消纳",
-      "url": "https://www.xinhuanet.com/energy/20260819/fcb2e2fce0024df887e332b53c68b009/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-19",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 2
   },
   "errors": []
 }

@@ -1,9 +1,17 @@
 {
   "source": "cpnn.com.cn",
   "sourceName": "电网头条（中国能源传媒集团）",
-  "generatedAt": "2026-08-22T22:27:33+00:00",
+  "generatedAt": "2026-08-23T22:27:35+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "cpnn-t20260823_1910204",
+      "title": "把“一定要将光伏产业做好”落到实处 在能源绿色低碳转型之路上干出实绩",
+      "url": "https://www.cpnn.com.cn/news/nyqy/202608/t20260823_1910204.html",
+      "summary": "",
+      "publishedAt": "2026-08-23",
+      "source": "cpnn.com.cn"
+    },
     {
       "id": "cpnn-t20260821_1910184",
       "title": "亚太经合组织零碳工业园区研讨会在大连举办",
@@ -750,7 +758,7 @@
     }
   ],
   "stats": {
-    "articleCount": 93
+    "articleCount": 94
   },
   "errors": []
 }
