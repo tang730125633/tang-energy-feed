@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-08-23T22:27:36+00:00",
+  "generatedAt": "2026-08-24T22:32:26+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260824-6fb7f4da3c9f4b999211d8b513782f22-c",
+      "title": "国家能源局12398能源监管热线投诉举报处理情况通报（2026年7月）",
+      "url": "https://www.nea.gov.cn/20260824/6fb7f4da3c9f4b999211d8b513782f22/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-24",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260821-f374a9386256432ebcb1f81d5d6e3f45-c",
       "title": "健全能源领域节能降碳机制",
@@ -53,57 +61,9 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260821-2a0a1c8a1b4f44e09a5dd1c73eb5e590-c",
-      "title": "新疆能源监管办开展电力市场问题核查 压实发电企业合规交易责任",
-      "url": "https://www.nea.gov.cn/20260821/2a0a1c8a1b4f44e09a5dd1c73eb5e590/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260821-874ba45580ba4c4aaea6a6dce953bb82-c",
-      "title": "甘肃能源监管办深入张掖开展“获得电力” 和充电设施保障现场监管",
-      "url": "https://www.nea.gov.cn/20260821/874ba45580ba4c4aaea6a6dce953bb82/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260821-5ae2c8402ba34e6e8eac5361f103a059-c",
-      "title": "山西能源监管办完善市场调节机制 保障电力系统灵活高效运行",
-      "url": "https://www.nea.gov.cn/20260821/5ae2c8402ba34e6e8eac5361f103a059/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260821-93094aa329224479874decf7519f49a7-c",
-      "title": "南方能源监管局全力保障平陆大运河绿色工程并网",
-      "url": "https://www.nea.gov.cn/20260821/93094aa329224479874decf7519f49a7/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260821-82ba4fa5f1354779b4a6635a18308213-c",
-      "title": "华中能源监管局党组召开2026年上半年全面从严治党专题会议",
-      "url": "https://www.nea.gov.cn/20260821/82ba4fa5f1354779b4a6635a18308213/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260821-e20671fb7c2548799afe6f32ed9e0971-c",
-      "title": "华东能源监管局召开上海市安委会电力安全专委会联络员会议",
-      "url": "https://www.nea.gov.cn/20260821/e20671fb7c2548799afe6f32ed9e0971/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260821-a6ac17325209480dae8ffe52626b5d7e-c",
-      "title": "西北能源监管局持续加强电力建设工程安全质量督查",
-      "url": "https://www.nea.gov.cn/20260821/a6ac17325209480dae8ffe52626b5d7e/c.html",
+      "id": "nea-20260821-af569f9ad92e463089d6ef40a0811883-c",
+      "title": "华北能源监管局会同内蒙古自治区能源局赴呼伦贝尔开展电力安全联合监管",
+      "url": "https://www.nea.gov.cn/20260821/af569f9ad92e463089d6ef40a0811883/c.html",
       "summary": "",
       "publishedAt": "2026-08-21",
       "source": "nea.gov.cn"
@@ -117,9 +77,57 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260821-af569f9ad92e463089d6ef40a0811883-c",
-      "title": "华北能源监管局会同内蒙古自治区能源局赴呼伦贝尔开展电力安全联合监管",
-      "url": "https://www.nea.gov.cn/20260821/af569f9ad92e463089d6ef40a0811883/c.html",
+      "id": "nea-20260821-a6ac17325209480dae8ffe52626b5d7e-c",
+      "title": "西北能源监管局持续加强电力建设工程安全质量督查",
+      "url": "https://www.nea.gov.cn/20260821/a6ac17325209480dae8ffe52626b5d7e/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-21",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260821-e20671fb7c2548799afe6f32ed9e0971-c",
+      "title": "华东能源监管局召开上海市安委会电力安全专委会联络员会议",
+      "url": "https://www.nea.gov.cn/20260821/e20671fb7c2548799afe6f32ed9e0971/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-21",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260821-82ba4fa5f1354779b4a6635a18308213-c",
+      "title": "华中能源监管局党组召开2026年上半年全面从严治党专题会议",
+      "url": "https://www.nea.gov.cn/20260821/82ba4fa5f1354779b4a6635a18308213/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-21",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260821-93094aa329224479874decf7519f49a7-c",
+      "title": "南方能源监管局全力保障平陆大运河绿色工程并网",
+      "url": "https://www.nea.gov.cn/20260821/93094aa329224479874decf7519f49a7/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-21",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260821-5ae2c8402ba34e6e8eac5361f103a059-c",
+      "title": "山西能源监管办完善市场调节机制 保障电力系统灵活高效运行",
+      "url": "https://www.nea.gov.cn/20260821/5ae2c8402ba34e6e8eac5361f103a059/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-21",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260821-874ba45580ba4c4aaea6a6dce953bb82-c",
+      "title": "甘肃能源监管办深入张掖开展“获得电力” 和充电设施保障现场监管",
+      "url": "https://www.nea.gov.cn/20260821/874ba45580ba4c4aaea6a6dce953bb82/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-21",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260821-2a0a1c8a1b4f44e09a5dd1c73eb5e590-c",
+      "title": "新疆能源监管办开展电力市场问题核查 压实发电企业合规交易责任",
+      "url": "https://www.nea.gov.cn/20260821/2a0a1c8a1b4f44e09a5dd1c73eb5e590/c.html",
       "summary": "",
       "publishedAt": "2026-08-21",
       "source": "nea.gov.cn"
@@ -245,14 +253,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260805-6e249e0e560147e3b96e64b79c4b6985-c",
-      "title": "培育壮大绿色燃料产业，加快构建新型能源体系",
-      "url": "https://www.nea.gov.cn/20260805/6e249e0e560147e3b96e64b79c4b6985/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-05",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260803-f90e2bdec3744f3c90898ca65e31e597-c",
       "title": "国家发展改革委 国家能源局关于印发《新型电力系统建设“十五五”规划》的通知",
       "url": "https://www.nea.gov.cn/20260803/f90e2bdec3744f3c90898ca65e31e597/c.html",
@@ -306,14 +306,6 @@
       "url": "https://www.nea.gov.cn/20260730/0a1e9823b7a14e8ba16e82c34b3bea2b/c.html",
       "summary": "",
       "publishedAt": "2026-07-30",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260727-560b4ea8e0254484a08ea551ce54bde2-c",
-      "title": "2026年1—6月全国电力市场交易电量同比增长24.2%",
-      "url": "https://www.nea.gov.cn/20260727/560b4ea8e0254484a08ea551ce54bde2/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-27",
       "source": "nea.gov.cn"
     },
     {
@@ -406,7 +398,7 @@
     }
   ],
   "stats": {
-    "articleCount": 50
+    "articleCount": 49
   },
   "errors": []
 }

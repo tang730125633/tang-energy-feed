@@ -1,9 +1,25 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-08-23T22:28:12+00:00",
+  "generatedAt": "2026-08-24T22:32:58+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-461534",
+      "title": "国家电网电力机器人亮相2026世界机器人大会",
+      "url": "https://www.chinapower.org.cn/detail/461534.html",
+      "summary": "",
+      "publishedAt": "2026-08-24",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-461527",
+      "title": "中国新闻网：塔拉滩十年拓绿：戈壁荒滩变身高原绿电产业高地",
+      "url": "https://www.chinapower.org.cn/detail/461527.html",
+      "summary": "",
+      "publishedAt": "2026-08-24",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-461505",
       "title": "2026年7月全国电力消费系列指数（CNECI）情况",
@@ -14,7 +30,7 @@
     }
   ],
   "stats": {
-    "articleCount": 1
+    "articleCount": 3
   },
   "errors": []
 }

@@ -1,9 +1,41 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-23T22:27:49+00:00",
+  "generatedAt": "2026-08-24T22:32:38+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-4828bbb307ab",
+      "title": "2026年电力信息通信新技术大会在广东惠州召开",
+      "url": "https://www.xinhuanet.com/energy/20260824/4828bbb307ab4fa8a84bc0a4f8ae396c/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-24",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-0eb640b31f3e",
+      "title": "霍尔果斯压气首站累计输送天然气突破6000亿立方米",
+      "url": "https://www.xinhuanet.com/energy/20260824/0eb640b31f3e466d81dbb125b81f0bde/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-24",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-ae1092cbe138",
+      "title": "沙海之上 看大型储能如何落地实践——走进磴口储能电站",
+      "url": "https://www.xinhuanet.com/energy/20260824/ae1092cbe138402a9455a189d78f6a4a/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-24",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-f6797ade62b5",
+      "title": "为煤炭产业划定“进”的路径",
+      "url": "https://www.xinhuanet.com/energy/20260824/f6797ade62b541cd8816b390d0a92897/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-24",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-fd2544841f92",
       "title": "江苏光伏发电累计装机容量突破1亿千瓦",
@@ -22,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 6
   },
   "errors": []
 }

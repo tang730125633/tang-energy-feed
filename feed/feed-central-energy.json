@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:28:12+00:00",
+  "generatedAt": "2026-08-24T22:32:58+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,15 +11,6 @@
     "湖南"
   ],
   "articles": [
-    {
-      "id": "china5e-1208090",
-      "title": "武汉天源拟4.04亿元投建100MW/400MWh储能电站",
-      "url": "https://www.china5e.com/news/news-1208090-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "china5e.com",
-      "province": "湖北"
-    },
     {
       "id": "nea-20260821-82ba4fa5f1354779b4a6635a18308213-c",
       "title": "华中能源监管局党组召开2026年上半年全面从严治党专题会议",
@@ -39,41 +30,21 @@
       "province": "安徽"
     },
     {
-      "id": "cpnn-t20260819_1909570",
-      "title": "大唐湖北新能源事业部：“12A”场站井喷解码提质之道",
-      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202608/t20260819_1909570.html",
+      "id": "china5e-1208147",
+      "title": "内蒙古鄂托克前旗首个源网荷储一体化新能源项目正式开工!",
+      "url": "https://www.china5e.com/news/news-1208147-1.html",
       "summary": "",
-      "publishedAt": "2026-08-19",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "china5e-1207908",
-      "title": "湖南举报生态环境违法行为奖励升级",
-      "url": "https://www.china5e.com/news/news-1207908-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-18",
+      "publishedAt": null,
       "source": "china5e.com",
-      "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260818_1909270",
-      "title": "国网江西电力：“人员画像”赋能安全管理提质增效",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202608/t20260818_1909270.html",
-      "summary": "",
-      "publishedAt": "2026-08-18",
-      "source": "cpnn.com.cn",
-      "province": "江西"
+      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 6,
+    "totalArticles": 3,
     "byProvince": {
-      "湖北": 2,
       "华中": 1,
       "安徽": 1,
-      "湖南": 1,
-      "江西": 1
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
