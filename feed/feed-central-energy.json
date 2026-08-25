@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:32:58+00:00",
+  "generatedAt": "2026-08-25T22:33:53+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,27 +12,63 @@
   ],
   "articles": [
     {
-      "id": "nea-20260821-82ba4fa5f1354779b4a6635a18308213-c",
-      "title": "华中能源监管局党组召开2026年上半年全面从严治党专题会议",
-      "url": "https://www.nea.gov.cn/20260821/82ba4fa5f1354779b4a6635a18308213/c.html",
+      "id": "china5e-1208237",
+      "title": "鄂尔多斯：探路能源转型“第二曲线”",
+      "url": "https://www.china5e.com/news/news-1208237-1.html",
       "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "nea.gov.cn",
-      "province": "华中"
+      "publishedAt": "2026-08-25",
+      "source": "china5e.com",
+      "province": "湖北"
     },
     {
-      "id": "cpnn-t20260820_1909832",
-      "title": "国网安徽电力：为虚拟电厂全生命周期“建体系、优服务”",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202608/t20260820_1909832.html",
+      "id": "cpnn-t20260825_1910783",
+      "title": "武汉蔚能电池成立新能源技术公司 含AI业务",
+      "url": "https://www.cpnn.com.cn/news/nyqy/202608/t20260825_1910783.html",
       "summary": "",
-      "publishedAt": "2026-08-20",
+      "publishedAt": "2026-08-25",
       "source": "cpnn.com.cn",
-      "province": "安徽"
+      "province": "湖北"
     },
     {
-      "id": "china5e-1208147",
-      "title": "内蒙古鄂托克前旗首个源网荷储一体化新能源项目正式开工!",
-      "url": "https://www.china5e.com/news/news-1208147-1.html",
+      "id": "cpnn-t20260825_1910709",
+      "title": "大唐河南清洁能源公司解锁风场运维“智慧”模式",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202608/t20260825_1910709.html",
+      "summary": "",
+      "publishedAt": "2026-08-25",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260825_1910715",
+      "title": "国网武汉供电：电力护航 全力保障垂钓大赛供电",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202608/t20260825_1910715.html",
+      "summary": "",
+      "publishedAt": "2026-08-25",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260825_1910708",
+      "title": "大唐河南清洁能源公司：“五小”成果创佳绩",
+      "url": "https://www.cpnn.com.cn/qiye/rongyu/202608/t20260825_1910708.html",
+      "summary": "",
+      "publishedAt": "2026-08-25",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260825-0a0c72c5461d47f292ad5710814c8a83-c",
+      "title": "华中能源监管局服务保障闽赣联网重点工程建设",
+      "url": "https://www.nea.gov.cn/20260825/0a0c72c5461d47f292ad5710814c8a83/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-25",
+      "source": "nea.gov.cn",
+      "province": "江西"
+    },
+    {
+      "id": "china5e-1208210",
+      "title": "鄂托克前旗首个源网荷储一体化新能源项目正式开工!",
+      "url": "https://www.china5e.com/news/news-1208210-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
@@ -40,11 +76,11 @@
     }
   ],
   "stats": {
-    "totalArticles": 3,
+    "totalArticles": 7,
     "byProvince": {
-      "华中": 1,
-      "安徽": 1,
-      "湖北": 1
+      "湖北": 4,
+      "河南": 2,
+      "江西": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

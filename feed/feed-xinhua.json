@@ -1,9 +1,41 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-24T22:32:38+00:00",
+  "generatedAt": "2026-08-25T22:33:08+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-6a82acd7d880",
+      "title": "光伏重塑全球粮食供应韧性——隆基绿能COP17发布粮食安全解决方案",
+      "url": "https://www.xinhuanet.com/energy/20260825/6a82acd7d880431a8b1c94727e7aedef/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-25",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-fcad547e97d5",
+      "title": "2026年服贸会环境与能源服务专题更名升级 将于9月亮相首钢园",
+      "url": "https://www.xinhuanet.com/energy/20260825/fcad547e97d5490797c2bdbc71fc104b/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-25",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-4a5a0191925f",
+      "title": "电动汽车充电基础设施增41.9%",
+      "url": "https://www.xinhuanet.com/energy/20260825/4a5a0191925f4bbd93a9ea026b5ca14f/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-25",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-26f2e1641fa1",
+      "title": "福建长泰：绿电赋能，绘就文旅融合新画卷",
+      "url": "https://www.xinhuanet.com/energy/20260825/26f2e1641fa1496cb8898e595828f7ee/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-25",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-4828bbb307ab",
       "title": "2026年电力信息通信新技术大会在广东惠州召开",
@@ -27,34 +59,10 @@
       "summary": "",
       "publishedAt": "2026-08-24",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-f6797ade62b5",
-      "title": "为煤炭产业划定“进”的路径",
-      "url": "https://www.xinhuanet.com/energy/20260824/f6797ade62b541cd8816b390d0a92897/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-24",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-fd2544841f92",
-      "title": "江苏光伏发电累计装机容量突破1亿千瓦",
-      "url": "https://www.xinhuanet.com/energy/20260821/fd2544841f924069be41b957de992979/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-c4bf7255a2ea",
-      "title": "中国电力、中电国际获穆迪“A1/稳定”、标普“A/稳定”国际信用评级",
-      "url": "https://www.xinhuanet.com/energy/20260821/c4bf7255a2ea4c748ca839f734964e00/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 7
   },
   "errors": []
 }
