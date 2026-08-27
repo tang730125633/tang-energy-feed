@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-08-25T22:32:54+00:00",
+  "generatedAt": "2026-08-27T03:01:51+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260826-ec18dac54d4f4e26a6a5e5fcca27e74f-c",
+      "title": "国家能源局发布2026年7月全国可再生能源绿色电力证书核发及交易数据",
+      "url": "https://www.nea.gov.cn/20260826/ec18dac54d4f4e26a6a5e5fcca27e74f/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-26",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260825-460d75dc3d434bdcabb797a92291b6b0-c",
       "title": "国家能源局召开第二届中国—国际可再生能源署合作专项工作组启动会",
@@ -61,6 +69,14 @@
       "source": "nea.gov.cn"
     },
     {
+      "id": "nea-20260825-c3d9ccf143ce4c37a0fc748fb1d6f69f-c",
+      "title": "亚太经合组织第三次高官会“亚太合作能源角”系列活动成功举办",
+      "url": "https://www.nea.gov.cn/20260825/c3d9ccf143ce4c37a0fc748fb1d6f69f/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-25",
+      "source": "nea.gov.cn"
+    },
+    {
       "id": "nea-20260825-a9c310e86c894e7580310e8568054d86-c",
       "title": "南方能源监管局推进广东省非电网直供电小区用电问题治理",
       "url": "https://www.nea.gov.cn/20260825/a9c310e86c894e7580310e8568054d86/c.html",
@@ -88,38 +104,6 @@
       "id": "nea-20260825-0c52ed6601a44b508e18d50d736afca6-c",
       "title": "江苏能源监管办赴南通开展高质量供电服务现场监管",
       "url": "https://www.nea.gov.cn/20260825/0c52ed6601a44b508e18d50d736afca6/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260825-432c6a6c590c4b5ea62a09afae81ea07-c",
-      "title": "福建能源监管办党组召开理论学习中心组学习（扩大）会议专题学习研讨习近平党建思想",
-      "url": "https://www.nea.gov.cn/20260825/432c6a6c590c4b5ea62a09afae81ea07/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260825-56ed34cfc708491cbe919acb2ec2dd63-c",
-      "title": "四川能源监管办召开2026年四川电力安全生产联席会办公室暨电力安全风险管控工作会议",
-      "url": "https://www.nea.gov.cn/20260825/56ed34cfc708491cbe919acb2ec2dd63/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260825-69e5c745a871436ba63102092ff8aaf1-c",
-      "title": "贵州能源监管办赴黔南抽水蓄能电站开展重大项目推进暨重大隐患排查整治督导",
-      "url": "https://www.nea.gov.cn/20260825/69e5c745a871436ba63102092ff8aaf1/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260825-c3d9ccf143ce4c37a0fc748fb1d6f69f-c",
-      "title": "亚太经合组织第三次高官会“亚太合作能源角”系列活动成功举办",
-      "url": "https://www.nea.gov.cn/20260825/c3d9ccf143ce4c37a0fc748fb1d6f69f/c.html",
       "summary": "",
       "publishedAt": "2026-08-25",
       "source": "nea.gov.cn"
@@ -406,7 +390,7 @@
     }
   ],
   "stats": {
-    "articleCount": 50
+    "articleCount": 48
   },
   "errors": []
 }

@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-25T22:33:08+00:00",
+  "generatedAt": "2026-08-27T03:02:07+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-eef7c4f8d5cb",
+      "title": "国家电网有限公司助力国家“十五五”碳达峰目标实现若干举措",
+      "url": "https://www.xinhuanet.com/energy/20260826/eef7c4f8d5cb4b708cd914db626b492e/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-26",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-94fd8f256801",
+      "title": "工业和信息化部绿色低碳标准化技术委员会成立",
+      "url": "https://www.xinhuanet.com/energy/20260826/94fd8f25680143d6b6e1a5aa51e6dd56/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-26",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-6a82acd7d880",
       "title": "光伏重塑全球粮食供应韧性——隆基绿能COP17发布粮食安全解决方案",
@@ -35,34 +51,10 @@
       "summary": "",
       "publishedAt": "2026-08-25",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-4828bbb307ab",
-      "title": "2026年电力信息通信新技术大会在广东惠州召开",
-      "url": "https://www.xinhuanet.com/energy/20260824/4828bbb307ab4fa8a84bc0a4f8ae396c/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-24",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-0eb640b31f3e",
-      "title": "霍尔果斯压气首站累计输送天然气突破6000亿立方米",
-      "url": "https://www.xinhuanet.com/energy/20260824/0eb640b31f3e466d81dbb125b81f0bde/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-24",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-ae1092cbe138",
-      "title": "沙海之上 看大型储能如何落地实践——走进磴口储能电站",
-      "url": "https://www.xinhuanet.com/energy/20260824/ae1092cbe138402a9455a189d78f6a4a/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-24",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 6
   },
   "errors": []
 }

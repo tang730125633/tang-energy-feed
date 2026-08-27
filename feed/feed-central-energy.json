@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:33:53+00:00",
+  "generatedAt": "2026-08-27T03:02:28+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,20 +12,20 @@
   ],
   "articles": [
     {
-      "id": "china5e-1208237",
-      "title": "鄂尔多斯：探路能源转型“第二曲线”",
-      "url": "https://www.china5e.com/news/news-1208237-1.html",
+      "id": "cpnn-t20260826_1910973",
+      "title": "大唐湖北新能源事业部：新员工志愿服务走进国家级自然保护区",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202608/t20260826_1910973.html",
       "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "china5e.com",
+      "publishedAt": "2026-08-26",
+      "source": "cpnn.com.cn",
       "province": "湖北"
     },
     {
-      "id": "cpnn-t20260825_1910783",
-      "title": "武汉蔚能电池成立新能源技术公司 含AI业务",
-      "url": "https://www.cpnn.com.cn/news/nyqy/202608/t20260825_1910783.html",
+      "id": "cpnn-t20260826_1911000",
+      "title": "国网武汉供电：严把投产验收关口 筑牢夏日电力保障",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202608/t20260826_1911000.html",
       "summary": "",
-      "publishedAt": "2026-08-25",
+      "publishedAt": "2026-08-26",
       "source": "cpnn.com.cn",
       "province": "湖北"
     },
@@ -37,15 +37,6 @@
       "publishedAt": "2026-08-25",
       "source": "cpnn.com.cn",
       "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260825_1910715",
-      "title": "国网武汉供电：电力护航 全力保障垂钓大赛供电",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202608/t20260825_1910715.html",
-      "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
     },
     {
       "id": "cpnn-t20260825_1910708",
@@ -64,21 +55,12 @@
       "publishedAt": "2026-08-25",
       "source": "nea.gov.cn",
       "province": "江西"
-    },
-    {
-      "id": "china5e-1208210",
-      "title": "鄂托克前旗首个源网荷储一体化新能源项目正式开工!",
-      "url": "https://www.china5e.com/news/news-1208210-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 5,
     "byProvince": {
-      "湖北": 4,
+      "湖北": 2,
       "河南": 2,
       "江西": 1
     }
