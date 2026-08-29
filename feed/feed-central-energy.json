@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T03:02:28+00:00",
+  "generatedAt": "2026-08-29T03:36:43+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,31 +12,49 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260826_1910973",
-      "title": "大唐湖北新能源事业部：新员工志愿服务走进国家级自然保护区",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202608/t20260826_1910973.html",
+      "id": "china5e-1208431",
+      "title": "郑州煤电上半年煤炭产量286万吨 同比下降22.28%",
+      "url": "https://www.china5e.com/news/news-1208431-1.html",
       "summary": "",
-      "publishedAt": "2026-08-26",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260826_1911000",
-      "title": "国网武汉供电：严把投产验收关口 筑牢夏日电力保障",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202608/t20260826_1911000.html",
-      "summary": "",
-      "publishedAt": "2026-08-26",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260825_1910709",
-      "title": "大唐河南清洁能源公司解锁风场运维“智慧”模式",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202608/t20260825_1910709.html",
-      "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "cpnn.com.cn",
+      "publishedAt": "2026-08-28",
+      "source": "china5e.com",
       "province": "河南"
+    },
+    {
+      "id": "nea-20260828-9593239efbd9491b8f2d0f7a1db4d3ca-c",
+      "title": "华中能源监管局以正确政绩观践行监管为民 督导供电服务赋能特色农业发展",
+      "url": "https://www.nea.gov.cn/20260828/9593239efbd9491b8f2d0f7a1db4d3ca/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-28",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
+      "id": "nea-20260828-6a231a9bdbfb4e388c44dbe41ce6b692-c",
+      "title": "河南能源监管办组织召开全省电力安委会办公室第三次联席会议",
+      "url": "https://www.nea.gov.cn/20260828/6a231a9bdbfb4e388c44dbe41ce6b692/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-28",
+      "source": "nea.gov.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260828-65da7a6f30ad4e7c8b0270d2681800f4-c",
+      "title": "湖南能源监管办开展跨省跨区大电网安全生产风险专项检查",
+      "url": "https://www.nea.gov.cn/20260828/65da7a6f30ad4e7c8b0270d2681800f4/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-28",
+      "source": "nea.gov.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "nea-20260828-1da6d8264f0d4b20b67e0b6a054514b8-c",
+      "title": "华中能源监管局召开2026年年中党建工作会议",
+      "url": "https://www.nea.gov.cn/20260828/1da6d8264f0d4b20b67e0b6a054514b8/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-28",
+      "source": "nea.gov.cn",
+      "province": "华中"
     },
     {
       "id": "cpnn-t20260825_1910708",
@@ -48,21 +66,22 @@
       "province": "河南"
     },
     {
-      "id": "nea-20260825-0a0c72c5461d47f292ad5710814c8a83-c",
-      "title": "华中能源监管局服务保障闽赣联网重点工程建设",
-      "url": "https://www.nea.gov.cn/20260825/0a0c72c5461d47f292ad5710814c8a83/c.html",
+      "id": "china5e-1208411",
+      "title": "湖北省第一个虚拟电厂直投10kV工商业储能项目今日正式并网!",
+      "url": "https://www.china5e.com/news/news-1208411-1.html",
       "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "nea.gov.cn",
-      "province": "江西"
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 5,
+    "totalArticles": 7,
     "byProvince": {
-      "湖北": 2,
-      "河南": 2,
-      "江西": 1
+      "河南": 3,
+      "华中": 2,
+      "湖南": 1,
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

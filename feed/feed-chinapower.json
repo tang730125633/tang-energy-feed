@@ -1,11 +1,36 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-08-27T03:02:28+00:00",
+  "generatedAt": "2026-08-29T03:36:42+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "chinapower-461757",
+      "title": "南方电网全面开展配电网“强网架、补短板”攻坚三年行动 加快打造新型配电系统",
+      "url": "https://www.chinapower.org.cn/detail/461757.html",
+      "summary": "",
+      "publishedAt": "2026-08-28",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-461756",
+      "title": "2026数博会场馆将实现100%绿电供应",
+      "url": "https://www.chinapower.org.cn/detail/461756.html",
+      "summary": "",
+      "publishedAt": "2026-08-28",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-461753",
+      "title": "青海新型电力系统科研实证基地建成投运",
+      "url": "https://www.chinapower.org.cn/detail/461753.html",
+      "summary": "",
+      "publishedAt": "2026-08-28",
+      "source": "chinapower.org.cn"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 3
   },
   "errors": []
 }
