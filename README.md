@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="tang-energy-feed：能源新闻与长江铜价汇入 JSON feed，再供脚本或飞书消费的流程图">
+  <img src="./assets/readme/hero-zel-v1.webp" width="100%" alt="Zel and the orange cat reviewing energy sources, copper signals, daily stories, and visible source failures">
 </p>
 
 # tang-energy-feed
