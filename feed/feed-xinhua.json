@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-30T00:01:02+00:00",
+  "generatedAt": "2026-08-31T00:20:27+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-b62f3fad2271",
+      "title": "国网西藏电力点亮吉隆道路抢通线现场",
+      "url": "https://www.xinhuanet.com/energy/20260830/b62f3fad2271428fb8c638352008ce4e/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-30",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-dcdf803f3d05",
       "title": "鹏辉能源上半年收入破百亿 户储电芯全球市占率28%",
@@ -19,66 +27,10 @@
       "summary": "",
       "publishedAt": "2026-08-28",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-d40924928a2e",
-      "title": "国家电网成功发行100亿元全国首单“新型电网”专项科创债券",
-      "url": "https://www.xinhuanet.com/energy/20260827/d40924928a2e4d7aa09868cade257eff/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-af0895d4f3f5",
-      "title": "电力之光·国网科普｜技术底座",
-      "url": "https://www.xinhuanet.com/energy/20260827/af0895d4f3f5465d889dee14d18f4cbe/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-7c039eb8fae4",
-      "title": "始终在线的电力守护 托举起唐山产业腾飞与万家灯火——国网唐山供电公司守护产业与民生发展",
-      "url": "https://www.xinhuanet.com/energy/20260827/7c039eb8fae4494fac78f6df70ff243b/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-2a1855d3f8a6",
-      "title": "黑河—大庆天然气管道正式开工 推动形成“北气南下”双通道 提升年输气能力100亿方",
-      "url": "https://www.xinhuanet.com/energy/20260827/2a1855d3f8a64af29a5c6a51c3a94df6/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-7a1323e174c6",
-      "title": "“十五五”国家电网跨省区输电能力将达到5亿千瓦",
-      "url": "https://www.xinhuanet.com/energy/20260827/7a1323e174c64fb38f097c10bc4776e8/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-363adf057ada",
-      "title": "中国石油塔里木油田累计发出绿电突破55亿千瓦时",
-      "url": "https://www.xinhuanet.com/energy/20260827/363adf057ada404bb7eac27c4a477ffb/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-33cbc947a469",
-      "title": "截至7月底全国累计发电装机容量增长11%",
-      "url": "https://www.xinhuanet.com/energy/20260827/33cbc947a4694f278820f1e96cc6d6d0/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 9
+    "articleCount": 3
   },
   "errors": []
 }

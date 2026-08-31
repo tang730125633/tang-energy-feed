@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T00:01:26+00:00",
+  "generatedAt": "2026-08-31T00:20:52+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,15 +11,6 @@
     "湖南"
   ],
   "articles": [
-    {
-      "id": "china5e-1208431",
-      "title": "郑州煤电上半年煤炭产量286万吨 同比下降22.28%",
-      "url": "https://www.china5e.com/news/news-1208431-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com",
-      "province": "河南"
-    },
     {
       "id": "nea-20260828-9593239efbd9491b8f2d0f7a1db4d3ca-c",
       "title": "华中能源监管局以正确政绩观践行监管为民 督导供电服务赋能特色农业发展",
@@ -64,24 +55,14 @@
       "publishedAt": "2026-08-25",
       "source": "cpnn.com.cn",
       "province": "河南"
-    },
-    {
-      "id": "china5e-1208411",
-      "title": "湖北省第一个虚拟电厂直投10kV工商业储能项目今日正式并网!",
-      "url": "https://www.china5e.com/news/news-1208411-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 5,
     "byProvince": {
-      "河南": 3,
       "华中": 2,
-      "湖南": 1,
-      "湖北": 1
+      "河南": 2,
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

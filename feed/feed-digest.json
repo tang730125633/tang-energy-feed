@@ -1,295 +1,78 @@
 {
-  "generatedAt": "2026-08-30T00:01:26+00:00",
+  "generatedAt": "2026-08-31T00:20:52+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-08-29T23:11:04+00:00",
+      "generatedAt": "2026-08-30T23:20:06+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-08-30T00:01:01+00:00",
-      "articleCount": 49,
-      "hasErrors": false
+      "generatedAt": "2026-08-31T00:20:26+00:00",
+      "articleCount": 0,
+      "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-08-30T00:01:26+00:00",
-      "articleCount": 3,
+      "generatedAt": "2026-08-31T00:20:52+00:00",
+      "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-08-30T00:00:51+00:00",
+      "generatedAt": "2026-08-31T00:20:16+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-08-30T00:00:48+00:00",
+      "generatedAt": "2026-08-31T00:20:13+00:00",
       "articleCount": 83,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-08-30T00:00:58+00:00",
+      "generatedAt": "2026-08-31T00:20:23+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-08-29T23:11:12+00:00",
+      "generatedAt": "2026-08-30T23:20:14+00:00",
       "articleCount": 3,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-08-30T00:00:49+00:00",
+      "generatedAt": "2026-08-31T00:20:14+00:00",
       "articleCount": 50,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-08-30T00:01:02+00:00",
-      "articleCount": 9,
+      "generatedAt": "2026-08-31T00:20:27+00:00",
+      "articleCount": 3,
       "hasErrors": false
     }
   ],
   "articles": [
     {
-      "id": "china5e-1208467",
-      "title": "【央广网】远光软件发布两大产品 赋能企业数智化转型",
-      "url": "https://www.china5e.com/news/news-1208467-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-29",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208466",
-      "title": "远光填单智能体：让填单像聊天一样简单",
-      "url": "https://www.china5e.com/news/news-1208466-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-29",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208465",
-      "title": "PLUS企业会员体系升级，京东成为国内最大的中小企业采购服务平台",
-      "url": "https://www.china5e.com/news/news-1208465-1.html",
-      "summary": "中小企业采购过去是门“苦差事”，比价要翻十几家网站，对账要催七八个销售，物流还得自己盯，最后还可能花不少冤枉钱。但现在，10万家企业选择了一种更省心的方式——京东“PLUS企业会员”。",
-      "publishedAt": "2026-08-29",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208468",
-      "title": "重庆云阳:社会责任月开放日架起企民“连心桥”",
-      "url": "https://www.china5e.com/news/news-1208468-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-29",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208469",
-      "title": "重庆石柱：石柱县首个用户侧储能电站过审！新能源“削峰填谷”模式落地工业园区",
-      "url": "https://www.china5e.com/news/news-1208469-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-29",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208464",
-      "title": "中裕能源公布2026年中期业绩 城燃主业稳扎稳打 生物质零碳业务整合突破",
-      "url": "https://www.china5e.com/news/news-1208464-1.html",
-      "summary": "2026上半年，面对地缘政治风险加剧、国际油气价格波动放大、内需修复偏缓的复杂经营环境，中裕能源精耕城燃主业，壮大智慧能源业务新兴动能，积极拥抱数智化转型，以经营韧性应对市场波动，以管理提质驱动效益增长，在行业变革中持续迈向高质量发展。",
-      "publishedAt": "2026-08-29",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208436",
-      "title": "全产品矩阵覆盖全场景应用｜维谛技术（Vertiv）为智能制造发展全程护航",
-      "url": "https://www.china5e.com/news/news-1208436-1.html",
-      "summary": "随着全球各国相继将智能制造上升为国家战略，从工业1.0的机械化到如今工业4.0的智能化进阶，算力底座的性能上限，正在定义整个高端制造产业的发展边界。",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208435",
-      "title": "Bitcoin Asia 2026峰会Auricore机构RWA落地方案成为焦点",
-      "url": "https://www.china5e.com/news/news-1208435-1.html",
-      "summary": "2026年8月26日-28日，香港会议展览中心（HKCEC）举办的是亚洲规模最大的比特币原生峰会——Bitcoin Asia 2026 本届大会同时吸引全球数千名参会者与行业领先机构，共同探讨Auricore机构节点AUT生态、RWA资产通证化及数字资产监管趋势等核心议题。",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208456",
-      "title": "国网甘谷县供电公司：清单化监督落地见效 闭环式管控守护电网施工安全",
-      "url": "https://www.china5e.com/news/news-1208456-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208451",
-      "title": "调研用电需求 共绘区域绿电发展蓝图",
-      "url": "https://www.china5e.com/news/news-1208451-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208450",
-      "title": "带电立杆保供电 蓝黄相映绘初心",
-      "url": "https://www.china5e.com/news/news-1208450-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208448",
-      "title": "国网魏县供电公司：政策宣传进万家 办好群众用电实事",
-      "url": "https://www.china5e.com/news/news-1208448-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208458",
-      "title": "直击巴西展丨昱能APstorage全场景储能方案实力亮相",
-      "url": "https://www.china5e.com/news/news-1208458-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208457",
-      "title": "尊界双旗舰亮相成都车展，以极致匠心工艺诠释超豪华出行的中国答案",
-      "url": "https://www.china5e.com/news/news-1208457-1.html",
-      "summary": "在尊界S800 Grand Design典藏大观面前，传统的“豪华三件套”显得苍白。这台以东方美学为灵魂的作品，将设计主题拆解成肉眼可见、指尖可感的微观战场。“旭日曜金”专属车色只是序章，真正的故事发生在车厢内部。",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208455",
-      "title": "阳光电源海外储能再落大单！戴乐克大型储能柜锁闭系统、铰链、气弹簧及密封解决方案",
-      "url": "https://www.china5e.com/news/news-1208455-1.html",
-      "summary": "从欧洲到拉美，大型储能项目不断落地，也意味着中国储能设备正在面对更加多样的海外环境与长期运行要求。",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208452",
-      "title": "充电桩源头厂家直供平台 | 一次找对厂家，省心省力",
-      "url": "https://www.china5e.com/news/news-1208452-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208438",
-      "title": "华北油田公司采油四厂“心灵SPA”精准护航员工心理健康",
-      "url": "https://www.china5e.com/news/news-1208438-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208422",
-      "title": "高盛估计海湾地区的石油出口量为每日1,500万至1,600万桶",
-      "url": "https://www.china5e.com/news/news-1208422-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208454",
-      "title": "冀中能源股份有限公司东庞矿加快重点项目建设夯基蓄力",
-      "url": "https://www.china5e.com/news/news-1208454-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208432",
-      "title": "潞安环能上半年净利润17.78亿元 同比增长31.85%",
-      "url": "https://www.china5e.com/news/news-1208432-1.html",
-      "summary": "潞安环能8月26日披露2026年半年度报告。2026年上半年，公司实现营业总收入150.1亿元，同比增长6.68%;归母净利润17.78亿元，同比增长31.85%;扣非净利润17.17亿元，同比增长49.66%。基本每股收益0.59元。",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208431",
-      "title": "郑州煤电上半年煤炭产量286万吨 同比下降22.28%",
-      "url": "https://www.china5e.com/news/news-1208431-1.html",
-      "summary": "郑州煤电8月24日晚间披露半年报，公司上半年实现营业收入14.08亿元，同比下降23.40%;归属于上市公司股东的净利润亏损3.39亿元，上年同期亏损2.24亿元;基本每股收益-0.2782元/股。",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com",
-      "province": "河南"
-    },
-    {
-      "id": "china5e-1208430",
-      "title": "国内双焦强势上行 新疆焦煤联动涨价",
-      "url": "https://www.china5e.com/news/news-1208430-1.html",
-      "summary": "近期国内炼焦煤市场强势上行，带动新疆产区焦煤线上竞拍价格持续走高。新疆地区某煤矿：8月24日竞拍销售焦煤(粘结≥80，V≤41)竞拍底价765元/吨，最终成交溢价156元/吨;8月25日该矿焦煤起拍价在上日基础上上调135元/吨。除坑口煤价大幅上涨外，新疆拜城地区汽运运费同步走高",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208429",
-      "title": "2026年1-7月份全国规模以上分省区原煤产量数据发布",
-      "url": "https://www.china5e.com/news/news-1208429-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208425",
-      "title": "生态环境部：7月全国空气质量持续改善",
-      "url": "https://www.china5e.com/news/news-1208425-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208423",
-      "title": "生态环境保护迈入“法典化”时代",
-      "url": "https://www.china5e.com/news/news-1208423-1.html",
-      "summary": "中国企业投资协会、清华大学创新发展研究院、中国能源研究会分布式能源专业委员会与中国能源网共同举办的--> “2017（第十三届）中国能源战略投资论坛暨'我能'创新火炬奖颁奖典礼”--> http://www.china5e.com/subject/show_1061.html",
-      "publishedAt": "2026-08-28",
-      "source": "china5e.com"
-    },
-    {
-      "id": "chinapower-461757",
-      "title": "南方电网全面开展配电网“强网架、补短板”攻坚三年行动 加快打造新型配电系统",
-      "url": "https://www.chinapower.org.cn/detail/461757.html",
-      "summary": "配电网是群众从“用上电”到“用好电”的关键环节。《新型电力系统建设“十五五”规划》提出，“打造坚强韧性配电系统”“提升城乡居民用电保障水平”。",
-      "publishedAt": "2026-08-28",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-461756",
-      "title": "2026数博会场馆将实现100%绿电供应",
-      "url": "https://www.chinapower.org.cn/detail/461756.html",
-      "summary": "南网报讯（杨志坚） 2026年中国国际大数据产业博览会（以下简称“数博会”）开幕在即，南方电网公司以“科技+绿色”双轮驱动，全力筑牢供电保障防线。数博会所有场馆将实现100%绿电供应，数字化、智能化保电体系全面就位，让大会用电更从容、更清洁。",
-      "publishedAt": "2026-08-28",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-461753",
-      "title": "青海新型电力系统科研实证基地建成投运",
-      "url": "https://www.chinapower.org.cn/detail/461753.html",
-      "summary": "新华社西宁8月27日电（记者解统强）记者从国家电网青海省电力公司获悉，位于青海省海南藏族自治州贵南县、海拔3100米的新型电力系统科研实证基地8月27日建成投运，为我国高海拔、高比例新能源并网技术创新提供实证支撑。",
-      "publishedAt": "2026-08-28",
-      "source": "chinapower.org.cn"
+      "id": "xinhua-b62f3fad2271",
+      "title": "国网西藏电力点亮吉隆道路抢通线现场",
+      "url": "https://www.xinhuanet.com/energy/20260830/b62f3fad2271428fb8c638352008ce4e/c.html",
+      "summary": "8月29日，按照西藏日喀则市吉隆县吉隆口岸“8·26”泥石流灾害前方指挥部统一部署，国网西藏电力迅速响应，抢抓抢修窗口期，组织精干力量，安装应急变压器，迅速将稳定市电接入消防应急前方指挥部和通信基站。同时，该公司调配专业照明设备，全力保障中国安能对G216国道损毁路段抢通作业的夜",
+      "publishedAt": "2026-08-30",
+      "source": "xinhuanet.com"
     },
     {
       "id": "cpnn-t20260828_1911656",
@@ -311,7 +94,7 @@
       "id": "cpnn-t20260828_1911428",
       "title": "华北能源监管局赴内蒙古呼伦贝尔开展调研",
       "url": "https://www.cpnn.com.cn/news/nyjg/202608/t20260828_1911428.html",
-      "summary": "",
+      "summary": "为深入了解蒙东地区能源供应和民生用电服务保障情况，赋能蒙东地区能源高质量发展，近期，华北能源监管局有关负责同志带队赴内蒙古呼伦贝尔市开展能源保供和“获得电力”专项调研。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -319,7 +102,7 @@
       "id": "cpnn-t20260828_1911429",
       "title": "中国汽车市场迈入“新能源主导”新阶段",
       "url": "https://www.cpnn.com.cn/news/xny/202608/t20260828_1911429.html",
-      "summary": "",
+      "summary": "中国的汽车市场已经全面进入“新能源主导”新阶段。今年以来，新能源汽车零售渗透率连续4个月超过60%，这意味着每卖出3辆新车，就有2辆是新能源车。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -327,7 +110,7 @@
       "id": "cpnn-t20260828_1911442",
       "title": "中国华能全力做好西藏吉隆口岸抢险救灾保障及电力保供工作",
       "url": "https://www.cpnn.com.cn/news/nyqy/202608/t20260828_1911442.html",
-      "summary": "",
+      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -335,7 +118,7 @@
       "id": "cpnn-t20260828_1911441",
       "title": "5家电力上市公司年中业绩披露",
       "url": "https://www.cpnn.com.cn/news/nyqy/202608/t20260828_1911441.html",
-      "summary": "",
+      "summary": "东方电气（600875）发布2026年中报显示，公司上半年实现营业总收入386.24亿元，同比增长1.24%；归母净利润27.13亿元，同比增长42.07%。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -343,7 +126,7 @@
       "id": "cpnn-t20260828_1911436",
       "title": "中原油田今年以来绿电发电达2.5亿千瓦时",
       "url": "https://www.cpnn.com.cn/news/nyqy/202608/t20260828_1911436.html",
-      "summary": "",
+      "summary": "今年以来，中原油田加快推进光伏、风电产业规模化、效益化发展。截至8月25日，风光发电量达2.5亿千瓦时。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -351,7 +134,7 @@
       "id": "cpnn-t20260828_1911426",
       "title": "东方电气集团走访中国华电、国家能源集团",
       "url": "https://www.cpnn.com.cn/news/nyqy/202608/t20260828_1911426.html",
-      "summary": "",
+      "summary": "8月26日至27日，东方电气集团总经理、党组副书记张彦军，党组成员、副总经理王军先后到中国华电集团有限公司、国家能源投资集团有限责任公司开展交流活动。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -359,7 +142,7 @@
       "id": "cpnn-t20260828_1911424",
       "title": "三峡能源：上半年净利润12.19亿元，同比下降68.05%",
       "url": "https://www.cpnn.com.cn/news/nyqy/202608/t20260828_1911424.html",
-      "summary": "",
+      "summary": "三峡能源(600905)8月27日披露半年报，2026年上半年，公司实现营业收入133.57亿元，同比下降9.36%；归属于上市公司股东的净利润12.19亿元，同比下降68.05%；基本每股收益0.0426元。报告期内，公司新增并网装机36.12万千瓦，其中风电新增并网9.97万",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -367,7 +150,7 @@
       "id": "cpnn-t20260828_1911655",
       "title": "国产核级树脂全面验证可用——核电关键水处理材料实现自主可控",
       "url": "https://www.cpnn.com.cn/news/kj/202608/t20260828_1911655.html",
-      "summary": "",
+      "summary": "2026年8月，中国广核集团（以下简称中广核）牵头研发的五款核级树脂产品已全部投入工程应用，在大亚湾、宁德、阳江、台山、红沿河等核电站累计使用12批次。其中，首款产品已在核电站APG系统（蒸汽发生器排污系统）稳定运行超3年，关键性能指标全面优于进口同类产品。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -375,7 +158,7 @@
       "id": "cpnn-t20260828_1911489",
       "title": "大唐田家庵发电公司聚力常态化精准帮扶",
       "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202608/t20260828_1911489.html",
-      "summary": "",
+      "summary": "中国能源新闻网讯（李军）今年以来，大唐安徽淮南田家庵发电分公司驻村工作队深入贯彻落实区、市巩固拓展脱贫攻坚成果同乡村振兴有效衔接各项工作部署，坚持常态化走访排查、精细化便民服务、规范化队伍管理，扎实推进驻村帮扶各项工作落地见效，持续筑牢乡村振兴发展根基。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -383,7 +166,7 @@
       "id": "cpnn-t20260828_1911473",
       "title": "国网安定区供电以严实纪律筑牢省运会电力保障防线",
       "url": "https://www.cpnn.com.cn/qiye/guanli/202608/t20260828_1911473.html",
-      "summary": "",
+      "summary": "中国能源新闻网讯（张秋萍）为高标准、零差错完成省运会期间电力保供任务，切实护航赛事安全有序开展，近期，国网甘肃定西市安定区供电公司纪委立足“监督的再监督”职能定位，坚持“保电工作推进到哪里，监督执纪就跟进到哪里”，将专项监督嵌入保电筹备、隐患排查、现场值守、应急处置全流程，以严明",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -391,7 +174,7 @@
       "id": "cpnn-t20260828_1911469",
       "title": "国网云阳供电：电力“体检”进校园护航新学期",
       "url": "https://www.cpnn.com.cn/qiye/yzfw/202608/t20260828_1911469.html",
-      "summary": "",
+      "summary": "中国能源新闻网讯（李旭洪）“教室里的插座都测过了，食堂的线路接头也重新紧过了，开学可以放心用。”8月26日，在重庆市云阳县双土小学，国网重庆云阳供电公司工作人员正对该校用电设施进行检查。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -399,7 +182,7 @@
       "id": "cpnn-t20260828_1911462",
       "title": "国网高台供电持续优化农村电网网架结构",
       "url": "https://www.cpnn.com.cn/qiye/yzfw/202608/t20260828_1911462.html",
-      "summary": "",
+      "summary": "中国能源新闻网讯（贾生琪）8月25日，位于高台县罗城乡花墙子村的35千伏罗城变111花墙线、35千伏黑泉变113沙沟线联络改造工程施工现场，10余名施工人员完成班前安全交底后，迅速展开立杆、架线作业。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -407,7 +190,7 @@
       "id": "cpnn-t20260828_1911453",
       "title": "甘肃电力四项成果在2026年中国信息协会数据要素应用创新大赛中获奖",
       "url": "https://www.cpnn.com.cn/qiye/rongyu/202608/t20260828_1911453.html",
-      "summary": "",
+      "summary": "中国信息协会是经民政部批准成立的国家一级社团组织，长期致力于推动信息化建设和数据要素市场培育，在数字经济领域具有广泛的影响力和权威性。本次大赛以“数乘未来 智创价值”为主题，设置9大赛道33个方向，自启动以来吸引全国各地的政府部门、科研院所、中央企业及行业头部企业积极参与。",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -415,7 +198,7 @@
       "id": "cpnn-t20260828_1911459",
       "title": "甘肃电力在2026年能源网络安全大赛中取得佳绩",
       "url": "https://www.cpnn.com.cn/qiye/rongyu/202608/t20260828_1911459.html",
-      "summary": "",
+      "summary": "中国能源新闻网讯（刘欣蕊）近日，2026年能源网络安全大赛决赛在广东惠州落下帷幕。经过初赛、决赛的激烈角逐，国网甘肃省电力公司四支队伍分别斩获电网组团体一等奖1项、团体一等奖1项和团体三等奖2项，2名选手分别斩获个人二等奖、个人三等奖，充分展现了该公司网络安全队伍的技术素养与协作",
       "publishedAt": "2026-08-28",
       "source": "cpnn.com.cn"
     },
@@ -423,7 +206,7 @@
       "id": "nea-20260828-df1a89e4556b4f09ad5885368b9781ce-c",
       "title": "国家能源局召开全国政协重点提案“加快推进潮流能规模化开发利用”座谈会",
       "url": "https://www.nea.gov.cn/20260828/df1a89e4556b4f09ad5885368b9781ce/c.html",
-      "summary": "",
+      "summary": "8月27日，国家能源局召开全国政协重点提案“加快推进潮流能规模化开发利用”座谈会。全国政协副主席、民盟中央常务副主席王光谦出席会议并讲话，全国政协常委、人口资源环境委员会主任车俊介绍案由。国家能源局党组书记、局长王宏志主持会议。",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn"
     },
@@ -431,7 +214,7 @@
       "id": "nea-20260828-cd1e896e6e2045b990151564aedca7e6-c",
       "title": "西北能源监管局与陕西省能源局开展工作座谈交流",
       "url": "https://www.nea.gov.cn/20260828/cd1e896e6e2045b990151564aedca7e6/c.html",
-      "summary": "",
+      "summary": "8月26日，西北能源监管局与到访的陕西省能源局局长杨扬一行开展工作座谈交流，双方围绕能源安全保供、能源重大规划、电力市场建设、电力安全监管、民生用能保障等重点领域深入研讨，全面梳理当前陕西省能源领域重点工作推进成效，深入剖析行业发展短板弱项，针对性研提下一步工作举措，为精准施策、",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn"
     },
@@ -439,7 +222,7 @@
       "id": "nea-20260828-9593239efbd9491b8f2d0f7a1db4d3ca-c",
       "title": "华中能源监管局以正确政绩观践行监管为民 督导供电服务赋能特色农业发展",
       "url": "https://www.nea.gov.cn/20260828/9593239efbd9491b8f2d0f7a1db4d3ca/c.html",
-      "summary": "",
+      "summary": "为深入开展树立和践行正确政绩观学习教育，将“为民造福是最大政绩”的理念落到实处，近日，华中能源监管局赴重庆长寿区深入了解基层供电企业服务保障乡村振兴的实际成效，督促电网企业切实提升农村“获得电力”服务水平。",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn",
       "province": "华中"
@@ -448,7 +231,7 @@
       "id": "nea-20260828-2b1644a3a79a476bb415299ca3cfc517-c",
       "title": "山西能源监管办强化一次调频辅助服务管理 全力保障电网安全运行",
       "url": "https://www.nea.gov.cn/20260828/2b1644a3a79a476bb415299ca3cfc517/c.html",
-      "summary": "",
+      "summary": "为进一步提升电力系统调节性能，筑牢山西电网安全防线，近日，山西能源监管办印发《关于进一步加强一次调频辅助服务管理的通知》，从性能抽查、准入测试、数据存管、违规处理四方面提出明确要求。",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn"
     },
@@ -456,7 +239,7 @@
       "id": "nea-20260828-6943634c49064418b69a6f97ef78c943-c",
       "title": "山东能源监管办加快推进供电服务数字化监管",
       "url": "https://www.nea.gov.cn/20260828/6943634c49064418b69a6f97ef78c943/c.html",
-      "summary": "",
+      "summary": "为全面贯彻落实《国家发展改革委、国家能源局关于深化提升“获得电力”服务水平，全面打造现代化用电营商环境的意见》(发改能源规〔2025〕624号)和《国家能源局综合司关于供电服务数字化监管指标框架(试行)的通知》(国能综通管〔2025〕103号)有关部署要求，山东能源监管办加快推进",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn"
     },
@@ -464,7 +247,7 @@
       "id": "nea-20260828-f4ec97126c5f4d7e8ac8f38c100f221b-c",
       "title": "甘肃能源监管办创新市场机制推动高比例新能源发展",
       "url": "https://www.nea.gov.cn/20260828/f4ec97126c5f4d7e8ac8f38c100f221b/c.html",
-      "summary": "",
+      "summary": "截至2026年7月底,甘肃省风光发电装机达到8264万千瓦,约占全省电力总装机容量65%。作为新能源装机占比位居全国前列的省份,甘肃能源监管办坚持把电力市场建设作为推动新型电力系统建设的重要抓手,通过规则完善、模式创新、风险防控等措施破解高比例新能源发展难题,为新能源健康可持续发",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn"
     },
@@ -472,7 +255,7 @@
       "id": "nea-20260828-6a231a9bdbfb4e388c44dbe41ce6b692-c",
       "title": "河南能源监管办组织召开全省电力安委会办公室第三次联席会议",
       "url": "https://www.nea.gov.cn/20260828/6a231a9bdbfb4e388c44dbe41ce6b692/c.html",
-      "summary": "",
+      "summary": "为贯彻落实国家能源局、省委省政府安全生产工作要求，近日，河南能源监管办组织召开2026年全省电力安委会办公室第三次联席会议，河南能源监管办、河南省能源局、全省电力安委会企业成员单位相关部门负责同志参会。",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn",
       "province": "河南"
@@ -481,7 +264,7 @@
       "id": "nea-20260828-65da7a6f30ad4e7c8b0270d2681800f4-c",
       "title": "湖南能源监管办开展跨省跨区大电网安全生产风险专项检查",
       "url": "https://www.nea.gov.cn/20260828/65da7a6f30ad4e7c8b0270d2681800f4/c.html",
-      "summary": "",
+      "summary": "为切实防范化解跨省跨区大电网运行安全风险，筑牢电力安全生产防线，保障电力系统平稳可靠运行，近期，湖南能源监管办组织开展跨省跨区大电网安全生产风险专项检查。",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn",
       "province": "湖南"
@@ -490,7 +273,7 @@
       "id": "nea-20260828-adf93d21b2cc47fcba2c313d8f241174-c",
       "title": "云南能源监管办推动云南首个源网荷储一体化项目获批接入",
       "url": "https://www.nea.gov.cn/20260828/adf93d21b2cc47fcba2c313d8f241174/c.html",
-      "summary": "",
+      "summary": "近日，云南红河州开远市化工园区源网荷储一体化项目已获并网接入批复，标志着云南省首个源网荷储一体化试点项目取得突破性进展。云南能源监管办全程跟踪督导，有效推动源网荷储一体化政策落地见效。",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn"
     },
@@ -498,7 +281,7 @@
       "id": "nea-20260828-6d086c8b67a44cfbb70fc4b019cba273-c",
       "title": "贵州能源监管办进一步强化涉网安全风险防控",
       "url": "https://www.nea.gov.cn/20260828/6d086c8b67a44cfbb70fc4b019cba273/c.html",
-      "summary": "",
+      "summary": "为进一步强化涉网安全风险防控，近日，贵州能源监管办组织召开2026年贵州电力涉网安全风险防控暨二次系统管理能力提升工作推进会议，传达学习了国家能源局《电力安全生产“十五五”行动计划》，集中通报了电力涉网安全风险管控、重大事故隐患排查整治、二次系统管理能力提升等情况，分析研判当前涉",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn"
     },
@@ -506,7 +289,7 @@
       "id": "nea-20260828-1da6d8264f0d4b20b67e0b6a054514b8-c",
       "title": "华中能源监管局召开2026年年中党建工作会议",
       "url": "https://www.nea.gov.cn/20260828/1da6d8264f0d4b20b67e0b6a054514b8/c.html",
-      "summary": "",
+      "summary": "近日，华中能源监管局召开党的建设领导小组暨2026年年中党建工作会议，深入学习贯彻习近平党建思想，全面落实国家能源局年中党建工作会议部署要求，总结上半年党建工作成效，分析存在的问题和不足，进一步统一思想认识、凝聚工作合力，为高质量完成下半年党建重点工作夯实思想基础。",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn",
       "province": "华中"
@@ -515,7 +298,7 @@
       "id": "nea-20260828-2f7ed7787e1e4e048bf29867e97d5ee0-c",
       "title": "截至7月底我国发电装机同比增长11%",
       "url": "https://www.nea.gov.cn/20260828/2f7ed7787e1e4e048bf29867e97d5ee0/c.html",
-      "summary": "",
+      "summary": "8月25日，国家能源局发布1至7月份全国电力统计数据。截至7月底，全国累计发电装机容量40.8亿千瓦，同比增长11.0%。其中，太阳能发电装机容量12.9亿千瓦，同比增长16.1%；风电装机容量6.9亿千瓦，同比增长19.5%。发电装机结构绿色低碳转型趋势持续深化。",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn"
     },
@@ -523,7 +306,7 @@
       "id": "nea-20260828-34ff0d9e200c4adf8a7993fdf63afe26-c",
       "title": "筑牢国内油气自主供给“压舱石”",
       "url": "https://www.nea.gov.cn/20260828/34ff0d9e200c4adf8a7993fdf63afe26/c.html",
-      "summary": "",
+      "summary": "国家发展改革委、国家能源局近日发布《石油天然气发展“十五五”规划》（以下简称《规划》）提出，锚定保障能源安全和绿色低碳发展两大任务，到2030年逐步建设形成“自主保障能力持续增强、管网输配高效衔接、储备调节充足灵活、生产方式绿色低碳、运行安全平稳高效、加工利用高端高质、科技水平自",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn"
     },
@@ -558,30 +341,6 @@
       "summary": "",
       "publishedAt": "2026-08-28",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "china5e-1208390",
-      "title": "东北黑河—大庆天然气管道正式开工",
-      "url": "https://www.china5e.com/news/news-1208390-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208377",
-      "title": "2026年易捷微光计划艺术节作品展暨“发光盒子”公益项目发布仪式在京举办",
-      "url": "https://www.china5e.com/news/news-1208377-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208370",
-      "title": "玫德雅昌：不锈钢管道连接技术的标准定义者",
-      "url": "https://www.china5e.com/news/news-1208370-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "china5e.com"
     },
     {
       "id": "cpnn-t20260827_1911371",
@@ -654,86 +413,6 @@
       "summary": "",
       "publishedAt": "2026-08-27",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "xinhua-d40924928a2e",
-      "title": "国家电网成功发行100亿元全国首单“新型电网”专项科创债券",
-      "url": "https://www.xinhuanet.com/energy/20260827/d40924928a2e4d7aa09868cade257eff/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-af0895d4f3f5",
-      "title": "电力之光·国网科普｜技术底座",
-      "url": "https://www.xinhuanet.com/energy/20260827/af0895d4f3f5465d889dee14d18f4cbe/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-7c039eb8fae4",
-      "title": "始终在线的电力守护 托举起唐山产业腾飞与万家灯火——国网唐山供电公司守护产业与民生发展",
-      "url": "https://www.xinhuanet.com/energy/20260827/7c039eb8fae4494fac78f6df70ff243b/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-2a1855d3f8a6",
-      "title": "黑河—大庆天然气管道正式开工 推动形成“北气南下”双通道 提升年输气能力100亿方",
-      "url": "https://www.xinhuanet.com/energy/20260827/2a1855d3f8a64af29a5c6a51c3a94df6/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-7a1323e174c6",
-      "title": "“十五五”国家电网跨省区输电能力将达到5亿千瓦",
-      "url": "https://www.xinhuanet.com/energy/20260827/7a1323e174c64fb38f097c10bc4776e8/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-363adf057ada",
-      "title": "中国石油塔里木油田累计发出绿电突破55亿千瓦时",
-      "url": "https://www.xinhuanet.com/energy/20260827/363adf057ada404bb7eac27c4a477ffb/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-33cbc947a469",
-      "title": "截至7月底全国累计发电装机容量增长11%",
-      "url": "https://www.xinhuanet.com/energy/20260827/33cbc947a4694f278820f1e96cc6d6d0/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-27",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "china5e-1208276",
-      "title": "工业和信息化部绿色低碳标准化技术委员会成立",
-      "url": "https://www.china5e.com/news/news-1208276-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-26",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208306",
-      "title": "甘肃加快“碳足迹”管理体系建设",
-      "url": "https://www.china5e.com/news/news-1208306-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-26",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208290",
-      "title": "7个方面、20项措施 国家电网发布“十五五”碳达峰目标实现若干举措",
-      "url": "https://www.china5e.com/news/news-1208290-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-26",
-      "source": "china5e.com"
     },
     {
       "id": "cpnn-t20260826_1911152",
@@ -894,30 +573,6 @@
       "summary": "",
       "publishedAt": "2026-08-26",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "china5e-1208197",
-      "title": "欧盟气候机构：全球日均海表温度刷新历史纪录",
-      "url": "https://www.china5e.com/news/news-1208197-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208248",
-      "title": "高效机房行业竞争壁垒解析：施杰节能核心技术优势全拆解",
-      "url": "https://www.china5e.com/news/news-1208248-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208260",
-      "title": "八大技术创新铸就“低碳领跑者”",
-      "url": "https://www.china5e.com/news/news-1208260-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "china5e.com"
     },
     {
       "id": "cpnn-t20260825_1910655",
@@ -1081,22 +736,6 @@
       "source": "cpnn.com.cn"
     },
     {
-      "id": "china5e-1208094",
-      "title": "【文字解读】浙江省分布式光伏发电开发建设管理实施细则",
-      "url": "https://www.china5e.com/news/news-1208094-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208108",
-      "title": "丹麦阿拉食品原料加码绿色低碳投资：800万欧元推动工厂生产电气化",
-      "url": "https://www.china5e.com/news/news-1208108-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-21",
-      "source": "china5e.com"
-    },
-    {
       "id": "cpnn-t20260821_1910099",
       "title": "中能财经丨超1300万千瓦！国电电力启动重要收购",
       "url": "https://www.cpnn.com.cn/news/zngc/202608/t20260821_1910099.html",
@@ -1201,14 +840,6 @@
       "source": "cpnn.com.cn"
     },
     {
-      "id": "china5e-1207972",
-      "title": "吉林敦化市4.24万千瓦分散式风力发电项目并网发电!",
-      "url": "https://www.china5e.com/news/news-1207972-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-19",
-      "source": "china5e.com"
-    },
-    {
       "id": "cpnn-t20260819_1909504",
       "title": "国家电投集团国核电力院招聘公告",
       "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202608/t20260819_1909504.html",
@@ -1249,28 +880,12 @@
       "source": "cpnn.com.cn"
     },
     {
-      "id": "china5e-1207835",
-      "title": "浙江宁波分布式光伏装机容量破千万千瓦",
-      "url": "https://www.china5e.com/news/news-1207835-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-17",
-      "source": "china5e.com"
-    },
-    {
       "id": "nea-20260817-3b9aadf9d3e540879aa8e1d15405ff71-c",
       "title": "国家能源局组织召开全国可再生能源电力开发建设月度（7月）调度视频会",
       "url": "https://www.nea.gov.cn/20260817/3b9aadf9d3e540879aa8e1d15405ff71/c.html",
       "summary": "",
       "publishedAt": "2026-08-17",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "china5e-1207767",
-      "title": "宁波成为全国首个分布式光伏装机容量突破千万千瓦城市",
-      "url": "https://www.china5e.com/news/news-1207767-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-14",
-      "source": "china5e.com"
     },
     {
       "id": "cpnn-t20260814_1908483",
@@ -1295,14 +910,6 @@
       "summary": "",
       "publishedAt": "2026-08-12",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "china5e-1207611",
-      "title": "屋顶资源闲置 并网门槛高企 分布式光伏存量潜力亟待释放",
-      "url": "https://www.china5e.com/news/news-1207611-1.html",
-      "summary": "",
-      "publishedAt": "2026-08-11",
-      "source": "china5e.com"
     },
     {
       "id": "cpnn-t20260811_1907541",
@@ -1553,79 +1160,6 @@
       "source": "cpnn.com.cn"
     },
     {
-      "id": "china5e-1208427",
-      "title": "7月产量创近5年新低!动煤涨势延续",
-      "url": "https://www.china5e.com/news/news-1208427-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208408",
-      "title": "新疆建成全国规模最大超高压电力骨干网",
-      "url": "https://www.china5e.com/news/news-1208408-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208405",
-      "title": "7月份全国电力交易电量7404亿千瓦时",
-      "url": "https://www.china5e.com/news/news-1208405-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208404",
-      "title": "电网加码、算力爆发 变压器行业迎结构性增长",
-      "url": "https://www.china5e.com/news/news-1208404-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208415",
-      "title": "电池赛道迎算力储能新机遇",
-      "url": "https://www.china5e.com/news/news-1208415-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208412",
-      "title": "张掖储能电站加速建设 新能源实现稳定输出",
-      "url": "https://www.china5e.com/news/news-1208412-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208411",
-      "title": "湖北省第一个虚拟电厂直投10kV工商业储能项目今日正式并网!",
-      "url": "https://www.china5e.com/news/news-1208411-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
-      "id": "china5e-1208345",
-      "title": "塔里木油田累计发出绿电突破55亿千瓦时",
-      "url": "https://www.china5e.com/news/news-1208345-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1208428",
-      "title": "2026年1-7月份全国煤炭采选业实现营业收入15854.6亿元，同比增长10.4%",
-      "url": "https://www.china5e.com/news/news-1208428-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
       "id": "ne21-230320",
       "title": "连签四单！楚能加速构建拉美储能合作新生态！",
       "url": "https://www.ne21.com/news/show-230320.html",
@@ -1665,20 +1199,17 @@
     }
   },
   "stats": {
-    "totalArticles": 197,
+    "totalArticles": 139,
     "bySource": {
-      "china5e.com": 49,
-      "chinapower.org.cn": 3,
+      "xinhuanet.com": 3,
       "cpnn.com.cn": 83,
       "nea.gov.cn": 50,
-      "xinhuanet.com": 9,
       "ne21.com": 3
     },
     "byProvince": {
-      "河南": 3,
       "华中": 2,
-      "湖南": 1,
-      "湖北": 1
+      "河南": 2,
+      "湖南": 1
     }
   },
   "errors": [
@@ -1686,6 +1217,13 @@
       "source": "bjx.com.cn",
       "errors": [
         "WAF bypassed but parser found 0 articles. The homepage HTML structure may have changed — inspect the HTML."
+      ]
+    },
+    {
+      "source": "china5e.com",
+      "errors": [
+        "/news/ error: HTTPError: 508 Server Error: Loop Detected for url: https://www.china5e.com/news/",
+        "homepage error: HTTPError: 508 Server Error: Loop Detected for url: https://www.china5e.com/"
       ]
     },
     {
