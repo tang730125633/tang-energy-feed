@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T01:10:09+00:00",
+  "generatedAt": "2026-09-01T23:55:41+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,42 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "china5e-1208597",
+      "title": "隆基芜湖基地成光伏行业首家CMMM四级认证组件工厂",
+      "url": "https://www.china5e.com/news/news-1208597-1.html",
+      "summary": "",
+      "publishedAt": "2026-09-01",
+      "source": "china5e.com",
+      "province": "安徽"
+    },
+    {
+      "id": "cpnn-t20260901_1912217",
+      "title": "河南电力市场为售电公司亮起履约“红绿灯”",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202609/t20260901_1912217.html",
+      "summary": "",
+      "publishedAt": "2026-09-01",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260901_1912123",
+      "title": "国网湖北直流公司：红黑榜双向发力 拧紧迎峰度夏电力保供“安全阀”",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202609/t20260901_1912123.html",
+      "summary": "",
+      "publishedAt": "2026-09-01",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "xinhua-41f9077fffc9",
+      "title": "湖北鄂州：机器人助力电网检修智能提效",
+      "url": "https://www.xinhuanet.com/energy/20260901/41f9077fffc9424a98c27af5aec0f65f/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-01",
+      "source": "xinhuanet.com",
+      "province": "湖北"
+    },
     {
       "id": "cpnn-t20260831_1911802",
       "title": "皖能马鞍山发电青年以“赤子心”铸就“稳电流”",
@@ -46,23 +82,15 @@
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn",
       "province": "湖南"
-    },
-    {
-      "id": "cpnn-t20260825_1910708",
-      "title": "大唐河南清洁能源公司：“五小”成果创佳绩",
-      "url": "https://www.cpnn.com.cn/qiye/rongyu/202608/t20260825_1910708.html",
-      "summary": "",
-      "publishedAt": "2026-08-25",
-      "source": "cpnn.com.cn",
-      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 5,
+    "totalArticles": 8,
     "byProvince": {
-      "安徽": 1,
-      "华中": 1,
+      "安徽": 2,
       "河南": 2,
+      "湖北": 2,
+      "华中": 1,
       "湖南": 1
     }
   },

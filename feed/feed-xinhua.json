@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-01T01:09:52+00:00",
+  "generatedAt": "2026-09-01T23:55:18+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-41f9077fffc9",
+      "title": "湖北鄂州：机器人助力电网检修智能提效",
+      "url": "https://www.xinhuanet.com/energy/20260901/41f9077fffc9424a98c27af5aec0f65f/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-01",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-0b513bc2b120",
+      "title": "新华社权威快报|我国光伏发电装机历史性超过煤电",
+      "url": "https://www.xinhuanet.com/energy/20260901/0b513bc2b1204da3a0feca8cb9c66ee7/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-01",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-7567fe1a163f",
       "title": "领航定向谋全局 逐绿前行谱新篇——国电电力以高质量党建擘画高质量发展新图景",
@@ -22,7 +38,7 @@
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 4
   },
   "errors": []
 }
