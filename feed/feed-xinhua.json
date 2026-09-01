@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-08-31T00:20:27+00:00",
+  "generatedAt": "2026-09-01T01:09:52+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-7567fe1a163f",
+      "title": "领航定向谋全局 逐绿前行谱新篇——国电电力以高质量党建擘画高质量发展新图景",
+      "url": "https://www.xinhuanet.com/energy/20260831/7567fe1a163f417bb4ef4fe5d4242b0e/c.html",
+      "summary": "",
+      "publishedAt": "2026-08-31",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-b62f3fad2271",
       "title": "国网西藏电力点亮吉隆道路抢通线现场",
@@ -11,26 +19,10 @@
       "summary": "",
       "publishedAt": "2026-08-30",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-dcdf803f3d05",
-      "title": "鹏辉能源上半年收入破百亿 户储电芯全球市占率28%",
-      "url": "https://www.xinhuanet.com/energy/20260828/dcdf803f3d054bef8765eda09a954b8a/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-28",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-9a63f0b477f2",
-      "title": "CNESA重磅发布：2026上半年储能海外订单签约增长83%，产业释放全新信号",
-      "url": "https://www.xinhuanet.com/energy/20260828/9a63f0b477f247eab756720e16ab7bd3/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-28",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 2
   },
   "errors": []
 }

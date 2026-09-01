@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T00:20:52+00:00",
+  "generatedAt": "2026-09-01T01:10:09+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,15 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260831_1911802",
+      "title": "皖能马鞍山发电青年以“赤子心”铸就“稳电流”",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202608/t20260831_1911802.html",
+      "summary": "",
+      "publishedAt": "2026-08-31",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
     {
       "id": "nea-20260828-9593239efbd9491b8f2d0f7a1db4d3ca-c",
       "title": "华中能源监管局以正确政绩观践行监管为民 督导供电服务赋能特色农业发展",
@@ -39,15 +48,6 @@
       "province": "湖南"
     },
     {
-      "id": "nea-20260828-1da6d8264f0d4b20b67e0b6a054514b8-c",
-      "title": "华中能源监管局召开2026年年中党建工作会议",
-      "url": "https://www.nea.gov.cn/20260828/1da6d8264f0d4b20b67e0b6a054514b8/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-28",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
       "id": "cpnn-t20260825_1910708",
       "title": "大唐河南清洁能源公司：“五小”成果创佳绩",
       "url": "https://www.cpnn.com.cn/qiye/rongyu/202608/t20260825_1910708.html",
@@ -60,7 +60,8 @@
   "stats": {
     "totalArticles": 5,
     "byProvince": {
-      "华中": 2,
+      "安徽": 1,
+      "华中": 1,
       "河南": 2,
       "湖南": 1
     }

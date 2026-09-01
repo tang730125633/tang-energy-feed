@@ -1,11 +1,44 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-08-31T00:20:52+00:00",
+  "generatedAt": "2026-09-01T01:10:09+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "chinapower-461811",
+      "title": "2026年电力行业职业技能竞赛(生成式人工智能系统应用员S)决赛成功举办",
+      "url": "https://www.chinapower.org.cn/detail/461811.html",
+      "summary": "",
+      "publishedAt": "2026-08-31",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-461807",
+      "title": "中国电力、中电国际获穆迪“A1/稳定”、标普“A/稳定”国际信用评级",
+      "url": "https://www.chinapower.org.cn/detail/461807.html",
+      "summary": "",
+      "publishedAt": "2026-08-31",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-461799",
+      "title": "山东电网四大直流累计受电量突破万亿千瓦时",
+      "url": "https://www.chinapower.org.cn/detail/461799.html",
+      "summary": "",
+      "publishedAt": "2026-08-31",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-461789",
+      "title": "在大别山，铸就清洁煤电“升级版”",
+      "url": "https://www.chinapower.org.cn/detail/461789.html",
+      "summary": "",
+      "publishedAt": "2026-08-31",
+      "source": "chinapower.org.cn"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 4
   },
   "errors": []
 }

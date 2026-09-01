@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-08-31T00:20:14+00:00",
+  "generatedAt": "2026-09-01T01:09:40+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -80,14 +80,6 @@
       "id": "nea-20260828-6d086c8b67a44cfbb70fc4b019cba273-c",
       "title": "贵州能源监管办进一步强化涉网安全风险防控",
       "url": "https://www.nea.gov.cn/20260828/6d086c8b67a44cfbb70fc4b019cba273/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-28",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260828-1da6d8264f0d4b20b67e0b6a054514b8-c",
-      "title": "华中能源监管局召开2026年年中党建工作会议",
-      "url": "https://www.nea.gov.cn/20260828/1da6d8264f0d4b20b67e0b6a054514b8/c.html",
       "summary": "",
       "publishedAt": "2026-08-28",
       "source": "nea.gov.cn"
@@ -293,14 +285,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260805-96c7a438f9544f349d189d2ef4547eab-c",
-      "title": "培育能源转型新动能 打造绿色燃料新蓝海",
-      "url": "https://www.nea.gov.cn/20260805/96c7a438f9544f349d189d2ef4547eab/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-05",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260803-f90e2bdec3744f3c90898ca65e31e597-c",
       "title": "国家发展改革委 国家能源局关于印发《新型电力系统建设“十五五”规划》的通知",
       "url": "https://www.nea.gov.cn/20260803/f90e2bdec3744f3c90898ca65e31e597/c.html",
@@ -357,22 +341,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260706-dc1d414b8cd244e7b469fd071462c2be-c",
-      "title": "《电力市场计量结算基本规则》是否适用于不属于市场经营主体的国家电网进行阶梯电价和分时电价 “一户一表”住宅用户的用电计量与结算",
-      "url": "https://www.nea.gov.cn/20260706/dc1d414b8cd244e7b469fd071462c2be/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-06",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260706-74f8d28af4f8483db690aeb74146cd74-c",
-      "title": "承装（修、试）电力设施许可证 资质范围是什么？是否具备电力安全工器具的检测资质？",
-      "url": "https://www.nea.gov.cn/20260706/74f8d28af4f8483db690aeb74146cd74/c.html",
-      "summary": "",
-      "publishedAt": "2026-07-06",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260630-3b456b6f83144abcb989110dcfba4d7d-c",
       "title": "能源行业数据分类分级指南（2026年版）",
       "url": "https://www.nea.gov.cn/20260630/3b456b6f83144abcb989110dcfba4d7d/c.html",
@@ -406,7 +374,7 @@
     }
   ],
   "stats": {
-    "articleCount": 50
+    "articleCount": 46
   },
   "errors": []
 }
