@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T23:55:41+00:00",
+  "generatedAt": "2026-09-02T23:57:43+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,31 +12,31 @@
   ],
   "articles": [
     {
-      "id": "china5e-1208597",
-      "title": "隆基芜湖基地成光伏行业首家CMMM四级认证组件工厂",
-      "url": "https://www.china5e.com/news/news-1208597-1.html",
+      "id": "cpnn-t20260902_1912426",
+      "title": "湖南能源监管办开展跨省跨区大电网安全生产风险专项检查",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260902_1912426.html",
       "summary": "",
-      "publishedAt": "2026-09-01",
-      "source": "china5e.com",
-      "province": "安徽"
+      "publishedAt": "2026-09-02",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
     },
     {
-      "id": "cpnn-t20260901_1912217",
-      "title": "河南电力市场为售电公司亮起履约“红绿灯”",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202609/t20260901_1912217.html",
+      "id": "nea-20260902-85fc5413a8ad469894b9c40d06e8bc3e-c",
+      "title": "河南能源监管办与省电力公司专题会商研究提升供电质量服务新质生产力发展工作",
+      "url": "https://www.nea.gov.cn/20260902/85fc5413a8ad469894b9c40d06e8bc3e/c.html",
       "summary": "",
-      "publishedAt": "2026-09-01",
-      "source": "cpnn.com.cn",
+      "publishedAt": "2026-09-02",
+      "source": "nea.gov.cn",
       "province": "河南"
     },
     {
-      "id": "cpnn-t20260901_1912123",
-      "title": "国网湖北直流公司：红黑榜双向发力 拧紧迎峰度夏电力保供“安全阀”",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202609/t20260901_1912123.html",
+      "id": "nea-20260902-24519b4010bb43a192c3b6b0dbdba1d2-c",
+      "title": "华中区域（东四省）电力互济交易首月运行成效显著",
+      "url": "https://www.nea.gov.cn/20260902/24519b4010bb43a192c3b6b0dbdba1d2/c.html",
       "summary": "",
-      "publishedAt": "2026-09-01",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
+      "publishedAt": "2026-09-02",
+      "source": "nea.gov.cn",
+      "province": "华中"
     },
     {
       "id": "xinhua-41f9077fffc9",
@@ -46,52 +46,15 @@
       "publishedAt": "2026-09-01",
       "source": "xinhuanet.com",
       "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260831_1911802",
-      "title": "皖能马鞍山发电青年以“赤子心”铸就“稳电流”",
-      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202608/t20260831_1911802.html",
-      "summary": "",
-      "publishedAt": "2026-08-31",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
-    },
-    {
-      "id": "nea-20260828-9593239efbd9491b8f2d0f7a1db4d3ca-c",
-      "title": "华中能源监管局以正确政绩观践行监管为民 督导供电服务赋能特色农业发展",
-      "url": "https://www.nea.gov.cn/20260828/9593239efbd9491b8f2d0f7a1db4d3ca/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-28",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
-      "id": "nea-20260828-6a231a9bdbfb4e388c44dbe41ce6b692-c",
-      "title": "河南能源监管办组织召开全省电力安委会办公室第三次联席会议",
-      "url": "https://www.nea.gov.cn/20260828/6a231a9bdbfb4e388c44dbe41ce6b692/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-28",
-      "source": "nea.gov.cn",
-      "province": "河南"
-    },
-    {
-      "id": "nea-20260828-65da7a6f30ad4e7c8b0270d2681800f4-c",
-      "title": "湖南能源监管办开展跨省跨区大电网安全生产风险专项检查",
-      "url": "https://www.nea.gov.cn/20260828/65da7a6f30ad4e7c8b0270d2681800f4/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-28",
-      "source": "nea.gov.cn",
-      "province": "湖南"
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 4,
     "byProvince": {
-      "安徽": 2,
-      "河南": 2,
-      "湖北": 2,
+      "湖南": 1,
+      "河南": 1,
       "华中": 1,
-      "湖南": 1
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

@@ -1,9 +1,33 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-01T23:55:18+00:00",
+  "generatedAt": "2026-09-02T23:57:18+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-dcdcb7fc42e2",
+      "title": "昆仑能源2026年中期业绩发布",
+      "url": "https://www.xinhuanet.com/energy/20260902/dcdcb7fc42e248e78da5dd88bf96aabc/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-02",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-1828cb88ce89",
+      "title": "国家电网向西藏吉隆县泥石流灾区捐赠3000万元",
+      "url": "https://www.xinhuanet.com/energy/20260902/1828cb88ce8949ca83c166699026e567/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-02",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-5a26429b1a04",
+      "title": "光伏发电装机首超煤电 成为装机规模最大的电源品类",
+      "url": "https://www.xinhuanet.com/energy/20260902/5a26429b1a0441c5a60f00455d37048b/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-02",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-41f9077fffc9",
       "title": "湖北鄂州：机器人助力电网检修智能提效",
@@ -38,7 +62,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 7
   },
   "errors": []
 }
