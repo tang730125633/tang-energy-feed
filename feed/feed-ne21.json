@@ -1,7 +1,7 @@
 {
   "source": "ne21.com",
   "sourceName": "世纪新能源网",
-  "generatedAt": "2026-09-01T23:12:56+00:00",
+  "generatedAt": "2026-09-02T23:13:14+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -13,24 +13,40 @@
       "source": "ne21.com"
     },
     {
-      "id": "ne21-230400",
-      "title": "别等碳足迹报告被打回才踩坑！2026年5家主流核算机构全维度拆解，CBAM出口合规必看",
-      "url": "https://www.ne21.com/news/show-230400.html",
+      "id": "ne21-230436",
+      "title": "建设零碳园区，零散技术堆砌走不通？一套SiED产品体系，打通园区源、网、荷、管",
+      "url": "https://www.ne21.com/news/show-230436.html",
       "summary": "",
       "publishedAt": null,
       "source": "ne21.com"
     },
     {
-      "id": "ne21-230399",
-      "title": "专为未来电网而来｜新艾电气 430kW 液冷组串式 PCS 全新发布",
-      "url": "https://www.ne21.com/news/show-230399.html",
+      "id": "ne21-230435",
+      "title": "BNEF权威认证｜利星能连续两季入选全球一级储能厂商，储能系统哪家好有了新答案",
+      "url": "https://www.ne21.com/news/show-230435.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-230433",
+      "title": "2026充电桩与储能配套怎么选？十大品牌横评",
+      "url": "https://www.ne21.com/news/show-230433.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com"
+    },
+    {
+      "id": "ne21-230432",
+      "title": "​储能光伏燃气电网协同供电能力企业梳理",
+      "url": "https://www.ne21.com/news/show-230432.html",
       "summary": "",
       "publishedAt": null,
       "source": "ne21.com"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 5
   },
   "errors": []
 }
