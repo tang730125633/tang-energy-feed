@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T23:57:43+00:00",
+  "generatedAt": "2026-09-03T23:54:25+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260902_1912426",
-      "title": "湖南能源监管办开展跨省跨区大电网安全生产风险专项检查",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260902_1912426.html",
+      "id": "cpnn-t20260903_1912652",
+      "title": "甘肃、江苏、河南能源监管办开出9张罚单",
+      "url": "https://www.cpnn.com.cn/news/xwtt/202609/t20260903_1912652.html",
       "summary": "",
-      "publishedAt": "2026-09-02",
+      "publishedAt": "2026-09-03",
       "source": "cpnn.com.cn",
-      "province": "湖南"
+      "province": "河南"
     },
     {
       "id": "nea-20260902-85fc5413a8ad469894b9c40d06e8bc3e-c",
@@ -46,15 +46,32 @@
       "publishedAt": "2026-09-01",
       "source": "xinhuanet.com",
       "province": "湖北"
+    },
+    {
+      "id": "china5e-1208703",
+      "title": "华中区域（东四省）电力互济交易首月运行成效显著",
+      "url": "https://www.china5e.com/news/news-1208703-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "华中"
+    },
+    {
+      "id": "china5e-1208651",
+      "title": "鄂托克前旗又一煤矿成功取得采矿许可证 助力上海庙矿区能源基地建设",
+      "url": "https://www.china5e.com/news/news-1208651-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 4,
+    "totalArticles": 6,
     "byProvince": {
-      "湖南": 1,
-      "河南": 1,
-      "华中": 1,
-      "湖北": 1
+      "河南": 2,
+      "华中": 2,
+      "湖北": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

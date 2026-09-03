@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-02T23:57:18+00:00",
+  "generatedAt": "2026-09-03T23:54:04+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-e9fc312975ea",
+      "title": "光伏超越煤电只是新起点",
+      "url": "https://www.xinhuanet.com/energy/20260903/e9fc312975ea4fbb917f3e1755cd9bfc/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-03",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-dcdcb7fc42e2",
       "title": "昆仑能源2026年中期业绩发布",
@@ -43,26 +51,10 @@
       "summary": "",
       "publishedAt": "2026-09-01",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-7567fe1a163f",
-      "title": "领航定向谋全局 逐绿前行谱新篇——国电电力以高质量党建擘画高质量发展新图景",
-      "url": "https://www.xinhuanet.com/energy/20260831/7567fe1a163f417bb4ef4fe5d4242b0e/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-31",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-b62f3fad2271",
-      "title": "国网西藏电力点亮吉隆道路抢通线现场",
-      "url": "https://www.xinhuanet.com/energy/20260830/b62f3fad2271428fb8c638352008ce4e/c.html",
-      "summary": "",
-      "publishedAt": "2026-08-30",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 6
   },
   "errors": []
 }
