@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T23:54:25+00:00",
+  "generatedAt": "2026-09-04T23:52:13+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,33 @@
   ],
   "articles": [
     {
+      "id": "nea-20260904-c34bc66639b64047a0a1de2f7f8a5ae5-c",
+      "title": "华中能源监管局协同推进现代化用电营商环境“三个一批”建设",
+      "url": "https://www.nea.gov.cn/20260904/c34bc66639b64047a0a1de2f7f8a5ae5/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-04",
+      "source": "nea.gov.cn",
+      "province": "华中"
+    },
+    {
+      "id": "nea-20260904-5a349b7d65764b4f8f31f023e7813900-c",
+      "title": "河南能源监管办不断强化过程监管 积极推动重大能源项目落地实施",
+      "url": "https://www.nea.gov.cn/20260904/5a349b7d65764b4f8f31f023e7813900/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-04",
+      "source": "nea.gov.cn",
+      "province": "河南"
+    },
+    {
+      "id": "nea-20260904-c9bcf6284532404bb8c11092f9a3e875-c",
+      "title": "湖南能源监管办大兴学习调研之风着力提升监管能力与质效",
+      "url": "https://www.nea.gov.cn/20260904/c9bcf6284532404bb8c11092f9a3e875/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-04",
+      "source": "nea.gov.cn",
+      "province": "湖南"
+    },
+    {
       "id": "cpnn-t20260903_1912652",
       "title": "甘肃、江苏、河南能源监管办开出9张罚单",
       "url": "https://www.cpnn.com.cn/news/xwtt/202609/t20260903_1912652.html",
@@ -21,24 +48,6 @@
       "province": "河南"
     },
     {
-      "id": "nea-20260902-85fc5413a8ad469894b9c40d06e8bc3e-c",
-      "title": "河南能源监管办与省电力公司专题会商研究提升供电质量服务新质生产力发展工作",
-      "url": "https://www.nea.gov.cn/20260902/85fc5413a8ad469894b9c40d06e8bc3e/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-02",
-      "source": "nea.gov.cn",
-      "province": "河南"
-    },
-    {
-      "id": "nea-20260902-24519b4010bb43a192c3b6b0dbdba1d2-c",
-      "title": "华中区域（东四省）电力互济交易首月运行成效显著",
-      "url": "https://www.nea.gov.cn/20260902/24519b4010bb43a192c3b6b0dbdba1d2/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-02",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
       "id": "xinhua-41f9077fffc9",
       "title": "湖北鄂州：机器人助力电网检修智能提效",
       "url": "https://www.xinhuanet.com/energy/20260901/41f9077fffc9424a98c27af5aec0f65f/c.html",
@@ -46,32 +55,15 @@
       "publishedAt": "2026-09-01",
       "source": "xinhuanet.com",
       "province": "湖北"
-    },
-    {
-      "id": "china5e-1208703",
-      "title": "华中区域（东四省）电力互济交易首月运行成效显著",
-      "url": "https://www.china5e.com/news/news-1208703-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "华中"
-    },
-    {
-      "id": "china5e-1208651",
-      "title": "鄂托克前旗又一煤矿成功取得采矿许可证 助力上海庙矿区能源基地建设",
-      "url": "https://www.china5e.com/news/news-1208651-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 6,
+    "totalArticles": 5,
     "byProvince": {
+      "华中": 1,
       "河南": 2,
-      "华中": 2,
-      "湖北": 2
+      "湖南": 1,
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
