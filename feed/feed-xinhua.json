@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-04T23:51:46+00:00",
+  "generatedAt": "2026-09-05T23:42:36+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-d02bc0463785",
+      "title": "绿色赋能矿山 光伏点亮发展——雁宝能源光伏电站累计供电超3亿千瓦时",
+      "url": "https://www.xinhuanet.com/energy/20260905/d02bc04637854fd591d22167864b6846/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-05",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-e9fc312975ea",
       "title": "光伏超越煤电只是新起点",
@@ -35,26 +43,10 @@
       "summary": "",
       "publishedAt": "2026-09-02",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-41f9077fffc9",
-      "title": "湖北鄂州：机器人助力电网检修智能提效",
-      "url": "https://www.xinhuanet.com/energy/20260901/41f9077fffc9424a98c27af5aec0f65f/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-01",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-0b513bc2b120",
-      "title": "新华社权威快报|我国光伏发电装机历史性超过煤电",
-      "url": "https://www.xinhuanet.com/energy/20260901/0b513bc2b1204da3a0feca8cb9c66ee7/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-01",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 5
   },
   "errors": []
 }

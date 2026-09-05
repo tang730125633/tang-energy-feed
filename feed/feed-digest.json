@@ -1,71 +1,87 @@
 {
-  "generatedAt": "2026-09-04T23:52:13+00:00",
+  "generatedAt": "2026-09-05T23:43:03+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-09-04T22:56:58+00:00",
+      "generatedAt": "2026-09-05T22:44:44+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-09-04T23:51:44+00:00",
+      "generatedAt": "2026-09-05T23:42:34+00:00",
       "articleCount": 30,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-09-04T23:52:13+00:00",
+      "generatedAt": "2026-09-05T23:43:03+00:00",
       "articleCount": 7,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-09-04T23:51:35+00:00",
+      "generatedAt": "2026-09-05T23:42:24+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-09-04T23:51:32+00:00",
+      "generatedAt": "2026-09-05T23:42:21+00:00",
       "articleCount": 81,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-09-04T23:51:42+00:00",
+      "generatedAt": "2026-09-05T23:42:31+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-09-04T22:57:06+00:00",
+      "generatedAt": "2026-09-05T22:44:52+00:00",
       "articleCount": 6,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-09-04T23:51:33+00:00",
+      "generatedAt": "2026-09-05T23:42:23+00:00",
       "articleCount": 48,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-09-04T23:51:46+00:00",
-      "articleCount": 6,
+      "generatedAt": "2026-09-05T23:42:36+00:00",
+      "articleCount": 5,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "chinapower-462137",
+      "title": "白勇钟国东与国家电网董事长张智刚、总经理张文...",
+      "url": "https://www.chinapower.org.cn/detail/462137.html",
+      "summary": "9月4日，中国华能集团有限公司董事长、党组书记白勇，总经理、党组副书记钟国东，在北京与国家电网有限公司董事长、党组书记张智刚，总经理、党组副书记张文峰举行会谈。集团公司副总经理、党组成员司为国，国家电网总会计师、党组成员陈西参加会谈。",
+      "publishedAt": "2026-09-05",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "xinhua-d02bc0463785",
+      "title": "绿色赋能矿山 光伏点亮发展——雁宝能源光伏电站累计供电超3亿千瓦时",
+      "url": "https://www.xinhuanet.com/energy/20260905/d02bc04637854fd591d22167864b6846/c.html",
+      "summary": "据国家能源集团雁宝能源消息，截至9月3日，雁宝能源1个74.5兆瓦、2个6兆瓦光伏电站累计供电量达3.02亿千瓦时，全部实现厂区自发自用，折合节约标准煤约8.99万吨，减排二氧化碳约22.91万吨，以清洁能源赋能传统矿山企业绿色低碳转型。",
+      "publishedAt": "2026-09-05",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "chinapower-462125",
       "title": "运力定站 环岛突围——海南电网探索海岛新型电网与物流网协同路径",
@@ -111,14 +127,6 @@
       "title": "中国电力报：新一轮国企改革的“能建实践”",
       "url": "https://www.chinapower.org.cn/detail/462100.html",
       "summary": "“十五五”开局之年，新一轮国资国企改革大幕全面拉开。随着《关于进一步深化国资国企改革的方案（2026—2029年）》于4月正式下发，国资国企改革迈入纵深推进新阶段。",
-      "publishedAt": "2026-09-04",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462088",
-      "title": "中国电力报中国华电捐赠2000万元、三峡集团捐赠2000万元",
-      "url": "https://www.chinapower.org.cn/detail/462088.html",
-      "summary": "8月31日，中国华电集团有限公司向西藏自治区捐赠2000万元，支持灾区抢险救灾、物资保障和灾后重建等工作。",
       "publishedAt": "2026-09-04",
       "source": "chinapower.org.cn"
     },
@@ -302,7 +310,7 @@
       "id": "cpnn-t20260904_1913042",
       "title": "电建核电公司宋锋：核岛深处的“较真”者",
       "url": "https://www.cpnn.com.cn/qiye/yingcai/202609/t20260904_1913042.html",
-      "summary": "秋日的渤海湾畔，波光粼粼，海风习习。晨曦中，中国电建集团核电工程有限公司（简称“电建核电公司”）参与建设的中广核招远核岛安装项目现场塔吊林立。钢铁长臂起落之间，1号机组已悄然勾勒出雄健轮廓。 井然有序的工地上，宋锋脚步不疾不徐，径直向核岛深处走去。作为电建核电公司招远核岛安装项目",
+      "summary": "",
       "publishedAt": "2026-09-04",
       "source": "cpnn.com.cn"
     },
@@ -813,23 +821,6 @@
       "summary": "",
       "publishedAt": "2026-09-01",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "xinhua-41f9077fffc9",
-      "title": "湖北鄂州：机器人助力电网检修智能提效",
-      "url": "https://www.xinhuanet.com/energy/20260901/41f9077fffc9424a98c27af5aec0f65f/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-01",
-      "source": "xinhuanet.com",
-      "province": "湖北"
-    },
-    {
-      "id": "xinhua-0b513bc2b120",
-      "title": "新华社权威快报|我国光伏发电装机历史性超过煤电",
-      "url": "https://www.xinhuanet.com/energy/20260901/0b513bc2b1204da3a0feca8cb9c66ee7/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-01",
-      "source": "xinhuanet.com"
     },
     {
       "id": "cpnn-t20260831_1911895",
@@ -1511,20 +1502,19 @@
     }
   },
   "stats": {
-    "totalArticles": 178,
+    "totalArticles": 177,
     "bySource": {
       "chinapower.org.cn": 7,
+      "xinhuanet.com": 5,
       "cpnn.com.cn": 81,
       "nea.gov.cn": 48,
-      "xinhuanet.com": 6,
       "china5e.com": 30,
       "ne21.com": 6
     },
     "byProvince": {
       "华中": 1,
       "河南": 2,
-      "湖南": 1,
-      "湖北": 1
+      "湖南": 1
     }
   },
   "errors": [

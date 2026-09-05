@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T23:52:13+00:00",
+  "generatedAt": "2026-09-05T23:43:03+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -46,24 +46,14 @@
       "publishedAt": "2026-09-03",
       "source": "cpnn.com.cn",
       "province": "河南"
-    },
-    {
-      "id": "xinhua-41f9077fffc9",
-      "title": "湖北鄂州：机器人助力电网检修智能提效",
-      "url": "https://www.xinhuanet.com/energy/20260901/41f9077fffc9424a98c27af5aec0f65f/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-01",
-      "source": "xinhuanet.com",
-      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 5,
+    "totalArticles": 4,
     "byProvince": {
       "华中": 1,
       "河南": 2,
-      "湖南": 1,
-      "湖北": 1
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
