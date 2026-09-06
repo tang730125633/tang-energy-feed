@@ -1,71 +1,79 @@
 {
-  "generatedAt": "2026-09-05T23:43:03+00:00",
+  "generatedAt": "2026-09-06T23:41:33+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-09-05T22:44:44+00:00",
+      "generatedAt": "2026-09-06T22:50:13+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-09-05T23:42:34+00:00",
+      "generatedAt": "2026-09-06T23:41:10+00:00",
       "articleCount": 30,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-09-05T23:43:03+00:00",
+      "generatedAt": "2026-09-06T23:41:33+00:00",
       "articleCount": 7,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-09-05T23:42:24+00:00",
+      "generatedAt": "2026-09-06T23:41:02+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-09-05T23:42:21+00:00",
+      "generatedAt": "2026-09-06T23:40:59+00:00",
       "articleCount": 81,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-09-05T23:42:31+00:00",
+      "generatedAt": "2026-09-06T23:41:08+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-09-05T22:44:52+00:00",
+      "generatedAt": "2026-09-06T22:50:22+00:00",
       "articleCount": 6,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-09-05T23:42:23+00:00",
+      "generatedAt": "2026-09-06T23:41:01+00:00",
       "articleCount": 48,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-09-05T23:42:36+00:00",
-      "articleCount": 5,
+      "generatedAt": "2026-09-06T23:41:12+00:00",
+      "articleCount": 2,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "chinapower-462143",
+      "title": "三峡集团一项抽蓄电站数字化成果通过鉴定 达到国际领先水平",
+      "url": "https://www.chinapower.org.cn/detail/462143.html",
+      "summary": "本网讯（马哲）近日，“抽蓄电站关键设备数字模型实时仿真监测系统”项目成果鉴定会在浙江长龙山抽蓄电站召开。会上，由许唯临院士等专家组成的鉴定专家组一致认为，该项目成果达到国际领先水平。",
+      "publishedAt": "2026-09-06",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-462137",
       "title": "白勇钟国东与国家电网董事长张智刚、总经理张文...",
@@ -119,14 +127,6 @@
       "title": "以电力之稳托举产业向新",
       "url": "https://www.chinapower.org.cn/detail/462121.html",
       "summary": "当前，我国芯片制造、生物医药、算力设施等新兴产业、未来产业快速发展，对供电质量敏感性高，新质生产力产业“用好电”的高质量供电需求日益凸显。",
-      "publishedAt": "2026-09-04",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462100",
-      "title": "中国电力报：新一轮国企改革的“能建实践”",
-      "url": "https://www.chinapower.org.cn/detail/462100.html",
-      "summary": "“十五五”开局之年，新一轮国资国企改革大幕全面拉开。随着《关于进一步深化国资国企改革的方案（2026—2029年）》于4月正式下发，国资国企改革迈入纵深推进新阶段。",
       "publishedAt": "2026-09-04",
       "source": "chinapower.org.cn"
     },
@@ -725,30 +725,6 @@
       "summary": "",
       "publishedAt": "2026-09-02",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "xinhua-dcdcb7fc42e2",
-      "title": "昆仑能源2026年中期业绩发布",
-      "url": "https://www.xinhuanet.com/energy/20260902/dcdcb7fc42e248e78da5dd88bf96aabc/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-02",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-1828cb88ce89",
-      "title": "国家电网向西藏吉隆县泥石流灾区捐赠3000万元",
-      "url": "https://www.xinhuanet.com/energy/20260902/1828cb88ce8949ca83c166699026e567/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-02",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-5a26429b1a04",
-      "title": "光伏发电装机首超煤电 成为装机规模最大的电源品类",
-      "url": "https://www.xinhuanet.com/energy/20260902/5a26429b1a0441c5a60f00455d37048b/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-02",
-      "source": "xinhuanet.com"
     },
     {
       "id": "cpnn-t20260901_1912225",
@@ -1502,10 +1478,10 @@
     }
   },
   "stats": {
-    "totalArticles": 177,
+    "totalArticles": 174,
     "bySource": {
       "chinapower.org.cn": 7,
-      "xinhuanet.com": 5,
+      "xinhuanet.com": 2,
       "cpnn.com.cn": 81,
       "nea.gov.cn": 48,
       "china5e.com": 30,
