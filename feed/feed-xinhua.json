@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-06T23:41:12+00:00",
+  "generatedAt": "2026-09-08T00:07:18+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -11,18 +11,10 @@
       "summary": "",
       "publishedAt": "2026-09-05",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-e9fc312975ea",
-      "title": "光伏超越煤电只是新起点",
-      "url": "https://www.xinhuanet.com/energy/20260903/e9fc312975ea4fbb917f3e1755cd9bfc/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-03",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 1
   },
   "errors": []
 }

@@ -1,17 +1,9 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-09-06T23:41:01+00:00",
+  "generatedAt": "2026-09-08T00:07:01+00:00",
   "lookbackHours": 72,
   "articles": [
-    {
-      "id": "nea-20260904-ca6405163b6a4141bfeb71d848254e3e-c",
-      "title": "李强签署国务院令 公布修订后的《电力安全事故应急处置和调查处理条例》",
-      "url": "https://www.nea.gov.cn/20260904/ca6405163b6a4141bfeb71d848254e3e/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-04",
-      "source": "nea.gov.cn"
-    },
     {
       "id": "nea-20260904-2165aeebb935486cb20e8b560414bed0-c",
       "title": "《电力安全事故应急处置和调查处理条例》全文",
@@ -24,6 +16,14 @@
       "id": "nea-20260904-47055259a93d4534a0eb8a14534c4022-c",
       "title": "司法部、国家发展改革委、国家能源局负责人就《电力安全事故应急处置和调查处理条例》修订答记者问",
       "url": "https://www.nea.gov.cn/20260904/47055259a93d4534a0eb8a14534c4022/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-04",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260904-ca6405163b6a4141bfeb71d848254e3e-c",
+      "title": "李强签署国务院令 公布修订后的《电力安全事故应急处置和调查处理条例》",
+      "url": "https://www.nea.gov.cn/20260904/ca6405163b6a4141bfeb71d848254e3e/c.html",
       "summary": "",
       "publishedAt": "2026-09-04",
       "source": "nea.gov.cn"
@@ -85,6 +85,14 @@
       "source": "nea.gov.cn"
     },
     {
+      "id": "nea-20260904-5448eb78f4024c1b934ce463ea2b7a73-c",
+      "title": "国家能源局开展挂职干部交流分享活动",
+      "url": "https://www.nea.gov.cn/20260904/5448eb78f4024c1b934ce463ea2b7a73/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-04",
+      "source": "nea.gov.cn"
+    },
+    {
       "id": "nea-20260904-1fddeae87c46449fa9487357335d1a3a-c",
       "title": "新疆能源监管办赴西北能源监管局座谈会商 协同推进新疆省级电力市场与西北区域电力市场有效衔接",
       "url": "https://www.nea.gov.cn/20260904/1fddeae87c46449fa9487357335d1a3a/c.html",
@@ -96,22 +104,6 @@
       "id": "nea-20260904-5a349b7d65764b4f8f31f023e7813900-c",
       "title": "河南能源监管办不断强化过程监管 积极推动重大能源项目落地实施",
       "url": "https://www.nea.gov.cn/20260904/5a349b7d65764b4f8f31f023e7813900/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-04",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260904-c9bcf6284532404bb8c11092f9a3e875-c",
-      "title": "湖南能源监管办大兴学习调研之风着力提升监管能力与质效",
-      "url": "https://www.nea.gov.cn/20260904/c9bcf6284532404bb8c11092f9a3e875/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-04",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260904-5448eb78f4024c1b934ce463ea2b7a73-c",
-      "title": "国家能源局开展挂职干部交流分享活动",
-      "url": "https://www.nea.gov.cn/20260904/5448eb78f4024c1b934ce463ea2b7a73/c.html",
       "summary": "",
       "publishedAt": "2026-09-04",
       "source": "nea.gov.cn"
@@ -390,7 +382,7 @@
     }
   ],
   "stats": {
-    "articleCount": 48
+    "articleCount": 47
   },
   "errors": []
 }
