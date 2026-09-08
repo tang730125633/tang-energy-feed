@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T00:07:38+00:00",
+  "generatedAt": "2026-09-08T23:58:52+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,48 +12,95 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260907_1913347",
-      "title": "湖北能源签下80亿元投资项目",
-      "url": "https://www.cpnn.com.cn/news/nyqy/202609/t20260907_1913347.html",
+      "id": "chinapower-462196",
+      "title": "新型电网在赣鄱大地加速铺展",
+      "url": "https://www.chinapower.org.cn/detail/462196.html",
       "summary": "",
-      "publishedAt": "2026-09-07",
+      "publishedAt": "2026-09-08",
+      "source": "chinapower.org.cn",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260908_1913537",
+      "title": "河南能源监管办不断强化过程监管 积极推动重大能源项目落地实施",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260908_1913537.html",
+      "summary": "",
+      "publishedAt": "2026-09-08",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260908_1913533",
+      "title": "华中能源监管局协同推进现代化用电营商环境“三个一批”建设",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260908_1913533.html",
+      "summary": "",
+      "publishedAt": "2026-09-08",
+      "source": "cpnn.com.cn",
+      "province": "华中"
+    },
+    {
+      "id": "cpnn-t20260908_1913494",
+      "title": "华能海南昌江核电4号机组冷试圆满成功",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202609/t20260908_1913494.html",
+      "summary": "",
+      "publishedAt": "2026-09-08",
+      "source": "cpnn.com.cn",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260908_1913602",
+      "title": "中煤鄂尔多斯能源化工有限公司启动社会招聘",
+      "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202609/t20260908_1913602.html",
+      "summary": "",
+      "publishedAt": "2026-09-08",
       "source": "cpnn.com.cn",
       "province": "湖北"
     },
     {
-      "id": "nea-20260904-c34bc66639b64047a0a1de2f7f8a5ae5-c",
-      "title": "华中能源监管局协同推进现代化用电营商环境“三个一批”建设",
-      "url": "https://www.nea.gov.cn/20260904/c34bc66639b64047a0a1de2f7f8a5ae5/c.html",
+      "id": "nea-20260908-53eb07790d7e4fe397000fb5f16e8d22-c",
+      "title": "华中能源监管局持续指导做好吉隆县泥石流灾害抢险复电工作",
+      "url": "https://www.nea.gov.cn/20260908/53eb07790d7e4fe397000fb5f16e8d22/c.html",
       "summary": "",
-      "publishedAt": "2026-09-04",
+      "publishedAt": "2026-09-08",
       "source": "nea.gov.cn",
       "province": "华中"
     },
     {
-      "id": "nea-20260904-5a349b7d65764b4f8f31f023e7813900-c",
-      "title": "河南能源监管办不断强化过程监管 积极推动重大能源项目落地实施",
-      "url": "https://www.nea.gov.cn/20260904/5a349b7d65764b4f8f31f023e7813900/c.html",
+      "id": "nea-20260908-f5db86d3f69242eea91c7c08cde2c742-c",
+      "title": "河南能源监管办赴河南电力交易中心开展市场建设和风险防控专题调研",
+      "url": "https://www.nea.gov.cn/20260908/f5db86d3f69242eea91c7c08cde2c742/c.html",
       "summary": "",
-      "publishedAt": "2026-09-04",
+      "publishedAt": "2026-09-08",
       "source": "nea.gov.cn",
       "province": "河南"
     },
     {
-      "id": "cpnn-t20260903_1912652",
-      "title": "甘肃、江苏、河南能源监管办开出9张罚单",
-      "url": "https://www.cpnn.com.cn/news/xwtt/202609/t20260903_1912652.html",
+      "id": "nea-20260908-d7a0258d33a445f788d4b48a500e18d4-c",
+      "title": "湖南能源监管办强化油气管网设施公平开放监管",
+      "url": "https://www.nea.gov.cn/20260908/d7a0258d33a445f788d4b48a500e18d4/c.html",
       "summary": "",
-      "publishedAt": "2026-09-03",
-      "source": "cpnn.com.cn",
-      "province": "河南"
+      "publishedAt": "2026-09-08",
+      "source": "nea.gov.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "china5e-1208893",
+      "title": "中国石油向湖南省累计供气超500亿立方米",
+      "url": "https://www.china5e.com/news/news-1208893-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖南"
     }
   ],
   "stats": {
-    "totalArticles": 4,
+    "totalArticles": 9,
     "byProvince": {
+      "江西": 2,
+      "河南": 2,
+      "华中": 2,
       "湖北": 1,
-      "华中": 1,
-      "河南": 2
+      "湖南": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
