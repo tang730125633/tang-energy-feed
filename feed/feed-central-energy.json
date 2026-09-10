@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T23:58:52+00:00",
+  "generatedAt": "2026-09-10T00:00:28+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,15 +11,6 @@
     "湖南"
   ],
   "articles": [
-    {
-      "id": "chinapower-462196",
-      "title": "新型电网在赣鄱大地加速铺展",
-      "url": "https://www.chinapower.org.cn/detail/462196.html",
-      "summary": "",
-      "publishedAt": "2026-09-08",
-      "source": "chinapower.org.cn",
-      "province": "江西"
-    },
     {
       "id": "cpnn-t20260908_1913537",
       "title": "河南能源监管办不断强化过程监管 积极推动重大能源项目落地实施",
@@ -75,32 +66,22 @@
       "province": "河南"
     },
     {
-      "id": "nea-20260908-d7a0258d33a445f788d4b48a500e18d4-c",
-      "title": "湖南能源监管办强化油气管网设施公平开放监管",
-      "url": "https://www.nea.gov.cn/20260908/d7a0258d33a445f788d4b48a500e18d4/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-08",
-      "source": "nea.gov.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "china5e-1208893",
-      "title": "中国石油向湖南省累计供气超500亿立方米",
-      "url": "https://www.china5e.com/news/news-1208893-1.html",
+      "id": "china5e-1208922",
+      "title": "华能海南昌江核电4号机组冷试圆满成功",
+      "url": "https://www.china5e.com/news/news-1208922-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
-      "province": "湖南"
+      "province": "江西"
     }
   ],
   "stats": {
-    "totalArticles": 9,
+    "totalArticles": 7,
     "byProvince": {
-      "江西": 2,
       "河南": 2,
       "华中": 2,
-      "湖北": 1,
-      "湖南": 2
+      "江西": 2,
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
