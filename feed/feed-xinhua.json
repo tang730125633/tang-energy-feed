@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-10T00:00:03+00:00",
+  "generatedAt": "2026-09-10T23:55:05+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-5fd174a32964",
+      "title": "提升电力系统韧性 共筑亚太能源安全——APEC电力系统韧性建设研讨会观察",
+      "url": "https://www.xinhuanet.com/energy/20260910/5fd174a3296443079fc341acb5babaa0/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-10",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-4b0df0f46fd3",
       "title": "能源转型绝非简单去煤减碳",
@@ -14,7 +22,7 @@
     }
   ],
   "stats": {
-    "articleCount": 1
+    "articleCount": 2
   },
   "errors": []
 }

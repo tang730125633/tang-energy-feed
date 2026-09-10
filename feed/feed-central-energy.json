@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T00:00:28+00:00",
+  "generatedAt": "2026-09-10T23:55:24+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,22 +12,22 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260908_1913537",
-      "title": "河南能源监管办不断强化过程监管 积极推动重大能源项目落地实施",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260908_1913537.html",
+      "id": "cpnn-t20260910_1914062",
+      "title": "安徽电力现货市场转正式运行",
+      "url": "https://www.cpnn.com.cn/news/dianli2023/202609/t20260910_1914062.html",
       "summary": "",
-      "publishedAt": "2026-09-08",
+      "publishedAt": "2026-09-10",
       "source": "cpnn.com.cn",
-      "province": "河南"
+      "province": "安徽"
     },
     {
-      "id": "cpnn-t20260908_1913533",
-      "title": "华中能源监管局协同推进现代化用电营商环境“三个一批”建设",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260908_1913533.html",
+      "id": "cpnn-t20260910_1914162",
+      "title": "国家能源集团永州电厂：薪火耀湘南",
+      "url": "https://www.cpnn.com.cn/qiye/fadianPD2023/202609/t20260910_1914162.html",
       "summary": "",
-      "publishedAt": "2026-09-08",
+      "publishedAt": "2026-09-10",
       "source": "cpnn.com.cn",
-      "province": "华中"
+      "province": "湖南"
     },
     {
       "id": "cpnn-t20260908_1913494",
@@ -78,10 +78,12 @@
   "stats": {
     "totalArticles": 7,
     "byProvince": {
-      "河南": 2,
-      "华中": 2,
+      "安徽": 1,
+      "湖南": 1,
       "江西": 2,
-      "湖北": 1
+      "湖北": 1,
+      "华中": 1,
+      "河南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
