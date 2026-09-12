@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-12T00:02:02+00:00",
+  "generatedAt": "2026-09-12T23:53:19+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-ff1b2b37ea88",
+      "title": "国网冀北电力研发的全控型电力电子器件均流检测装置通过全面测试验证",
+      "url": "https://www.xinhuanet.com/energy/20260912/ff1b2b37ea88417e877fe39a8b5bce80/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-12",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-22dd0ad322c5",
       "title": "打卡2026服贸会｜意想不到的环境能源服务“新范式”",
@@ -38,7 +46,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 5
   },
   "errors": []
 }

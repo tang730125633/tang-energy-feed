@@ -1,67 +1,67 @@
 {
-  "generatedAt": "2026-09-12T00:02:20+00:00",
+  "generatedAt": "2026-09-12T23:53:40+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-09-11T23:08:35+00:00",
+      "generatedAt": "2026-09-12T22:55:50+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-09-12T00:02:01+00:00",
+      "generatedAt": "2026-09-12T23:53:18+00:00",
       "articleCount": 31,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-09-12T00:02:20+00:00",
+      "generatedAt": "2026-09-12T23:53:40+00:00",
       "articleCount": 5,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-09-12T00:01:49+00:00",
+      "generatedAt": "2026-09-12T23:53:03+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-09-12T00:01:46+00:00",
+      "generatedAt": "2026-09-12T23:53:00+00:00",
       "articleCount": 82,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-09-12T00:01:55+00:00",
+      "generatedAt": "2026-09-12T23:53:10+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-09-11T23:08:42+00:00",
-      "articleCount": 4,
+      "generatedAt": "2026-09-12T22:55:58+00:00",
+      "articleCount": 3,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-09-12T00:01:47+00:00",
+      "generatedAt": "2026-09-12T23:53:01+00:00",
       "articleCount": 48,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-09-12T00:02:02+00:00",
-      "articleCount": 4,
+      "generatedAt": "2026-09-12T23:53:19+00:00",
+      "articleCount": 5,
       "hasErrors": false
     }
   ],
@@ -81,6 +81,14 @@
       "summary": "近日，国家电投集团黄河公司举办“绿电惠企・黄河护航”2026年客户开放日活动。来自青海省内化工、通信、交通等26家重点企业的54名客户代表参加活动。",
       "publishedAt": "2026-09-12",
       "source": "chinapower.org.cn"
+    },
+    {
+      "id": "xinhua-ff1b2b37ea88",
+      "title": "国网冀北电力研发的全控型电力电子器件均流检测装置通过全面测试验证",
+      "url": "https://www.xinhuanet.com/energy/20260912/ff1b2b37ea88417e877fe39a8b5bce80/c.html",
+      "summary": "9月4日，记者从国网冀北电力有限公司获悉，由该公司主导研发的全控型电力电子器件均流检测装置正式通过国网柔直技术分中心和柔性直流输电运维检修技术实验室的全面测试验证。这标志着我国在柔性直流工程核心器件现场无损检测领域取得重大技术突破，填补了柔直换流阀核心器件现场快速检测的技术空白。",
+      "publishedAt": "2026-09-12",
+      "source": "xinhuanet.com"
     },
     {
       "id": "chinapower-462422",
@@ -302,7 +310,7 @@
       "id": "cpnn-t20260911_1914629",
       "title": "刘连东任国投电力总会计师",
       "url": "https://www.cpnn.com.cn/news/renshi2023/202609/t20260911_1914629.html",
-      "summary": "国投电力发布公告称，公司于2026年9月10日召开公司第十三届董事会第十六次会议，审议通过《关于聘任公司高级管理人员的议案》，经公司总经理提名，董事会审议，同意聘任刘连东先生为公司总会计师（财务负责人），同意聘任曹建军先生为公司总法律顾问（首席合规官）。上述高级管理人员任期自本次",
+      "summary": "",
       "publishedAt": "2026-09-11",
       "source": "cpnn.com.cn"
     },
@@ -1452,14 +1460,6 @@
       "summary": "",
       "publishedAt": null,
       "source": "ne21.com"
-    },
-    {
-      "id": "ne21-230744",
-      "title": "如何选择合适的储能系统？——基于2026年上半年全球市场数据的选购指南",
-      "url": "https://www.ne21.com/news/show-230744.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com"
     }
   ],
   "copper": {
@@ -1480,11 +1480,11 @@
     "totalArticles": 174,
     "bySource": {
       "chinapower.org.cn": 5,
+      "xinhuanet.com": 5,
       "cpnn.com.cn": 82,
       "nea.gov.cn": 48,
-      "xinhuanet.com": 4,
       "china5e.com": 31,
-      "ne21.com": 4
+      "ne21.com": 3
     },
     "byProvince": {
       "河南": 1,
