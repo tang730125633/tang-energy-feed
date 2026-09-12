@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-10T23:55:05+00:00",
+  "generatedAt": "2026-09-12T00:02:02+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-22dd0ad322c5",
+      "title": "打卡2026服贸会｜意想不到的环境能源服务“新范式”",
+      "url": "https://www.xinhuanet.com/energy/20260911/22dd0ad322c54107a55bc704f21a84e2/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-11",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-74eee352f77b",
+      "title": "京能数产高二贺：推动算力使用绿电 以算电协同助力能源转型",
+      "url": "https://www.xinhuanet.com/energy/20260911/74eee352f77b408b88d258de9526f061/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-11",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-5fd174a32964",
       "title": "提升电力系统韧性 共筑亚太能源安全——APEC电力系统韧性建设研讨会观察",
@@ -22,7 +38,7 @@
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 4
   },
   "errors": []
 }

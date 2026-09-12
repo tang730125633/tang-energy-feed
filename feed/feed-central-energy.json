@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:55:24+00:00",
+  "generatedAt": "2026-09-12T00:02:20+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260910_1914062",
-      "title": "安徽电力现货市场转正式运行",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202609/t20260910_1914062.html",
+      "id": "nea-20260911-fb802850a4da4dd5bfef6efa321ecbdb-c",
+      "title": "河南能源监管办召开树立和践行正确政绩观学习教育总结会议",
+      "url": "https://www.nea.gov.cn/20260911/fb802850a4da4dd5bfef6efa321ecbdb/c.html",
       "summary": "",
-      "publishedAt": "2026-09-10",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
+      "publishedAt": "2026-09-11",
+      "source": "nea.gov.cn",
+      "province": "河南"
     },
     {
       "id": "cpnn-t20260910_1914162",
@@ -30,15 +30,6 @@
       "province": "湖南"
     },
     {
-      "id": "cpnn-t20260908_1913494",
-      "title": "华能海南昌江核电4号机组冷试圆满成功",
-      "url": "https://www.cpnn.com.cn/news/dianli2023/202609/t20260908_1913494.html",
-      "summary": "",
-      "publishedAt": "2026-09-08",
-      "source": "cpnn.com.cn",
-      "province": "江西"
-    },
-    {
       "id": "cpnn-t20260908_1913602",
       "title": "中煤鄂尔多斯能源化工有限公司启动社会招聘",
       "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202609/t20260908_1913602.html",
@@ -46,44 +37,14 @@
       "publishedAt": "2026-09-08",
       "source": "cpnn.com.cn",
       "province": "湖北"
-    },
-    {
-      "id": "nea-20260908-53eb07790d7e4fe397000fb5f16e8d22-c",
-      "title": "华中能源监管局持续指导做好吉隆县泥石流灾害抢险复电工作",
-      "url": "https://www.nea.gov.cn/20260908/53eb07790d7e4fe397000fb5f16e8d22/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-08",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
-      "id": "nea-20260908-f5db86d3f69242eea91c7c08cde2c742-c",
-      "title": "河南能源监管办赴河南电力交易中心开展市场建设和风险防控专题调研",
-      "url": "https://www.nea.gov.cn/20260908/f5db86d3f69242eea91c7c08cde2c742/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-08",
-      "source": "nea.gov.cn",
-      "province": "河南"
-    },
-    {
-      "id": "china5e-1208922",
-      "title": "华能海南昌江核电4号机组冷试圆满成功",
-      "url": "https://www.china5e.com/news/news-1208922-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "江西"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 3,
     "byProvince": {
-      "安徽": 1,
+      "河南": 1,
       "湖南": 1,
-      "江西": 2,
-      "湖北": 1,
-      "华中": 1,
-      "河南": 1
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
