@@ -1,7 +1,7 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-09-12T23:53:40+00:00",
+  "generatedAt": "2026-09-14T00:01:34+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -19,34 +19,10 @@
       "summary": "",
       "publishedAt": "2026-09-12",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462422",
-      "title": "全国首个高原电力传感领域国家标准立项获批",
-      "url": "https://www.chinapower.org.cn/detail/462422.html",
-      "summary": "",
-      "publishedAt": "2026-09-11",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462421",
-      "title": "一张坚强智能电网见证海岛十年蝶变 三亚“织网” 银线牵起山海梦",
-      "url": "https://www.chinapower.org.cn/detail/462421.html",
-      "summary": "",
-      "publishedAt": "2026-09-11",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462420",
-      "title": "国家电网公司主导的国际标准《基于区块链的绿证交易技术规范》正式发布",
-      "url": "https://www.chinapower.org.cn/detail/462420.html",
-      "summary": "",
-      "publishedAt": "2026-09-11",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 2
   },
   "errors": []
 }
