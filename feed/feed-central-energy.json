@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:26:03+00:00",
+  "generatedAt": "2026-09-16T00:05:44+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260914_1915056",
-      "title": "国网江西电力提升实时数据传输稳定性连续性",
-      "url": "https://www.cpnn.com.cn/qiye/jishu2023/202609/t20260914_1915056.html",
+      "id": "cpnn-t20260915_1915176",
+      "title": "湖南能源监管办印发12398热线工单办理规范",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260915_1915176.html",
       "summary": "",
-      "publishedAt": "2026-09-14",
+      "publishedAt": "2026-09-15",
       "source": "cpnn.com.cn",
-      "province": "江西"
+      "province": "湖南"
     },
     {
       "id": "nea-20260911-fb802850a4da4dd5bfef6efa321ecbdb-c",
@@ -30,31 +30,20 @@
       "province": "河南"
     },
     {
-      "id": "cpnn-t20260908_1913602",
-      "title": "中煤鄂尔多斯能源化工有限公司启动社会招聘",
-      "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202609/t20260908_1913602.html",
-      "summary": "",
-      "publishedAt": "2026-09-08",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "china5e-1209162",
-      "title": "8月份安徽省煤炭价格延续升势",
-      "url": "https://www.china5e.com/news/news-1209162-1.html",
+      "id": "china5e-1209238",
+      "title": "郑州煤电：四季度动力煤价格走势存在不确定性",
+      "url": "https://www.china5e.com/news/news-1209238-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
-      "province": "安徽"
+      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 4,
+    "totalArticles": 3,
     "byProvince": {
-      "江西": 1,
-      "河南": 1,
-      "湖北": 1,
-      "安徽": 1
+      "湖南": 1,
+      "河南": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-15T00:25:40+00:00",
+  "generatedAt": "2026-09-16T00:05:18+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-1204370cdfa9",
+      "title": "电力之光·国网科普｜算电协同",
+      "url": "https://www.xinhuanet.com/energy/20260915/1204370cdfa942b8aaff806c66b0fbd5/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-15",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-08d10dd5ce83",
+      "title": "《油气管网设施公平开放信息公开与报送办法》政策解读",
+      "url": "https://www.xinhuanet.com/energy/20260915/08d10dd5ce834e46af227cd64e0d01a2/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-15",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-31b02599312a",
       "title": "全国科普月：电力之光点亮美好生活",
@@ -19,18 +35,10 @@
       "summary": "",
       "publishedAt": "2026-09-14",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-ff1b2b37ea88",
-      "title": "国网冀北电力研发的全控型电力电子器件均流检测装置通过全面测试验证",
-      "url": "https://www.xinhuanet.com/energy/20260912/ff1b2b37ea88417e877fe39a8b5bce80/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-12",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 4
   },
   "errors": []
 }
