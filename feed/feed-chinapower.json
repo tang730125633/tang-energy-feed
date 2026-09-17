@@ -1,9 +1,25 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-09-16T00:05:44+00:00",
+  "generatedAt": "2026-09-17T00:16:02+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-462583",
+      "title": "甘浙特高压工程完成黄河大跨越施工",
+      "url": "https://www.chinapower.org.cn/detail/462583.html",
+      "summary": "",
+      "publishedAt": "2026-09-16",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-462582",
+      "title": "国家电网为青海高质量发展注入强劲动能",
+      "url": "https://www.chinapower.org.cn/detail/462582.html",
+      "summary": "",
+      "publishedAt": "2026-09-16",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-462568",
       "title": "中电联召开2026年度电煤价格指数（CECI）及电力行业燃料统计工作交流会",
@@ -19,42 +35,10 @@
       "summary": "",
       "publishedAt": "2026-09-15",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462553",
-      "title": "甘肃—浙江特高压工程完成黄河大跨越施工",
-      "url": "https://www.chinapower.org.cn/detail/462553.html",
-      "summary": "",
-      "publishedAt": "2026-09-15",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462536",
-      "title": "第十六届全国电力行业职业技能竞赛——变电设备检修工（开关设备检修工）决赛圆满闭幕",
-      "url": "https://www.chinapower.org.cn/detail/462536.html",
-      "summary": "",
-      "publishedAt": "2026-09-15",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462526",
-      "title": "昌吉—古泉特高压直流今年已送电超500亿千瓦时",
-      "url": "https://www.chinapower.org.cn/detail/462526.html",
-      "summary": "",
-      "publishedAt": "2026-09-14",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462522",
-      "title": "用电新高，何以无感？——国家电网保供答卷",
-      "url": "https://www.chinapower.org.cn/detail/462522.html",
-      "summary": "",
-      "publishedAt": "2026-09-14",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 4
   },
   "errors": []
 }

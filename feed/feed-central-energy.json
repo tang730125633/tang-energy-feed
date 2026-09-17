@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:05:44+00:00",
+  "generatedAt": "2026-09-17T00:16:02+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,6 +12,33 @@
   ],
   "articles": [
     {
+      "id": "cpnn-t20260916_1915508",
+      "title": "《江西省突发事件应对条例》将施行 覆盖新能源等领域",
+      "url": "https://www.cpnn.com.cn/news/xny/202609/t20260916_1915508.html",
+      "summary": "",
+      "publishedAt": "2026-09-16",
+      "source": "cpnn.com.cn",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260916_1915624",
+      "title": "国网襄阳供电：满格电力 点亮襄阳文旅热力图",
+      "url": "https://www.cpnn.com.cn/qiye/yzfw/202609/t20260916_1915624.html",
+      "summary": "",
+      "publishedAt": "2026-09-16",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260916_1915629",
+      "title": "大唐河南清洁能源公司：全力以赴推动项目高质量建设",
+      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202609/t20260916_1915629.html",
+      "summary": "",
+      "publishedAt": "2026-09-16",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
       "id": "cpnn-t20260915_1915176",
       "title": "湖南能源监管办印发12398热线工单办理规范",
       "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260915_1915176.html",
@@ -21,15 +48,6 @@
       "province": "湖南"
     },
     {
-      "id": "nea-20260911-fb802850a4da4dd5bfef6efa321ecbdb-c",
-      "title": "河南能源监管办召开树立和践行正确政绩观学习教育总结会议",
-      "url": "https://www.nea.gov.cn/20260911/fb802850a4da4dd5bfef6efa321ecbdb/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-11",
-      "source": "nea.gov.cn",
-      "province": "河南"
-    },
-    {
       "id": "china5e-1209238",
       "title": "郑州煤电：四季度动力煤价格走势存在不确定性",
       "url": "https://www.china5e.com/news/news-1209238-1.html",
@@ -37,13 +55,25 @@
       "publishedAt": null,
       "source": "china5e.com",
       "province": "河南"
+    },
+    {
+      "id": "ne21-230864",
+      "title": "轨道交通智慧储能新标杆｜天合蓝海2赋能安徽城际枢纽2.088MWh储能项目顺利落地",
+      "url": "https://www.ne21.com/news/show-230864.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com",
+      "province": "安徽"
     }
   ],
   "stats": {
-    "totalArticles": 3,
+    "totalArticles": 6,
     "byProvince": {
+      "江西": 1,
+      "湖北": 1,
+      "河南": 2,
       "湖南": 1,
-      "河南": 2
+      "安徽": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

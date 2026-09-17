@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-16T00:05:18+00:00",
+  "generatedAt": "2026-09-17T00:15:38+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-de7cde6b6373",
+      "title": "国家电网公司发布打造现代化用电营商环境赋能经济社会高质量发展若干举措",
+      "url": "https://www.xinhuanet.com/energy/20260916/de7cde6b637341a4a0e1c1fe2baa30c2/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-16",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-1204370cdfa9",
       "title": "电力之光·国网科普｜算电协同",
@@ -38,7 +46,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 5
   },
   "errors": []
 }
