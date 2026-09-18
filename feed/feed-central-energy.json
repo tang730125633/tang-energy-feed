@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T00:16:02+00:00",
+  "generatedAt": "2026-09-18T00:01:44+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,68 +12,28 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260916_1915508",
-      "title": "《江西省突发事件应对条例》将施行 覆盖新能源等领域",
-      "url": "https://www.cpnn.com.cn/news/xny/202609/t20260916_1915508.html",
+      "id": "cpnn-t20260917_1915897",
+      "title": "解读《安徽电力调频辅助服务市场实施细则 （试行）》",
+      "url": "https://www.cpnn.com.cn/news/dfny/202609/t20260917_1915897.html",
       "summary": "",
-      "publishedAt": "2026-09-16",
+      "publishedAt": "2026-09-17",
       "source": "cpnn.com.cn",
-      "province": "江西"
+      "province": "安徽"
     },
     {
-      "id": "cpnn-t20260916_1915624",
-      "title": "国网襄阳供电：满格电力 点亮襄阳文旅热力图",
-      "url": "https://www.cpnn.com.cn/qiye/yzfw/202609/t20260916_1915624.html",
+      "id": "cpnn-t20260917_1915906",
+      "title": "李天圣辞去皖能电力证券事务代表职务",
+      "url": "https://www.cpnn.com.cn/news/renshi2023/202609/t20260917_1915906.html",
       "summary": "",
-      "publishedAt": "2026-09-16",
+      "publishedAt": "2026-09-17",
       "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260916_1915629",
-      "title": "大唐河南清洁能源公司：全力以赴推动项目高质量建设",
-      "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202609/t20260916_1915629.html",
-      "summary": "",
-      "publishedAt": "2026-09-16",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260915_1915176",
-      "title": "湖南能源监管办印发12398热线工单办理规范",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260915_1915176.html",
-      "summary": "",
-      "publishedAt": "2026-09-15",
-      "source": "cpnn.com.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "china5e-1209238",
-      "title": "郑州煤电：四季度动力煤价格走势存在不确定性",
-      "url": "https://www.china5e.com/news/news-1209238-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "河南"
-    },
-    {
-      "id": "ne21-230864",
-      "title": "轨道交通智慧储能新标杆｜天合蓝海2赋能安徽城际枢纽2.088MWh储能项目顺利落地",
-      "url": "https://www.ne21.com/news/show-230864.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "ne21.com",
       "province": "安徽"
     }
   ],
   "stats": {
-    "totalArticles": 6,
+    "totalArticles": 2,
     "byProvince": {
-      "江西": 1,
-      "湖北": 1,
-      "河南": 2,
-      "湖南": 1,
-      "安徽": 1
+      "安徽": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."

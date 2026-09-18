@@ -1,9 +1,17 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-09-17T00:15:20+00:00",
+  "generatedAt": "2026-09-18T00:01:08+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260917-0b7742f302274176ac97a3e68530e726-c",
+      "title": "国家能源局主要负责人会见东盟秘书长",
+      "url": "https://www.nea.gov.cn/20260917/0b7742f302274176ac97a3e68530e726/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-17",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260916-8cb8f65a5dd54a1eae6342dd5b932260-c",
       "title": "国家能源局主要负责人会见新西兰气候变化部部长",
@@ -117,14 +125,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260916-1d30f2251edb4d6fb162b5131e5ec45c-c",
-      "title": "四川能源监管办开展2026年四川大电网安全生产风险现场检查",
-      "url": "https://www.nea.gov.cn/20260916/1d30f2251edb4d6fb162b5131e5ec45c/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-16",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260915-d4da77922a964dd7a9605b8bb8c1b730-c",
       "title": "国家能源局主要负责人会见秘鲁能源和矿业部部长",
       "url": "https://www.nea.gov.cn/20260915/d4da77922a964dd7a9605b8bb8c1b730/c.html",
@@ -152,14 +152,6 @@
       "id": "nea-20260913-7cf4c58c2b9b409680bbdb8228ae6e85-c",
       "title": "第十二届亚太能源可持续发展高端论坛在北京召开",
       "url": "https://www.nea.gov.cn/20260913/7cf4c58c2b9b409680bbdb8228ae6e85/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-13",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260913-66a8a8622a73410185220d5fea2ec51e-c",
-      "title": "APEC清洁能源创新实践专题研讨会在北京举办",
-      "url": "https://www.nea.gov.cn/20260913/66a8a8622a73410185220d5fea2ec51e/c.html",
       "summary": "",
       "publishedAt": "2026-09-13",
       "source": "nea.gov.cn"
@@ -414,7 +406,7 @@
     }
   ],
   "stats": {
-    "articleCount": 51
+    "articleCount": 50
   },
   "errors": []
 }

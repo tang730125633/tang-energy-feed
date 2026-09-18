@@ -1,9 +1,41 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-09-17T00:16:02+00:00",
+  "generatedAt": "2026-09-18T00:01:44+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-462620",
+      "title": "南方电网：书写羊城高质量发展电力答卷",
+      "url": "https://www.chinapower.org.cn/detail/462620.html",
+      "summary": "",
+      "publishedAt": "2026-09-17",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-462618",
+      "title": "国网重庆电力海智工作站正式成立",
+      "url": "https://www.chinapower.org.cn/detail/462618.html",
+      "summary": "",
+      "publishedAt": "2026-09-17",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-462617",
+      "title": "国家电网公司发布打造现代化用电营商环境赋能经济社会高质量发展若干举措",
+      "url": "https://www.chinapower.org.cn/detail/462617.html",
+      "summary": "",
+      "publishedAt": "2026-09-17",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-462616",
+      "title": "三峡集团26项作品获2026年 “电力之光”科普创作大赛奖项",
+      "url": "https://www.chinapower.org.cn/detail/462616.html",
+      "summary": "",
+      "publishedAt": "2026-09-17",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-462583",
       "title": "甘浙特高压工程完成黄河大跨越施工",
@@ -11,34 +43,10 @@
       "summary": "",
       "publishedAt": "2026-09-16",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462582",
-      "title": "国家电网为青海高质量发展注入强劲动能",
-      "url": "https://www.chinapower.org.cn/detail/462582.html",
-      "summary": "",
-      "publishedAt": "2026-09-16",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462568",
-      "title": "中电联召开2026年度电煤价格指数（CECI）及电力行业燃料统计工作交流会",
-      "url": "https://www.chinapower.org.cn/detail/462568.html",
-      "summary": "",
-      "publishedAt": "2026-09-15",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462558",
-      "title": "中国电力报华电人的“夏天”",
-      "url": "https://www.chinapower.org.cn/detail/462558.html",
-      "summary": "",
-      "publishedAt": "2026-09-15",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 5
   },
   "errors": []
 }
