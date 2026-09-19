@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:01:44+00:00",
+  "generatedAt": "2026-09-19T00:04:56+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,15 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260918_1916218",
+      "title": "国网荆州输电运检分公司：快速消缺守护电网安全",
+      "url": "https://www.cpnn.com.cn/qiye/anquan/202609/t20260918_1916218.html",
+      "summary": "",
+      "publishedAt": "2026-09-18",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
     {
       "id": "cpnn-t20260917_1915897",
       "title": "解读《安徽电力调频辅助服务市场实施细则 （试行）》",
@@ -31,8 +40,9 @@
     }
   ],
   "stats": {
-    "totalArticles": 2,
+    "totalArticles": 3,
     "byProvince": {
+      "湖北": 1,
       "安徽": 2
     }
   },

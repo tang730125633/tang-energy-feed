@@ -1,9 +1,25 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-09-18T00:01:08+00:00",
+  "generatedAt": "2026-09-19T00:04:18+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "nea-20260918-a69f161c5ed6448b9207d0e3d694fee6-c",
+      "title": "国家能源局负责人出席2026年二十国集团能源富足部长会议",
+      "url": "https://www.nea.gov.cn/20260918/a69f161c5ed6448b9207d0e3d694fee6/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-18",
+      "source": "nea.gov.cn"
+    },
+    {
+      "id": "nea-20260918-4b76982ceaba46e7bb364f64b90ee48e-c",
+      "title": "国家能源局等部门部署煤炭安全稳产保供工作",
+      "url": "https://www.nea.gov.cn/20260918/4b76982ceaba46e7bb364f64b90ee48e/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-18",
+      "source": "nea.gov.cn"
+    },
     {
       "id": "nea-20260917-0b7742f302274176ac97a3e68530e726-c",
       "title": "国家能源局主要负责人会见东盟秘书长",
@@ -141,22 +157,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260913-9dc0d216f91b44ca8073a8ffe47a438c-c",
-      "title": "第16次亚太经合组织能源部长会议在北京召开",
-      "url": "https://www.nea.gov.cn/20260913/9dc0d216f91b44ca8073a8ffe47a438c/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-13",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260913-7cf4c58c2b9b409680bbdb8228ae6e85-c",
-      "title": "第十二届亚太能源可持续发展高端论坛在北京召开",
-      "url": "https://www.nea.gov.cn/20260913/7cf4c58c2b9b409680bbdb8228ae6e85/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-13",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260911-260815f4312042fdb317237a7262955a-c",
       "title": "国家能源局新闻发布会文字实录",
       "url": "https://www.nea.gov.cn/20260911/260815f4312042fdb317237a7262955a/c.html",
@@ -202,14 +202,6 @@
       "url": "https://www.nea.gov.cn/20260911/862dfb5ae69b4864a7c6ca37bb6d89b9/c.html",
       "summary": "",
       "publishedAt": "2026-09-11",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260910-ee1ea58506ad45d28b2d468c7fae77ec-c",
-      "title": "第十二届亚太能源可持续发展高端论坛在北京召开",
-      "url": "https://www.nea.gov.cn/20260910/ee1ea58506ad45d28b2d468c7fae77ec/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-10",
       "source": "nea.gov.cn"
     },
     {
@@ -406,7 +398,7 @@
     }
   ],
   "stats": {
-    "articleCount": 50
+    "articleCount": 49
   },
   "errors": []
 }
