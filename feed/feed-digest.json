@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-09-19T00:04:56+00:00",
+  "generatedAt": "2026-09-20T00:00:38+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-09-18T23:09:29+00:00",
+      "generatedAt": "2026-09-19T22:49:59+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-09-19T00:04:33+00:00",
-      "articleCount": 32,
+      "generatedAt": "2026-09-20T00:00:18+00:00",
+      "articleCount": 33,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-09-19T00:04:56+00:00",
+      "generatedAt": "2026-09-20T00:00:38+00:00",
       "articleCount": 5,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-09-19T00:04:20+00:00",
+      "generatedAt": "2026-09-20T00:00:06+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-09-19T00:04:17+00:00",
+      "generatedAt": "2026-09-20T00:00:03+00:00",
       "articleCount": 85,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-09-19T00:04:26+00:00",
+      "generatedAt": "2026-09-20T00:00:12+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-09-18T23:09:38+00:00",
+      "generatedAt": "2026-09-19T22:50:08+00:00",
       "articleCount": 1,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-09-19T00:04:18+00:00",
+      "generatedAt": "2026-09-20T00:00:05+00:00",
       "articleCount": 49,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-09-19T00:04:34+00:00",
+      "generatedAt": "2026-09-20T00:00:19+00:00",
       "articleCount": 5,
       "hasErrors": false
     }
@@ -73,6 +73,14 @@
       "summary": "近日，国家数据产权登记服务系统正式上线试运行，全国首批50余份数据产权登记凭证已完成集中公示。在中国电力企业联合会的统筹组织与指导下，电力行业数据资产梳理及评估试点工作取得标志性阶段性成果：华能招采数字科技有限公司、国网辽宁省电力有限公司辽阳供电公司两家试点单位申报的“全国能源行",
       "publishedAt": "2026-09-19",
       "source": "chinapower.org.cn"
+    },
+    {
+      "id": "xinhua-2182cb6ff92f",
+      "title": "第十六次亚太经合组织能源部长会议代表团参访国家电投中国电力中电农创",
+      "url": "https://www.xinhuanet.com/energy/20260919/2182cb6ff92f49c98372326da98d4720/c.html",
+      "summary": "近日，第十六次亚太经合组织（APEC）能源部长会议在北京召开。会议聚焦“共筑普惠、创新、协同的亚太能源共同体”主题，形成了“1+3+5”成果体系，首次提出并系统阐释了“亚太能源共同体”概念的内涵与外延。作为本次会议重要配套技术参访活动，来自APEC各经济体的29名代表分别于9月6",
+      "publishedAt": "2026-09-19",
+      "source": "xinhuanet.com"
     },
     {
       "id": "chinapower-462656",
@@ -303,7 +311,7 @@
       "id": "cpnn-t20260918_1916222",
       "title": "南方电网广西电网公司深化区域能源技术人才交流",
       "url": "https://www.cpnn.com.cn/qiye/jishu2023/202609/t20260918_1916222.html",
-      "summary": "第23届中国—东盟博览会、中国—东盟商务与投资峰会期间，南方电网多项能源电力技术成果备受瞩目。",
+      "summary": "",
       "publishedAt": "2026-09-18",
       "source": "cpnn.com.cn"
     },
@@ -700,14 +708,6 @@
       "summary": "",
       "publishedAt": "2026-09-16",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "xinhua-de7cde6b6373",
-      "title": "国家电网公司发布打造现代化用电营商环境赋能经济社会高质量发展若干举措",
-      "url": "https://www.xinhuanet.com/energy/20260916/de7cde6b637341a4a0e1c1fe2baa30c2/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-16",
-      "source": "xinhuanet.com"
     },
     {
       "id": "cpnn-t20260915_1915307",
@@ -1254,6 +1254,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1209418",
+      "title": "三峡能源(600905)：装机容量达53GW 风光比例均衡",
+      "url": "https://www.china5e.com/news/news-1209418-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1209448",
       "title": "2026年广东电力市场半年报告发布",
       "url": "https://www.china5e.com/news/news-1209448-1.html",
@@ -1501,13 +1509,13 @@
     }
   },
   "stats": {
-    "totalArticles": 177,
+    "totalArticles": 178,
     "bySource": {
       "chinapower.org.cn": 5,
+      "xinhuanet.com": 5,
       "cpnn.com.cn": 85,
       "nea.gov.cn": 49,
-      "xinhuanet.com": 5,
-      "china5e.com": 32,
+      "china5e.com": 33,
       "ne21.com": 1
     },
     "byProvince": {

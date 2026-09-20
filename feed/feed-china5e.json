@@ -1,7 +1,7 @@
 {
   "source": "china5e.com",
   "sourceName": "中国能源网",
-  "generatedAt": "2026-09-19T00:04:33+00:00",
+  "generatedAt": "2026-09-20T00:00:18+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -32,6 +32,14 @@
       "id": "china5e-1209440",
       "title": "8月份内蒙古煤炭价格738.6元/吨，环比上涨0.9%",
       "url": "https://www.china5e.com/news/news-1209440-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1209418",
+      "title": "三峡能源(600905)：装机容量达53GW 风光比例均衡",
+      "url": "https://www.china5e.com/news/news-1209418-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com"
@@ -262,7 +270,7 @@
     }
   ],
   "stats": {
-    "articleCount": 32
+    "articleCount": 33
   },
   "errors": [
     "/news/ error: HTTPError: 404 Client Error: Not Found for url: https://www.china5e.com/news/"
