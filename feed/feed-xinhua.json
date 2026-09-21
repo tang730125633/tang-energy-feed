@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-20T00:00:19+00:00",
+  "generatedAt": "2026-09-21T00:02:13+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-72c8dd4b667d",
+      "title": "智慧保电护航“技能奥林匹克” 绿色电力点亮“四叶草”",
+      "url": "https://www.xinhuanet.com/energy/20260920/72c8dd4b667d490cbe8e710b8b74f28a/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-20",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-2182cb6ff92f",
       "title": "第十六次亚太经合组织能源部长会议代表团参访国家电投中国电力中电农创",
@@ -27,26 +35,10 @@
       "summary": "",
       "publishedAt": "2026-09-18",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-5b18a8265d69",
-      "title": "“2026未来能源领袖计划”全国总决赛落幕，青年以AI创新回应能源转型挑战",
-      "url": "https://www.xinhuanet.com/energy/20260917/5b18a8265d6945ffba8217bb8b181bc2/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-17",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-bea3a3d4d0b4",
-      "title": "隆基钟宝申：推动新能源走向全场景价值化，从制造迈向智造",
-      "url": "https://www.xinhuanet.com/energy/20260917/bea3a3d4d0b4473da97a8ace330696a5/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-17",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 4
   },
   "errors": []
 }

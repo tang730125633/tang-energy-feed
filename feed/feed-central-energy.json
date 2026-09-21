@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:00:38+00:00",
+  "generatedAt": "2026-09-21T00:02:33+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -21,13 +21,13 @@
       "province": "湖北"
     },
     {
-      "id": "cpnn-t20260917_1915897",
-      "title": "解读《安徽电力调频辅助服务市场实施细则 （试行）》",
-      "url": "https://www.cpnn.com.cn/news/dfny/202609/t20260917_1915897.html",
+      "id": "cpnn-t20260918_1916224",
+      "title": "大唐抚州发电获评“江西省‘十四五’安全生产工作先进单位”",
+      "url": "https://www.cpnn.com.cn/qiye/rongyu/202609/t20260918_1916224.html",
       "summary": "",
-      "publishedAt": "2026-09-17",
+      "publishedAt": "2026-09-18",
       "source": "cpnn.com.cn",
-      "province": "安徽"
+      "province": "江西"
     },
     {
       "id": "cpnn-t20260917_1915906",
@@ -37,13 +37,33 @@
       "publishedAt": "2026-09-17",
       "source": "cpnn.com.cn",
       "province": "安徽"
+    },
+    {
+      "id": "china5e-1209436",
+      "title": "鄂尔多斯发布严厉打击煤矿超能力生产紧急通知",
+      "url": "https://www.china5e.com/news/news-1209436-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
+    },
+    {
+      "id": "ne21-230977",
+      "title": "16GWh！河南开展独立储能开工建设检查",
+      "url": "https://www.ne21.com/news/show-230977.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "ne21.com",
+      "province": "河南"
     }
   ],
   "stats": {
-    "totalArticles": 3,
+    "totalArticles": 5,
     "byProvince": {
-      "湖北": 1,
-      "安徽": 2
+      "湖北": 2,
+      "江西": 1,
+      "安徽": 1,
+      "河南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
