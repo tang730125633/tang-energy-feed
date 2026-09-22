@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-21T00:02:13+00:00",
+  "generatedAt": "2026-09-22T00:40:54+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-e97c29697476",
+      "title": "全国科普月：电力科普进校园进社区进基层",
+      "url": "https://www.xinhuanet.com/energy/20260921/e97c296974764433a984784052d4ffd7/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-21",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-72c8dd4b667d",
       "title": "智慧保电护航“技能奥林匹克” 绿色电力点亮“四叶草”",
@@ -19,26 +27,10 @@
       "summary": "",
       "publishedAt": "2026-09-19",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-da6a81adab1b",
-      "title": "海南首台“华龙一号”核电机组投产商运",
-      "url": "https://www.xinhuanet.com/energy/20260918/da6a81adab1b431cbfb896d9a19cd1c3/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-18",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-81de474fdd4f",
-      "title": "国家能源局等部门部署煤炭安全稳产保供工作",
-      "url": "https://www.xinhuanet.com/energy/20260918/81de474fdd4f4a2fb299d4cd907a4439/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-18",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 3
   },
   "errors": []
 }
