@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-22T00:40:54+00:00",
+  "generatedAt": "2026-09-23T00:13:29+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-d3f7bf4962bf",
+      "title": "AI应用·算电协同，共筑零碳能源新境界 2026人工智能+能源发展交流会成功召开",
+      "url": "https://www.xinhuanet.com/energy/20260922/d3f7bf4962bf49918a265f42ac7393ef/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-22",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-b130a5ec5de5",
+      "title": "聚智厚植企业健康生产力，赋能新型电力系统建设——电力企业职业健康生态建设交流会成功举办",
+      "url": "https://www.xinhuanet.com/energy/20260922/b130a5ec5de5421890c2f87802624040/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-22",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-e97c29697476",
       "title": "全国科普月：电力科普进校园进社区进基层",
@@ -19,18 +35,10 @@
       "summary": "",
       "publishedAt": "2026-09-20",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-2182cb6ff92f",
-      "title": "第十六次亚太经合组织能源部长会议代表团参访国家电投中国电力中电农创",
-      "url": "https://www.xinhuanet.com/energy/20260919/2182cb6ff92f49c98372326da98d4720/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-19",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 4
   },
   "errors": []
 }
