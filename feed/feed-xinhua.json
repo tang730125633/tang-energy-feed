@@ -1,9 +1,33 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-23T00:13:29+00:00",
+  "generatedAt": "2026-09-24T00:21:01+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-c191078d3293",
+      "title": "2026年1—8月全国电力市场交易电量同比增长19.2%",
+      "url": "https://www.xinhuanet.com/energy/20260923/c191078d32934e719660db9118a7302b/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-23",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-a2696bce5f73",
+      "title": "海南环岛管网累计输送天然气超350亿立方米",
+      "url": "https://www.xinhuanet.com/energy/20260923/a2696bce5f73476d9ce62655b7705e46/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-23",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-376f2a219467",
+      "title": "国家电网举办2026“中国—巴西—智利 云开放日”活动",
+      "url": "https://www.xinhuanet.com/energy/20260923/376f2a219467403f901b4016c4c67763/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-23",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-d3f7bf4962bf",
       "title": "AI应用·算电协同，共筑零碳能源新境界 2026人工智能+能源发展交流会成功召开",
@@ -27,18 +51,10 @@
       "summary": "",
       "publishedAt": "2026-09-21",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-72c8dd4b667d",
-      "title": "智慧保电护航“技能奥林匹克” 绿色电力点亮“四叶草”",
-      "url": "https://www.xinhuanet.com/energy/20260920/72c8dd4b667d490cbe8e710b8b74f28a/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-20",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 6
   },
   "errors": []
 }

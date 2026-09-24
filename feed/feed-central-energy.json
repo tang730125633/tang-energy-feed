@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T00:13:56+00:00",
+  "generatedAt": "2026-09-24T00:21:23+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,15 +11,6 @@
     "湖南"
   ],
   "articles": [
-    {
-      "id": "chinapower-462761",
-      "title": "国网湖南电力实现北斗定位全链路国产化替代升级",
-      "url": "https://www.chinapower.org.cn/detail/462761.html",
-      "summary": "",
-      "publishedAt": "2026-09-22",
-      "source": "chinapower.org.cn",
-      "province": "湖南"
-    },
     {
       "id": "nea-20260922-91679e2359bc42c6aa828a93a5658ea4-c",
       "title": "华中能源监管局开展新能源汽车充电设施建设运营情况监管",
@@ -37,15 +28,6 @@
       "publishedAt": "2026-09-22",
       "source": "nea.gov.cn",
       "province": "湖南"
-    },
-    {
-      "id": "nea-20260921-78ed6b16a3fd429ebe0a578608c716e8-c",
-      "title": "华中能源监管局深入推进江西建陶基地增量配电改革问题处理",
-      "url": "https://www.nea.gov.cn/20260921/78ed6b16a3fd429ebe0a578608c716e8/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-21",
-      "source": "nea.gov.cn",
-      "province": "江西"
     },
     {
       "id": "cpnn-t20260918_1916218",
@@ -66,23 +48,31 @@
       "province": "安徽"
     },
     {
-      "id": "china5e-1209651",
-      "title": "8月份安徽规上原煤产量806.7万吨，增长1.3%",
-      "url": "https://www.china5e.com/news/news-1209651-1.html",
+      "id": "china5e-1209710",
+      "title": "“十五五”湖北首个特高压扩建工程启动 更多三峡电力将留在华中",
+      "url": "https://www.china5e.com/news/news-1209710-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
-      "province": "安徽"
+      "province": "湖北"
+    },
+    {
+      "id": "china5e-1209721",
+      "title": "荆州邮政快递业第3个兆瓦级光伏发电项目正式并网运行",
+      "url": "https://www.china5e.com/news/news-1209721-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 6,
     "byProvince": {
-      "湖南": 2,
       "华中": 1,
-      "江西": 1,
-      "湖北": 1,
-      "安徽": 2
+      "湖南": 1,
+      "湖北": 3,
+      "安徽": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
