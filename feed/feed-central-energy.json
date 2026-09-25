@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T00:21:23+00:00",
+  "generatedAt": "2026-09-25T00:24:03+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,22 +12,22 @@
   ],
   "articles": [
     {
-      "id": "nea-20260922-91679e2359bc42c6aa828a93a5658ea4-c",
-      "title": "华中能源监管局开展新能源汽车充电设施建设运营情况监管",
-      "url": "https://www.nea.gov.cn/20260922/91679e2359bc42c6aa828a93a5658ea4/c.html",
+      "id": "cpnn-t20260924_1917494",
+      "title": "华中能源监管局推动西藏绿电交易规模不断扩大",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260924_1917494.html",
       "summary": "",
-      "publishedAt": "2026-09-22",
-      "source": "nea.gov.cn",
+      "publishedAt": "2026-09-24",
+      "source": "cpnn.com.cn",
       "province": "华中"
     },
     {
-      "id": "nea-20260922-b57666d0abcd40889df51984934e2676-c",
-      "title": "湖南能源监管办调研学习深圳新型电力系统建设经验",
-      "url": "https://www.nea.gov.cn/20260922/b57666d0abcd40889df51984934e2676/c.html",
+      "id": "nea-20260924-99ac8ccacde5478ea5a9a3e286da6dfe-c",
+      "title": "华中能源监管局多措并举筑牢节日廉洁防线",
+      "url": "https://www.nea.gov.cn/20260924/99ac8ccacde5478ea5a9a3e286da6dfe/c.html",
       "summary": "",
-      "publishedAt": "2026-09-22",
+      "publishedAt": "2026-09-24",
       "source": "nea.gov.cn",
-      "province": "湖南"
+      "province": "华中"
     },
     {
       "id": "cpnn-t20260918_1916218",
@@ -46,32 +46,13 @@
       "publishedAt": "2026-09-17",
       "source": "cpnn.com.cn",
       "province": "安徽"
-    },
-    {
-      "id": "china5e-1209710",
-      "title": "“十五五”湖北首个特高压扩建工程启动 更多三峡电力将留在华中",
-      "url": "https://www.china5e.com/news/news-1209710-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
-      "id": "china5e-1209721",
-      "title": "荆州邮政快递业第3个兆瓦级光伏发电项目正式并网运行",
-      "url": "https://www.china5e.com/news/news-1209721-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 6,
+    "totalArticles": 4,
     "byProvince": {
-      "华中": 1,
-      "湖南": 1,
-      "湖北": 3,
+      "华中": 2,
+      "湖北": 1,
       "安徽": 1
     }
   },

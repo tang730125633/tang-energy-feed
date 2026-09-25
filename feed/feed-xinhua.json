@@ -1,9 +1,33 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-24T00:21:01+00:00",
+  "generatedAt": "2026-09-25T00:23:43+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-36cb6908b7d1",
+      "title": "煤炭保供贵在安全主动",
+      "url": "https://www.xinhuanet.com/energy/20260924/36cb6908b7d1494fa44d69a11e80a52e/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-24",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-543d3c922065",
+      "title": "远景氢能装备拿下新版ISO“首证”， 开启出海新模式",
+      "url": "https://www.xinhuanet.com/energy/20260924/543d3c92206547a6a943e72d05ec1e45/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-24",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-cba9f04a43d8",
+      "title": "提速钠电产业化进程 海辰储能发布新一代钠电储能一体化解决方案",
+      "url": "https://www.xinhuanet.com/energy/20260924/cba9f04a43d84f0ba1fc76f131476560/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-24",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-c191078d3293",
       "title": "2026年1—8月全国电力市场交易电量同比增长19.2%",
@@ -35,26 +59,10 @@
       "summary": "",
       "publishedAt": "2026-09-22",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-b130a5ec5de5",
-      "title": "聚智厚植企业健康生产力，赋能新型电力系统建设——电力企业职业健康生态建设交流会成功举办",
-      "url": "https://www.xinhuanet.com/energy/20260922/b130a5ec5de5421890c2f87802624040/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-22",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-e97c29697476",
-      "title": "全国科普月：电力科普进校园进社区进基层",
-      "url": "https://www.xinhuanet.com/energy/20260921/e97c296974764433a984784052d4ffd7/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-21",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 7
   },
   "errors": []
 }
