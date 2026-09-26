@@ -1,7 +1,7 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-09-25T00:24:03+00:00",
+  "generatedAt": "2026-09-26T00:28:21+00:00",
   "lookbackHours": 48,
   "articles": [
     {
@@ -59,18 +59,10 @@
       "summary": "",
       "publishedAt": "2026-09-24",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462827",
-      "title": "三大特高压累计输浙电量破9000亿千瓦时",
-      "url": "https://www.chinapower.org.cn/detail/462827.html",
-      "summary": "",
-      "publishedAt": "2026-09-24",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 8
+    "articleCount": 7
   },
   "errors": []
 }

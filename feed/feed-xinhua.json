@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-25T00:23:43+00:00",
+  "generatedAt": "2026-09-26T00:28:02+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -51,18 +51,10 @@
       "summary": "",
       "publishedAt": "2026-09-23",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-d3f7bf4962bf",
-      "title": "AI应用·算电协同，共筑零碳能源新境界 2026人工智能+能源发展交流会成功召开",
-      "url": "https://www.xinhuanet.com/energy/20260922/d3f7bf4962bf49918a265f42ac7393ef/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-22",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 7
+    "articleCount": 6
   },
   "errors": []
 }

@@ -1,67 +1,67 @@
 {
-  "generatedAt": "2026-09-25T00:24:03+00:00",
+  "generatedAt": "2026-09-26T00:28:21+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-09-24T23:49:43+00:00",
+      "generatedAt": "2026-09-25T23:54:51+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-09-25T00:23:41+00:00",
+      "generatedAt": "2026-09-26T00:28:00+00:00",
       "articleCount": 36,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-09-25T00:24:03+00:00",
-      "articleCount": 8,
+      "generatedAt": "2026-09-26T00:28:21+00:00",
+      "articleCount": 7,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-09-25T00:23:28+00:00",
+      "generatedAt": "2026-09-26T00:27:47+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-09-25T00:23:26+00:00",
+      "generatedAt": "2026-09-26T00:27:44+00:00",
       "articleCount": 84,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-09-25T00:23:34+00:00",
+      "generatedAt": "2026-09-26T00:27:53+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-09-24T23:49:50+00:00",
+      "generatedAt": "2026-09-25T23:55:00+00:00",
       "articleCount": 4,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-09-25T00:23:27+00:00",
-      "articleCount": 46,
+      "generatedAt": "2026-09-26T00:27:45+00:00",
+      "articleCount": 45,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-09-25T00:23:43+00:00",
-      "articleCount": 7,
+      "generatedAt": "2026-09-26T00:28:02+00:00",
+      "articleCount": 6,
       "hasErrors": false
     }
   ],
@@ -119,14 +119,6 @@
       "title": "新疆电网完成首次填谷需求响应试点",
       "url": "https://www.chinapower.org.cn/detail/462828.html",
       "summary": "近日，新疆电网首次填谷需求响应试点工作结束。此次试点超额完成既定目标，标志着南疆电网构建起“削峰+填谷”双向协同调控体系，为当地新能源电量高效消纳探索出新路径。",
-      "publishedAt": "2026-09-24",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462827",
-      "title": "三大特高压累计输浙电量破9000亿千瓦时",
-      "url": "https://www.chinapower.org.cn/detail/462827.html",
-      "summary": "截至9月17日，±800千伏灵绍、宾金、金塘三大“西电东送”特高压直流工程累计向浙江输送电量突破9000亿千瓦时，相当于三峡电站十年左右的发电量，为一次能源短缺的浙江筑牢电力保供与绿色转型根基。",
       "publishedAt": "2026-09-24",
       "source": "chinapower.org.cn"
     },
@@ -311,7 +303,7 @@
       "id": "nea-20260924-99ac8ccacde5478ea5a9a3e286da6dfe-c",
       "title": "华中能源监管局多措并举筑牢节日廉洁防线",
       "url": "https://www.nea.gov.cn/20260924/99ac8ccacde5478ea5a9a3e286da6dfe/c.html",
-      "summary": "",
+      "summary": "为持之以恒落实中央八项规定及其实施细则精神，驰而不息纠“四风”树新风，确保中秋、国庆期间廉洁过节，近期华中能源监管局精准施策、靶向发力，打出压实责任、警示教育、监督执纪“组合拳”，全方位筑牢廉洁自律防线，营造崇廉尚洁、文明节俭、风清气正的节日氛围。",
       "publishedAt": "2026-09-24",
       "source": "nea.gov.cn",
       "province": "华中"
@@ -725,14 +717,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "xinhua-d3f7bf4962bf",
-      "title": "AI应用·算电协同，共筑零碳能源新境界 2026人工智能+能源发展交流会成功召开",
-      "url": "https://www.xinhuanet.com/energy/20260922/d3f7bf4962bf49918a265f42ac7393ef/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-22",
-      "source": "xinhuanet.com"
-    },
-    {
       "id": "cpnn-t20260920_1916438",
       "title": "国家电网加快构建新型电力系统",
       "url": "https://www.cpnn.com.cn/news/xwtt/202609/t20260920_1916438.html",
@@ -850,14 +834,6 @@
       "id": "nea-20260916-8f592abfdf194e488efc5fd3ff2875ea-c",
       "title": "国家能源局主要负责人会见新加坡外交部兼贸易工业部政务部长",
       "url": "https://www.nea.gov.cn/20260916/8f592abfdf194e488efc5fd3ff2875ea/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-16",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260916-f186d58832c24e5baac6f9fe9138534c-c",
-      "title": "国家能源局主要负责人会见文莱首相府能源及上下游事务主管部长",
-      "url": "https://www.nea.gov.cn/20260916/f186d58832c24e5baac6f9fe9138534c/c.html",
       "summary": "",
       "publishedAt": "2026-09-16",
       "source": "nea.gov.cn"
@@ -1566,12 +1542,12 @@
     }
   },
   "stats": {
-    "totalArticles": 185,
+    "totalArticles": 182,
     "bySource": {
-      "chinapower.org.cn": 8,
+      "chinapower.org.cn": 7,
       "cpnn.com.cn": 84,
-      "nea.gov.cn": 46,
-      "xinhuanet.com": 7,
+      "nea.gov.cn": 45,
+      "xinhuanet.com": 6,
       "china5e.com": 36,
       "ne21.com": 4
     },

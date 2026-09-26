@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-09-25T00:23:27+00:00",
+  "generatedAt": "2026-09-26T00:27:45+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -176,14 +176,6 @@
       "id": "nea-20260916-8f592abfdf194e488efc5fd3ff2875ea-c",
       "title": "国家能源局主要负责人会见新加坡外交部兼贸易工业部政务部长",
       "url": "https://www.nea.gov.cn/20260916/8f592abfdf194e488efc5fd3ff2875ea/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-16",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260916-f186d58832c24e5baac6f9fe9138534c-c",
-      "title": "国家能源局主要负责人会见文莱首相府能源及上下游事务主管部长",
-      "url": "https://www.nea.gov.cn/20260916/f186d58832c24e5baac6f9fe9138534c/c.html",
       "summary": "",
       "publishedAt": "2026-09-16",
       "source": "nea.gov.cn"
@@ -374,7 +366,7 @@
     }
   ],
   "stats": {
-    "articleCount": 46
+    "articleCount": 45
   },
   "errors": []
 }
