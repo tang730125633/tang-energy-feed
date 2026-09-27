@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-26T00:28:02+00:00",
+  "generatedAt": "2026-09-27T00:23:39+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-88a164bdfacb",
+      "title": "中秋假期国家电网保障电力供应平稳有序",
+      "url": "https://www.xinhuanet.com/energy/20260926/88a164bdfacb4221828ab2ba1c16e309/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-26",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-4c0138b16942",
+      "title": "新征程上的奋斗者——国家电网王月鹏讲述万伏高压上的带电作业故事",
+      "url": "https://www.xinhuanet.com/energy/20260926/4c0138b169424a4a8a202a82f86b3fb2/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-26",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-36cb6908b7d1",
       "title": "煤炭保供贵在安全主动",
@@ -27,34 +43,10 @@
       "summary": "",
       "publishedAt": "2026-09-24",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-c191078d3293",
-      "title": "2026年1—8月全国电力市场交易电量同比增长19.2%",
-      "url": "https://www.xinhuanet.com/energy/20260923/c191078d32934e719660db9118a7302b/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-23",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-a2696bce5f73",
-      "title": "海南环岛管网累计输送天然气超350亿立方米",
-      "url": "https://www.xinhuanet.com/energy/20260923/a2696bce5f73476d9ce62655b7705e46/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-23",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-376f2a219467",
-      "title": "国家电网举办2026“中国—巴西—智利 云开放日”活动",
-      "url": "https://www.xinhuanet.com/energy/20260923/376f2a219467403f901b4016c4c67763/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-23",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 6
+    "articleCount": 5
   },
   "errors": []
 }

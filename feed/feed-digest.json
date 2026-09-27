@@ -1,71 +1,87 @@
 {
-  "generatedAt": "2026-09-26T00:28:21+00:00",
+  "generatedAt": "2026-09-27T00:23:58+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-09-25T23:54:51+00:00",
+      "generatedAt": "2026-09-26T23:28:17+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-09-26T00:28:00+00:00",
+      "generatedAt": "2026-09-27T00:23:37+00:00",
       "articleCount": 36,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-09-26T00:28:21+00:00",
-      "articleCount": 7,
+      "generatedAt": "2026-09-27T00:23:58+00:00",
+      "articleCount": 4,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-09-26T00:27:47+00:00",
+      "generatedAt": "2026-09-27T00:23:24+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-09-26T00:27:44+00:00",
+      "generatedAt": "2026-09-27T00:23:22+00:00",
       "articleCount": 84,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-09-26T00:27:53+00:00",
+      "generatedAt": "2026-09-27T00:23:30+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-09-25T23:55:00+00:00",
+      "generatedAt": "2026-09-26T23:28:26+00:00",
       "articleCount": 4,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-09-26T00:27:45+00:00",
+      "generatedAt": "2026-09-27T00:23:23+00:00",
       "articleCount": 45,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-09-26T00:28:02+00:00",
-      "articleCount": 6,
+      "generatedAt": "2026-09-27T00:23:39+00:00",
+      "articleCount": 5,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "xinhua-88a164bdfacb",
+      "title": "中秋假期国家电网保障电力供应平稳有序",
+      "url": "https://www.xinhuanet.com/energy/20260926/88a164bdfacb4221828ab2ba1c16e309/c.html",
+      "summary": "中秋假期，国家电网公司广大员工坚守供电服务、电网建设一线，全力保障电网安全稳定运行和电力可靠供应，以可靠电能守护万家团圆。",
+      "publishedAt": "2026-09-26",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-4c0138b16942",
+      "title": "新征程上的奋斗者——国家电网王月鹏讲述万伏高压上的带电作业故事",
+      "url": "https://www.xinhuanet.com/energy/20260926/4c0138b169424a4a8a202a82f86b3fb2/c.html",
+      "summary": "国家电网北京昌平供电公司技术总师、配网不停电作业室班长王月鹏：大家好！我是王月鹏，来自国家电网北京昌平供电公司，任技术总师，也是配网不停电作业室的一名班长。",
+      "publishedAt": "2026-09-26",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "chinapower-462866",
       "title": "共婵娟，也共绿电",
@@ -96,30 +112,6 @@
       "url": "https://www.chinapower.org.cn/detail/462856.html",
       "summary": "崇礼秋色，层林尽染。在这座因冬奥而闻名世界的冰雪小城，一场关乎我国能源未来的思想盛会如约而至——9月22日，2026新型电力系统发展（崇礼）论坛在张家口市崇礼区拉开帷幕。这是该论坛连续第四年落地这座“塞外山城”。四年间，我国新型电力系统建设走过了从“立题”到“解题”，从“绘卷”到",
       "publishedAt": "2026-09-25",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462833",
-      "title": "【21财经】“十五五”新型电力系统怎么建？煤电兜底，AI 算力成新变量",
-      "url": "https://www.chinapower.org.cn/detail/462833.html",
-      "summary": "9月22日，国家能源局党组成员、副局长何洋在2026新型电力系统发展（崇礼）论坛上致辞表示，建设新型电力系统是助力实现“双碳”目标的有效举措、维护国家能源安全的战略选择、构建新型能源体系的重要支柱，要深刻认识加快构建新型电力系统的重要性和紧迫性，扎实推进实施《新型电力系统建设“十",
-      "publishedAt": "2026-09-24",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462829",
-      "title": "南方电网：产业结构升级 动能蓄势焕新",
-      "url": "https://www.chinapower.org.cn/detail/462829.html",
-      "summary": "今年以来，南方电网经营区用电量稳步增长，售电量于8月16日突破万亿千瓦时，较去年提前14天。8月份，南方电网经营的广东、广西、云南、贵州、海南五省区全社会用电量达1854亿千瓦时，同比增长7.3%，较7月份提升4.7个百分点。",
-      "publishedAt": "2026-09-24",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-462828",
-      "title": "新疆电网完成首次填谷需求响应试点",
-      "url": "https://www.chinapower.org.cn/detail/462828.html",
-      "summary": "近日，新疆电网首次填谷需求响应试点工作结束。此次试点超额完成既定目标，标志着南疆电网构建起“削峰+填谷”双向协同调控体系，为当地新能源电量高效消纳探索出新路径。",
-      "publishedAt": "2026-09-24",
       "source": "chinapower.org.cn"
     },
     {
@@ -312,7 +304,7 @@
       "id": "nea-20260924-f9f5ab423b8a47139eec952dc9ea78cd-c",
       "title": "南方能源监管局召开2026年年中能源监管工作会议",
       "url": "https://www.nea.gov.cn/20260924/f9f5ab423b8a47139eec952dc9ea78cd/c.html",
-      "summary": "",
+      "summary": "近日，南方能源监管局召开2026年年中能源监管工作会议。会议深入学习贯彻习近平新时代中国特色社会主义思想，认真落实全国能源工作会议和监管工作会议精神，总结2026年上半年监管工作，表彰2025年度考核优秀公务员，谋划推动下半年工作，以高质量能源监管助力南方区域能源高质量发展。",
       "publishedAt": "2026-09-24",
       "source": "nea.gov.cn"
     },
@@ -579,30 +571,6 @@
       "summary": "",
       "publishedAt": "2026-09-23",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "xinhua-c191078d3293",
-      "title": "2026年1—8月全国电力市场交易电量同比增长19.2%",
-      "url": "https://www.xinhuanet.com/energy/20260923/c191078d32934e719660db9118a7302b/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-23",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-a2696bce5f73",
-      "title": "海南环岛管网累计输送天然气超350亿立方米",
-      "url": "https://www.xinhuanet.com/energy/20260923/a2696bce5f73476d9ce62655b7705e46/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-23",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-376f2a219467",
-      "title": "国家电网举办2026“中国—巴西—智利 云开放日”活动",
-      "url": "https://www.xinhuanet.com/energy/20260923/376f2a219467403f901b4016c4c67763/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-23",
-      "source": "xinhuanet.com"
     },
     {
       "id": "cpnn-t20260922_1916836",
@@ -1542,12 +1510,12 @@
     }
   },
   "stats": {
-    "totalArticles": 182,
+    "totalArticles": 178,
     "bySource": {
-      "chinapower.org.cn": 7,
+      "xinhuanet.com": 5,
+      "chinapower.org.cn": 4,
       "cpnn.com.cn": 84,
       "nea.gov.cn": 45,
-      "xinhuanet.com": 6,
       "china5e.com": 36,
       "ne21.com": 4
     },
