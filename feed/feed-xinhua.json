@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-27T00:23:39+00:00",
+  "generatedAt": "2026-09-28T00:28:04+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -19,34 +19,10 @@
       "summary": "",
       "publishedAt": "2026-09-26",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-36cb6908b7d1",
-      "title": "煤炭保供贵在安全主动",
-      "url": "https://www.xinhuanet.com/energy/20260924/36cb6908b7d1494fa44d69a11e80a52e/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-24",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-543d3c922065",
-      "title": "远景氢能装备拿下新版ISO“首证”， 开启出海新模式",
-      "url": "https://www.xinhuanet.com/energy/20260924/543d3c92206547a6a943e72d05ec1e45/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-24",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-cba9f04a43d8",
-      "title": "提速钠电产业化进程 海辰储能发布新一代钠电储能一体化解决方案",
-      "url": "https://www.xinhuanet.com/energy/20260924/cba9f04a43d84f0ba1fc76f131476560/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-24",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 5
+    "articleCount": 2
   },
   "errors": []
 }
