@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-28T00:28:04+00:00",
+  "generatedAt": "2026-09-29T01:42:37+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-c42a642e10c8",
+      "title": "国家能源局组织召开2026—2027年采暖季天然气保供形势研判专题会议",
+      "url": "https://www.xinhuanet.com/energy/20260928/c42a642e10c84d438b51dfecfc2bb206/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-28",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-88a164bdfacb",
       "title": "中秋假期国家电网保障电力供应平稳有序",
@@ -22,7 +30,7 @@
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 3
   },
   "errors": []
 }

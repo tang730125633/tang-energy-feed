@@ -1,11 +1,52 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-09-28T00:28:18+00:00",
+  "generatedAt": "2026-09-29T01:42:56+00:00",
   "lookbackHours": 48,
-  "articles": [],
+  "articles": [
+    {
+      "id": "chinapower-462895",
+      "title": "华能在2026年全国电力行业职业技能竞赛（电...",
+      "url": "https://www.chinapower.org.cn/detail/462895.html",
+      "summary": "",
+      "publishedAt": "2026-09-28",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-462892",
+      "title": "中秋假期国家电网保障电力供应平稳有序",
+      "url": "https://www.chinapower.org.cn/detail/462892.html",
+      "summary": "",
+      "publishedAt": "2026-09-28",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-462890",
+      "title": "国家电网出台若干举措打造现代化用电营商环境",
+      "url": "https://www.chinapower.org.cn/detail/462890.html",
+      "summary": "",
+      "publishedAt": "2026-09-28",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-462889",
+      "title": "国家电网加快构建新型电力系统：万里风光入“网”来",
+      "url": "https://www.chinapower.org.cn/detail/462889.html",
+      "summary": "",
+      "publishedAt": "2026-09-28",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-462880",
+      "title": "【中国电力报】未来乡村“产绿电、调资源、聚动能”——2026年度电力赋能乡村振兴发展交流会观察",
+      "url": "https://www.chinapower.org.cn/detail/462880.html",
+      "summary": "",
+      "publishedAt": "2026-09-28",
+      "source": "chinapower.org.cn"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 5
   },
   "errors": []
 }

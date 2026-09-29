@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:28:18+00:00",
+  "generatedAt": "2026-09-29T01:42:56+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,33 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260928_1917909",
+      "title": "湖南常态化开展绿电直连项目申报",
+      "url": "https://www.cpnn.com.cn/news/dfny/202609/t20260928_1917909.html",
+      "summary": "",
+      "publishedAt": "2026-09-28",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "cpnn-t20260928_1917670",
+      "title": "湖南能源集团启动2027届校园招聘",
+      "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202609/t20260928_1917670.html",
+      "summary": "",
+      "publishedAt": "2026-09-28",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
+    {
+      "id": "cpnn-t20260928_1917797",
+      "title": "金上—湖北±800千伏特高压直流输电工程首检收官",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202609/t20260928_1917797.html",
+      "summary": "",
+      "publishedAt": "2026-09-28",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
     {
       "id": "cpnn-t20260924_1917494",
       "title": "华中能源监管局推动西藏绿电交易规模不断扩大",
@@ -30,15 +57,6 @@
       "province": "华中"
     },
     {
-      "id": "cpnn-t20260918_1916218",
-      "title": "国网荆州输电运检分公司：快速消缺守护电网安全",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202609/t20260918_1916218.html",
-      "summary": "",
-      "publishedAt": "2026-09-18",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
       "id": "cpnn-t20260917_1915906",
       "title": "李天圣辞去皖能电力证券事务代表职务",
       "url": "https://www.cpnn.com.cn/news/renshi2023/202609/t20260917_1915906.html",
@@ -46,14 +64,24 @@
       "publishedAt": "2026-09-17",
       "source": "cpnn.com.cn",
       "province": "安徽"
+    },
+    {
+      "id": "china5e-1209938",
+      "title": "皖疆共建年产1000万吨煤矿开工",
+      "url": "https://www.china5e.com/news/news-1209938-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "安徽"
     }
   ],
   "stats": {
-    "totalArticles": 4,
+    "totalArticles": 7,
     "byProvince": {
-      "华中": 2,
+      "湖南": 2,
       "湖北": 1,
-      "安徽": 1
+      "华中": 2,
+      "安徽": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
