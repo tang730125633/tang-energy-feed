@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:42:56+00:00",
+  "generatedAt": "2026-09-30T01:11:27+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,22 +12,31 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260928_1917909",
-      "title": "湖南常态化开展绿电直连项目申报",
-      "url": "https://www.cpnn.com.cn/news/dfny/202609/t20260928_1917909.html",
+      "id": "cpnn-t20260929_1918102",
+      "title": "湖南能源监管办组织召开电力市场风险防控座谈会",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260929_1918102.html",
       "summary": "",
-      "publishedAt": "2026-09-28",
+      "publishedAt": "2026-09-29",
       "source": "cpnn.com.cn",
       "province": "湖南"
     },
     {
-      "id": "cpnn-t20260928_1917670",
-      "title": "湖南能源集团启动2027届校园招聘",
-      "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202609/t20260928_1917670.html",
+      "id": "nea-20260929-529b9fd3bf234b2eb5471b10ae969286-c",
+      "title": "湖南能源监管办坚持监管与服务并重助力企业信用修复“轻装前行”",
+      "url": "https://www.nea.gov.cn/20260929/529b9fd3bf234b2eb5471b10ae969286/c.html",
       "summary": "",
-      "publishedAt": "2026-09-28",
-      "source": "cpnn.com.cn",
+      "publishedAt": "2026-09-29",
+      "source": "nea.gov.cn",
       "province": "湖南"
+    },
+    {
+      "id": "nea-20260929-92d98b5d8d874ddfb7db7c4178243056-c",
+      "title": "华中能源监管局积极推进2026年典型电网工程建设及投资成效监管",
+      "url": "https://www.nea.gov.cn/20260929/92d98b5d8d874ddfb7db7c4178243056/c.html",
+      "summary": "",
+      "publishedAt": "2026-09-29",
+      "source": "nea.gov.cn",
+      "province": "华中"
     },
     {
       "id": "cpnn-t20260928_1917797",
@@ -48,15 +57,6 @@
       "province": "华中"
     },
     {
-      "id": "nea-20260924-99ac8ccacde5478ea5a9a3e286da6dfe-c",
-      "title": "华中能源监管局多措并举筑牢节日廉洁防线",
-      "url": "https://www.nea.gov.cn/20260924/99ac8ccacde5478ea5a9a3e286da6dfe/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-24",
-      "source": "nea.gov.cn",
-      "province": "华中"
-    },
-    {
       "id": "cpnn-t20260917_1915906",
       "title": "李天圣辞去皖能电力证券事务代表职务",
       "url": "https://www.cpnn.com.cn/news/renshi2023/202609/t20260917_1915906.html",
@@ -66,21 +66,30 @@
       "province": "安徽"
     },
     {
-      "id": "china5e-1209938",
-      "title": "皖疆共建年产1000万吨煤矿开工",
-      "url": "https://www.china5e.com/news/news-1209938-1.html",
+      "id": "china5e-1210008",
+      "title": "皖疆合作重大能源项目 年产1000万吨达拉布特一号煤矿开工建设",
+      "url": "https://www.china5e.com/news/news-1210008-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com",
       "province": "安徽"
+    },
+    {
+      "id": "china5e-1209957",
+      "title": "1-8月鄂尔多斯规上原煤产量6.1亿吨，同比增长6.1%",
+      "url": "https://www.china5e.com/news/news-1209957-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 7,
+    "totalArticles": 8,
     "byProvince": {
       "湖南": 2,
-      "湖北": 1,
       "华中": 2,
+      "湖北": 2,
       "安徽": 2
     }
   },

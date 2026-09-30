@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-09-29T01:42:37+00:00",
+  "generatedAt": "2026-09-30T01:11:02+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -11,26 +11,10 @@
       "summary": "",
       "publishedAt": "2026-09-28",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-88a164bdfacb",
-      "title": "中秋假期国家电网保障电力供应平稳有序",
-      "url": "https://www.xinhuanet.com/energy/20260926/88a164bdfacb4221828ab2ba1c16e309/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-26",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-4c0138b16942",
-      "title": "新征程上的奋斗者——国家电网王月鹏讲述万伏高压上的带电作业故事",
-      "url": "https://www.xinhuanet.com/energy/20260926/4c0138b169424a4a8a202a82f86b3fb2/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-26",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 1
   },
   "errors": []
 }
