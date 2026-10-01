@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:11:27+00:00",
+  "generatedAt": "2026-10-01T01:12:12+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,24 +12,6 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20260929_1918102",
-      "title": "湖南能源监管办组织召开电力市场风险防控座谈会",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260929_1918102.html",
-      "summary": "",
-      "publishedAt": "2026-09-29",
-      "source": "cpnn.com.cn",
-      "province": "湖南"
-    },
-    {
-      "id": "nea-20260929-529b9fd3bf234b2eb5471b10ae969286-c",
-      "title": "湖南能源监管办坚持监管与服务并重助力企业信用修复“轻装前行”",
-      "url": "https://www.nea.gov.cn/20260929/529b9fd3bf234b2eb5471b10ae969286/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-29",
-      "source": "nea.gov.cn",
-      "province": "湖南"
-    },
-    {
       "id": "nea-20260929-92d98b5d8d874ddfb7db7c4178243056-c",
       "title": "华中能源监管局积极推进2026年典型电网工程建设及投资成效监管",
       "url": "https://www.nea.gov.cn/20260929/92d98b5d8d874ddfb7db7c4178243056/c.html",
@@ -39,31 +21,13 @@
       "province": "华中"
     },
     {
-      "id": "cpnn-t20260928_1917797",
-      "title": "金上—湖北±800千伏特高压直流输电工程首检收官",
-      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202609/t20260928_1917797.html",
+      "id": "nea-20260929-529b9fd3bf234b2eb5471b10ae969286-c",
+      "title": "湖南能源监管办坚持监管与服务并重助力企业信用修复“轻装前行”",
+      "url": "https://www.nea.gov.cn/20260929/529b9fd3bf234b2eb5471b10ae969286/c.html",
       "summary": "",
-      "publishedAt": "2026-09-28",
-      "source": "cpnn.com.cn",
-      "province": "湖北"
-    },
-    {
-      "id": "cpnn-t20260924_1917494",
-      "title": "华中能源监管局推动西藏绿电交易规模不断扩大",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260924_1917494.html",
-      "summary": "",
-      "publishedAt": "2026-09-24",
-      "source": "cpnn.com.cn",
-      "province": "华中"
-    },
-    {
-      "id": "cpnn-t20260917_1915906",
-      "title": "李天圣辞去皖能电力证券事务代表职务",
-      "url": "https://www.cpnn.com.cn/news/renshi2023/202609/t20260917_1915906.html",
-      "summary": "",
-      "publishedAt": "2026-09-17",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
+      "publishedAt": "2026-09-29",
+      "source": "nea.gov.cn",
+      "province": "湖南"
     },
     {
       "id": "china5e-1210008",
@@ -85,12 +49,12 @@
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 4,
     "byProvince": {
-      "湖南": 2,
-      "华中": 2,
-      "湖北": 2,
-      "安徽": 2
+      "华中": 1,
+      "湖南": 1,
+      "安徽": 1,
+      "湖北": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
