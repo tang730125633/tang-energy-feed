@@ -1,71 +1,79 @@
 {
-  "generatedAt": "2026-10-01T01:12:12+00:00",
+  "generatedAt": "2026-10-02T01:31:11+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-10-01T00:26:43+00:00",
+      "generatedAt": "2026-10-02T00:38:03+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-10-01T01:11:49+00:00",
+      "generatedAt": "2026-10-02T01:30:37+00:00",
       "articleCount": 29,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-10-01T01:12:12+00:00",
-      "articleCount": 4,
+      "generatedAt": "2026-10-02T01:31:11+00:00",
+      "articleCount": 5,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-10-01T01:11:34+00:00",
+      "generatedAt": "2026-10-02T01:30:25+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-10-01T01:11:32+00:00",
+      "generatedAt": "2026-10-02T01:30:22+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-10-01T01:11:41+00:00",
+      "generatedAt": "2026-10-02T01:30:31+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-10-01T00:26:50+00:00",
+      "generatedAt": "2026-10-02T00:38:11+00:00",
       "articleCount": 2,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-10-01T01:11:33+00:00",
+      "generatedAt": "2026-10-02T01:30:23+00:00",
       "articleCount": 49,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-10-01T01:11:50+00:00",
-      "articleCount": 4,
+      "generatedAt": "2026-10-02T01:30:38+00:00",
+      "articleCount": 3,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "chinapower-463064",
+      "title": "2026年电力统计培训在成都举办",
+      "url": "https://www.chinapower.org.cn/detail/463064.html",
+      "summary": "为深入贯彻落实国家能源强国建设战略部署和统计工作高质量发展相关要求，持续加强电力行业统计人才队伍建设，不断提升统计人员专业素养和业务能力，中国电力企业联合会于2026年9月22-23日在成都举办2026年电力统计培训会议。",
+      "publishedAt": "2026-10-01",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-463045",
       "title": "第十六届全国电力行业职业技能竞赛——电力交易员决赛圆满闭幕",
@@ -304,17 +312,9 @@
       "id": "nea-20260928-6a94f3db6d674083b9191be6d3169620-c",
       "title": "国家能源局组织召开2026—2027年采暖季天然气保供形势研判专题会议",
       "url": "https://www.nea.gov.cn/20260928/6a94f3db6d674083b9191be6d3169620/c.html",
-      "summary": "9月21日，国家能源局组织召开2026—2027年采暖季天然气保供形势研判专题会议，深入贯彻落实党中央和国务院关于应对中东局势、保障国家能源安全的决策部署，以及国家发展改革委、国家能源局党组工作要求，着眼确保人民群众温暖过冬，研究今冬明春天然气供需形势，细化部署下一阶段重点工作。",
-      "publishedAt": "2026-09-28",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "xinhua-c42a642e10c8",
-      "title": "国家能源局组织召开2026—2027年采暖季天然气保供形势研判专题会议",
-      "url": "https://www.xinhuanet.com/energy/20260928/c42a642e10c84d438b51dfecfc2bb206/c.html",
       "summary": "",
       "publishedAt": "2026-09-28",
-      "source": "xinhuanet.com"
+      "source": "nea.gov.cn"
     },
     {
       "id": "nea-20260924-c8826a6605d94defb1637803b4255d2d-c",
@@ -792,9 +792,9 @@
   "stats": {
     "totalArticles": 88,
     "bySource": {
-      "chinapower.org.cn": 4,
+      "chinapower.org.cn": 5,
       "nea.gov.cn": 49,
-      "xinhuanet.com": 4,
+      "xinhuanet.com": 3,
       "china5e.com": 29,
       "ne21.com": 2
     },
@@ -821,7 +821,7 @@
     {
       "source": "cpnn.com.cn",
       "errors": [
-        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7fa2a4100d10>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
+        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f8242121110>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
       ]
     },
     {

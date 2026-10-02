@@ -1,9 +1,17 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-10-01T01:12:12+00:00",
+  "generatedAt": "2026-10-02T01:31:11+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-463064",
+      "title": "2026年电力统计培训在成都举办",
+      "url": "https://www.chinapower.org.cn/detail/463064.html",
+      "summary": "",
+      "publishedAt": "2026-10-01",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-463045",
       "title": "第十六届全国电力行业职业技能竞赛——电力交易员决赛圆满闭幕",
@@ -38,7 +46,7 @@
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 5
   },
   "errors": []
 }

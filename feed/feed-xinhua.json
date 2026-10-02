@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-10-01T01:11:50+00:00",
+  "generatedAt": "2026-10-02T01:30:38+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -27,18 +27,10 @@
       "summary": "",
       "publishedAt": "2026-09-30",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-c42a642e10c8",
-      "title": "国家能源局组织召开2026—2027年采暖季天然气保供形势研判专题会议",
-      "url": "https://www.xinhuanet.com/energy/20260928/c42a642e10c84d438b51dfecfc2bb206/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-28",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 3
   },
   "errors": []
 }
