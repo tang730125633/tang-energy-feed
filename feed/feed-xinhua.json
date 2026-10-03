@@ -1,9 +1,17 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-10-02T01:30:38+00:00",
+  "generatedAt": "2026-10-03T01:02:20+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-c9fbb6d96f18",
+      "title": "国庆假期国家电网员工坚守一线守护万家灯火",
+      "url": "https://www.xinhuanet.com/energy/20261002/c9fbb6d96f184cbe8cc1c9f5c33a120e/c.html",
+      "summary": "",
+      "publishedAt": "2026-10-02",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-861d2fbf93f0",
       "title": "从杭州到纽约 国家电网AI减碳方案登上联合国舞台",
@@ -30,7 +38,7 @@
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 4
   },
   "errors": []
 }

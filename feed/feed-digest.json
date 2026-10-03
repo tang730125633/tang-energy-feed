@@ -1,109 +1,85 @@
 {
-  "generatedAt": "2026-10-02T01:31:11+00:00",
+  "generatedAt": "2026-10-03T01:02:45+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-10-02T00:38:03+00:00",
+      "generatedAt": "2026-10-03T00:20:10+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-10-02T01:30:37+00:00",
+      "generatedAt": "2026-10-03T01:02:19+00:00",
       "articleCount": 29,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-10-02T01:31:11+00:00",
-      "articleCount": 5,
+      "generatedAt": "2026-10-03T01:02:45+00:00",
+      "articleCount": 1,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-10-02T01:30:25+00:00",
+      "generatedAt": "2026-10-03T01:02:04+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-10-02T01:30:22+00:00",
+      "generatedAt": "2026-10-03T01:02:01+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-10-02T01:30:31+00:00",
+      "generatedAt": "2026-10-03T01:02:11+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-10-02T00:38:11+00:00",
+      "generatedAt": "2026-10-03T00:20:19+00:00",
       "articleCount": 2,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-10-02T01:30:23+00:00",
-      "articleCount": 49,
+      "generatedAt": "2026-10-03T01:02:02+00:00",
+      "articleCount": 48,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-10-02T01:30:38+00:00",
-      "articleCount": 3,
+      "generatedAt": "2026-10-03T01:02:20+00:00",
+      "articleCount": 4,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "xinhua-c9fbb6d96f18",
+      "title": "国庆假期国家电网员工坚守一线守护万家灯火",
+      "url": "https://www.xinhuanet.com/energy/20261002/c9fbb6d96f184cbe8cc1c9f5c33a120e/c.html",
+      "summary": "金秋十月，山河锦绣。国庆假期，国家电网有限公司广大干部员工坚守一线，以科技提升保电质效，以实干推进重点工程，以贴心服务保障便捷出行，用责任担当守护万家灯火。节日期间，国家电网公司部署1.21万支应急抢修队伍、3561台应急发电车，8.36万名保障人员、2.53万台保障车辆，强化重",
+      "publishedAt": "2026-10-02",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "chinapower-463064",
       "title": "2026年电力统计培训在成都举办",
       "url": "https://www.chinapower.org.cn/detail/463064.html",
       "summary": "为深入贯彻落实国家能源强国建设战略部署和统计工作高质量发展相关要求，持续加强电力行业统计人才队伍建设，不断提升统计人员专业素养和业务能力，中国电力企业联合会于2026年9月22-23日在成都举办2026年电力统计培训会议。",
       "publishedAt": "2026-10-01",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-463045",
-      "title": "第十六届全国电力行业职业技能竞赛——电力交易员决赛圆满闭幕",
-      "url": "https://www.chinapower.org.cn/detail/463045.html",
-      "summary": "中电联党委委员冮宇峰，华能集团公司营销部副主任安娜，华能山西分公司执行董事、党委书记胥金平，华能山西分公司总经理、党委副书记丁益华以及中电联理事长、各副理事长单位有关领导出席闭幕式。",
-      "publishedAt": "2026-09-30",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-463038",
-      "title": "【中国电力报】氢电协同进入工程验证、标准筑基新阶段！",
-      "url": "https://www.chinapower.org.cn/detail/463038.html",
-      "summary": "会议传递的信号很明确：氢电协同已经跨过概念热议的阶段，走向系统集成、工程验证和标准筑基的关键阶段。",
-      "publishedAt": "2026-09-30",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-463036",
-      "title": "南方电网公司修订印发《配电自动化规划设计技术导则》",
-      "url": "https://www.chinapower.org.cn/detail/463036.html",
-      "summary": "近日，南方电网公司修订印发《配电自动化规划设计技术导则》(以下简称《导则》)，明确了“十五五”期间配电自动化建设的技术路线与规划设计要求，推动配电自动化由有效覆盖向自愈高效复电转型升级，为新型配电系统建设提供重要支撑和标准依据。",
-      "publishedAt": "2026-09-30",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-463032",
-      "title": "国家电网与中国华电举行会谈",
-      "url": "https://www.chinapower.org.cn/detail/463032.html",
-      "summary": "9月29日，国家电网公司董事长、党组书记张智刚，总经理、党组副书记张文峰在公司总部与中国华电集团有限公司董事长、党组书记叶向东，总经理、党组副书记徐树彪举行会谈。",
-      "publishedAt": "2026-09-30",
       "source": "chinapower.org.cn"
     },
     {
@@ -235,14 +211,6 @@
       "source": "nea.gov.cn"
     },
     {
-      "id": "nea-20260929-0afcdbfcae9849f69d852a1fe86ffa48-c",
-      "title": "云南能源监管办组织召开云南电力行业信用成果展示交流会",
-      "url": "https://www.nea.gov.cn/20260929/0afcdbfcae9849f69d852a1fe86ffa48/c.html",
-      "summary": "为进一步强化信用监管，筑牢电力市场诚信基石，近日，云南能源监管办组织召开云南电力行业信用成果展示交流会。",
-      "publishedAt": "2026-09-29",
-      "source": "nea.gov.cn"
-    },
-    {
       "id": "nea-20260929-adf5bbe4590b42d5b4d1476a5fbd8672-c",
       "title": "华北能源监管局督导雄安新区安全生产与电力保供",
       "url": "https://www.nea.gov.cn/20260929/adf5bbe4590b42d5b4d1476a5fbd8672/c.html",
@@ -309,10 +277,18 @@
       "source": "nea.gov.cn"
     },
     {
+      "id": "nea-20260929-0afcdbfcae9849f69d852a1fe86ffa48-c",
+      "title": "云南能源监管办组织召开云南电力行业信用成果展示交流会",
+      "url": "https://www.nea.gov.cn/20260929/0afcdbfcae9849f69d852a1fe86ffa48/c.html",
+      "summary": "为进一步强化信用监管，筑牢电力市场诚信基石，近日，云南能源监管办组织召开云南电力行业信用成果展示交流会。",
+      "publishedAt": "2026-09-29",
+      "source": "nea.gov.cn"
+    },
+    {
       "id": "nea-20260928-6a94f3db6d674083b9191be6d3169620-c",
       "title": "国家能源局组织召开2026—2027年采暖季天然气保供形势研判专题会议",
       "url": "https://www.nea.gov.cn/20260928/6a94f3db6d674083b9191be6d3169620/c.html",
-      "summary": "",
+      "summary": "9月21日，国家能源局组织召开2026—2027年采暖季天然气保供形势研判专题会议，深入贯彻落实党中央和国务院关于应对中东局势、保障国家能源安全的决策部署，以及国家发展改革委、国家能源局党组工作要求，着眼确保人民群众温暖过冬，研究今冬明春天然气供需形势，细化部署下一阶段重点工作。",
       "publishedAt": "2026-09-28",
       "source": "nea.gov.cn"
     },
@@ -320,7 +296,7 @@
       "id": "nea-20260924-c8826a6605d94defb1637803b4255d2d-c",
       "title": "国家能源局举办助力乡村振兴基层干部能力提升专题培训班",
       "url": "https://www.nea.gov.cn/20260924/c8826a6605d94defb1637803b4255d2d/c.html",
-      "summary": "",
+      "summary": "培训班聚焦提升基层干部履职能力，围绕浙江从“千万工程”到乡村振兴再到共同富裕的实施路径探索、能源助力乡村振兴政策和案例解读，以及产业发展、绿色转型、乡村治理先进经验等内容，开展专题授课和案例分享。组织学员赴嘉兴南湖红色教育基地重温建党历史、感悟红船精神；赴安吉余村学习“绿水青山就",
       "publishedAt": "2026-09-24",
       "source": "nea.gov.cn"
     },
@@ -328,7 +304,7 @@
       "id": "nea-20260923-b9ebeea1a41544218fa928389cccb0cf-c",
       "title": "国家能源局主要负责同志赴吉林调研能源投资及迎峰度冬能源保供等工作",
       "url": "https://www.nea.gov.cn/20260923/b9ebeea1a41544218fa928389cccb0cf/c.html",
-      "summary": "",
+      "summary": "9月20日至21日，国家能源局党组书记、局长王宏志带队赴吉林调研能源投资、迎峰度冬能源电力保供、新型电网建设、新型燃料发展等情况。",
       "publishedAt": "2026-09-23",
       "source": "nea.gov.cn"
     },
@@ -360,14 +336,6 @@
       "id": "nea-20260918-a69f161c5ed6448b9207d0e3d694fee6-c",
       "title": "国家能源局负责人出席2026年二十国集团能源富足部长会议",
       "url": "https://www.nea.gov.cn/20260918/a69f161c5ed6448b9207d0e3d694fee6/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-18",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260918-4b76982ceaba46e7bb364f64b90ee48e-c",
-      "title": "国家能源局等部门部署煤炭安全稳产保供工作",
-      "url": "https://www.nea.gov.cn/20260918/4b76982ceaba46e7bb364f64b90ee48e/c.html",
       "summary": "",
       "publishedAt": "2026-09-18",
       "source": "nea.gov.cn"
@@ -790,11 +758,11 @@
     }
   },
   "stats": {
-    "totalArticles": 88,
+    "totalArticles": 84,
     "bySource": {
-      "chinapower.org.cn": 5,
-      "nea.gov.cn": 49,
-      "xinhuanet.com": 3,
+      "xinhuanet.com": 4,
+      "chinapower.org.cn": 1,
+      "nea.gov.cn": 48,
       "china5e.com": 29,
       "ne21.com": 2
     },
@@ -821,7 +789,7 @@
     {
       "source": "cpnn.com.cn",
       "errors": [
-        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f8242121110>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
+        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7ff985c02110>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
       ]
     },
     {
