@@ -1,67 +1,67 @@
 {
-  "generatedAt": "2026-10-03T01:02:45+00:00",
+  "generatedAt": "2026-10-04T00:27:31+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-10-03T00:20:10+00:00",
+      "generatedAt": "2026-10-03T23:42:18+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-10-03T01:02:19+00:00",
+      "generatedAt": "2026-10-04T00:27:23+00:00",
       "articleCount": 29,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-10-03T01:02:45+00:00",
-      "articleCount": 1,
+      "generatedAt": "2026-10-04T00:27:31+00:00",
+      "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-10-03T01:02:04+00:00",
+      "generatedAt": "2026-10-04T00:27:10+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-10-03T01:02:01+00:00",
+      "generatedAt": "2026-10-04T00:27:07+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-10-03T01:02:11+00:00",
+      "generatedAt": "2026-10-04T00:27:16+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-10-03T00:20:19+00:00",
+      "generatedAt": "2026-10-03T23:42:27+00:00",
       "articleCount": 2,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-10-03T01:02:02+00:00",
+      "generatedAt": "2026-10-04T00:27:08+00:00",
       "articleCount": 48,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-10-03T01:02:20+00:00",
-      "articleCount": 4,
+      "generatedAt": "2026-10-04T00:27:24+00:00",
+      "articleCount": 1,
       "hasErrors": false
     }
   ],
@@ -73,14 +73,6 @@
       "summary": "金秋十月，山河锦绣。国庆假期，国家电网有限公司广大干部员工坚守一线，以科技提升保电质效，以实干推进重点工程，以贴心服务保障便捷出行，用责任担当守护万家灯火。节日期间，国家电网公司部署1.21万支应急抢修队伍、3561台应急发电车，8.36万名保障人员、2.53万台保障车辆，强化重",
       "publishedAt": "2026-10-02",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "chinapower-463064",
-      "title": "2026年电力统计培训在成都举办",
-      "url": "https://www.chinapower.org.cn/detail/463064.html",
-      "summary": "为深入贯彻落实国家能源强国建设战略部署和统计工作高质量发展相关要求，持续加强电力行业统计人才队伍建设，不断提升统计人员专业素养和业务能力，中国电力企业联合会于2026年9月22-23日在成都举办2026年电力统计培训会议。",
-      "publishedAt": "2026-10-01",
-      "source": "chinapower.org.cn"
     },
     {
       "id": "nea-20260930-9ca69805239243efad85690747000ff9-c",
@@ -177,30 +169,6 @@
       "summary": "根据全国政府网站抽查工作要求，现将我局2026年第三季度政府网站和政务新媒体抽查情况通报如下。",
       "publishedAt": "2026-09-30",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "xinhua-861d2fbf93f0",
-      "title": "从杭州到纽约 国家电网AI减碳方案登上联合国舞台",
-      "url": "https://www.xinhuanet.com/energy/20260930/861d2fbf93f04cedaccf38e44dc6243a/c.html",
-      "summary": "当地时间9月22日至23日，联合国全球契约组织领导人峰会在美国纽约举行。在峰会“集体行动与系统性变革”主题专场中，来自中国国家电网公司的可持续发展项目团队作为中国唯一代表、全球五强之一，分享了创新方案《AI向善：追“光”逐“碳”·让电网学会看见》，获现场评委和与会嘉宾高度肯定和点",
-      "publishedAt": "2026-09-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-2ccb1e2084ab",
-      "title": "光大环境联合体中标青海贵德温泉生活垃圾焚烧发电项目",
-      "url": "https://www.xinhuanet.com/energy/20260930/2ccb1e2084ab458aab0017cdd8bc9554/c.html",
-      "summary": "近日，光大环境旗下光大生态环境设计研究院有限公司牵头组建的联合体，以设计、采购、施工、运营总承包（EPC+O）模式，中标青海省海南藏族自治州贵德县温泉生活垃圾焚烧发电项目，中标金额约2.036亿元。这是继海南州塔拉滩项目后，光大环境在海南州落地的第二个小型生活垃圾焚烧发电项目。",
-      "publishedAt": "2026-09-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-a98b187bbf5c",
-      "title": "零碳园区建设难在哪",
-      "url": "https://www.xinhuanet.com/energy/20260930/a98b187bbf5c4913935262e97d23febd/c.html",
-      "summary": "今年以来，全国多地积极布局零碳工业园区试点建设，绿色低碳转型态势向好。记者在采访中发现，零碳园区建设仍存在数据采集不精、企业动力不足、协同机制不畅等深层次矛盾，部分地区存在“重挂牌、轻实效”“规划很好、落实很难”等问题。",
-      "publishedAt": "2026-09-30",
-      "source": "xinhuanet.com"
     },
     {
       "id": "nea-20260929-7912e67801b2459891537339f44dd4de-c",
@@ -312,7 +280,7 @@
       "id": "nea-20260923-b1cae34ab102400686c9ad357aff07aa-c",
       "title": "国新办就“促进能源绿色转型与供应保障”举行中外记者见面会",
       "url": "https://www.nea.gov.cn/20260923/b1cae34ab102400686c9ad357aff07aa/c.html",
-      "summary": "",
+      "summary": "能源是国民经济的命脉，关系着国计民生和千家万户，是不可忽视的“国之大者”。保障能源安全、推进绿色低碳转型、建设能源强国，离不开千千万万扎根一线的能源领域的工作者们。",
       "publishedAt": "2026-09-23",
       "source": "nea.gov.cn"
     },
@@ -320,7 +288,7 @@
       "id": "nea-20260922-b73b5b9624074b51a21f2d32e19b47e1-c",
       "title": "2026年1—8月全国电力市场交易电量同比增长19.2%",
       "url": "https://www.nea.gov.cn/20260922/b73b5b9624074b51a21f2d32e19b47e1/c.html",
-      "summary": "",
+      "summary": "2026年8月，全国各电力交易机构完成交易电量7548亿千瓦时，同比增长15.2%。从交易范围看，省内交易电量5638亿千瓦时，同比增长16.0%；跨省跨区交易电量1910亿千瓦时，同比增长11.4%。从交易品种看，中长期交易电量6819亿千瓦时；现货交易电量729亿千瓦时。绿电",
       "publishedAt": "2026-09-22",
       "source": "nea.gov.cn"
     },
@@ -328,7 +296,7 @@
       "id": "nea-20260922-80504e4223fe473195bf7e2eac21dede-c",
       "title": "国家能源局综合司关于下达2026年能源领域行业标准制修订计划及外文版翻译计划的通知",
       "url": "https://www.nea.gov.cn/20260922/80504e4223fe473195bf7e2eac21dede/c.html",
-      "summary": "",
+      "summary": "根据国家能源局2026年标准化工作安排，现下达2026年能源领域行业标准制定计划（共计849项，见附件1）、标准修订计划（共计450项，见附件2）及外文版翻译计划（共计56项，见附件3）。请组织各有关标准化技术委员会、标准起草单位、翻译工作承担单位抓好工作落实。",
       "publishedAt": "2026-09-22",
       "source": "nea.gov.cn"
     },
@@ -336,7 +304,7 @@
       "id": "nea-20260918-a69f161c5ed6448b9207d0e3d694fee6-c",
       "title": "国家能源局负责人出席2026年二十国集团能源富足部长会议",
       "url": "https://www.nea.gov.cn/20260918/a69f161c5ed6448b9207d0e3d694fee6/c.html",
-      "summary": "",
+      "summary": "9月14—16日，2026年二十国集团能源富足部长会议在美国休斯敦召开。中国国家能源局副局长汪剑波出席会议并发言。",
       "publishedAt": "2026-09-18",
       "source": "nea.gov.cn"
     },
@@ -758,10 +726,9 @@
     }
   },
   "stats": {
-    "totalArticles": 84,
+    "totalArticles": 80,
     "bySource": {
-      "xinhuanet.com": 4,
-      "chinapower.org.cn": 1,
+      "xinhuanet.com": 1,
       "nea.gov.cn": 48,
       "china5e.com": 29,
       "ne21.com": 2
@@ -789,7 +756,7 @@
     {
       "source": "cpnn.com.cn",
       "errors": [
-        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7ff985c02110>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
+        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f51b9a4c990>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
       ]
     },
     {

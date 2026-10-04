@@ -1,7 +1,7 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-10-03T01:02:20+00:00",
+  "generatedAt": "2026-10-04T00:27:24+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -11,34 +11,10 @@
       "summary": "",
       "publishedAt": "2026-10-02",
       "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-861d2fbf93f0",
-      "title": "从杭州到纽约 国家电网AI减碳方案登上联合国舞台",
-      "url": "https://www.xinhuanet.com/energy/20260930/861d2fbf93f04cedaccf38e44dc6243a/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-2ccb1e2084ab",
-      "title": "光大环境联合体中标青海贵德温泉生活垃圾焚烧发电项目",
-      "url": "https://www.xinhuanet.com/energy/20260930/2ccb1e2084ab458aab0017cdd8bc9554/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-30",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-a98b187bbf5c",
-      "title": "零碳园区建设难在哪",
-      "url": "https://www.xinhuanet.com/energy/20260930/a98b187bbf5c4913935262e97d23febd/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-30",
-      "source": "xinhuanet.com"
     }
   ],
   "stats": {
-    "articleCount": 4
+    "articleCount": 1
   },
   "errors": []
 }
