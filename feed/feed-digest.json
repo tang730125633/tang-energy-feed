@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-10-04T00:27:31+00:00",
+  "generatedAt": "2026-10-05T00:40:14+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-10-03T23:42:18+00:00",
+      "generatedAt": "2026-10-04T23:54:21+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-10-04T00:27:23+00:00",
+      "generatedAt": "2026-10-05T00:40:09+00:00",
       "articleCount": 29,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-10-04T00:27:31+00:00",
+      "generatedAt": "2026-10-05T00:40:14+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-10-04T00:27:10+00:00",
+      "generatedAt": "2026-10-05T00:39:40+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-10-04T00:27:07+00:00",
+      "generatedAt": "2026-10-05T00:39:38+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-10-04T00:27:16+00:00",
+      "generatedAt": "2026-10-05T00:39:47+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-10-03T23:42:27+00:00",
+      "generatedAt": "2026-10-04T23:54:29+00:00",
       "articleCount": 2,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-10-04T00:27:08+00:00",
+      "generatedAt": "2026-10-05T00:39:39+00:00",
       "articleCount": 48,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-10-04T00:27:24+00:00",
+      "generatedAt": "2026-10-05T00:40:10+00:00",
       "articleCount": 1,
       "hasErrors": false
     }
@@ -756,7 +756,7 @@
     {
       "source": "cpnn.com.cn",
       "errors": [
-        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f51b9a4c990>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
+        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f0da97ae510>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
       ]
     },
     {
