@@ -1,79 +1,71 @@
 {
-  "generatedAt": "2026-10-05T00:40:14+00:00",
+  "generatedAt": "2026-10-06T02:10:08+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-10-04T23:54:21+00:00",
+      "generatedAt": "2026-10-06T01:42:52+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-10-05T00:40:09+00:00",
+      "generatedAt": "2026-10-06T02:10:03+00:00",
       "articleCount": 29,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-10-05T00:40:14+00:00",
+      "generatedAt": "2026-10-06T02:10:08+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-10-05T00:39:40+00:00",
+      "generatedAt": "2026-10-06T02:09:49+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-10-05T00:39:38+00:00",
+      "generatedAt": "2026-10-06T02:09:46+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-10-05T00:39:47+00:00",
+      "generatedAt": "2026-10-06T02:09:55+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-10-04T23:54:29+00:00",
+      "generatedAt": "2026-10-06T01:43:01+00:00",
       "articleCount": 2,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-10-05T00:39:39+00:00",
+      "generatedAt": "2026-10-06T02:09:47+00:00",
       "articleCount": 48,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-10-05T00:40:10+00:00",
-      "articleCount": 1,
+      "generatedAt": "2026-10-06T02:10:04+00:00",
+      "articleCount": 0,
       "hasErrors": false
     }
   ],
   "articles": [
-    {
-      "id": "xinhua-c9fbb6d96f18",
-      "title": "国庆假期国家电网员工坚守一线守护万家灯火",
-      "url": "https://www.xinhuanet.com/energy/20261002/c9fbb6d96f184cbe8cc1c9f5c33a120e/c.html",
-      "summary": "金秋十月，山河锦绣。国庆假期，国家电网有限公司广大干部员工坚守一线，以科技提升保电质效，以实干推进重点工程，以贴心服务保障便捷出行，用责任担当守护万家灯火。节日期间，国家电网公司部署1.21万支应急抢修队伍、3561台应急发电车，8.36万名保障人员、2.53万台保障车辆，强化重",
-      "publishedAt": "2026-10-02",
-      "source": "xinhuanet.com"
-    },
     {
       "id": "nea-20260930-9ca69805239243efad85690747000ff9-c",
       "title": "国家能源局举行升国旗仪式 庆祝中华人民共和国成立77周年",
@@ -312,7 +304,7 @@
       "id": "nea-20260909-732c6c6f0b77483ba008ca979b49234d-c",
       "title": "《油气管网设施公平开放信息公开与报送办法》政策解读",
       "url": "https://www.nea.gov.cn/20260909/732c6c6f0b77483ba008ca979b49234d/c.html",
-      "summary": "",
+      "summary": "近日，国家能源局发布《油气管网设施公平开放信息公开与报送办法》（国能发监管规〔2026〕60号，以下简称《办法》），自2027年1月1日起施行。现就文件出台背景、主要内容和信息公开的责任主体等解读如下。",
       "publishedAt": "2026-09-09",
       "source": "nea.gov.cn"
     },
@@ -726,9 +718,8 @@
     }
   },
   "stats": {
-    "totalArticles": 80,
+    "totalArticles": 79,
     "bySource": {
-      "xinhuanet.com": 1,
       "nea.gov.cn": 48,
       "china5e.com": 29,
       "ne21.com": 2
@@ -756,7 +747,7 @@
     {
       "source": "cpnn.com.cn",
       "errors": [
-        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f0da97ae510>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
+        "ConnectTimeout: HTTPSConnectionPool(host='www.cpnn.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpnn.com.cn', port=443) at 0x7f9832609850>, 'Connection to www.cpnn.com.cn timed out. (connect timeout=20)'))"
       ]
     },
     {
