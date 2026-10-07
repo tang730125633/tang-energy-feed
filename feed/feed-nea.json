@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-10-06T02:09:47+00:00",
+  "generatedAt": "2026-10-07T01:22:19+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -98,14 +98,6 @@
       "url": "https://www.nea.gov.cn/20260930/62eede84053d4220892a8fdb742ee87f/c.html",
       "summary": "",
       "publishedAt": "2026-09-30",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20260929-7912e67801b2459891537339f44dd4de-c",
-      "title": "贵州能源监管办开展《电力安全事故应急处置和调查处理条例》宣贯培训",
-      "url": "https://www.nea.gov.cn/20260929/7912e67801b2459891537339f44dd4de/c.html",
-      "summary": "",
-      "publishedAt": "2026-09-29",
       "source": "nea.gov.cn"
     },
     {
@@ -390,7 +382,7 @@
     }
   ],
   "stats": {
-    "articleCount": 48
+    "articleCount": 47
   },
   "errors": []
 }
