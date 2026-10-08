@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:22:43+00:00",
+  "generatedAt": "2026-10-08T01:42:05+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -11,6 +11,33 @@
     "湖南"
   ],
   "articles": [
+    {
+      "id": "cpnn-t20260930_1918248",
+      "title": "江西电力职业技术学院培育电力高技能人才观察",
+      "url": "https://www.cpnn.com.cn/news/zngc/202609/t20260930_1918248.html",
+      "summary": "",
+      "publishedAt": "2026-09-30",
+      "source": "cpnn.com.cn",
+      "province": "江西"
+    },
+    {
+      "id": "cpnn-t20260930_1918156",
+      "title": "国网河南省电力公司启动2027年校园招聘",
+      "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202609/t20260930_1918156.html",
+      "summary": "",
+      "publishedAt": "2026-09-30",
+      "source": "cpnn.com.cn",
+      "province": "河南"
+    },
+    {
+      "id": "cpnn-t20260929_1918102",
+      "title": "湖南能源监管办组织召开电力市场风险防控座谈会",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202609/t20260929_1918102.html",
+      "summary": "",
+      "publishedAt": "2026-09-29",
+      "source": "cpnn.com.cn",
+      "province": "湖南"
+    },
     {
       "id": "nea-20260929-92d98b5d8d874ddfb7db7c4178243056-c",
       "title": "华中能源监管局积极推进2026年典型电网工程建设及投资成效监管",
@@ -30,6 +57,24 @@
       "province": "湖南"
     },
     {
+      "id": "cpnn-t20260928_1917797",
+      "title": "金上—湖北±800千伏特高压直流输电工程首检收官",
+      "url": "https://www.cpnn.com.cn/qiye/dianwangPD2023/202609/t20260928_1917797.html",
+      "summary": "",
+      "publishedAt": "2026-09-28",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20260917_1915906",
+      "title": "李天圣辞去皖能电力证券事务代表职务",
+      "url": "https://www.cpnn.com.cn/news/renshi2023/202609/t20260917_1915906.html",
+      "summary": "",
+      "publishedAt": "2026-09-17",
+      "source": "cpnn.com.cn",
+      "province": "安徽"
+    },
+    {
       "id": "china5e-1210008",
       "title": "皖疆合作重大能源项目 年产1000万吨达拉布特一号煤矿开工建设",
       "url": "https://www.china5e.com/news/news-1210008-1.html",
@@ -37,6 +82,15 @@
       "publishedAt": null,
       "source": "china5e.com",
       "province": "安徽"
+    },
+    {
+      "id": "china5e-1210005",
+      "title": "鄂尔多斯盆地探明千亿方深层煤层气田",
+      "url": "https://www.china5e.com/news/news-1210005-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com",
+      "province": "湖北"
     },
     {
       "id": "china5e-1209957",
@@ -49,12 +103,14 @@
     }
   ],
   "stats": {
-    "totalArticles": 4,
+    "totalArticles": 10,
     "byProvince": {
+      "江西": 1,
+      "河南": 1,
+      "湖南": 2,
       "华中": 1,
-      "湖南": 1,
-      "安徽": 1,
-      "湖北": 1
+      "湖北": 3,
+      "安徽": 2
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
