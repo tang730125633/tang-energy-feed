@@ -1,11 +1,36 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-10-08T01:42:01+00:00",
+  "generatedAt": "2026-10-09T01:54:53+00:00",
   "lookbackHours": 72,
-  "articles": [],
+  "articles": [
+    {
+      "id": "xinhua-1109ba71e832",
+      "title": "国家能源局：国庆假期高速公路新能源汽车日均充电量同比增长51.42% 充电服务保障水平进一步提升",
+      "url": "https://www.xinhuanet.com/energy/20261008/1109ba71e8324214941b0af7398e1a26/c.html",
+      "summary": "",
+      "publishedAt": "2026-10-08",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-9e0e81e62a02",
+      "title": "前8月电力市场交易电量同比增长19.2%",
+      "url": "https://www.xinhuanet.com/energy/20261008/9e0e81e62a024ec696d9683549dad5e5/c.html",
+      "summary": "",
+      "publishedAt": "2026-10-08",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-8190d98c0abb",
+      "title": "电力重构 低碳智造 台达邀您共赴2026中国工博会",
+      "url": "https://www.xinhuanet.com/energy/20261008/8190d98c0abb45a684e1b22b40c9666d/c.html",
+      "summary": "",
+      "publishedAt": "2026-10-08",
+      "source": "xinhuanet.com"
+    }
+  ],
   "stats": {
-    "articleCount": 0
+    "articleCount": 3
   },
   "errors": []
 }

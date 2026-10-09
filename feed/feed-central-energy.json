@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:42:05+00:00",
+  "generatedAt": "2026-10-09T01:55:09+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -73,44 +73,17 @@
       "publishedAt": "2026-09-17",
       "source": "cpnn.com.cn",
       "province": "安徽"
-    },
-    {
-      "id": "china5e-1210008",
-      "title": "皖疆合作重大能源项目 年产1000万吨达拉布特一号煤矿开工建设",
-      "url": "https://www.china5e.com/news/news-1210008-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "安徽"
-    },
-    {
-      "id": "china5e-1210005",
-      "title": "鄂尔多斯盆地探明千亿方深层煤层气田",
-      "url": "https://www.china5e.com/news/news-1210005-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
-    },
-    {
-      "id": "china5e-1209957",
-      "title": "1-8月鄂尔多斯规上原煤产量6.1亿吨，同比增长6.1%",
-      "url": "https://www.china5e.com/news/news-1209957-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com",
-      "province": "湖北"
     }
   ],
   "stats": {
-    "totalArticles": 10,
+    "totalArticles": 7,
     "byProvince": {
       "江西": 1,
       "河南": 1,
       "湖南": 2,
       "华中": 1,
-      "湖北": 3,
-      "安徽": 2
+      "湖北": 1,
+      "安徽": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
