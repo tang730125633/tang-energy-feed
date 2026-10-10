@@ -1,9 +1,41 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-10-09T01:55:09+00:00",
+  "generatedAt": "2026-10-10T01:37:03+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-463127",
+      "title": "“电力心脏”刷新世界纪录 广州新型电网建设攻坚破局铸重器",
+      "url": "https://www.chinapower.org.cn/detail/463127.html",
+      "summary": "",
+      "publishedAt": "2026-10-09",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-463126",
+      "title": "我国首台国产变速抽蓄机组主体安装完成",
+      "url": "https://www.chinapower.org.cn/detail/463126.html",
+      "summary": "",
+      "publishedAt": "2026-10-09",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-463124",
+      "title": "南方电网公司首个配网基建可视化预警监控系统上线",
+      "url": "https://www.chinapower.org.cn/detail/463124.html",
+      "summary": "",
+      "publishedAt": "2026-10-09",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-463120",
+      "title": "六网编织向新行 一批新型电网重大工程加紧建设",
+      "url": "https://www.chinapower.org.cn/detail/463120.html",
+      "summary": "",
+      "publishedAt": "2026-10-09",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-463097",
       "title": "国庆假期国家电网员工坚守一线守护万家灯火",
@@ -22,7 +54,7 @@
     }
   ],
   "stats": {
-    "articleCount": 2
+    "articleCount": 6
   },
   "errors": []
 }

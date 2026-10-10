@@ -1,9 +1,25 @@
 {
   "source": "xinhuanet.com",
   "sourceName": "新华社能源频道",
-  "generatedAt": "2026-10-09T01:54:53+00:00",
+  "generatedAt": "2026-10-10T01:36:40+00:00",
   "lookbackHours": 72,
   "articles": [
+    {
+      "id": "xinhua-0a28baa82495",
+      "title": "田湾核电七号机组并网发电",
+      "url": "https://www.xinhuanet.com/energy/20261009/0a28baa824954d4a9de632bcbd11581e/c.html",
+      "summary": "",
+      "publishedAt": "2026-10-09",
+      "source": "xinhuanet.com"
+    },
+    {
+      "id": "xinhua-27b58e005414",
+      "title": "光大环境联合体中标东莞东南部生活垃圾焚烧发电项目",
+      "url": "https://www.xinhuanet.com/energy/20261009/27b58e00541446c4b60ae76dcdf618d8/c.html",
+      "summary": "",
+      "publishedAt": "2026-10-09",
+      "source": "xinhuanet.com"
+    },
     {
       "id": "xinhua-1109ba71e832",
       "title": "国家能源局：国庆假期高速公路新能源汽车日均充电量同比增长51.42% 充电服务保障水平进一步提升",
@@ -30,7 +46,7 @@
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 5
   },
   "errors": []
 }
