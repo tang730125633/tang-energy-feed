@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:37:03+00:00",
+  "generatedAt": "2026-10-11T00:46:32+00:00",
   "parentFeed": "feed-digest.json",
   "filter": "central_china_provinces",
   "provinces": [
@@ -12,11 +12,20 @@
   ],
   "articles": [
     {
-      "id": "cpnn-t20261009_1918704",
-      "title": "河南能源监管办组织完成2026年河南大电网安全生产风险现场检查",
-      "url": "https://www.cpnn.com.cn/news/nyjg/202610/t20261009_1918704.html",
+      "id": "cpnn-t20261010_1918945",
+      "title": "华中能源监管局赴湖北松滋抽蓄开展评估帮扶暨党建联学活动",
+      "url": "https://www.cpnn.com.cn/news/nyjg/202610/t20261010_1918945.html",
       "summary": "",
-      "publishedAt": "2026-10-09",
+      "publishedAt": "2026-10-10",
+      "source": "cpnn.com.cn",
+      "province": "湖北"
+    },
+    {
+      "id": "cpnn-t20261010_1919072",
+      "title": "万战伟任河南省能源规划建设局局长",
+      "url": "https://www.cpnn.com.cn/news/renshi2023/202610/t20261010_1919072.html",
+      "summary": "",
+      "publishedAt": "2026-10-10",
       "source": "cpnn.com.cn",
       "province": "河南"
     },
@@ -28,15 +37,6 @@
       "publishedAt": "2026-10-09",
       "source": "cpnn.com.cn",
       "province": "江西"
-    },
-    {
-      "id": "cpnn-t20261009_1918675",
-      "title": "大唐安徽淮南田家庵发电分公司实现连续安全生产6500天",
-      "url": "https://www.cpnn.com.cn/qiye/anquan/202610/t20261009_1918675.html",
-      "summary": "",
-      "publishedAt": "2026-10-09",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
     },
     {
       "id": "nea-20261009-28469ca71b244d54bcb0bedf4072671e-c",
@@ -66,31 +66,22 @@
       "province": "江西"
     },
     {
-      "id": "cpnn-t20260930_1918156",
-      "title": "国网河南省电力公司启动2027年校园招聘",
-      "url": "https://www.cpnn.com.cn/news/zhaopinxinxi2023/202609/t20260930_1918156.html",
+      "id": "ne21-231364",
+      "title": "喜报！红太阳新能源成功纳入湖南省虚拟电厂运营商目录",
+      "url": "https://www.ne21.com/news/show-231364.html",
       "summary": "",
-      "publishedAt": "2026-09-30",
-      "source": "cpnn.com.cn",
-      "province": "河南"
-    },
-    {
-      "id": "cpnn-t20260917_1915906",
-      "title": "李天圣辞去皖能电力证券事务代表职务",
-      "url": "https://www.cpnn.com.cn/news/renshi2023/202609/t20260917_1915906.html",
-      "summary": "",
-      "publishedAt": "2026-09-17",
-      "source": "cpnn.com.cn",
-      "province": "安徽"
+      "publishedAt": null,
+      "source": "ne21.com",
+      "province": "湖南"
     }
   ],
   "stats": {
-    "totalArticles": 8,
+    "totalArticles": 7,
     "byProvince": {
-      "河南": 3,
+      "湖北": 2,
+      "河南": 2,
       "江西": 2,
-      "安徽": 2,
-      "湖北": 1
+      "湖南": 1
     }
   },
   "note": "Filtered subset of feed-digest.json that mentions 湖北/湖南/河南/江西/安徽 (or 华中) in the title. Month 2 roadmap feature. Consumers who only care about central-China energy news should subscribe to THIS feed instead of feed-digest.json."
