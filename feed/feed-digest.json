@@ -1,71 +1,79 @@
 {
-  "generatedAt": "2026-10-11T00:46:32+00:00",
+  "generatedAt": "2026-10-12T01:08:03+00:00",
   "sources": [
     {
       "id": "bjx.com.cn",
       "name": "北极星电力网",
-      "generatedAt": "2026-10-11T00:10:36+00:00",
+      "generatedAt": "2026-10-12T00:23:08+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "china5e.com",
       "name": "中国能源网",
-      "generatedAt": "2026-10-11T00:46:10+00:00",
+      "generatedAt": "2026-10-12T01:07:38+00:00",
       "articleCount": 31,
       "hasErrors": true
     },
     {
       "id": "chinapower.org.cn",
       "name": "中国电力网",
-      "generatedAt": "2026-10-11T00:46:32+00:00",
-      "articleCount": 6,
+      "generatedAt": "2026-10-12T01:08:03+00:00",
+      "articleCount": 3,
       "hasErrors": false
     },
     {
       "id": "cjys.net",
       "name": "长江有色金属现货报价",
-      "generatedAt": "2026-10-11T00:45:58+00:00",
+      "generatedAt": "2026-10-12T01:07:23+00:00",
       "articleCount": 0,
       "hasErrors": false
     },
     {
       "id": "cpnn.com.cn",
       "name": "电网头条（中国能源传媒集团）",
-      "generatedAt": "2026-10-11T00:45:56+00:00",
+      "generatedAt": "2026-10-12T01:07:21+00:00",
       "articleCount": 79,
       "hasErrors": false
     },
     {
       "id": "iesplaza.com",
       "name": "IESPlaza 综合能源服务网",
-      "generatedAt": "2026-10-11T00:46:04+00:00",
+      "generatedAt": "2026-10-12T01:07:30+00:00",
       "articleCount": 0,
       "hasErrors": true
     },
     {
       "id": "ne21.com",
       "name": "世纪新能源网",
-      "generatedAt": "2026-10-11T00:10:45+00:00",
+      "generatedAt": "2026-10-12T00:23:17+00:00",
       "articleCount": 6,
       "hasErrors": false
     },
     {
       "id": "nea.gov.cn",
       "name": "国家能源局",
-      "generatedAt": "2026-10-11T00:45:56+00:00",
+      "generatedAt": "2026-10-12T01:07:22+00:00",
       "articleCount": 53,
       "hasErrors": false
     },
     {
       "id": "xinhuanet.com",
       "name": "新华社能源频道",
-      "generatedAt": "2026-10-11T00:46:11+00:00",
-      "articleCount": 5,
+      "generatedAt": "2026-10-12T01:07:39+00:00",
+      "articleCount": 2,
       "hasErrors": false
     }
   ],
   "articles": [
+    {
+      "id": "chinapower-463163",
+      "title": "中国电力入选2026福布斯中国ESG 50榜单",
+      "url": "https://www.chinapower.org.cn/detail/463163.html",
+      "summary": "近日，2026福布斯中国ESG 50榜单正式发布，国家电投集团中国电力凭借在环境、社会及治理领域的扎实实践与突出成效，入选榜单。",
+      "publishedAt": "2026-10-12",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-463147",
       "title": "广东电网首批10个新型电网真实场景向社会开放",
@@ -304,7 +312,7 @@
       "id": "cpnn-t20261010_1919100",
       "title": "国网丽水供电：电力设施保护 风控矩阵落地见效",
       "url": "https://www.cpnn.com.cn/qiye/zggdsPD2023/202610/t20261010_1919100.html",
-      "summary": "中国能源新闻网讯（吕晓英 胡玲芳）10月8日，国网浙江丽水供电公司（简称“国网丽水供电”）组织输变电运检中心对重点变电站开展专项巡检，筑牢电力安全保供防线。这是丽水供电电力设施保护费风控矩阵落地见效的一个缩影——外力破坏防控、护线巡查等电力设施保护业务，从“重业务实施、轻过程管控",
+      "summary": "",
       "publishedAt": "2026-10-10",
       "source": "cpnn.com.cn"
     },
@@ -339,38 +347,6 @@
       "summary": "",
       "publishedAt": "2026-10-10",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "chinapower-463127",
-      "title": "“电力心脏”刷新世界纪录 广州新型电网建设攻坚破局铸重器",
-      "url": "https://www.chinapower.org.cn/detail/463127.html",
-      "summary": "",
-      "publishedAt": "2026-10-09",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-463126",
-      "title": "我国首台国产变速抽蓄机组主体安装完成",
-      "url": "https://www.chinapower.org.cn/detail/463126.html",
-      "summary": "",
-      "publishedAt": "2026-10-09",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-463124",
-      "title": "南方电网公司首个配网基建可视化预警监控系统上线",
-      "url": "https://www.chinapower.org.cn/detail/463124.html",
-      "summary": "",
-      "publishedAt": "2026-10-09",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-463120",
-      "title": "六网编织向新行 一批新型电网重大工程加紧建设",
-      "url": "https://www.chinapower.org.cn/detail/463120.html",
-      "summary": "",
-      "publishedAt": "2026-10-09",
-      "source": "chinapower.org.cn"
     },
     {
       "id": "cpnn-t20261009_1918693",
@@ -702,30 +678,6 @@
       "summary": "",
       "publishedAt": "2026-10-08",
       "source": "nea.gov.cn"
-    },
-    {
-      "id": "xinhua-1109ba71e832",
-      "title": "国家能源局：国庆假期高速公路新能源汽车日均充电量同比增长51.42% 充电服务保障水平进一步提升",
-      "url": "https://www.xinhuanet.com/energy/20261008/1109ba71e8324214941b0af7398e1a26/c.html",
-      "summary": "",
-      "publishedAt": "2026-10-08",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-9e0e81e62a02",
-      "title": "前8月电力市场交易电量同比增长19.2%",
-      "url": "https://www.xinhuanet.com/energy/20261008/9e0e81e62a024ec696d9683549dad5e5/c.html",
-      "summary": "",
-      "publishedAt": "2026-10-08",
-      "source": "xinhuanet.com"
-    },
-    {
-      "id": "xinhua-8190d98c0abb",
-      "title": "电力重构 低碳智造 台达邀您共赴2026中国工博会",
-      "url": "https://www.xinhuanet.com/energy/20261008/8190d98c0abb45a684e1b22b40c9666d/c.html",
-      "summary": "",
-      "publishedAt": "2026-10-08",
-      "source": "xinhuanet.com"
     },
     {
       "id": "cpnn-t20260930_1918230",
@@ -1241,9 +1193,17 @@
       "source": "china5e.com"
     },
     {
-      "id": "china5e-1210185",
-      "title": "山西将能源技术攻关列为“十五五”头号工程",
-      "url": "https://www.china5e.com/news/news-1210185-1.html",
+      "id": "china5e-1210189",
+      "title": "华电国际(600027)：火电盈利稳健 参股新能源拖累业绩",
+      "url": "https://www.china5e.com/news/news-1210189-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
+      "id": "china5e-1210232",
+      "title": "中国石油海上油气勘探开发再添利器",
+      "url": "https://www.china5e.com/news/news-1210232-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com"
@@ -1273,6 +1233,14 @@
       "source": "china5e.com"
     },
     {
+      "id": "china5e-1210244",
+      "title": "电价暴涨72%，电量腰斩一半! 新疆光伏的“V型反转”让不少投资人更慌了",
+      "url": "https://www.china5e.com/news/news-1210244-1.html",
+      "summary": "",
+      "publishedAt": null,
+      "source": "china5e.com"
+    },
+    {
       "id": "china5e-1210201",
       "title": "越南将加快发展海上风电",
       "url": "https://www.china5e.com/news/news-1210201-1.html",
@@ -1292,22 +1260,6 @@
       "id": "china5e-1210197",
       "title": "措美80兆瓦风电项目完成首次并网发电",
       "url": "https://www.china5e.com/news/news-1210197-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1210195",
-      "title": "高寒草原起“绿电”—— 华能牙克石25万千瓦风储项目开工建设",
-      "url": "https://www.china5e.com/news/news-1210195-1.html",
-      "summary": "",
-      "publishedAt": null,
-      "source": "china5e.com"
-    },
-    {
-      "id": "china5e-1210194",
-      "title": "总投资1.34亿元!绍兴镜湖“超级充电宝”正式上线",
-      "url": "https://www.china5e.com/news/news-1210194-1.html",
       "summary": "",
       "publishedAt": null,
       "source": "china5e.com"
@@ -1529,12 +1481,12 @@
     }
   },
   "stats": {
-    "totalArticles": 180,
+    "totalArticles": 174,
     "bySource": {
-      "chinapower.org.cn": 6,
+      "chinapower.org.cn": 3,
       "cpnn.com.cn": 79,
       "nea.gov.cn": 53,
-      "xinhuanet.com": 5,
+      "xinhuanet.com": 2,
       "china5e.com": 31,
       "ne21.com": 6
     },
