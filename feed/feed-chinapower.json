@@ -1,9 +1,33 @@
 {
   "source": "chinapower.org.cn",
   "sourceName": "中国电力网",
-  "generatedAt": "2026-10-12T01:08:03+00:00",
+  "generatedAt": "2026-10-13T02:56:41+00:00",
   "lookbackHours": 48,
   "articles": [
+    {
+      "id": "chinapower-463188",
+      "title": "南方电网：以治理现代化筑牢世界一流企业根基",
+      "url": "https://www.chinapower.org.cn/detail/463188.html",
+      "summary": "",
+      "publishedAt": "2026-10-12",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-463187",
+      "title": "电力曲线看文旅脉动",
+      "url": "https://www.chinapower.org.cn/detail/463187.html",
+      "summary": "",
+      "publishedAt": "2026-10-12",
+      "source": "chinapower.org.cn"
+    },
+    {
+      "id": "chinapower-463184",
+      "title": "何洋：加快构建新型电力系统",
+      "url": "https://www.chinapower.org.cn/detail/463184.html",
+      "summary": "",
+      "publishedAt": "2026-10-12",
+      "source": "chinapower.org.cn"
+    },
     {
       "id": "chinapower-463163",
       "title": "中国电力入选2026福布斯中国ESG 50榜单",
@@ -11,26 +35,10 @@
       "summary": "",
       "publishedAt": "2026-10-12",
       "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-463147",
-      "title": "广东电网首批10个新型电网真实场景向社会开放",
-      "url": "https://www.chinapower.org.cn/detail/463147.html",
-      "summary": "",
-      "publishedAt": "2026-10-10",
-      "source": "chinapower.org.cn"
-    },
-    {
-      "id": "chinapower-463146",
-      "title": "加强国有企业党建制度建设的南方电网实践",
-      "url": "https://www.chinapower.org.cn/detail/463146.html",
-      "summary": "",
-      "publishedAt": "2026-10-10",
-      "source": "chinapower.org.cn"
     }
   ],
   "stats": {
-    "articleCount": 3
+    "articleCount": 4
   },
   "errors": []
 }

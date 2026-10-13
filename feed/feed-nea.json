@@ -1,7 +1,7 @@
 {
   "source": "nea.gov.cn",
   "sourceName": "国家能源局",
-  "generatedAt": "2026-10-12T01:07:22+00:00",
+  "generatedAt": "2026-10-13T02:56:01+00:00",
   "lookbackHours": 72,
   "articles": [
     {
@@ -72,22 +72,6 @@
       "id": "nea-20261009-03191b20cc104374910ecd9b2dc24d00-c",
       "title": "新疆能源监管办开展重要时段安全生产督导检查",
       "url": "https://www.nea.gov.cn/20261009/03191b20cc104374910ecd9b2dc24d00/c.html",
-      "summary": "",
-      "publishedAt": "2026-10-09",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20261009-4548dffaa9824375860549aae61683d4-c",
-      "title": "江苏能源监管办扎实开展“诚信兴商宣传月”活动",
-      "url": "https://www.nea.gov.cn/20261009/4548dffaa9824375860549aae61683d4/c.html",
-      "summary": "",
-      "publishedAt": "2026-10-09",
-      "source": "nea.gov.cn"
-    },
-    {
-      "id": "nea-20261009-ad638328b6c1442cb9816ffe99b0df69-c",
-      "title": "河南能源监管办开展节前“四不两直”安全督查",
-      "url": "https://www.nea.gov.cn/20261009/ad638328b6c1442cb9816ffe99b0df69/c.html",
       "summary": "",
       "publishedAt": "2026-10-09",
       "source": "nea.gov.cn"
@@ -430,7 +414,7 @@
     }
   ],
   "stats": {
-    "articleCount": 53
+    "articleCount": 51
   },
   "errors": []
 }
